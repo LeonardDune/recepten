@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1.0",
+  "id": "recepten-second-brain-v1",
+  "name": "Recept",
+  "behavior": "create",
+  "noteContentFormat": "![]({{image}})\n\n> {{description}}\n\n---\n\n## Ingrediënten\n\n{{selector:.wprm-recipe-ingredients-container}}\n{{selector:.tasty-recipe-ingredients}}\n{{selector:.recipe-ingredients}}\n{{selector:.ingredients-list}}\n\n## Bereiding\n\n{{selector:.wprm-recipe-instructions-container}}\n{{selector:.tasty-recipe-instructions}}\n{{selector:.recipe-instructions}}\n\n---\n\n*Volledig artikel*\n\n{{content}}\n\n---\n## Notities\n\n",
+  "properties": [
+    { "name": "title",      "value": "{{title}}",              "type": "text" },
+    { "name": "source",     "value": "{{url}}",                "type": "text" },
+    { "name": "date_added", "value": "{{date:YYYY-MM-DD}}",    "type": "date" },
+    { "name": "cuisine",    "value": "",                       "type": "text" },
+    { "name": "course",     "value": "",                       "type": "text" },
+    { "name": "servings",   "value": "",                       "type": "number" },
+    { "name": "time_prep",  "value": "",                       "type": "text" },
+    { "name": "time_cook",  "value": "",                       "type": "text" },
+    { "name": "time_total", "value": "{{selector:.wprm-recipe-total_time-container}}", "type": "text" },
+    { "name": "rating",     "value": "",                       "type": "number" },
+    { "name": "tried",      "value": "false",                  "type": "checkbox" },
+    { "name": "image",      "value": "{{image}}",              "type": "text" },
+    { "name": "tags",       "value": "recipe",                 "type": "multitext" }
+  ],
+  "triggers": [
+    "culy.nl",
+    "allerhande.nl",
+    "leukerecepten.nl",
+    "smulweb.nl",
+    "15gram.nl",
+    "seriouseats.com",
+    "cooking.nytimes.com",
+    "bonappetit.com",
+    "bbcgoodfood.com",
+    "foodnetwork.com"
+  ],
+  "noteNameFormat": "{{title}}",
+  "path": "01 Recipes"
+}
