@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lentepasta met tonijn, limoenblad en groene peper"
 source: "https://www.culy.nl/recepten/lentepasta-tonijn-limoenblad-groene-peper/"
 date_added: 2026-04-13
@@ -18,7 +18,7 @@ tags:
 
 # Lentepasta met tonijn, limoenblad en groene peper
 
-> Een verrassende lentepasta met orecchiette, tonijn uit blik, romige doperwtenpuree, limoenblad en groene peper. Opgefrist met munt en basilicum en afgemaakt met Parmezaanse kaas. Snel en makkelijk op tafel, met veel ingrediënten uit de voorraadkast.
+> Een verrassende lentepasta met orecchiette, tonijn uit blik, limoenblad en groene peper. Het gerecht wordt opgefrist met munt en basilicum en krijgt een romige basis van gepureerde doperwten met room en citroensap. Snel en makkelijk op tafel, met veel ingrediënten uit de voorraadkast.
 
 ## Ingrediënten
 
@@ -39,7 +39,6 @@ tags:
 - handje verse [[basilicum]], grof gehakt
 
 ## Bereiding
-
 1. Kook de [[orecchiette]] in ruim gezouten water volgens de verpakking beetgaar. Bewaar een kopje van het pastawater.
 2. Verhit de [[olijfolie]] in een ruime koekenpan op matig vuur en fruit de [[knoflook]], [[sjalot]], [[groene peper]] en [[limoenblad|limoenblaadjes]] tot alles zacht en geurig is.
 3. Voeg de uitgelekte [[tonijn]] toe en breng royaal op smaak met versgemalen zwarte peper. Voeg ongeveer een derde van de [[doperwt|doperwten]] toe en laat kort meewarmen. Vis de limoenblaadjes eruit.

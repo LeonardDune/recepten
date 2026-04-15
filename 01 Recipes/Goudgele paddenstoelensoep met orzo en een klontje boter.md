@@ -1,5 +1,5 @@
-﻿---
-title: "Paddenstoelensoep met orzo en boter van Alison Roman"
+---
+title: "Goudgele paddenstoelensoep met orzo en een klontje boter"
 source: "https://www.culy.nl/recepten/paddenstoelensoep-orzo-recept-alison-roman/"
 date_added: 2026-04-13
 cuisine: mediterraan
@@ -17,9 +17,9 @@ tags:
   - course/hoofdgerecht
 ---
 
-# Paddenstoelensoep met orzo en boter van Alison Roman
+# Goudgele paddenstoelensoep met orzo en een klontje boter
 
-> Een goudgele paddenstoelensoep met orzo en een klontje boter van Alison Roman. Een eenvoudige maar smaakvolle soep waarbij paddenstoelen, knoflook en vissaus zorgen voor een verfijnde, aardse bouillon met een rijke umamismaak.
+> Een goudgele, aardse paddenstoelensoep met orzo van Alison Roman uit haar kookboek 'Something From Nothing'. De soep is eenvoudig maar vol umami-smaak dankzij een mix van paddenstoelen, knoflook, kurkuma en vissaus. Een verfijnde, robuuste bouillon die doet denken aan een heerlijke paddenstoelenthee.
 
 ## Ingrediënten
 
