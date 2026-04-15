@@ -12,4 +12,4 @@ git pull origin main
 start "" /B powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File "%~dp0recept-watcher.ps1"
 
 :: Start Obsidian
-start "" "%LOCALAPPDATA%\Obsidian\Obsidian.exe"
+start "" "C:\Users\Renzo\AppData\Local\Programs\Obsidian\Obsidian.exe"

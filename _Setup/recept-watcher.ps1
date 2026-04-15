@@ -7,7 +7,7 @@ $recipesDir = "$vaultPath\01 Recipes"
 $apiKeyFile = "$vaultPath\_Setup\anthropic-api-key.txt"
 $ingDir     = "$vaultPath\02 Ingredients"
 
-function Process-Recept {
+function Invoke-Recept {
     param([string]$filePath)
 
     # Wacht tot Web Clipper klaar is met schrijven
@@ -74,18 +74,15 @@ OUTPUT: uitsluitend schone Obsidian markdown, begin direct met ---, geen uitleg,
     } | ConvertTo-Json -Depth 10 -Compress
 
     try {
-        $response = Invoke-RestMethod `
-            -Uri "https://api.anthropic.com/v1/messages" `
-            -Method POST `
-            -Headers @{
-                "x-api-key"         = $apiKey
-                "anthropic-version" = "2023-06-01"
-                "Content-Type"      = "application/json"
-            } `
-            -Body ([System.Text.Encoding]::UTF8.GetBytes($body)) `
-            -ContentType "application/json; charset=utf-8"
+        $wc = New-Object System.Net.WebClient
+        $wc.Headers["x-api-key"]         = $apiKey
+        $wc.Headers["anthropic-version"] = "2023-06-01"
+        $wc.Headers["Content-Type"]      = "application/json"
 
-        $cleaned = $response.content[0].text.Trim()
+        $responseBytes = $wc.UploadData("https://api.anthropic.com/v1/messages", "POST", [System.Text.Encoding]::UTF8.GetBytes($body))
+        $responseText  = [System.Text.Encoding]::UTF8.GetString($responseBytes)
+        $parsed        = $responseText | ConvertFrom-Json
+        $cleaned       = $parsed.content[0].text.Trim()
 
         # Schrijf het opgeschoonde recept terug
         [System.IO.File]::WriteAllText($filePath, $cleaned, [System.Text.Encoding]::UTF8)
@@ -125,13 +122,13 @@ Get-ChildItem -Path $recipesDir -Filter "*.md" | ForEach-Object {
     $c = [System.IO.File]::ReadAllText($_.FullName, [System.Text.Encoding]::UTF8)
     if ($c.Length -gt 200 -and $c -notmatch "<!--\s*verwerkt\s*-->") {
         Write-Host "$(Get-Date -Format 'HH:mm:ss') Onverwerkt gevonden: $($_.Name)"
-        Process-Recept -filePath $_.FullName
+        Invoke-Recept -filePath $_.FullName
     }
 }
 
 # Luister naar nieuwe bestanden
 Register-ObjectEvent -InputObject $watcher -EventName Created -Action {
-    Process-Recept -filePath $Event.SourceEventArgs.FullPath
+    Invoke-Recept -filePath $Event.SourceEventArgs.FullPath
 } | Out-Null
 
 # Draai totdat het venster wordt gesloten

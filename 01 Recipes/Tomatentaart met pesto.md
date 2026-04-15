@@ -23,7 +23,7 @@ tags:
 
 ---
 
-## IngrediÃ«nten
+## Ingrediënten
 
 - 1 rol [[hartige taartdeeg|deeg hartige taart]]
 - 4 middelgrote [[tomaat|tomaten]]
@@ -33,7 +33,7 @@ tags:
 - 2 eetlepels [[pesto]]
 - 1 eetlepel [[paneermeel]]
 - 2 [[ei|eieren]]
-- [[balsamico crÃ¨me]]
+- [[balsamico crème]]
 
 ---
 
@@ -44,8 +44,8 @@ tags:
 3. Snijd de tomaten in dunne plakjes en laat ze even uitlekken op keukenpapier om overtollig vocht te verwijderen.
 4. Meng in een kom de roomkaas, eieren en pesto tot een glad mengsel. Breng op smaak met zout en peper.
 5. Giet het roomkaasmengsel over de bodem en verdeel de plakjes tomaat er gelijkmatig overheen.
-6. Bak de taart 25â30 minuten in de voorverwarmde oven, tot de bovenkant goudbruin is en stevig aanvoelt.
-7. Laat de taart iets afkoelen en garneer met verse basilicumblaadjes en een paar strepen balsamico crÃ¨me.
+6. Bak de taart 25 à 30 minuten in de voorverwarmde oven, tot de bovenkant goudbruin is en stevig aanvoelt.
+7. Laat de taart iets afkoelen en garneer met verse basilicumblaadjes en een paar strepen balsamico crème.
 
 ---
 

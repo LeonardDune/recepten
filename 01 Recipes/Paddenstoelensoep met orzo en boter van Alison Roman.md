@@ -1,4 +1,4 @@
----
+﻿---
 title: "Paddenstoelensoep met orzo en boter van Alison Roman"
 source: "https://www.culy.nl/recepten/paddenstoelensoep-orzo-recept-alison-roman/"
 date_added: 2026-04-13
@@ -10,16 +10,9 @@ time_cook: 40 min
 time_total: 50 min
 rating: 
 tried: false
+image: 
 tags:
   - recipe
-  - soep
-  - paddenstoelen
-  - orzo
-  - Alison Roman
-  - umami
-  - vegetarisch optioneel
-  - makkelijk
-  - Something From Nothing
   - cuisine/mediterraan
   - course/hoofdgerecht
 ---
@@ -30,27 +23,29 @@ tags:
 
 ## Ingrediënten
 
-- 3 eetlepels [[olijfolie]], plus wat extra
-- 350 gram [[paddenstoelen]], indien mogelijk een mooie mix van exotische gekweekte of wilde soorten, in stukjes gescheurd of gesneden
-- Grof [[zeezout]]
-- Versgemalen [[zwarte peper]]
+- 3 el [[olijfolie]], plus wat extra
+- 350 gr [[paddenstoel|paddenstoelen]], bij voorkeur een mix van exotische of wilde soorten, in stukjes gescheurd of gesneden
+- grof zeezout
+- versgemalen zwarte peper
 - 6 teentjes [[knoflook]], in dunne schijfjes
-- ½ theelepel gemalen [[kurkuma]]
-- ¼ theelepel [[chilivlokken]], plus wat extra
-- 1,5 liter (6 cups) [[water]] of bouillon
-- 120 gram (¾ cup) gedroogde [[orzo]]
-- 2 theelepels [[vissaus]] of sojasaus, plus wat extra
-- 2 eetlepels [[boter]], plus wat extra
-- [[zeezoutvlokken]], ter garnering
+- ½ tl [[kurkuma]]
+- ¼ tl [[chilivlok|chilivlokken]], plus wat extra
+- 1,5 liter water of bouillon
+- 120 gr [[orzo]]
+- 2 tl [[vissaus]] of sojasaus, plus wat extra
+- 2 el [[boter]], plus wat extra
+- [[zeezoutvlok|zeezoutvlokken]], ter garnering
 
 ## Bereiding
 
-1. Verhit de [[olijfolie]] in een grote pan op halfhoog vuur. Doe de helft van de [[paddenstoelen]] erbij en bestrooi ze met zout en peper. Bak ze 6-8 minuten onder af en toe roeren, tot de randjes bruin verkleuren. Voeg nog wat [[olijfolie]] toe als het geheel wat droog wordt.
-2. Doe dan de rest van de [[paddenstoelen]] erbij met alle [[knoflook]], zout en peper. Bak het geheel nog 6-8 minuten onder af en toe roeren, tot alle [[paddenstoelen]] mooi bruin zijn en zich op de bodem van de pan wat fond vormt.
-3. Roer de [[kurkuma]] en [[chilivlokken]] erdoor en bak ze een paar minuten mee, zodat de smaak tot ontwikkeling komt.
-4. Voeg het [[water]] toe en breng het aan de kook. Doe de [[orzo]] en [[vissaus]] erbij en voeg nog wat zout en peper toe.
-5. Laat het geheel 15-20 minuten sudderen tot de bouillon heel smaakvol is en de [[orzo]] gaar. De soep moet zo helder zijn dat je de stukjes [[orzo]] en [[paddenstoelen]] duidelijk ziet drijven. Is hij nog te dun, laat hem dan nog wat langer sudderen.
-6. Als de bouillon naar wens en de [[orzo]] mooi geweld is, doe je de [[boter]] in de pan. Breng de soep verder op smaak met zout, peper en meer [[vissaus]].
-7. Verdeel de soep over kommen en garneer met meer [[chilivlokken]], [[zeezoutvlokken]] en meer [[boter]].
+1. Verhit de [[olijfolie]] in een grote pan op halfhoog vuur. Voeg de helft van de [[paddenstoel|paddenstoelen]] toe en bestrooi met zout en peper. Bak 6 à 8 minuten onder af en toe roeren, tot de randjes bruin kleuren. Voeg extra [[olijfolie]] toe als het te droog wordt.
+2. Voeg de rest van de [[paddenstoel|paddenstoelen]] toe samen met de [[knoflook]], zout en peper. Bak nog eens 6 à 8 minuten onder af en toe roeren, tot alle paddenstoelen mooi bruin zijn en er zich fond op de bodem vormt.
+3. Roer de [[kurkuma]] en [[chilivlok|chilivlokken]] erdoor en bak ze een paar minuten mee zodat de smaken vrijkomen.
+4. Voeg het water toe en breng aan de kook. Voeg de [[orzo]] en [[vissaus]] toe en breng verder op smaak met zout en peper.
+5. Laat 15 à 20 minuten sudderen tot de bouillon smaakvol is en de [[orzo]] gaar. De soep moet helder genoeg zijn om de orzo en paddenstoelen duidelijk te zien drijven. Laat indien nodig nog wat langer sudderen.
+6. Voeg de [[boter]] toe en breng de soep verder op smaak met zout, peper en extra [[vissaus]].
+7. Verdeel de soep over kommen en garneer met extra [[chilivlok|chilivlokken]], [[zeezoutvlok|zeezoutvlokken]] en een extra klontje [[boter]].
 
 ## Notities
+
+<!-- verwerkt -->
