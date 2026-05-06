@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Magadip – Lamb in Christmas Sauce"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook: "30 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,6 +22,8 @@ tags:
   - rijsttafel
   - glutenvrij
   - winterkost
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # Magadip – Lamb in Christmas Sauce
@@ -45,3 +56,7 @@ tags:
 6. Voeg de gebakken bumbu toe aan het sudderende vlees.
 7. Breng aan de kook en laat het vlees op middelhoog vuur sudderen (grotendeels zonder deksel) tot het gaar is, ongeveer 25-30 minuten.
 8. Roer vlak voor het serveren een eetlepel [[boter]] door de saus.
+
+## Notities
+
+<!-- verwerkt -->

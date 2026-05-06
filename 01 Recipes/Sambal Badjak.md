@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Badjak"
 source: "https://pisangsusu.com/29-sambal-badjak/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "8 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,6 +26,8 @@ tags:
   - Spaanse pepers
   - tamarinde
   - terasi
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Badjak
@@ -48,3 +59,7 @@ tags:
 7. Steriliseer de jampotjes door ze in kokend water te laten pruttelen gedurende 5 minuten.
 8. Schep de hete sambal in de schone jampotjes, druk licht aan en sluit af met de deksel.
 9. Laat de potjes afkoelen; door de hete vulling trekken ze vacuüm zodat de sambal lang houdbaar blijft.
+
+## Notities
+
+<!-- verwerkt -->

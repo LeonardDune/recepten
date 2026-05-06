@@ -1,4 +1,5 @@
-﻿---
+---
+status: processed
 title: "Pasta met gekaramelliseerde sjalotten van Alison Roman"
 source: "https://www.culy.nl/recepten/alison-roman-sjalotten-pasta/"
 date_added: 2026-04-15

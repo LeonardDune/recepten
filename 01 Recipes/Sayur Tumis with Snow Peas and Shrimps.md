@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Tumis with Snow Peas and Shrimps"
 source: "https://pisangsusu.com/99-sayur-tumis-snow-peas-shrimps/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook: "20 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - gezond
   - bijgerecht
   - Beb Vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # Sayur Tumis with Snow Peas and Shrimps
@@ -42,3 +53,7 @@ tags:
 6. Voeg aan het einde de [[garnalen]] toe.
 7. Wanneer de [[snow peas]] half gaar zijn, is de tumis klaar.
 8. Bestrooi voor het serveren eventueel met wat fijngehakte rauwe [[snow peas]].
+
+## Notities
+
+<!-- verwerkt -->

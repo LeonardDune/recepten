@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Slow Cooker Bean Chilli"
 source: "https://www.bbcgoodfood.com/recipes/slow-cooker-bean-chilli"
 date_added: 2026-04-16

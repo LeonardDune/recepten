@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Slow Cooker Buffalo Chicken"
 source: "https://www.bbcgoodfood.com/recipes/slow-cooker-buffalo-chicken"
 date_added: 2026-04-16

@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Gulai with Eggs, Beans and Potatoes (Padang)"
 source: "https://pisangsusu.com/115-sayur-gulai-eggs/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - Beb Vuyk
   - comfort food
   - glutenvrij
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sayur Gulai with Eggs, Beans and Potatoes (Padang)
@@ -43,3 +54,7 @@ tags:
 4. Laat koken totdat de [[aardappel]]en bijna gaar zijn.
 5. Breek de [[eieren]] één voor één in de sayur en laat ze stollen zonder te roeren, zoals gepocheerde [[eieren]].
 6. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

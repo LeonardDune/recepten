@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Bakso - Chinese mie soep met visballetjes"
 source: "https://pisangsusu.com/129-chinese-mie-soep-met-visballetjes-bakso-mie/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook: "1 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - soep
   - lunch
   - Beb Vuyk
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Bakso - Chinese mie soep met visballetjes
@@ -46,3 +57,7 @@ tags:
 8. Kook de ba[[mie]] zoals op de verpakking aangegeven, in de [[visbouillon]] (ongeveer 1 minuut zachtjes pruttelen).
 9. Vlak voor het serveren de visballetjes opwarmen in de soep.
 10. Roer de [[selderie]] erdoorheen en serveer met [[ketjap]] en [[citroen]]- of limoenschijfjes.
+
+## Notities
+
+<!-- verwerkt -->

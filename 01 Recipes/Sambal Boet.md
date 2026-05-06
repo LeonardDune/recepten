@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Boet"
 source: "https://pisangsusu.com/31-sambal-boet/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - bewaarbaar
   - vijzel
   - Spaanse pepers
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Boet
@@ -38,3 +49,7 @@ tags:
 2. Wrijf [[asem]] met kemiri, [[terasi]], [[knoflook]], [[ketoembar]], [[laos]] en [[kentjoer]] met het [[zout]] en de helft van de suiker tot een brij.
 3. Voeg de fijngesneden [[lombok]] toe en wrijf deze mee.
 4. Wanneer alles tot een homogene massa is geworden, voeg de rest van de suiker toe en meng tot de suiker opgelost is. Niet alle suiker tegelijk toevoegen, dat geeft moeilijkheden met het wrijven.
+
+## Notities
+
+<!-- verwerkt -->

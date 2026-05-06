@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sajur Tumis Tomato"
 source: "https://pisangsusu.com/94-sajur-tumis-tomato/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "15 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,6 +23,8 @@ tags:
   - pittig
   - laos
   - sambal
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sajur Tumis Tomato
@@ -36,3 +47,7 @@ tags:
 4. Voeg de [[tomaten]] toe en bak ze kort mee.
 5. Voeg het [[bouillonblokje]] toe (en indien nodig een scheutje water).
 6. Laat de sajur een paar minuten koken.
+
+## Notities
+
+<!-- verwerkt -->

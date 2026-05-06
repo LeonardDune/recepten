@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng Tomaat"
 source: "https://pisangsusu.com/44-sambal-goreng-tomaat/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - bijgerecht
   - snel
   - Beb Vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sambal Goreng Tomaat
@@ -44,3 +55,7 @@ tags:
 6. Doe nu pas de [[tomaten]] erdoor zodat ze niet kapot koken.
 7. Laat de [[tomaten]] een minuut of 2 mee pruttelen en haal dan snel van het vuur.
 8. Goed doorscheppen, verwijder de [[sereh]] en het [[salamblaadje]] en direct opdienen.
+
+## Notities
+
+<!-- verwerkt -->

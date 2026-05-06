@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng Brown Beans with Bacon"
 source: "https://pisangsusu.com/74-sambal-goreng-brown-beans-with-bacon/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,6 +23,8 @@ tags:
   - tamarinde
   - wintergerecht
   - vlees
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # Sambal Goreng Brown Beans with Bacon
@@ -43,3 +54,7 @@ tags:
 5. Voeg de uitgelekte bonen, de kokosroom ([[santen]]), asemwater ([[tamarinde]]) gemaakt van een stuk asem ter grootte van een walnoot met 4 lepels kokend water, het [[salamblad]] en de [[citroengras]] toe.
 6. Laat sudderen totdat de [[olie]] van de [[santen]] bovenop drijft.
 7. Roer het [[spek]] er aan het einde doorheen.
+
+## Notities
+
+<!-- verwerkt -->

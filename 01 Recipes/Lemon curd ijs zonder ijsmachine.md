@@ -2,6 +2,15 @@
 title: "Lemon curd ijs zonder ijsmachine"
 source: "https://www.culy.nl/recepten/lemon-curd-ijs/"
 date_added: 2026-04-16
+status: processed
+cuisine: internationaal
+course: nagerecht
+servings: 4
+time_prep: 20
+time_cook: 0
+time_total: 180
+rating: 
+tried: false
 tags:
   - recipe
   - ijs
@@ -13,6 +22,8 @@ tags:
   - meringue
   - homemade
   - no-churn
+  - cuisine/internationaal
+  - course/nagerecht
 ---
 
 # Lemon curd ijs zonder ijsmachine
@@ -43,3 +54,7 @@ tags:
 10. Klop 2 [[eiwitten]] schuimig en voeg 120 gram [[suiker]] in drie delen toe. Klop de [[eiwitten]] stijf tot meringue.
 11. Schep bolletjes [[lemon curd]] ijs in schaaltjes of coupes. Schep de meringue op het ijs en karamelliseer met een gasbrander.
 12. Bestrooi met basilicum[[suiker]] en maak af met een cocktailkersje.
+
+## Notities
+
+<!-- verwerkt -->

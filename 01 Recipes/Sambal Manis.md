@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Manis"
 source: "https://pisangsusu.com/17-sambal-manis-sweet-chili-salsa/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - zelfgemaakt
   - condiment
   - pittig
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Manis
@@ -32,3 +43,7 @@ tags:
 2. Verwijder tijdens het wrijven de schillen en zaden van de [[tamarinde]].
 3. Alternatief: doe alles in een mengbeker en blend met een staafmixer tot een fijne salsasaus.
 4. Serveer als condiment bij Indonesische gerechten of gebruik als diepsaus voor groenten.
+
+## Notities
+
+<!-- verwerkt -->

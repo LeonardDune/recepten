@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Nasi Goreng II (Chinese)"
 source: "https://pisangsusu.com/7-nasi-goreng-ii-chinese/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook: "2 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -20,6 +29,8 @@ tags:
   - selderij
   - omelet
   - Beb Vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Nasi Goreng II (Chinese)
@@ -51,3 +62,7 @@ tags:
 7. Maak van de overige 2 [[eieren]] een omelet, gebakken aan beide kanten. Rol de omelet op en snijd in dunne reepjes.
 8. Breng de nasi goreng op smaak met [[sojasaus]] en eventueel [[mononatriumglutamaat]] (vetsin).
 9. Serveer de nasi goreng gegarneerd met reepjes omelet, gehakte [[ham]], [[selderij]] en [[bieslook]].
+
+## Notities
+
+<!-- verwerkt -->

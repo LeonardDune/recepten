@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sajur Asem met tomaat, tofu en garnalen"
 source: "https://pisangsusu.com/106-sajur-asem-with-tomato-tahu-and-shrimps/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - gezond
   - zomer
   - licht
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Sajur Asem met tomaat, tofu en garnalen
@@ -42,3 +53,7 @@ tags:
 4. Voeg de [[tomaten]] toe en breng kort aan de kook.
 5. Voeg de gekookte [[garnalen]] toe en roer goed door.
 6. Zet het vuur uit en laat de sajur ongeveer 15 minuten staan voor het serveren, zodat de smaken goed intrekken.
+
+## Notities
+
+<!-- verwerkt -->

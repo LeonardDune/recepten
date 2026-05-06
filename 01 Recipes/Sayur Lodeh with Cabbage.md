@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Lodeh with Cabbage"
 source: "https://pisangsusu.com/111-sajoer-lodeh-with-cabbage/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - pittig
   - comfort food
   - glutenvrij
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Sayur Lodeh with Cabbage
@@ -47,3 +58,7 @@ tags:
 6. Voeg 6 tot 7 dl kokend water (2,5 kopje), de [[santen]], het [[salamblad]], het citroengras, de geweekte [[ebi]] en het [[tamarinde]]water toe.
 7. Laat de sayur ongeveer 10 minuten sudderen.
 8. Verwijder het citroengras en het [[salamblad]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

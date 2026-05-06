@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Lodeh with Mixed Vegetables"
 source: "https://pisangsusu.com/112-sayur-lodeh-mixed-vegetables/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - sayur
   - glutenvrij
   - veganistisch
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sayur Lodeh with Mixed Vegetables
@@ -50,3 +61,7 @@ tags:
 7. Laat de sayur sudderen totdat de groenten bijna gaar zijn.
 8. Voeg het asemwater toe en laat de sayur nog wat verder sudderen.
 9. Verwijder het citroengras en het [[salamblad]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng Snow Peas"
 source: "https://pisangsusu.com/43-sambal-goreng-snow-peas/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,6 +22,8 @@ tags:
   - pittig
   - kokos
   - glutenvrij
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sambal Goreng Snow Peas
@@ -41,3 +52,7 @@ tags:
 6. Voeg het blok [[santen]] toe en laat het geheel met het deksel op de pan ongeveer 5 minuten sudderen totdat de [[olie]] uit de [[santen]] komt.
 7. Controleer tijdens het sudderen of de [[snow peas]] niet te zacht worden; ze moeten knapperig blijven.
 8. Verwijder de sereh en het [[salamblad]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

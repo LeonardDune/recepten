@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Rijst in stoompan (Indonesische stoomrijst)"
-source: ""
+source:
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook: "8 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,6 +23,8 @@ tags:
   - klassiek
   - jasmine rijst
   - bijgerecht
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Rijst in stoompan (Indonesische stoomrijst)
@@ -33,3 +44,7 @@ tags:
 6. Zet de bovenste pan op de onderste pan. Het [[water]] mag de [[rijst]] niet raken.
 7. Stoom de [[rijst]] ongeveer een half uur, totdat deze gaar is. Roer af en toe door met een houten lepel.
 8. Doe de [[rijst]] in een schaal en laat het vocht verdampen.
+
+## Notities
+
+<!-- verwerkt -->

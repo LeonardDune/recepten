@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "10 beste zomerse gerechten met Aziatische twist"
 source: "https://pisangsusu.com/10-zomerse-gerechten/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook: "10 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -25,6 +34,8 @@ tags:
   - dumplings
   - dessert
   - snack
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # 10 beste zomerse gerechten met Aziatische twist
@@ -72,3 +83,7 @@ tags:
 8. Maak Japanse Gyoza Dumplings met [[zeekraal]]: maak deeg, vul met gehakt en [[garnalen]], vouw dumplings en bak of stoom ze.
 9. Maak Indonesische Oerapan: meng [[andijvie]] met [[kokosmeel]], kruiden en [[taogé]].
 10. Maak Kue Pisang: combineer [[bananen]], [[boter]], [[suiker]], [[vanillesuiker]] en [[bloem]] en bak de [[bananen]]koek in 30 minuten.
+
+## Notities
+
+<!-- verwerkt -->

@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Albondigas - Spaanse gehaktballetjes in tomatensaus"
 source: "https://www.leukerecepten.nl/recepten/albondigas/"
 date_added: 2026-04-10

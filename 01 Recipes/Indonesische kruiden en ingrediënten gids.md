@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Indonesische kruiden en ingrediënten gids"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -19,6 +28,8 @@ tags:
   - sambal
   - boemboe
   - curry
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Indonesische kruiden en ingrediënten gids
@@ -71,3 +82,7 @@ tags:
 19. Koeping Tikoes ([[boomoorpaddenstoel]]): gedroogde versie enige tijd weken voor gebruik in Chinese gerechten.
 20. Koetjai ([[bieslook]]): vers gebruiken in de zomer, ook zelf te kweken. Gebruiken in sambals en andere gerechten.
 21. [[kroepoek]]: frituren en serveren als bijgerecht of snack.
+
+## Notities
+
+<!-- verwerkt -->

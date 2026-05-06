@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng White Beans with Bacon"
 source: "https://pisangsusu.com/76-sambal-goreng-white-beans-with-bacon/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "40 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - Indo
   - makkelijk
   - winter
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Goreng White Beans with Bacon
@@ -47,3 +58,7 @@ tags:
 7. Voeg ongeveer een kop [[water]] toe zodat de kruidenpasta los komt van de bodem.
 8. Laat alles samen sudderen totdat de [[kokosroom]] volledig gesmolten is, ongeveer 10 minuten.
 9. Voeg de knapperig gebakken [[bacon]] toe aan het gerecht en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

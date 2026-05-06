@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal goreng hati (lever)"
 source: "https://pisangsusu.com/54-sambal-goreng-hati-lever/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "6 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,6 +21,8 @@ tags:
   - santen
   - kippenlevertjes
   - snel recept
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal goreng hati (lever)
@@ -40,3 +51,7 @@ tags:
 5. Voeg het [[asemwater]], het blokje [[santen]], de [[sereh]] en het [[salamblaadje]] toe.
 6. Laat alles nog 5 à 6 minuten zachtjes sudderen totdat de saus indikt en de [[lever]]tjes net gaar zijn. Let op: [[lever]] die lang doorstooft wordt hard.
 7. Verwijder voor het opdienen de [[sereh]] en het [[salamblaadje]].
+
+## Notities
+
+<!-- verwerkt -->

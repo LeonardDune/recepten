@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Eenvoudige Sajoer Boontjes"
 source: "https://pisangsusu.com/90-eenvoudige-sajoer-boontjes/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook: "15 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,6 +23,8 @@ tags:
   - bijgerecht
   - indisch
   - veganistisch
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Eenvoudige Sajoer Boontjes
@@ -34,3 +45,7 @@ tags:
 3. Voeg de bonen toe en fruit die even mee.
 4. Los het [[bouillonblokje]] op in 1/2 liter water en voeg de bouillon toe.
 5. Laat de bonen ongeveer 5 tot 10 minuten doorkoken tot ze bijna gaar maar nog knapperig zijn.
+
+## Notities
+
+<!-- verwerkt -->

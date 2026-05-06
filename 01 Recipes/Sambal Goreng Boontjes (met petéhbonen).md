@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng Boontjes (met petéhbonen)"
 source: "https://pisangsusu.com/41-sambal-goreng-boontjes-petehbonen/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -18,6 +27,8 @@ tags:
   - beb vuyk
   - klassiek
   - snel
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sambal Goreng Boontjes (met petéhbonen)
@@ -48,3 +59,7 @@ tags:
 6. Voeg de [[petehbonen]] (indien gebruikt), de [[sereh]] en het [[salamblaadje]] toe.
 7. Laat het gerecht op laag vuur stoven totdat de boontjes beetgaar zijn, ongeveer 5 à 6 minuten, totdat de [[olie]] uit de [[santen]] komt.
 8. Verwijder voor het opdienen de [[sereh]] en het [[salamblaadje]].
+
+## Notities
+
+<!-- verwerkt -->

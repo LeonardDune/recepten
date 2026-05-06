@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Tahu Isi"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - rijstmeel
   - kemiri
   - sambal
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Tahu Isi
@@ -51,3 +62,7 @@ tags:
 7. Vul de [[tofu]]blokjes met de vulling en druk goed aan.
 8. Verhit een royale laag [[zonnebloemolie]] in een pan en bak de gevulde [[tofu]]stukjes, gedoopt in het beslag, goudbruin en knapperig.
 9. Laat uitlekken op keukenpapier en serveer met zoete sojasaus.
+
+## Notities
+
+<!-- verwerkt -->

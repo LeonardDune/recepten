@@ -2,6 +2,15 @@
 title: "Braised Leeks and Lentils with Arugula and Yogurt"
 source: "https://smittenkitchen.com/2026/04/braised-leeks-and-lentils-with-arugula-and-yogurt/"
 date_added: 2026-04-17
+status: processed
+cuisine: internationaal
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 55
+time_total: 70
+rating: 
+tried: false
 tags:
   - recipe
   - vegetarisch
@@ -15,6 +24,8 @@ tags:
   - weeknight
   - gezond
   - stoofgerecht
+  - cuisine/internationaal
+  - course/hoofdgerecht
 ---
 
 # Braised Leeks and Lentils with Arugula and Yogurt
@@ -45,3 +56,7 @@ tags:
 8. Meng ondertussen in een kleine kom de [[yoghurt]] met 1 eetlepel [[citroen]]sap, 1 fijngehakt teentje [[knoflook]], [[zout]] en peper naar smaak.
 9. Klop in een grote kom 2 eetlepels [[citroen]]sap met 3 tot 4 eetlepels [[olijfolie]] en breng op smaak met [[zout]] en peper. Schep de [[rucola]] door de dressing.
 10. Haal de pan uit de oven. Serveer de gestoofde [[prei]] en [[linzen]] direct uit de pan, met een dot [[yoghurt]]saus, de [[rucola]] erbovenop en de resterende dressing erover gegoten. Of schik alles op een bord naar wens, eventueel met een snee geroosterd zuurdesembrood.
+
+## Notities
+
+<!-- verwerkt -->

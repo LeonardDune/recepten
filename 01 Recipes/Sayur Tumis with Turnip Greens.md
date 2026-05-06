@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Tumis with Turnip Greens"
 source: "https://pisangsusu.com/97-sayur-tumis-with-turnip-greens/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - bijgerecht
   - gezond
   - snel
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sayur Tumis with Turnip Greens
@@ -39,3 +50,7 @@ tags:
 5. Roerbak kort. Voeg het [[bouillonblokje]] toe.
 6. De [[raapstelen]] moeten helder groen blijven en zo rauw mogelijk. Haal de pan van het vuur zodra ze bijna gaar zijn.
 7. Serveer de sayur tumis en besprenkel met wat [[citroen]]sap.
+
+## Notities
+
+<!-- verwerkt -->

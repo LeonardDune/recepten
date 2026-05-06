@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Bakso - Chinese noodle soup with fish balls"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook: "2 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,6 +26,8 @@ tags:
   - soep
   - lunch
   - bawang goreng
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Bakso - Chinese noodle soup with fish balls
@@ -49,3 +60,7 @@ tags:
 9. Voeg de visballetjes toe om ze weer op te warmen.
 10. Roer de fijngehakte [[selderij]] (of verse koriander) door de soep.
 11. Serveer met zoete [[sojasaus]], een paar druppels [[citroen]]sap en [[bawang goreng]].
+
+## Notities
+
+<!-- verwerkt -->

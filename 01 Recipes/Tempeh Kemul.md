@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Tempeh Kemul"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - gefrituurd
   - knapperig
   - fritters
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Tempeh Kemul
@@ -43,3 +54,7 @@ tags:
 7. Dompel de [[tempeh]] plakjes één voor één in het beslag.
 8. Bak de [[tempeh]] kemul fritters in hete [[olie]] (bij voorkeur in een wok) totdat ze lichtbruin en knapperig zijn.
 9. Laat uitlekken op keukenpapier en serveer in een mooi mandje.
+
+## Notities
+
+<!-- verwerkt -->

@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Bieslook"
 source: "https://pisangsusu.com/24-sambal-bieslook/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - authentiek
   - Beb Vuyk
   - bijgerecht
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Bieslook
@@ -32,3 +43,7 @@ tags:
 1. Maak een sambal [[terasi]] met [[knoflook]] (vijzel de [[lombok]]s, [[knoflook]] en [[terasi]] samen).
 2. Meng er zonder wrijven de fijngehakte [[bieslook]] doorheen.
 3. Maak de sambal af met een paar druppels [[citroensap]].
+
+## Notities
+
+<!-- verwerkt -->

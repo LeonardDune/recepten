@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Goreng Chicken"
 source: "https://pisangsusu.com/82-sambal-goreng-chicken/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook: "5 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,6 +22,8 @@ tags:
   - pittig
   - bumbu
   - glutenvrij
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # Sambal Goreng Chicken
@@ -47,3 +58,7 @@ tags:
 9. Doe het deksel op de pan en laat het geheel 15-20 minuten sudderen.
 10. Haal het deksel eraf en laat de [[kip]] nog 5 minuten koken om de saus iets in te dikken.
 11. Controleer of de [[kip]] gaar is en serveer.
+
+## Notities
+
+<!-- verwerkt -->

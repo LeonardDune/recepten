@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "recepten-ingest": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/recepten-ingest"
+    }
+  }
+}

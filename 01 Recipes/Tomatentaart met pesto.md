@@ -1,4 +1,5 @@
-﻿---
+---
+status: processed
 title: "Tomatentaart met pesto"
 source: "https://www.leukerecepten.nl/recepten/tomatentaart-met-pesto/"
 date_added: 2026-04-11

@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Bami Kuah"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook: "3 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - snel klaar
   - 30 minuten
   - noedelschotel
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Bami Kuah
@@ -50,3 +61,7 @@ tags:
 12. Breng op smaak met [[sojasaus]].
 13. Leg de [[noodles]] in een kom of terrine en giet de saus erover.
 14. Garneer met de resterende [[ham]].
+
+## Notities
+
+<!-- verwerkt -->

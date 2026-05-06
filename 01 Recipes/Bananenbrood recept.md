@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Bananenbrood recept"
 source: "https://www.leukerecepten.nl/recepten/bananenbrood-recept/"
 date_added: 2026-04-11

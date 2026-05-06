@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Trassi"
 source: "https://pisangsusu.com/16-sambal-trassi/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - veganistisch-optie
   - bijgerecht
   - aziatisch
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Trassi
@@ -31,3 +42,7 @@ tags:
 2. Voeg het [[zout]] toe en meng goed.
 3. Wrijf de [[terasi]] door de gemalen chilipepers heen totdat alles goed gemengd is.
 4. Proef en pas de scherpte aan naar wens door meer of minder chilipepers te gebruiken, of door een deel van de zaadjes te verwijderen.
+
+## Notities
+
+<!-- verwerkt -->

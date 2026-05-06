@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sayur Tumis of Endive"
 source: "https://pisangsusu.com/96-sajoer-toemis-endive/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - sayur tumis
   - snel
   - klassiek
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sayur Tumis of Endive
@@ -40,3 +51,7 @@ tags:
 6. Voeg het [[bouillonblokje]] toe en indien nodig een scheutje water.
 7. Maak het gerecht af met [[azijn]] of [[citroen]]sap.
 8. Tip: verkruimel het [[bouillonblokje]] over het gerecht zodat het sneller oplost en alles goed bedekt is.
+
+## Notities
+
+<!-- verwerkt -->

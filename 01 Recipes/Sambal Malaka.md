@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Malaka"
 source: "https://pisangsusu.com/35-sambal-malaka/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,6 +26,8 @@ tags:
   - santen
   - chili
   - kokosmelk
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Malaka
@@ -44,3 +55,7 @@ tags:
 6. Roer er een blokje [[santen]] doorheen.
 7. Kook de sambal door tot de uien gaar zijn en de [[olie]] uit de [[santen]] boven drijft.
 8. Schep de sambal loeiheet in een goed schoongemaakte jampot en doe direct het deksel erop voor langere houdbaarheid.
+
+## Notities
+
+<!-- verwerkt -->

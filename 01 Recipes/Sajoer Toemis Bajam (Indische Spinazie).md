@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sajoer Toemis Bajam (Indische Spinazie)"
 source: "https://pisangsusu.com/95-sajoer-toemis-bajambayam-spinazie/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook: "10 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - bajam
   - sajoer
   - zeekraal
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Sajoer Toemis Bajam (Indische Spinazie)
@@ -37,3 +48,7 @@ tags:
 3. Voeg er als de uien geel zijn de [[spinazie]] met een handvol tegelijk aan toe en fruit die even mee.
 4. Doe er dan het [[bouillonblokje]] bij en maak de sajoer af met een lepel [[ketjap]].
 5. De [[spinazie]] moet helgroen blijven en zo rauw mogelijk. Dien direct op.
+
+## Notities
+
+<!-- verwerkt -->

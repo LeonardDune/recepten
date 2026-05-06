@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Indonesian Brown Bean Soup"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook: "50 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -18,6 +27,8 @@ tags:
   - pittig
   - indisch
   - comfort food
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Indonesian Brown Bean Soup
@@ -58,3 +69,7 @@ tags:
 13. Voeg de helft van de [[prei]] toe aan de soep en bewaar de andere helft voor bij het serveren.
 14. Voeg direct daarna de [[gehaktballetjes]] toe. Wanneer ze naar het oppervlak drijven zijn ze gaar.
 15. Serveer met witte rijst en eventueel sambal en [[ketjap manis]] als condiment.
+
+## Notities
+
+<!-- verwerkt -->

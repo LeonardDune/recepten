@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Smeerproppen (Pisang Goreng / Fried Banana Fritters)"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - smeerproppen
   - beb vuyk
   - indisch
+  - cuisine/indonesisch
+  - course/dessert
 ---
 
 # Smeerproppen (Pisang Goreng / Fried Banana Fritters)
@@ -39,3 +50,7 @@ tags:
 5. Keer de fritters regelmatig en frituur ze goudbruin.
 6. Haal de fritters uit de [[olie]] en bestrooi ze met [[poedersuiker]].
 7. Serveer direct. Eventueel kunnen de fritters worden ingevroren en later opgewarmd worden in een oven op 200 graden gedurende circa 10 minuten.
+
+## Notities
+
+<!-- verwerkt -->

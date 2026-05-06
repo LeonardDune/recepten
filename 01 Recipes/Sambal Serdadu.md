@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Serdadu"
 source: "https://pisangsusu.com/26-sambal-serdadu/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "20 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - bijgerecht
   - traditioneel
   - Beb Vuyk
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Serdadu
@@ -36,3 +47,7 @@ tags:
 4. Voeg het [[terasi]]water toe aan het mengsel in de wok.
 5. Laat de sambal sudderen totdat de [[uien]] zacht zijn en de saus voldoende is ingedikt, ongeveer 3 minuten.
 6. Optioneel: meng er wat lente-ui door voor extra smaak en kleur.
+
+## Notities
+
+<!-- verwerkt -->

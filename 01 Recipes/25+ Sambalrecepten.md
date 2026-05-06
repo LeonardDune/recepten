@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "25+ Sambalrecepten"
 source: "https://pisangsusu.com/25-eenvoudige-sambals-om-zelf-te-maken/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook: "5 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -20,6 +29,8 @@ tags:
   - Beb Vuyk
   - vijzel
   - trassi
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # 25+ Sambalrecepten
@@ -59,3 +70,7 @@ tags:
 4. Voor sambals die lang bewaard moeten worden: bak de sambal in de wok totdat de saus goed inkookt en de sambal heet is.
 5. Kook schone jampotjes minimaal 5 minuten uit. Vul ze direct met de hete sambal en draai het deksel er met ovenwanten op zodat de pot vacuüm trekt.
 6. Bewaar overgebleven sambal in ijsklontbakjes in de vriezer voor later gebruik.
+
+## Notities
+
+<!-- verwerkt -->

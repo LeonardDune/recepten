@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sambal Ulek"
 source: "https://pisangsusu.com/15-sambal-oelek-chili-sauce/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,6 +22,8 @@ tags:
   - pittig
   - basis recept
   - Spaanse pepers
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Sambal Ulek
@@ -27,3 +38,7 @@ tags:
 1. Was en snijd de [[chilipepers]].
 2. Wrijf de pepers met het [[zout]] in de cobek (vijzel). Je kunt ook een mixer met messen gebruiken.
 3. Vul een grote pot die schoongemaakt is met soda en bewaar deze met het deksel erop in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

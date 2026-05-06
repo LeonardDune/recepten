@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Pandan Christmas Tree"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep:
+time_cook: "45 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,6 +22,8 @@ tags:
   - dessert
   - aziatisch
   - feestelijk
+  - cuisine/indonesisch
+  - course/dessert
 ---
 
 # Pandan Christmas Tree
@@ -39,3 +50,7 @@ tags:
 10. Laat ze 15 minuten afkoelen in een open oven.
 11. Verwijder de schijven voorzichtig van het bakpapier.
 12. Bouw de boom net voor het serveren en bestrooi met wat [[poedersuiker]] voor een extra kersteffect.
+
+## Notities
+
+<!-- verwerkt -->

@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Goudgele paddenstoelensoep met orzo en een klontje boter"
 source: "https://www.culy.nl/recepten/paddenstoelensoep-orzo-recept-alison-roman/"
 date_added: 2026-04-13

@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Bami - Chinese bereiding"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep:
+time_cook: "2 min"
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - snel klaar
   - lunch
   - hoofdgerecht
+  - cuisine/indonesisch
+  - course/hoofdgerecht
 ---
 
 # Bami - Chinese bereiding
@@ -45,3 +56,7 @@ tags:
 8. Meng de voorgekookte [[noedels]] erdoor (koud gespoeld en overgoten met kokend water).
 9. Breng het geheel aan de kook en serveer direct.
 10. Garneer het gerecht met fijngehakte [[peterselie]], plakjes hardgekookt ei of omeletreepjes.
+
+## Notities
+
+<!-- verwerkt -->

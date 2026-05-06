@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Soto Ayam (Indonesian Chicken Soup)"
-source: ""
+source:
 date_added: 2026-04-25
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,6 +21,8 @@ tags:
   - traditioneel
   - glutenvrij
   - lactosevrij
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Soto Ayam (Indonesian Chicken Soup)
@@ -54,3 +65,7 @@ tags:
 11. Schik alle ingrediënten in kleine schaaltjes; doe hetzelfde met de gehakte [[bieslook]].
 12. Giet de Indonesische [[kip]]pensoep in een terrine.
 13. Serveer door in een grote soepkom een beetje van alles te doen, eventueel sambal of kecap ([[sojasaus]]) toe te voegen en de dampend hete soep erover te gieten.
+
+## Notities
+
+<!-- verwerkt -->

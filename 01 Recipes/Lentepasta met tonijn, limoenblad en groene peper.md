@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Lentepasta met tonijn, limoenblad en groene peper"
 source: "https://www.culy.nl/recepten/lentepasta-tonijn-limoenblad-groene-peper/"
 date_added: 2026-04-13

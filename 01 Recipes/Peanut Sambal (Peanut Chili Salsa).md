@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Peanut Sambal (Peanut Chili Salsa)"
 source: "https://pisangsusu.com/22-peanut-sambal-chili-sauce/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,6 +23,8 @@ tags:
   - snel
   - vegetarisch
   - vegan
+  - cuisine/indonesisch
+  - course/saus
 ---
 
 # Peanut Sambal (Peanut Chili Salsa)
@@ -31,3 +42,7 @@ tags:
 2. Add the peanut butter into the cobek (mortar) and mix it together with the chili pepper mixture using a spoon.
 3. Optionally add a squeeze of lemon juice for extra kick.
 4. Serve the sambal in the cobek.
+
+## Notities
+
+<!-- verwerkt -->

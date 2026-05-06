@@ -2,14 +2,23 @@
 title: "Sidecar"
 source: "https://smittenkitchen.com/2026/04/sidecar/"
 date_added: 2026-04-25
+status: processed
+cuisine: internationaal
+course: cocktail
+servings: 1
+time_prep: 3
+time_cook: 0
+time_total: 3
+rating:
+tried: false
 tags:
   - recipe
-  - cocktail
+  - cuisine/internationaal
+  - course/cocktail
   - cognac
   - citrus
   - klassiek
   - 1920s
-  - daisy
   - zomer
   - winter
   - eenvoudig
@@ -18,15 +27,23 @@ tags:
 
 # Sidecar
 
-> Een klassieke 1920s cocktail met cognac, sinaasappellikeur en citroensap. Sterk, fris en licht zoet, vergelijkbaar met een Franse neef van de margarita. Optioneel geserveerd met een gesuikerde rand van ruw suiker voor een gouden glinstering.
+> Een klassieke 1920s cocktail met cognac, sinaasappellikeur en citroensap. Sterk, fris en licht zoet — een Franse neef van de margarita. Optioneel geserveerd met een gesuikerde rand van ruw suiker.
 
 ## Ingrediënten
-- 1 ounce (30 ml of 2 eetlepels) [[citroensap]], plus een extra partje voor de gesuikerde rand
+
+- 90 ml (3 oz) [[cognac]] of brandy
+- 45 ml (1½ oz) [[cointreau]] of triple sec
+- 30 ml (1 oz) vers [[citroensap]], plus een partje voor de rand
 - Ruw of turbinado [[suiker]], voor de rand (optioneel)
-- 3 ounces (90 ml of 6 eetlepels) [[cognac]] of brandy
-- 1,5 ounce (45 ml of 3 eetlepels) [[cointreau]] of triple sec
+- [[ijs]], voor in de shaker
 
 ## Bereiding
-1. Als je de rand van je glazen wilt be[[suiker]]en, veeg dan met een partje citroen over de rand en rol het in de rauwe [[suiker]].
-2. Schud [[cognac]], [[cointreau]] en [[citroensap]] in een cocktailshaker of pot met ijs totdat het onaangenaam koud aanvoelt om vast te houden, giet dan door een zeef in je glazen.
-3. Proost!
+
+1. Wil je een gesuikerde rand? Veeg dan met een partje citroen over de rand van het glas en rol het in de rauwe suiker.
+2. Doe de cognac, cointreau en citroensap samen met flink wat ijs in een cocktailshaker.
+3. Schud krachtig tot het onaangenaam koud aanvoelt om vast te houden — circa 15 seconden.
+4. Zeef de cocktail in het voorbereide glas. Proost!
+
+## Notities
+
+<!-- verwerkt -->

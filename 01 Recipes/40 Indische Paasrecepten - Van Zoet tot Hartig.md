@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "40 Indische Paasrecepten - Van Zoet tot Hartig"
 source: "https://pisangsusu.com/40-indische-paasrecepten/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -20,6 +29,8 @@ tags:
   - sambal
   - feestdagen
   - rijsttafel
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # 40 Indische Paasrecepten - Van Zoet tot Hartig
@@ -92,3 +103,7 @@ tags:
 38. Soto Madoera
 39. Japanse koude wortelsoep
 40. Sambal [[teri]]
+
+## Notities
+
+<!-- verwerkt -->

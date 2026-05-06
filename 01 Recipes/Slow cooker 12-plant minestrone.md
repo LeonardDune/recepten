@@ -1,4 +1,5 @@
 ---
+status: processed
 title: "Slow cooker 12-plant minestrone"
 source: "https://www.bbcgoodfood.com/recipes/slow-cooker-12-plant-minestrone"
 date_added: 2026-04-16

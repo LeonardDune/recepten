@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Serundeng | Roasted Coconut with 8 Spices"
 source: "https://pisangsusu.com/84-serundeng/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - bewaarrecept
   - specerijen
   - bijgerecht
+  - cuisine/indonesisch
+  - course/bijgerecht
 ---
 
 # Serundeng | Roasted Coconut with 8 Spices
@@ -49,3 +60,7 @@ tags:
 8. When the mixture is evenly light brown in color, stir in the roasted peanuts.
 9. Immediately place the serundeng on a plate on top of a paper towel. Let it cool completely.
 10. Fill up an airtight jar. Leave the leaves and lemongrass in it. Serundeng stays fresh for months if stored dry.
+
+## Notities
+
+<!-- verwerkt -->

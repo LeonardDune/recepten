@@ -1,7 +1,16 @@
 ---
+status: processed
 title: "Sajoer Oblok Oblok"
 source: "https://pisangsusu.com/114-sajoer-oblok-oblok/"
 date_added: 2026-04-26
+cuisine: indonesisch
+course: soep
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - soep
   - groentensoep
   - vegetarisch mogelijk
+  - cuisine/indonesisch
+  - course/soep
 ---
 
 # Sajoer Oblok Oblok
@@ -44,3 +55,7 @@ tags:
 5. Voeg de kruiden, de peteh en de geweekte [[ebi]] toe en laat dit even meetrekken.
 6. Snijd de [[kool]] in grove stukken, de [[tempe]] in blokjes van circa 2 cm en breek de boontjes.
 7. Kook de [[kool]], [[tempe]] en boontjes mee in de bouillon samen met de [[santen]] en de [[salamblaadjes]] tot de groenten gaar maar nog knapperig zijn.
+
+## Notities
+
+<!-- verwerkt -->

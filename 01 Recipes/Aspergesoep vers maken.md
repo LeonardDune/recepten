@@ -1,4 +1,5 @@
 ---
+status: processed
 title: Aspergesoep vers maken
 source: https://www.leukerecepten.nl/recepten/aspergesoep/
 date_added: 2026-04-11
