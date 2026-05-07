@@ -8,3 +8,11 @@ tags:
 # Visbouillon
 
 Bouillon getrokken van vis of viskoppen.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

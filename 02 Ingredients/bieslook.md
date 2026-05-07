@@ -9,3 +9,11 @@ tags:
 # Bieslook
 
 Bieslook of Indonesische bieslook (daun bawang), fijngehakt als garnering.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

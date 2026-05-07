@@ -8,3 +8,11 @@ tags:
 # Terasi
 
 Garnalenpasta (trassi), een gefermenteerd en gedroogd product. Essentieel in sambals.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

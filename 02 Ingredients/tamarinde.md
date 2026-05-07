@@ -8,3 +8,11 @@ tags:
 # Tamarinde
 
 Zure vrucht gebruikt in Indonesische keuken als smaakmaker.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

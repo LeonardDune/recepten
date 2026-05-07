@@ -10,3 +10,11 @@ tags:
 # Olie
 
 Plantaardige olie voor het bakken en fruiten.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

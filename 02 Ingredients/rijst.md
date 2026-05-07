@@ -8,3 +8,11 @@ tags:
 # Rijst
 
 Gestoomde of gekookte witte rijst, basisvoedsel in de Indonesische keuken.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

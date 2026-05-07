@@ -9,3 +9,11 @@ tags:
 # Vis
 
 Vis, vers of gezouten, als hoofdingredient.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

@@ -9,3 +9,11 @@ tags:
 # Bouillon
 
 Vlees- of groentebouillon als kookbasis.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

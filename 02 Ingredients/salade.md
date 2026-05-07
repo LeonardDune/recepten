@@ -13,8 +13,7 @@ origin:
 ## Gebruik in recepten
 
 ```dataview
-LIST FROM "01 Recipes"
-WHERE contains(file.outlinks, this.file.link)
+LIST FROM [[]]
 ```
 
 ## Notities

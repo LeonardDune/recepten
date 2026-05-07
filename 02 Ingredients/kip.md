@@ -9,3 +9,11 @@ tags:
 # Kip
 
 Kip als vlees, heel of in stukken, voor soepen en hoofdgerechten.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities

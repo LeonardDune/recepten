@@ -8,3 +8,11 @@ tags:
 # Lombok
 
 Lombok is een Indonesische rode chilipeper, de basis voor sambal.
+
+## Gebruik in recepten
+
+```dataview
+LIST FROM [[]]
+```
+
+## Notities
