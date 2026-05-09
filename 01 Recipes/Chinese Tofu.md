@@ -2,19 +2,25 @@
 title: "Chinese Tofu"
 source: "https://pisangsusu.com/chinese-tofu/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: bijgerecht
+servings: 4
+time_prep: 10
+time_cook: 15
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/bijgerecht
   - tofu
   - vegan
   - vegetarisch
   - indo-chinees
   - zoetzuur
-  - ketjap
-  - eenvoudig
-  - rijst
-  - Beb Vuyk
+  - snel
 ---
 
 # Chinese Tofu
@@ -27,7 +33,7 @@ tags:
 - 150 gram [[taugé]]
 - 8 eetlepels [[olie]]
 - sap van 1 [[citroen]]
-- 3 eetlepels gehakte uien
+- 3 eetlepels gehakte [[uien]]
 - 3 gehakte teentjes [[knoflook]]
 - 2 eetlepels [[ketjap]] (kecap manis)
 - snufje [[vetsin]] (mononatriumglutamaat)
@@ -35,6 +41,10 @@ tags:
 ## Bereiding
 1. Snijd de [[tofu]] in plakken van ongeveer 2 cm dik en snijd elke plak nogmaals in vieren.
 2. Bak de [[tofu]] in de [[olie]] goudbruin en laat ze uitlekken op keukenpapier.
-3. Bak in dezelfde [[olie]] de ui en [[knoflook]], voeg dan de [[prei]] toe en tot slot de [[taugé]].
+3. Bak in dezelfde [[olie]] de [[uien]] en [[knoflook]], voeg dan de [[prei]] toe en tot slot de [[taugé]].
 4. Maak de saus af met [[ketjap]], [[citroen]]sap en [[vetsin]] en roer de [[tofu]] erdoor.
-5. Schep alles in een schaal, leg de gebakken [[tofu]] erop en giet het [[citroen]]sap en de [[ketjap]] erover. Laat 5 minuten intrekken voor het serveren.
+5. Schep alles in een schaal en giet het [[citroen]]sap en de [[ketjap]] erover. Laat 5 minuten intrekken voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

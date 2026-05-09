@@ -2,22 +2,26 @@
 title: "Colo-Colo sauce with eggplant and zucchini"
 source: "https://pisangsusu.com/colo-colo-sauce-with-eggplant-and-zucchini/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 10
+time_cook: 5
+time_total: 15
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - veganistisch
   - vegetarisch
-  - rauw
-  - molukken
   - aubergine
   - courgette
-  - colo-colo
-  - salade
-  - bijgerecht
-  - saus
-  - kecap manis
   - sambal
+  - molukken
+  - snel
 ---
 
 # Colo-Colo sauce with eggplant and zucchini
@@ -26,20 +30,24 @@ tags:
 
 ## Ingrediënten
 - 1 middelgrote [[aubergine]]
-- 1 theelepel [[plantaardige olie]]
+- 1 theelepel [[olie]]
 - [[zout]]
 - sap van 1 [[citroen]] (of limoen)
-- 3 [[sjalot]]ten of andere kleine uien, gehakt
+- 3 [[sjalotten]] of andere kleine uien, gehakt
 - 1 gehakt teentje [[knoflook]]
-- 1 theelepel [[sambal ulek]]
-- 1 theelepel zoete sojasaus ([[kecap manis]])
+- 1 theelepel [[sambal oelek]]
+- 1 theelepel [[kecap manis]] (zoete sojasaus)
 - 1 kleine [[courgette]] (optioneel)
 
 ## Bereiding
-1. Hak de uien en [[knoflook]] fijn.
-2. Wrijf de uien, [[knoflook]] en [[sambal ulek]] samen tot een pasta in een vijzel (cobek). Voeg een beetje [[zout]] toe om het wrijven te vergemakkelijken.
-3. Voeg het [[citroen]]sap (of limoensap), de zoete sojasaus en de olie toe aan de vijzel en roer alles goed door.
-4. Proef de saus en breng op smaak: de smaken moeten in balans zijn (zoet, zuur, hartig en [[zout]]). Voeg indien nodig meer sojasaus of [[citroen]]sap toe.
+1. Hak de [[sjalotten]] en [[knoflook]] fijn.
+2. Wrijf de [[sjalotten]], [[knoflook]] en [[sambal oelek]] samen tot een pasta in een vijzel. Voeg een beetje [[zout]] toe om het wrijven te vergemakkelijken.
+3. Voeg het [[citroen]]sap, de [[kecap manis]] en de [[olie]] toe aan de vijzel en roer alles goed door.
+4. Proef de saus en breng op smaak: zoet, zuur, hartig en [[zout]] moeten in balans zijn.
 5. Snijd de [[aubergine]] (en eventueel de [[courgette]]) in flinterdunne plakjes.
 6. Bestrooi de plakjes met een beetje [[zout]] en meng ze door de colo-colo saus.
 7. Serveer als bijgerecht.
+
+## Notities
+
+<!-- verwerkt -->

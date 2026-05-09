@@ -2,16 +2,24 @@
 title: "Dough for Bapao (Steamed Buns)"
 source: "https://pisangsusu.com/532-dough-bakpao-steamed-buns/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: brood
+servings: 12
+time_prep: 20
+time_cook: 15
+time_total: 95
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/brood
   - bapao
   - gestoomd
   - deeg
-  - varkensvlees
-  - broodje
   - bakpao
+  - beb-vuyk
 ---
 
 # Dough for Bapao (Steamed Buns)
@@ -19,11 +27,11 @@ tags:
 > Een warm, gestoomd broodje met smakelijk gehakt vlees van binnen. Dit recept maakt de broodjes luchtig en van de juiste grootte. Het deeg is gebaseerd op een recept uit Beb Vuyk's Groot Indonesisch Kookboek en is voldoende voor 12 stuks.
 
 ## Ingrediënten
-- 250 grams flour
-- 10 grams yeast
-- 1 dl milk
-- 0.5 dl [[water]]
-- 1 teaspoon sugar
+- 250 gram [[bloem]]
+- 10 gram [[gist]]
+- 1 dl [[melk]]
+- 0,5 dl [[water]]
+- 1 theelepel [[suiker]]
 
 ## Bereiding
 1. Zeef de [[bloem]] in een kom. Maak ruimte in het midden en meng de ingrediënten tot een pasta: de [[gist]], [[suiker]], een eetlepel [[water]] en 1 tot 2 eetlepels [[bloem]].
@@ -35,3 +43,7 @@ tags:
 7. Doe twee theelepels vulling in het midden en vouw de zijkanten dicht met wat [[water]].
 8. Laat de bapao's nog ongeveer 10 minuten rijzen onder een vochtige doek.
 9. Stoom de bapao's in een stomer, één laag tegelijk, gedurende 15 minuten.
+
+## Notities
+
+<!-- verwerkt -->

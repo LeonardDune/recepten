@@ -2,10 +2,19 @@
 title: "Bundu Daging (Makassar) - Indonesian Beef Curry"
 source: "https://pisangsusu.com/167-bundu-daging-makassar/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 70
+time_cook: 240
+time_total: 310
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - rundvlees
   - curry
   - makassar
@@ -14,7 +23,6 @@ tags:
   - citroengras
   - comfort food
   - glutenvrij
-  - niet pittig
 ---
 
 # Bundu Daging (Makassar) - Indonesian Beef Curry
@@ -25,7 +33,7 @@ tags:
 - 1/2 kg [[rundvlees]]
 - 1/4 blok [[santen]] (kokosroom)
 - 3 dl [[water]]
-- 3 eetlepels gehakte ui
+- 3 eetlepels gehakte [[uien]]
 - 1 gehakt teentje [[knoflook]]
 - 1 theelepel [[laos]] (galangal)
 - 1 stuk [[sereh]] (citroengras)
@@ -35,10 +43,14 @@ tags:
 
 ## Bereiding
 1. Snijd het vlees in blokjes en bestrooi met [[zout]] en [[peper]].
-2. Meng de ui, [[knoflook]] en galangal door het vlees.
+2. Meng de [[uien]], [[knoflook]] en [[laos]] door het vlees.
 3. Laat het vlees een uur marineren.
-4. Breng [[water]] aan de kook en roer de [[santen]], citroengras en [[salam bladeren]] erdoor.
+4. Breng [[water]] aan de kook en roer de [[santen]], [[sereh]] en [[salam bladeren]] erdoor.
 5. Voeg het vlees toe en laat sudderen op laag vuur totdat het mals is (ongeveer 4 uur).
-6. Begin met het vlees net onder het [[water]]niveau. Wanneer de saus begint in te dikken en meer kooktijd nodig is, voeg een half glas [[water]] toe en roer.
+6. Begin met het vlees net onder het waterniveau. Wanneer de saus begint in te dikken en meer kooktijd nodig is, voeg een half glas [[water]] toe en roer.
 7. Laat de curry reduceren aan het einde van de kooktijd.
 8. Serveer met witte rijst of lontong en een licht groentegerecht.
+
+## Notities
+
+<!-- verwerkt -->

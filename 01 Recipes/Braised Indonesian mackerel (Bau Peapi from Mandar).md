@@ -2,19 +2,25 @@
 title: "Braised Indonesian mackerel (Bau Peapi from Mandar)"
 source: "https://pisangsusu.com/braised-fish-with-spices-bau-peapi-from-mandar/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 60
+time_cook: 20
+time_total: 80
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - vis
   - makreel
   - gestoofd
   - tamarinde
   - sambal
   - kurkuma
-  - Mandar
-  - West-Sulawesi
-  - Beb Vuyk
   - glutenvrij
 ---
 
@@ -26,18 +32,22 @@ tags:
 - 1 kg [[makreel]]
 - 2 dl [[water]]
 - 2 eetlepels [[gebakken uitjes]] (bawang goreng)
-- 5 eetlepels gehakte uien
+- 5 eetlepels gehakte [[uien]]
 - 2 gehakte teentjes [[knoflook]]
-- 2 theelepels [[sambal ulek]]
-- 1/2 theelepel [[kurkuma]] (geelwortel)
-- asem ([[tamarinde]]) ter grootte van een walnoot
+- 2 theelepels [[sambal oelek]]
+- 1/2 theelepel [[koenjit]] (kurkuma/geelwortel)
+- [[asem]] (tamarinde) ter grootte van een walnoot
 - [[peper]]
 - [[zout]]
 
 ## Bereiding
-1. Wrijf uien, [[knoflook]], sambal, asem (zonder zaden en vezels), [[zout]], [[peper]] en [[kurkuma]] samen tot een pasta.
+1. Wrijf uien, [[knoflook]], sambal, asem (zonder zaden en vezels), [[zout]], [[peper]] en [[koenjit]] samen tot een pasta.
 2. Wrijf de vis in met dit mengsel en marineer een uur lang.
 3. Breng het [[water]] aan de kook.
 4. Voeg de gemarineerde vis en het uitgelekte visvocht toe.
 5. Laat de vis zachtjes ongeveer 15 minuten sudderen op laag vuur.
 6. Bestrooi met [[gebakken uitjes]] (en eventueel verse koriander) voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

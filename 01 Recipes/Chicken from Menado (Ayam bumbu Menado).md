@@ -2,18 +2,21 @@
 title: "Chicken from Menado (Ayam bumbu Menado)"
 source: "https://pisangsusu.com/chicken-from-menado/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 10
+time_cook: 40
+time_total: 50
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - kip
   - menadonees
-  - Manado
-  - Celebes
-  - koloniale keuken
-  - Beb Vuyk
-  - prei
-  - ei
   - chilipeper
   - gember
   - glutenvrij
@@ -25,9 +28,9 @@ tags:
 
 ## Ingrediënten
 - 1 [[kip]] van 1000 tot 1200 gram
-- 1 ei
+- 1 [[ei]]
 - 1/2 liter [[water]]
-- 5 eetlepels gehakte uien
+- 5 eetlepels gehakte [[uien]]
 - 2 [[rode lombok]]s
 - 5 [[groene lombok]]s
 - 1 theelepel [[gemberpoeder]]
@@ -38,10 +41,14 @@ tags:
 - [[zout]]
 
 ## Bereiding
-1. Wrijf de uien fijn met het [[gemberpoeder]] tot een kruidenpasta (bumbu).
+1. Wrijf de [[uien]] fijn met het [[gemberpoeder]] tot een kruidenpasta (bumbu).
 2. Snijd de [[kip]] in grote stukken en leg ze in 1/2 liter kokend [[water]] met [[zout]] en de kruidenpasta. Kook tot gaar, minimaal 35 minuten.
 3. Voeg de ontpitte lomboks, in reepjes gesneden, toe aan de bouillon (de [[rode lombok]]s kunnen eventueel eerst langer worden gekookt).
-4. Klop het ei los met de [[prei]], [[bieslook]] en [[basilicum]].
+4. Klop het [[ei]] los met de [[prei]], [[bieslook]] en [[basilicum]].
 5. Voeg al roerend ongeveer 250 ml van de kokende [[kip]]penbouillon toe aan het eimengsel. De saus moet licht indikken maar mag geen omelet worden.
 6. Leg de [[kip]]stukken in een schaal en giet de saus erover.
 7. Garneer met [[basilicum]], [[peterselie]] en [[bieslook]] en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

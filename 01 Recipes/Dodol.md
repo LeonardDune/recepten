@@ -2,10 +2,19 @@
 title: "Dodol"
 source: "https://pisangsusu.com/dodol/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: snoep
+servings: 50
+time_prep: 10
+time_cook: 15
+time_total: 40
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/snoep
   - dodol
   - palmsuiker
   - kokosmelk
@@ -36,3 +45,7 @@ tags:
 5. Verwijder het [[pandanblad]] en giet het mengsel in een ingevette bakvorm (20x25 cm) bekleed met bakpapier in een gelijkmatige laag.
 6. Strijk glad met de achterkant van een natte lepel en laat volledig afkoelen op het aanrecht.
 7. Snijd de dodol in stukjes van 2 bij 4 centimeter en serveer. Bewaren? Wikkel ze dan afzonderlijk in bakpapier of plasticfolie.
+
+## Notities
+
+<!-- verwerkt -->

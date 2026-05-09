@@ -2,18 +2,25 @@
 title: "Chinese Tahoe (Indo-Chinees)"
 source: "https://pisangsusu.com/chinese-tahoe-indo-chinees/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: bijgerecht
+servings: 4
+time_prep: 10
+time_cook: 15
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - prei
+  - cuisine/aziatisch
+  - course/bijgerecht
   - tahoe
+  - tofu
   - veganistisch
   - indo-chinees
-  - Beb Vuyk
-  - zoet-zuur
-  - snel recept
-  - taogé
+  - zoetzuur
+  - snel
 ---
 
 # Chinese Tahoe (Indo-Chinees)
@@ -26,16 +33,20 @@ tags:
 - 150 gram [[taogé]]
 - 8 eetlepels [[olie]]
 - sap van 1 [[citroen]]
-- 3 eetlepels gesnipperde uien
+- 3 eetlepels gesnipperde [[uien]]
 - 3 gesnipperde teentjes [[knoflook]]
-- 2 eetlepels [[ketjap]]
-- mespuntje [[vetsin]]
+- 2 eetlepels [[ketjap]] (kecap manis)
+- snufje [[vetsin]]
 
 ## Bereiding
-1. Snijd de [[tahoe]] in plakken van +/- 2 cm dik en snijd iedere plak weer in vieren.
+1. Snijd de [[tahoe]] in plakken van circa 2 cm dik en snijd elke plak weer in vieren.
 2. Bak de [[tahoe]] goudbruin in de [[olie]] en laat ze uitlekken op keukenpapier.
-3. Bak in dezelfde [[olie]] de uien en [[knoflook]] tot ze zacht zijn.
+3. Bak in dezelfde [[olie]] de [[uien]] en [[knoflook]] tot ze zacht zijn.
 4. Voeg de [[prei]] toe en bak mee tot alles lekker zacht is.
 5. Schep op het allerlaatst de [[taogé]] erdoor zonder deze echt mee te bakken.
 6. Schep alles in een schaal en leg de gebakken [[tahoe]] er bovenop.
 7. Giet het [[citroen]]sap en de [[ketjap]] over het geheel en laat dit 5 minuten intrekken.
+
+## Notities
+
+<!-- verwerkt -->

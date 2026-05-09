@@ -2,17 +2,24 @@
 title: "Braised Shrimps (Tumis Udang)"
 source: "https://pisangsusu.com/braised-shrimps-toemis-oedang/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 5
+time_cook: 15
+time_total: 20
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - garnalen
   - snel
   - pittig
   - sambal
-  - bijgerecht
   - zeevruchten
-  - tumis
 ---
 
 # Braised Shrimps (Tumis Udang)
@@ -34,3 +41,7 @@ tags:
 3. Voeg dan de [[garnalen]] toe.
 4. Giet het [[water]] met de [[basilicum]] erover.
 5. Laat een tijdje sudderen.
+
+## Notities
+
+<!-- verwerkt -->

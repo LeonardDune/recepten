@@ -1,7 +1,7 @@
 ---
-title: "How to cook salmon"
-source: "https://www.bbcgoodfood.com/recipes/how-to-cook-salmon"
-date_added: 2026-05-05
+title: "How to Cook Salmon"
+source: "https://www.culy.nl/recepten/fruitschelpen-moederdag/"
+date_added: 2026-05-08
 tags:
   - recipe
   - zalm
@@ -11,14 +11,14 @@ tags:
   - eiwitrijk
   - notenvrij
   - gezond
+  - omega-3
   - snel
   - eenvoudig
-  - oven
 ---
 
-# How to cook salmon
+# How to Cook Salmon
 
-> Een eenvoudig basisrecept voor het bereiden van zalm in de oven. Zalm is een van de makkelijkste vissen om te koken en kan op verschillende manieren worden bereid: gebakken, geroosterd, gestoomd of in folie. Dit recept focust op de ovenmethode, die het minste rommel geeft en een heerlijk resultaat oplevert.
+> Een eenvoudig recept om zalm in de oven te bereiden. De zalm wordt ingesmeerd met olie of boter, gekruid naar smaak en gebakken in de oven tot hij gaar en sappig is. Ook alternatieve bereidingswijzen zoals stomen, pan-bakken en stir-fry worden beschreven.
 
 ## Ingrediënten
 - 4 pieces of salmon fillet
@@ -26,6 +26,6 @@ tags:
 - chopped herbs, a slice of lemon or a sprinkle of spices
 
 ## Bereiding
-1. Verwarm de oven voor op 180C/160C hetelucht/gasstand 4. Bestrijk elk stuk [[zalm]] met olie of [[boter]] en breng goed op smaak. Voeg [[kruiden]], [[citroen]] of [[specerijen]] naar keuze toe.
-2. Leg de stukken [[zalm]] in een ovenschaal en dek de schaal af als je wilt dat de [[zalm]] zacht blijft aan de bovenkant, of laat hem onafgedekt als je wilt dat het vlees iets roostert.
-3. Bak 10-15 minuten. De beste manier om de baktijd te bepalen is 4 minuten per 1 cm dikte in het midden van het filet. Als de [[zalm]] gaar is, ziet hij er ondoorzichtig uit en zal het vlees schilferen als je er een vork in prikt. Probeer [[zalm]] niet te gaar te maken, want het kan snel uitdrogen.
+1. Heat the oven to 180C/160C fan/gas 4. Brush each piece of salmon fillet with oil or butter and season well. Add your choice of herbs, lemon or spices.
+2. Lay the pieces of salmon in an ovenproof dish and either cover the dish if you want the salmon to stay tender on top, or leave it uncovered if you want the flesh to roast slightly.
+3. Cook for 10-15 mins. The best way to gauge how long to cook for is to base the initial time on 4 mins per 1cm of thickness in the centre of the fillet. When the salmon is cooked it will look opaque and the flesh will flake if you poke a fork into the centre. Try not to overcook salmon. It can easily dry out and should be only just cooked in the centre.

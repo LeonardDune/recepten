@@ -2,19 +2,25 @@
 title: "Droog gebakken garnalen (Goreng Oedang Kering)"
 source: "https://pisangsusu.com/droog-gebakken-garnalen/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 5
+time_cook: 20
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - garnalen
   - droogbakken
-  - Beb Vuyk
   - kokos
   - tamarinde
-  - rijst
-  - goreng
+  - beb-vuyk
   - snel
-  - simpel
 ---
 
 # Droog gebakken garnalen (Goreng Oedang Kering)
@@ -27,14 +33,18 @@ tags:
 - 3 eetlepels [[olie]]
 - 5 eetlepels gesnipperde [[uien]]
 - 2 gesnipperde teentjes [[knoflook]]
-- 1 eetlepel [[asemwater]], gemaakt met een stukje asem ter grootte van een halve walnoot
+- 1 eetlepel [[asemwater]], gemaakt met een stukje [[asem]] ter grootte van een halve walnoot
 - [[peper]]
 
 ## Bereiding
-1. Rooster de kokos droog in een pan zonder [[olie]], blijf bewegen tot de kleur verandert in een mooie zonnige kleur.
+1. Rooster de [[kokosmeel]] droog in een pan zonder [[olie]], blijf bewegen tot de kleur verandert in een mooie zonnige kleur.
 2. Bak in dezelfde pan met wat [[olie]] de gesnipperde [[uien]] en [[knoflook]].
 3. Schep een deel van de gebakken [[uien]] uit de pan en bewaar voor garnering.
 4. Voeg de [[garnalen]] en het [[asemwater]] toe aan de pan met de resterende [[uien]].
 5. Laat alles droogbakken op middelhoog vuur, regelmatig omscheppend, totdat al het vocht verdwenen is en de [[garnalen]] beginnen te kleuren.
-6. Schep de drooggebakken [[garnalen]] uit de pan in een schaal en meng met de geroosterde kokos.
+6. Schep de drooggebakken [[garnalen]] uit de pan in een schaal en meng met de geroosterde [[kokosmeel]].
 7. Garneer met de apart gehouden gebakken [[uien]] en serveer met witte rijst en gado gado.
+
+## Notities
+
+<!-- verwerkt -->

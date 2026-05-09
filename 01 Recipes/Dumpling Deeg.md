@@ -2,18 +2,24 @@
 title: "Dumpling Deeg"
 source: "https://pisangsusu.com/dumpling-deeg/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: deeg
+servings: 20
+time_prep: 15
+time_cook: 15
+time_total: 60
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/deeg
   - dumplings
   - gyoza
   - potstickers
-  - aziatisch
-  - zelfgemaakt deeg
   - stomen
   - vegetarisch
-  - invriezen
   - basisrecept
   - chinees
 ---
@@ -40,3 +46,7 @@ tags:
 9. Stapel de velletjes op met een beetje [[maizena]] of bakpapier ertussen zodat ze niet aan elkaar plakken.
 10. Vul en vouw de dumplings naar wens (bijv. als potsticker/gyoza: vulling in het midden, randjes natmaken, dubbelvouwen en plooitjes maken in het randje).
 11. Stoom de dumplings op een iets te klein geknipt stuk bakpapier in een bamboestoommandje gedurende 10 tot 15 minuten, afhankelijk van de grootte.
+
+## Notities
+
+<!-- verwerkt -->

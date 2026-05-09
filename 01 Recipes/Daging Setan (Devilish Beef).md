@@ -2,17 +2,24 @@
 title: "Daging Setan (Devilish Beef)"
 source: "https://pisangsusu.com/152-daging-setan-or-devilish-beef/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 70
+time_cook: 180
+time_total: 250
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - rundvlees
-  - klassiek
-  - gesmoord
   - pittig
-  - daging setan
   - kecap
   - langzaam garen
+  - gestoofd
 ---
 
 # Daging Setan (Devilish Beef)
@@ -22,10 +29,10 @@ tags:
 ## Ingrediënten
 - 1/2 kg [[rundvlees]]
 - 4 eetlepels [[olie]]
-- 2 kopjes [[water]]
-- 3 eetlepels gehakte uien
+- 2 koppen [[water]]
+- 3 eetlepels gehakte [[uien]]
 - 2 gehakte teentjes [[knoflook]]
-- 1 theelepel [[sambal]] leek (chili salsa)
+- 1 theelepel [[sambal oelek]] (chilisalsa)
 - 1 eetlepel [[mosterdpoeder]]
 - 1 theelepel witte [[suiker]]
 - 2 eetlepels [[sojasaus]] (kecap)
@@ -34,9 +41,13 @@ tags:
 - [[peper]]
 
 ## Bereiding
-1. Wrijf uien, [[knoflook]] en [[sambal]] samen met [[suiker]], [[zout]] en [[mosterdpoeder]] tot een pasta.
+1. Wrijf [[uien]], [[knoflook]] en [[sambal oelek]] samen met [[suiker]], [[zout]] en [[mosterdpoeder]] tot een pasta.
 2. Wrijf het [[rundvlees]] in met [[peper]] en smeer de pasta erover. Laat het vlees minimaal een uur marineren.
 3. Bak het [[rundvlees]] aan in de [[olie]] aan beide kanten.
 4. Voeg [[water]], [[sojasaus]] en [[azijn]] toe en laat het geheel sudderen totdat het vlees gaar is (ongeveer 2,5 tot 3 uur).
 5. Laat het vlees sudderen met het deksel half op de pan.
 6. Verwijder na ongeveer 2,5 uur het deksel zodat de saus kan indikken.
+
+## Notities
+
+<!-- verwerkt -->

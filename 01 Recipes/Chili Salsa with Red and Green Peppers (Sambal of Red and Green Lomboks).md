@@ -2,13 +2,21 @@
 title: "Chili Salsa with Red and Green Peppers (Sambal of Red and Green Lomboks)"
 source: "https://pisangsusu.com/chili-salsa-red-green-peppers/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: saus
+servings: 4
+time_prep: 5
+time_cook: 20
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/saus
   - sambal
   - chili
-  - trassi
   - pittig
   - bewaarbaar
   - veganistisch
@@ -30,8 +38,12 @@ tags:
 ## Bereiding
 1. Wrijf de lomboks goed in met [[zout]].
 2. Bak ze in de [[olie]] (of blend de chilipepers met een staafmixer voor een grotere hoeveelheid).
-3. Maak [[trassi]][[water]] door de [[trassi]] voorzichtig te wrijven in 4 eetlepels warm [[water]].
-4. Voeg het [[trassi]][[water]] toe aan de lomboks.
-5. Laat de sambal sudderen totdat hij voldoende is ingedikt, blijf roeren om aanbranden te voorkomen.
+3. Maak [[trassi]]water door de [[trassi]] voorzichtig te wrijven in 4 eetlepels warm [[water]].
+4. Voeg het trassiwater toe aan de lomboks.
+5. Laat de sambal sudderen totdat hij voldoende is ingedikt; blijf roeren om aanbranden te voorkomen.
 6. Wanneer het meeste [[water]] is verdampt en de saus iets donkerder wordt, vul dan schone potten.
 7. Laat afkoelen zodat de pot vacuüm trekt; de sambal is dan maandenlang houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

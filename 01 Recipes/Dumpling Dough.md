@@ -2,19 +2,25 @@
 title: "Dumpling Dough"
 source: "https://pisangsusu.com/dumpling-dough/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: deeg
+servings: 20
+time_prep: 15
+time_cook: 15
+time_total: 60
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/deeg
   - dumplings
   - deeg
-  - aziatisch
-  - chinees
   - gyoza
   - potstickers
-  - veganistisch mogelijk
-  - zelfgemaakt
   - stomen
+  - chinees
 ---
 
 # Dumpling Dough
@@ -22,7 +28,7 @@ tags:
 > Zelfgemaakt dumplingdeeg dat stevig en sterk genoeg is om te vullen en te stomen. Het gebruik van heet water geeft het deeg een stevige textuur, ideaal voor dumplings zoals gyoza of potstickers. De vellen kunnen worden ingevroren met bakpapier ertussen.
 
 ## Ingrediënten
-- 250 gram [[bloem]] (plain flour)
+- 250 gram [[bloem]]
 - 140 ml kokend heet [[water]]
 - 1/2 theelepel [[zout]]
 - [[maizena]] (om het aanrecht mee te bestrooien tijdens het uitrollen)
@@ -40,4 +46,8 @@ tags:
 10. Vul het vel met vlees- of veganistische vulling.
 11. Vouw het deeg dicht (met een beetje [[water]] op de randen).
 12. Stoom de dumplings 10-15 minuten in een bamboestoommandje boven een wok met kokend [[water]].
-13. Serveer warm met sojasaus of chilisaus.
+13. Serveer warm met [[sojasaus]] of [[chilisaus]].
+
+## Notities
+
+<!-- verwerkt -->
