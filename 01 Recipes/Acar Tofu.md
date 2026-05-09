@@ -2,17 +2,25 @@
 title: "Acar Tofu"
 source: "https://pisangsusu.com/acar-tofu/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 20
+time_cook: 15
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - vegan
   - vegetarisch
   - tofu
-  - pickles
   - acar
-  - glutenvrij optioneel
   - pittig
+  - glutenvrij
 ---
 
 # Acar Tofu
@@ -51,3 +59,7 @@ tags:
 11. Roer goed door en voeg 100 ml water toe.
 12. Breng aan de kook en laat 2 minuten sudderen totdat de [[tomaten]] en [[komkommer]] iets zacht zijn, maar niet te gaar.
 13. Leg de [[tofu]] op een bord en schep de acar erover. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

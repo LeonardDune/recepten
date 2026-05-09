@@ -2,19 +2,24 @@
 title: "Babi Pangang"
 source: "https://pisangsusu.com/babi-pangang/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 20
+time_cook: 35
+time_total: 55
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - varkensvlees
-  - babi pangang
   - oven
   - zoet-zuur
   - marinade
   - knapperig
-  - ketjap
-  - 5-spices
-  - kerst
 ---
 
 # Babi Pangang
@@ -60,3 +65,7 @@ tags:
 15. Zet daarna de grill aan en grill nog 10 minuten tot knapperig.
 16. Hak het vlees in repen.
 17. Giet de warme saus erover vlak voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

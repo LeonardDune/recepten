@@ -2,10 +2,19 @@
 title: "Acar Ikan - Indonesian Sour Fish with Vegetables"
 source: "https://pisangsusu.com/acar-ikan-indonesian-sour-fish-with-vegetables/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 20
+time_cook: 20
+time_total: 40
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - vis
   - zuur
   - acar
@@ -13,44 +22,47 @@ tags:
   - zeebaars
   - glutenvrij
   - zomers
-  - traditioneel
   - pittig
 ---
 
 # Acar Ikan - Indonesian Sour Fish with Vegetables
 
-> Acar Ikan is een klassiek Indonesisch gerecht van gebakken visfilet overgoten met een licht zure, pittige en hartige saus van groenten, bumbu en tamarinde. Het gerecht combineert zachte vis met knapperige komkommer, sappige tomaten en een aromatische kruidenpasta voor een perfecte zomer-maaltijd.
+> Acar Ikan is een klassiek Indonesisch gerecht van gebakken visfilet overgoten met een licht zure, pittige en hartige saus van groenten, bumbu en tamarinde. Het gerecht combineert zachte vis met knapperige [[komkommer]], sappige [[tomaten]] en een aromatische kruidenpasta voor een perfecte zomermaaltijd.
 
 ## Ingrediënten
-- 500 grams of fish fillet (sea bass)
-- 200 grams of red onions
-- 3 cloves of garlic
-- 5 cm of fresh ginger
-- 2 cm fresh [[kencur]] (or 1/2 teaspoon [[kencur]] powder)
-- 4-5 leaves of [[jeruk purut]]
-- 4 candlenuts
-- 1 teaspoon of kunjit (turmeric)
-- 2 teaspoons of sugar
-- 2 stalks of lemongrass
-- 1/2 cucumber
-- 2 tomatoes
-- 2 chili peppers
-- 1 teaspoon of salt
-- 10 grams of [[asem]] (tamarind) from a jar
-- frying oil
+- 500 gram [[visfilet]] (zeebaars)
+- 200 gram [[rode ui|rode uien]]
+- 3 teentjes [[knoflook]]
+- 5 cm verse [[gember]]
+- 2 cm verse [[kencur]] (of 1/2 theelepel [[kencur]]poeder)
+- 4-5 blaadjes [[jeruk purut]] (kaffir limoenblad)
+- 4 [[kemiri noten]] (kaarsnoten)
+- 1 theelepel kunjit ([[kurkuma]])
+- 2 theelepels [[suiker]]
+- 2 stengels [[citroengras]] (sereh)
+- 1/2 [[komkommer]]
+- 2 [[tomaten]]
+- 2 [[chilipeper]]s
+- 1 theelepel [[zout]]
+- 10 gram [[asem]] (tamarinde) uit een pot
+- [[frituurolie]]
 
 ## Bereiding
-1. Thaw the fillets and pat dry.
-2. Fry the fish in a couple of minutes and leave to drain on kitchen paper.
-3. Rub half of the onions, garlic, ginger, kaffir lime leaves, turmeric, salt, candlenuts and sugar together to make the bumbu.
-4. Remove most of the oil from the pan and leave a layer of about 2 tablespoons.
-5. Fry the [[jeruk purut]] (kaffir lime leaves) briefly in the oil.
-6. Now sauté the rubbed bumbu in the pan.
-7. Cut cucumber into strips (with skin), the remaining onions into coarse slices, chili peppers into rings and tomatoes into four pieces each.
-8. Add onions, cucumber, peppers and tomatoes to the pan.
-9. Beat the lemongrass stalks, cut into three pieces and add to the pan.
-10. Stir well and add 100 ml of water.
-11. Let this come to a boil, then let it simmer for 2 minutes until the tomatoes and cucumber are slightly tender but still have some bite.
-12. Add the tamarind ([[asem]]) to the sauce and taste for seasoning.
-13. Place the fish on a plate and spoon and pour the acar sauce over it.
-14. Serve with white or yellow rice and optionally extra chili salsa.
+1. Ontdooi de visfilets indien nodig en dep ze droog.
+2. Bak de [[visfilet|vis]] enkele minuten in hete olie en laat uitlekken op keukenpapier.
+3. Wrijf de helft van de uien, [[knoflook]], [[gember]], [[jeruk purut]], [[kurkuma]], [[zout]], [[kemiri noten]] en [[suiker]] tot een gladde bumbu.
+4. Verwijder het meeste olie uit de pan en laat een laagje van 2 eetlepels over.
+5. Bak de [[jeruk purut]] (kaffir limoenblaadjes) kort in de olie.
+6. Voeg de bumbu toe en sauteer deze op middelhoog vuur.
+7. Snijd de [[komkommer]] in reepjes (met schil), de overige uien in grove plakken, de [[chilipeper]]s in ringen en de [[tomaten]] in vieren.
+8. Voeg uien, [[komkommer]], pepers en [[tomaten]] toe aan de pan.
+9. Sla de serehstengels plat, snijd ze in drieën en voeg toe aan de pan.
+10. Roer goed door en voeg 100 ml water toe.
+11. Breng aan de kook en laat 2 minuten zachtjes sudderen totdat de [[tomaten]] en [[komkommer]] iets zacht zijn maar nog bite hebben.
+12. Voeg de [[asem]] (tamarinde) toe aan de saus en proef op zout en zuur.
+13. Leg de vis op een bord en schep de acar-saus erover.
+14. Serveer met witte of gele [[rijst]] en eventueel extra sambal.
+
+## Notities
+
+<!-- verwerkt -->

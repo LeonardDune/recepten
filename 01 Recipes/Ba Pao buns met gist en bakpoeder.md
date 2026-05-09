@@ -2,22 +2,25 @@
 title: "Ba Pao buns met gist en bakpoeder"
 source: "https://pisangsusu.com/ba-pao-buns-with-yeast-and-baking-powder/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: bijgerecht
+servings: 4
+time_prep: 90
+time_cook: 15
+time_total: 105
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/bijgerecht
   - ba pao
-  - bakpao
-  - baozi
   - gestoomd
-  - aziatisch
-  - chinees
   - broodjes
   - gist
-  - bakpoeder
+  - chinees
   - gehakt
-  - vegetarisch mogelijk
-  - diepvries
 ---
 
 # Ba Pao buns met gist en bakpoeder
@@ -44,3 +47,7 @@ tags:
 9. Laat de ba pao 40 minuten rijzen.
 10. Stoom de ba pao 15 minuten in de bamboestoommandje's boven een wok met kokend [[water]]. Stapel maximaal twee mandjes op elkaar.
 11. Scheid de ba pao direct na het stomen terwijl ze nog warm zijn. Serveer met chili- of zoete sojasaus of hoisinsaus.
+
+## Notities
+
+<!-- verwerkt -->

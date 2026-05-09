@@ -2,20 +2,22 @@
 title: "5 Best Asian Easter Recipes"
 source: "https://pisangsusu.com/asian-easter-recipes/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: artikel
+servings:
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
   - pasen
-  - aziatisch
-  - lente
-  - eieren
-  - vietnamees
-  - vegetarisch
   - kokos
   - rendang
-  - springrolls
-  - wonton
+  - artikel
 ---
 
 # 5 Best Asian Easter Recipes
@@ -27,3 +29,7 @@ tags:
 
 ## Bereiding
 1. 
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,16 +2,23 @@
 title: "Acar Campur – Indonesian Pickles"
 source: "https://pisangsusu.com/acar-campur-indonesian-pickles/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: condiment
+servings: 8
+time_prep: 20
+time_cook: 10
+time_total: 30
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/condiment
   - veganistisch
   - vegetarisch
   - ingelegde groenten
   - acar
-  - zuurkool
-  - bijgerecht
   - glutenvrij
   - bewaarrecept
   - zoetzuur
@@ -48,3 +55,7 @@ tags:
 6. Voeg de voorgekookte groenten (bonen, [[wortelen]], [[groene chilipeper]]s en [[komkommer]]) toe, en als laatste de kool, [[taugé]] en reepjes [[rode chilipeper]].
 7. Laat dit 1 minuut koken.
 8. Giet de acar direct in een schone, hete pot en sluit de deksel onmiddellijk af zodat er een vacuüm ontstaat.
+
+## Notities
+
+<!-- verwerkt -->

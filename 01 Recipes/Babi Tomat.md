@@ -2,13 +2,21 @@
 title: "Babi Tomat"
 source: "https://pisangsusu.com/babi-tomat/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 40
+time_total: 55
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - varkensvlees
   - tomaat
-  - babi
   - ketjap
   - gember
   - suddergerecht
@@ -24,7 +32,7 @@ tags:
 - 2 eetlepels [[water]]
 - 3-4 [[tomaten]]
 - 1 eetlepel [[tomatenpuree]]
-- 10 eetlepels gehakte uien
+- 10 eetlepels gehakte [[uien]]
 - 4 gehakte teentjes [[knoflook]]
 - 1/2 theelepel [[peper]]
 - 3 theelepels [[gemberpoeder]]
@@ -41,3 +49,7 @@ tags:
 4. Snijd de [[tomaten]] in partjes (vrij groot) en voeg ze toe.
 5. Voeg een scheutje [[water]], de gesneden [[bakgember]], het [[gembersap]], [[limoensap]], [[ketjap manis]] en de [[tomatenpuree]] toe.
 6. Laat het gerecht ongeveer 20 minuten sudderen totdat het vlees gaar is en de saus iets is ingedikt.
+
+## Notities
+
+<!-- verwerkt -->

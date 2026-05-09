@@ -2,18 +2,24 @@
 title: "Acar Beetroot – Pickled Beet"
 source: "https://pisangsusu.com/acar-beetroot/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: condiment
+servings: 4
+time_prep: 15
+time_cook: 10
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/condiment
   - ingemaakte groenten
   - acar
   - bieten
   - vegetarisch
   - vegan
-  - condiment
-  - pickles
-  - kerst
   - glutenvrij
 ---
 
@@ -41,3 +47,7 @@ tags:
 7. Giet het hete kruiden[[azijn]]mengsel over de [[bieten]] totdat alles ondergedompeld is. Voeg de kruiden uit de pan toe aan de potten.
 8. Sluit de potten af met een deksel en bewaar ze op een koele, donkere plek (of in de koelkast).
 9. Laat de acar bij voorkeur twee weken staan voor de beste smaak, maar je kunt hem ook direct eten.
+
+## Notities
+
+<!-- verwerkt -->

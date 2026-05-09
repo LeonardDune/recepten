@@ -2,17 +2,24 @@
 title: "Acar Cabbage (Acar Ramping)"
 source: "https://pisangsusu.com/acar-cabbage-with-bean-sprouts/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 15
+time_cook: 15
+time_total: 30
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - veganistisch
   - vegetarisch
   - acar
   - kool
-  - taugé
   - ingelegde groenten
-  - bijgerecht
   - gezond
   - glutenvrij
 ---
@@ -44,3 +51,7 @@ tags:
 5. Breng het [[water]] met de [[azijn]] aan de kook.
 6. Voeg de [[wortelen]], de [[kool]] en de kruidenpasta toe en laat alles aan de kook komen.
 7. Roer de [[lombok]]s (chilipepers) en de [[taugé]] erdoor en serveer het gerecht zodra het kookt.
+
+## Notities
+
+<!-- verwerkt -->

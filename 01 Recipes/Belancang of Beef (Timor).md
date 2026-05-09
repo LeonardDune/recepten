@@ -2,17 +2,23 @@
 title: "Belancang of Beef (Timor)"
 source: "https://pisangsusu.com/142-belantjang-with-beef-timor/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 150
+time_total: 165
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - rundvlees
-  - Indonesisch
-  - Timor
   - gesmoord
   - sojasaus
   - sambal
-  - Beb Vuyk
   - traditioneel
 ---
 
@@ -24,7 +30,7 @@ tags:
 - 1/2 kg [[rundvlees]] (half vet)
 - 2 eetlepels [[olie]]
 - 1/4 liter [[water]]
-- 3 eetlepels gehakte ui
+- 3 eetlepels gehakte [[uien]]
 - 1 teentje gehakte [[knoflook]]
 - 1 theelepel [[sambal terasi]]
 - 1 theelepel [[javaanse suiker]]
@@ -35,6 +41,10 @@ tags:
 ## Bereiding
 1. Snijd het vlees in blokjes en bestrooi met [[zout]], [[peper]] en [[javaanse suiker]]. Laat het een uur marineren.
 2. Bak het vlees in de [[olie]] aan.
-3. Voeg zodra het vlees bruin wordt de ui, [[knoflook]] en [[sambal terasi]] toe.
+3. Voeg zodra het vlees bruin wordt de uien, [[knoflook]] en [[sambal terasi]] toe.
 4. Voeg het [[water]] en de [[sojasaus]] toe.
 5. Laat het geheel sudderen op laag vuur totdat het vlees mals is (ongeveer 2,5 uur). Houd de deksel half op de pan zodat het niet te snel uitdroogt. Voeg indien nodig extra [[water]] toe.
+
+## Notities
+
+<!-- verwerkt -->

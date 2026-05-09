@@ -2,24 +2,26 @@
 title: "Atjar Ikan"
 source: "https://pisangsusu.com/atjar-ikan/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - indisch
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - vis
   - atjar
-  - zuur
+  - zoet-zuur
   - pittig
-  - zeebaars
+  - indisch
   - tamarinde
-  - komkommer
-  - chili pepers
-  - kabeljauw
-  - schol
-  - klassiek
-  - zomer
-  - Beb Vuyk
+  - frituur
 ---
 
 # Atjar Ikan
@@ -58,3 +60,7 @@ tags:
 11. Laat aan de kook komen en schep de [[asem]] erbij.
 12. Laat 2 minuten rustig sudderen zodat de [[tomaten]] en [[komkommer]] een beetje zacht worden, maar niet te veel.
 13. Leg de gefrituurde vis in een schaal en schep de atjar met saus erover.
+
+## Notities
+
+<!-- verwerkt -->

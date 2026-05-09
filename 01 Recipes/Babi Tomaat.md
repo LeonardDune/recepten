@@ -2,13 +2,21 @@
 title: "Babi Tomaat"
 source: "https://pisangsusu.com/babi-tomaat/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 40
+time_total: 55
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - tomaten
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - varkensvlees
-  - babi
+  - tomaten
   - ketjap
   - suddergerecht
   - indisch
@@ -37,7 +45,11 @@ tags:
 ## Bereiding
 1. Bestrooi het vlees met [[peper]], [[gemberpoeder]] en [[zout]] en laat dit een uurtje intrekken.
 2. Braad het vlees daarna in de [[olie]] tot het lichtbruin is, bak ook de [[uien]] en [[knoflook]] even mee.
-3. Snij de tomaat in partjes (best groot) en bak ze mee.
+3. Snij de [[tomaten]] in partjes (best groot) en bak ze mee.
 4. Voeg ook de [[tomatenpuree]] toe.
 5. Voeg een scheut [[water]] toe, de gesneden [[bakgember]] en het [[gembervocht]], [[limoensap]] en de [[zoete ketjap]].
 6. Laat het gerecht doorsudderen tot het vlees zacht is en de saus een beetje indikt.
+
+## Notities
+
+<!-- verwerkt -->

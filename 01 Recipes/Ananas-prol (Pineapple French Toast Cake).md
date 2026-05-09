@@ -2,20 +2,24 @@
 title: "Ananas-prol (Pineapple French Toast Cake)"
 source: "https://pisangsusu.com/pineapple-french-toast/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep: 15
+time_cook: 40
+time_total: 55
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/dessert
   - indisch
   - ananas
-  - brood
   - oven
   - zoet
   - vegetarisch
-  - french toast
-  - prol
-  - beb vuyk
-  - klassiek
 ---
 
 # Ananas-prol (Pineapple French Toast Cake)
@@ -41,3 +45,7 @@ tags:
 7. Verdeel het beslag over het [[brood]] in de ovenschaal.
 8. Bak de prol in een voorverwarmde oven op 150 °C (gasstand 2) gedurende circa 40 minuten, totdat de bovenkant goudbruin is.
 9. Laat 10 minuten afkoelen en serveer warm of koud.
+
+## Notities
+
+<!-- verwerkt -->

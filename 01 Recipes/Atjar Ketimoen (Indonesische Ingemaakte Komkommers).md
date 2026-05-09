@@ -2,14 +2,22 @@
 title: "Atjar Ketimoen (Indonesische Ingemaakte Komkommers)"
 source: "https://pisangsusu.com/video-hoe-maak-zelf-atjar/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - atjar
-  - ketimoen
   - komkommer
-  - zuur
+  - zoet-zuur
   - vegetarisch
   - veganistisch
   - indisch
@@ -25,3 +33,7 @@ tags:
 
 ## Bereiding
 1. 
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,19 +2,25 @@
 title: "Aziatische Wilde Paddenstoelensoep"
 source: "https://pisangsusu.com/aziatische-wilde-paddenstoelsoep/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: soep
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/soep
   - paddenstoelen
-  - kokos
-  - aziatisch
-  - soep
+  - kokosmelk
   - vegetarisch
-  - herfst
-  - basilicum
-  - mie
+  - noedels
   - gember
+  - galangal
 ---
 
 # Aziatische Wilde Paddenstoelensoep
@@ -25,7 +31,7 @@ tags:
 - 300-400 gram sponszwam / wilde [[paddenstoelen]]
 - 250 milliliter [[kokosmelk]]
 - 1 grote hand Aziatische [[basilicum]]
-- 1 grote ui
+- 1 grote [[ui]]
 - 3 tenen [[knoflook]]
 - 1 theelepel [[citroensap]]
 - 1,5 liter [[water]]
@@ -34,16 +40,16 @@ tags:
 - 3 cm verse [[kencur]]
 - 1 stengel [[citroengras]]
 - 8 blaadjes [[citroenblad]] (jeruk purut)
-- 2 paddenstoel [[bouillonblokjes]]
+- 2 [[paddenstoelenbouillonblokjes]]
 - 1 theelepel [[zout]]
 - 1 eetlepel [[olie]]
 - 1 struik [[paksoi]]
-- 2 tenen knoflook (voor paksoi)
-- zout (voor paksoi)
-- Japanse dunne noodles of rijst
-- 250 gram gehakt
+- 2 tenen [[knoflook]] (voor paksoi)
+- [[zout]] (voor paksoi)
+- Japanse dunne [[noedels]] of rijst
+- 250 gram [[gehakt]]
 - peper en zout (voor gehakt)
-- 1 theelepel sesamolie
+- 1 theelepel [[sesamolie]]
 
 ## Bereiding
 1. Schil de [[gember]] en snij fijn.
@@ -54,11 +60,15 @@ tags:
 6. Giet na ongeveer 3 minuten het hete [[water]] (1,5 liter) erbij.
 7. Laat dit 5 minuten zachtjes sudderen met de deksel op de pan.
 8. Zet het gas uit en laat de soep goed trekken.
-9. Warm de soep weer op en voeg de [[bouillonblokjes]] toe.
+9. Warm de soep weer op en voeg de [[paddenstoelenbouillonblokjes]] toe.
 10. Giet de [[kokosmelk]] erbij en proef of er nog [[zout]] nodig is.
 11. Snij de Aziatische [[basilicum]] grof en voeg toe aan de soep.
-12. Maak soep[[gehakt]]balletjes: breng het [[gehakt]] op smaak met [[peper]], [[zout]], verse [[gember]] en een theelepel [[sesamolie]] en vorm balletjes.
-13. Kook de [[noodles]] volgens de verpakking en spoel koud af.
+12. Maak soepgehaktballetjes: breng het [[gehakt]] op smaak met [[peper]], [[zout]], verse [[gember]] en een theelepel [[sesamolie]] en vorm balletjes.
+13. Kook de [[noedels]] volgens de verpakking en spoel koud af.
 14. Was en snij de [[paksoi]] in grove stukken en roerbak in wat [[olie]] met [[knoflook]] en [[zout]] tot knapperig.
-15. Schep [[noodles]] (of [[rijst]]), [[paksoi]] en wat extra [[basilicum]] op een bord, giet de hete soep erover.
+15. Schep [[noedels]] (of [[rijst]]), [[paksoi]] en wat extra [[basilicum]] op een bord, giet de hete soep erover.
 16. Sprenkel wat druppels [[citroensap]] over de soep en serveer.
+
+## Notities
+
+<!-- verwerkt -->

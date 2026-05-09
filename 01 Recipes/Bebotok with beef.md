@@ -2,16 +2,24 @@
 title: "Bebotok with beef"
 source: "https://pisangsusu.com/192-bebotok-with-minced-beef/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 30
+time_total: 45
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - gestoomd
-  - gehakt
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - rundvlees
+  - gehakt
+  - gestoomd
   - kokos
-  - klassiek
-  - bebotok
+  - santen
   - glutenvrij
 ---
 
@@ -20,27 +28,31 @@ tags:
 > Bebotok is een klassiek Indonesisch gerecht waarbij gekruid rundergehakt in aluminiumfolie wordt gestoomd met kokosroom. De kokosroom zorgt voor een romige textuur en de combinatie van kruiden geeft een explosie van smaken. Lekker geserveerd met groenten en witte rijst.
 
 ## Ingrediënten
-- 1/2 kg minced beef
-- 2 tablespoons of oil
-- 1/6 block of [[santen]] (coconut cream)
-- tinfoil
-- 3 tablespoons of chopped onions
-- 2 chopped cloves of garlic
-- 1 teaspoon of sambal terasi (chili salsa with shrimp paste)
-- 4 teaspoons of coriander powder (ketumbar)
-- 2 teaspoons of cumin powder (Djinten)
-- 5 puffed kemiries (candle nuts)
-- a pinch of Kaempferia galanga (kencur)
-- 1 tablespoon of asemwater made with tamarind the size of half a walnut
-- salt
+- 1/2 kg [[rundergehakt]]
+- 2 eetlepels [[olie]]
+- 1/6 blok [[santen]] (kokosroom)
+- aluminiumfolie
+- 3 eetlepels gesnipperde [[uien]]
+- 2 gesnipperde teentjes [[knoflook]]
+- 1 theelepel [[sambal terasi]] (chili saus met garnalenpasta)
+- 4 theelepels [[ketoembar]] (koriander)
+- 2 theelepels [[djinten]] (komijn)
+- 5 gepofte [[kemirinoten]] (kaarsnoten)
+- mespuntje [[kencur]] (Kaempferia galanga)
+- 1 eetlepel asemwater, gemaakt van [[tamarinde]] ter grootte van een halve walnoot
+- [[zout]]
 
 ## Bereiding
-1. Rub onions, garlic, sambal, coriander, cumin, [[kemirie]]s, Kaempferia galanga and fine salt together and sauté in oil until almost dry.
-2. Mix the meat with the asem water (tamarind).
-3. Cut several pieces of aluminum foil of about 12 × 15 cm.
-4. Place in the middle of each piece 2 tablespoons of the meat mixture.
-5. Press the meat flat to a thickness of a bit more than 1 cm.
-6. Chop the [[santen]] (coconut cream) and sprinkle this over the stuffing.
-7. Fold the sheets of aluminum foil first lengthwise and then across tightly.
-8. Stack the packages in the steamer and let the steam pass through on all sides.
-9. Steam them well for about 30 minutes.
+1. Wrijf [[uien]], [[knoflook]], sambal, [[ketoembar]], [[djinten]], [[kemirinoten]], [[kencur]] en [[zout]] fijn en bak ze in de [[olie]] tot ze bijna droog zijn.
+2. Meng het [[rundergehakt]] met het asemwater ([[tamarinde]]).
+3. Snijd een aantal stukken aluminiumfolie van ongeveer 12 × 15 cm.
+4. Leg in het midden van elk stuk 2 eetlepels van het gehaktmengsel.
+5. Druk het vlees plat tot een dikte van ruim 1 cm.
+6. Snipper de [[santen]] (kokosroom) en strooi dit over het vulsel.
+7. Vouw de stukken aluminiumfolie eerst in de lengte en dan in de breedte goed dicht.
+8. Stapel de pakjes op in de stoompan zodat de stoom er aan alle kanten doorheen kan.
+9. Stoom de pakjes goed gedurende ongeveer 30 minuten.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,22 +2,27 @@
 title: "Atjar Tjampoer - Indisch zuur van groenten"
 source: "https://pisangsusu.com/atjar-tjampoer/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 20
+time_cook: 15
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - atjar
-  - zuur
-  - indisch
+  - groenten
+  - zoet-zuur
   - vegetarisch
   - veganistisch
-  - kool
-  - sperziebonen
-  - tauge
-  - wortels
+  - indisch
   - inmaken
-  - bijgerecht
-  - Beb Vuyk
+  - rijsttafel
 ---
 
 # Atjar Tjampoer - Indisch zuur van groenten
@@ -32,7 +37,7 @@ tags:
 - 1/2 [[komkommer]] (van zaad ontdaan en in stukjes gesneden)
 - 4 [[groene lombok]]s
 - 8 eetlepels [[azijn]]
-- 3 eetlepels gesnipperde uien
+- 3 eetlepels gesnipperde [[uien]]
 - 2 gesnipperde teentjes [[knoflook]]
 - 1 [[rode lombok]] (ontpit en in repen gesneden)
 - 4 gepofte [[kemirie]]s
@@ -52,3 +57,7 @@ tags:
 7. Voeg als laatste de kool, de [[taogé]] en de reepjes [[rode lombok]] toe.
 8. Laat alles nog 1 minuut doorkoken.
 9. Giet de atjar direct in een schone, hete (uitgekookte) pot en sluit de deksel direct zodat de pot vacuüm trekt.
+
+## Notities
+
+<!-- verwerkt -->

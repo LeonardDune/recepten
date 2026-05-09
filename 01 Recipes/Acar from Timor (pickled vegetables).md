@@ -2,21 +2,26 @@
 title: "Acar from Timor (pickled vegetables)"
 source: "https://pisangsusu.com/acar-timor-pickled-vegetables/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: condiment
+servings: 4
+time_prep: 15
+time_cook: 10
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/condiment
   - acar
   - ingelegde groenten
-  - Timor
   - pittig
   - vegetarisch
   - vegan
   - bewaarrecept
-  - kerst
-  - taugé
-  - komkommer
-  - kool
+  - glutenvrij
 ---
 
 # Acar from Timor (pickled vegetables)
@@ -42,4 +47,8 @@ tags:
 4. Verwijder de zaadjes uit de [[chilipeper]]s en snijd ze in lange reepjes. Voeg toe aan het vocht.
 5. Voeg de [[sjalot]]ten toe aan de pan voor de [[taugé]], omdat uien langer nodig hebben.
 6. Roer de [[taugé]] erdoor en laat de pickles nog een minuut sudderen.
-7. Vul een spotless schone pot met de hete acar. De pot wordt vacuüm en de inhoud kan langer bewaard worden.
+7. Vul een schone pot met de hete acar. Sluit de deksel direct — de pot wordt vacuüm en de inhoud kan wekenlang bewaard worden.
+
+## Notities
+
+<!-- verwerkt -->

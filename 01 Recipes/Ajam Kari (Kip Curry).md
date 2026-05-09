@@ -2,17 +2,22 @@
 title: "Ajam Kari (Kip Curry)"
 source: "https://pisangsusu.com/ajam-kari-huishoudbeurs-2017/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - kip
   - curry
   - kokosmelk
-  - ajam kari
-  - huishoudbeurs
-  - sumatra
-  - west-java
   - snel recept
   - indisch
 ---
@@ -49,3 +54,7 @@ tags:
 8. Knip de citroengras doormidden, kneus het en voeg toe aan de pan.
 9. Laat alles ongeveer 5 minuten sudderen, of breng aan de kook, leg het deksel op de pan en zet het gas uit. De volgende dag is alles gaar en super zacht.
 10. Vlak voor het serveren, sprenkel er een paar druppels [[limoensap]] over en garneer met gehakte verse [[koriander]].
+
+## Notities
+
+<!-- verwerkt -->

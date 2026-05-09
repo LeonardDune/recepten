@@ -2,17 +2,27 @@
 title: "Atjar Tahoe"
 source: "https://pisangsusu.com/atjar-tahoe/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 25
+time_total: 40
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - veganistisch
-  - vegetarisch
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - tahoe
   - atjar
-  - zuren
-  - rijst
+  - zoet-zuur
+  - vegetarisch
+  - veganistisch
   - glutenvrij
+  - tamarinde
+  - frituur
 ---
 
 # Atjar Tahoe
@@ -53,3 +63,7 @@ tags:
 13. Laat aan de kook komen en schep de [[asem]] erbij.
 14. Laat 2 minuten rustig sudderen zodat de [[tomaten]] en [[komkommer]] een beetje zacht worden, maar niet te veel.
 15. Leg [[tahoe]] in een schaal en schep en giet de atjar erover.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,20 +2,25 @@
 title: "Balinese Minced Pork (Lelawar Bali)"
 source: "https://pisangsusu.com/balinese-pork-lelawar-bali/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - Balinees
-  - Indonesisch
-  - gehakt
+  - cuisine/indonesisch
+  - course/hoofdgerecht
+  - varkensvlees
+  - balinees
   - kokos
+  - gehakt
   - pittig
   - kencur
-  - jeruk purut
-  - trassi
-  - snel
-  - authentiek
 ---
 
 # Balinese Minced Pork (Lelawar Bali)
@@ -23,26 +28,30 @@ tags:
 > Lelawar Bali is een authentiek Balinees gehaktgerecht met een rijke kruidenpasta van kencur, jeruk purut, trassi en chilipeper, gecombineerd met geroosterde kokos. Het gerecht is eenvoudig te bereiden maar heeft een complexe, pittige en aromatische smaak. Gebaseerd op een recept van Beb Vuyk.
 
 ## Ingrediënten
-- 500g half pork half beef minced meat
-- 6 tablespoons of coconut flour
-- oil
-- 5 tablespoons of chopped onions
-- 5 chopped cloves of garlic
-- 1 chili pepper
-- 1 teaspoon of [[trassi]] (shrimp paste)
-- 1 teaspoon of black pepper
-- 1/2 teaspoon of [[kencur]]
-- 4 chopped [[jeruk purut]] leaves (lemon leaves)
-- juice of one lime
-- 1 teaspoon of salt
-- chives (optional, for garnish)
+- 500 gram half varkens- half rundergehakt
+- 6 eetlepels kokosmeel ([[geraspte kokos]])
+- [[olie]]
+- 5 eetlepels gesnipperde [[uien]]
+- 5 gesnipperde teentjes [[knoflook]]
+- 1 [[chilipeper]]
+- 1 theelepel [[trassi]] (garnalenpasta)
+- 1 theelepel [[zwarte peper]]
+- 1/2 theelepel [[kencur]]
+- 4 fijngehakte [[jeruk purut]] blaadjes (citroenblad)
+- sap van een limoen
+- 1 theelepel [[zout]]
+- [[bieslook]] (optioneel, voor garnering)
 
 ## Bereiding
-1. Roast the shredded coconut in a pan with a little oil until golden brown. Keep stirring and watch closely. Set aside.
-2. Use an immersion blender to blend half of the onions, garlic, chili pepper, [[trassi]], [[kencur]], black pepper, chopped [[jeruk purut]] leaves and salt into a smooth herb paste (bumbu).
-3. In the same pan used for the coconut, add a tablespoon of oil and sauté the remaining onions and garlic until yellow.
-4. Add the herb paste (bumbu) to the pan and sauté briefly.
-5. Add the roasted coconut and mix well.
-6. Add the minced meat and stir until all the meat is cooked through.
-7. Finish with the lime juice and stir well.
-8. Garnish with chopped chives if desired and serve with white pandan rice.
+1. Rooster de geraspte [[geraspte kokos]] in een pan met een beetje [[olie]] tot goudbruin. Blijf roeren en houd goed in de gaten. Zet apart.
+2. Blend de helft van de uien, [[knoflook]], [[chilipeper]], [[trassi]], [[kencur]], zwarte peper, fijngehakte [[jeruk purut]] blaadjes en [[zout]] met een staafmixer tot een gladde kruidenpasta (bumbu).
+3. Voeg in dezelfde pan een eetlepel [[olie]] toe en bak de resterende uien en [[knoflook]] tot ze geel zijn.
+4. Voeg de bumbu toe aan de pan en bak kort mee.
+5. Voeg de geroosterde kokos toe en meng goed.
+6. Voeg het [[gehakt]] toe en roerbak tot al het vlees gaar is.
+7. Maak het gerecht af met het limoensap en meng goed door.
+8. Garneer met fijngehakt [[bieslook]] indien gewenst en serveer met witte pandanrijst.
+
+## Notities
+
+<!-- verwerkt -->

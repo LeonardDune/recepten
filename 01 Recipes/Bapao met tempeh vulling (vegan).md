@@ -2,17 +2,24 @@
 title: "Bapao met tempeh vulling (vegan)"
 source: "https://pisangsusu.com/bakbao-vegetarian/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: bijgerecht
+servings: 4
+time_prep: 10
+time_cook: 15
+time_total: 25
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/aziatisch
+  - course/bijgerecht
   - vegan
   - vegetarisch
   - tempeh
   - bapao
   - gestoomd
-  - jeruk purut
-  - kecap manis
 ---
 
 # Bapao met tempeh vulling (vegan)
@@ -22,18 +29,22 @@ tags:
 ## Ingrediënten
 - 1 blok [[tempeh]], in kleine stukjes gesneden
 - 2 teentjes [[knoflook]]
-- 1 ui
+- 1 [[ui]]
 - 3 eetlepels [[zoete sojasaus]] (kecap manis)
-- 4 [[jeruk purut bladeren]] (kaffir limoen), zeer fijn gehakt
+- 4 [[jeruk purut]] blaadjes (kaffir limoen), zeer fijn gehakt
 - handvol [[selderij]]
 - 1 theelepel [[zout]]
 - 1 eetlepel [[olie]]
 
 ## Bereiding
-1. Bak de ui en [[knoflook]] met een eetlepel [[olie]] in de pan.
+1. Bak de [[ui]] en [[knoflook]] met een eetlepel [[olie]] in de pan.
 2. Voeg de [[tempeh]] toe met het [[zout]].
-3. Roerbak een minuut of twee en voeg dan de fijngehakte [[jeruk purut bladeren]] toe.
+3. Roerbak een minuut of twee en voeg dan de fijngehakte [[jeruk purut]] blaadjes toe.
 4. Meng goed en giet er 3 eetlepels [[zoete sojasaus]] (kecap manis) over.
 5. Zorg dat de sojasaus goed is opgenomen voordat je een handvol [[selderij]] toevoegt.
 6. Zet het vuur meteen uit zodat de [[selderij]] fris en knapperig blijft.
 7. Laat de vulling volledig afkoelen voordat je de bapao vult, anders wordt het deeg klef en gaat het open tijdens het stomen.
+
+## Notities
+
+<!-- verwerkt -->

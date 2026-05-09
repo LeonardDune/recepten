@@ -2,18 +2,23 @@
 title: "Ajam Terik"
 source: "https://pisangsusu.com/ajam-terik/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 60
+time_total: 75
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - kip
   - kokos
   - indisch
-  - ajam terik
-  - boemboe
-  - santen
   - sudderen
-  - kemirinoten
 ---
 
 # Ajam Terik
@@ -45,3 +50,7 @@ tags:
 9. Doe de poten terug in de pan.
 10. Giet er [[water]] bij tot de kippen bijna onderstaan, voeg de bouillonblokjes en de [[santen]] toe.
 11. Laat dit geheel langzaam sudderen op zacht vuur tot de saus indikt en de kip gaar is (ongeveer een uur).
+
+## Notities
+
+<!-- verwerkt -->

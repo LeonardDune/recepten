@@ -2,19 +2,24 @@
 title: "Ananas prol - Indische wentelteefjes met ananas"
 source: "https://pisangsusu.com/567-ananas-prol/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep: 15
+time_cook: 40
+time_total: 55
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/dessert
   - indisch
   - zoet
   - ananas
-  - brood
-  - wentelteefjes
   - oven
   - vegetarisch
-  - Beb Vuyk
-  - kaneel
 ---
 
 # Ananas prol - Indische wentelteefjes met ananas
@@ -39,3 +44,7 @@ tags:
 6. Spreid het eiermengsel uit over de bovenste [[brood]]laag in de vuurvaste schaal.
 7. Bak de [[ananas]] prol in een oven van 150°C (gasovenstand 2) gedurende ongeveer 40 minuten, tot het beslag gaar en lichtbruin is.
 8. Serveer warm of koud.
+
+## Notities
+
+<!-- verwerkt -->

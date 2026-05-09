@@ -2,19 +2,26 @@
 title: "Atjar Biet - Zoet-Zuur van gekookte Bietjes"
 source: "https://pisangsusu.com/ajar-biet/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: bijgerecht
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/bijgerecht
   - atjar
-  - zuur
   - bieten
+  - zoet-zuur
   - vegetarisch
   - veganistisch
   - inmaken
   - rijsttafel
-  - zoet-zuur
-  - bijgerecht
 ---
 
 # Atjar Biet - Zoet-Zuur van gekookte Bietjes
@@ -40,3 +47,7 @@ tags:
 6. Overgiet de bietjes met de hete kruiden[[azijn]] totdat alles goed onderstaat. Verdeel de kruiden zoveel mogelijk over de potten.
 7. Sluit de potten zodat ze door de warmte vacuüm trekken.
 8. Laat de atjar minstens twee weken staan voordat je hem serveert. De smaak wordt beter naarmate hij langer staat.
+
+## Notities
+
+<!-- verwerkt -->

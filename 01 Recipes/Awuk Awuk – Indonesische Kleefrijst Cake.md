@@ -2,19 +2,26 @@
 title: "Awuk Awuk – Indonesische Kleefrijst Cake"
 source: "https://pisangsusu.com/awuk-awuk-kleefrijstcakes/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep: 10
+time_cook: 30
+time_total: 40
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/dessert
   - glutenvrij
   - gestoomd
-  - kleefrijstmeel
+  - kleefrijst
   - pandan
   - kokos
   - zoet
-  - cake
   - vegetarisch
-  - toko
 ---
 
 # Awuk Awuk – Indonesische Kleefrijst Cake
@@ -40,3 +47,7 @@ tags:
 6. Stoom de cake 20-30 minuten op middelhoog vuur, afhankelijk van de maat van je vorm. Kleinere vormen hebben 15-20 minuten nodig.
 7. Laat de cake afkoelen voordat je hem uit de vorm haalt.
 8. Snijd in blokjes en serveer bij kamertemperatuur.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,20 +2,20 @@
 title: "Beste Online Chefs"
 source: "https://pisangsusu.com/beste-online-chefs/"
 date_added: 2026-04-27
+status: processed
+cuisine:
+course: artikel
+servings:
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - online chefs
+  - artikel
   - inspiratie
-  - youtube
-  - koken
-  - Liziqi
-  - Julia Child
-  - Mary Berry
-  - Netflix
-  - Streetfood
-  - Chef's Table
+  - online chefs
 ---
 
 # Beste Online Chefs
@@ -27,3 +27,7 @@ tags:
 
 ## Bereiding
 1. 
+
+## Notities
+
+<!-- verwerkt -->

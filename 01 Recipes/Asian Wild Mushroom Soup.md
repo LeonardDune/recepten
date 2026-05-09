@@ -2,19 +2,24 @@
 title: "Asian Wild Mushroom Soup"
 source: "https://pisangsusu.com/asian-wild-mushroom-soup/"
 date_added: 2026-04-27
+status: processed
+cuisine: aziatisch
+course: soep
+servings: 4
+time_prep: 15
+time_cook: 20
+time_total: 35
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - soep
+  - cuisine/aziatisch
+  - course/soep
   - paddenstoelen
   - kokosmelk
-  - aziatisch
   - vegetarisch
   - vegan
-  - herfst
   - noedels
-  - basilicum
   - gember
   - galangal
 ---
@@ -27,7 +32,7 @@ tags:
 - 300-400 gram [[wilde paddenstoelen]]
 - 250 milliliter [[kokosmelk]]
 - 1 grote hand [[aziatische basilicum]]
-- 1 grote ui
+- 1 grote [[ui]]
 - 3 teentjes [[knoflook]]
 - 1 theelepel [[citroensap]]
 - 1,5 liter [[water]]
@@ -39,9 +44,9 @@ tags:
 - 2 [[paddenstoelenbouillonblokjes]]
 - 1 theelepel [[zout]]
 - 1 bosje [[paksoi]] (bijgerecht)
-- 2 teentjes knoflook voor paksoi (bijgerecht)
-- Japanse dunne noedels of rijst (bijgerecht)
-- 250 gram gehakt, op smaak gebracht met zout, peper en 1 theelepel [[sesamolie]] (bijgerecht)
+- 2 teentjes [[knoflook]] voor paksoi (bijgerecht)
+- Japanse dunne [[noedels]] of rijst (bijgerecht)
+- 250 gram [[gehakt]], op smaak gebracht met zout, peper en 1 theelepel [[sesamolie]] (bijgerecht)
 
 ## Bereiding
 1. Schil de [[gember]] en snijd fijn.
@@ -59,3 +64,7 @@ tags:
 13. Maak soepballetjes door het [[gehakt]] op smaak te brengen met [[zout]], peper, verse [[gember]] en een theelepel [[sesamolie]].
 14. Doe [[noedels]] (of rijst), [[paksoi]], sambal en basilicum in een kom en giet de hete soep erover.
 15. Besprenkel de soep met wat [[citroensap]] en serveer.
+
+## Notities
+
+<!-- verwerkt -->

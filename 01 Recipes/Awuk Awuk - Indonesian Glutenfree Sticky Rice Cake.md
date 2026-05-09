@@ -2,10 +2,19 @@
 title: "Awuk Awuk - Indonesian Glutenfree Sticky Rice Cake"
 source: "https://pisangsusu.com/awuk-awuk/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: dessert
+servings: 4
+time_prep: 10
+time_cook: 30
+time_total: 40
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
+  - cuisine/indonesisch
+  - course/dessert
   - glutenvrij
   - gestoomd
   - kleefrijst
@@ -13,7 +22,6 @@ tags:
   - kokos
   - vegan
   - zoet
-  - rijstcake
 ---
 
 # Awuk Awuk - Indonesian Glutenfree Sticky Rice Cake
@@ -24,7 +32,7 @@ tags:
 - 75 gram [[kleefrijstmeel]]
 - 75 gram gewone [[suiker]]
 - 100 gram geraspte [[kokos]]
-- 1/2 theelepel vanille (suiker)
+- 1/2 theelepel [[vanillesuiker]]
 - 1/2 theelepel [[zout]]
 - [[pandanbladeren]]
 - [[voedselkleurstof]] (rozen of pandan)
@@ -37,3 +45,7 @@ tags:
 5. Vul de vorm met de twee gekleurde lagen.
 6. Stoom 20-30 minuten, afhankelijk van de grootte van je vorm.
 7. Laat afkoelen en snijd in blokjes.
+
+## Notities
+
+<!-- verwerkt -->

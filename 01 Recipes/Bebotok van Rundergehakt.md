@@ -2,19 +2,26 @@
 title: "Bebotok van Rundergehakt"
 source: "https://pisangsusu.com/bebotok-rund/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 30
+time_total: 45
+rating:
+tried: false
 tags:
   - recipe
-  - indonesisch
-  - beb-vuyk
-  - indisch
+  - cuisine/indonesisch
+  - course/hoofdgerecht
   - rundvlees
+  - gehakt
   - gestoomd
-  - beb vuyk
-  - bebotok
   - kokos
   - santen
   - tamarinde
-  - gehakt
+  - indisch
 ---
 
 # Bebotok van Rundergehakt
@@ -26,23 +33,27 @@ tags:
 - 2 eetlepels [[olie]]
 - 1/6 blok [[santen]]
 - aluminiumfolie
-- 3 eetlepels gesnipperde uien
-- 2 gesnipperde teentjes knoflook
-- 1 theelepel sambal terasi
-- 4 theelepels ketoembar
-- 2 theelepels djinten
-- 5 gepofte kemiries
-- mespuntje kentjoer
-- 1 eetlepel asemwater, gemaakt van asem ter grootte van 1/2 walnoot
-- zout
+- 3 eetlepels gesnipperde [[uien]]
+- 2 gesnipperde teentjes [[knoflook]]
+- 1 theelepel [[sambal terasi]]
+- 4 theelepels [[ketoembar]]
+- 2 theelepels [[djinten]]
+- 5 gepofte [[kemirinoten]]
+- mespuntje [[kencur]] (kentjoer)
+- 1 eetlepel asemwater, gemaakt van [[asem]] ter grootte van 1/2 walnoot
+- [[zout]]
 
 ## Bereiding
-1. Wrijf [[uien]], [[knoflook]], sambal, [[ketoembar]], [[djinten]], [[kemiries]], [[kentjoer]] en [[zout]] met elkaar fijn (of meng met een staafmixer) en bak ze in de [[olie]] tot ze bijna droog zijn.
-2. Meng de gebakken boemboe met het [[asemwater]] door het gehakt.
-3. Snijd een aantal stukken aluminiumf[[olie]] van ongeveer 12x15 cm.
+1. Wrijf [[uien]], [[knoflook]], sambal, [[ketoembar]], [[djinten]], [[kemirinoten]], [[kencur]] en [[zout]] met elkaar fijn (of meng met een staafmixer) en bak ze in de [[olie]] tot ze bijna droog zijn.
+2. Meng de gebakken boemboe met het asemwater door het [[rundergehakt]].
+3. Snijd een aantal stukken aluminiumfolie van ongeveer 12x15 cm.
 4. Leg in het midden van ieder stuk 2 eetlepels van het gehaktmengsel en druk het vlees plat tot een dikte van ruim 1 cm.
 5. Snipper de [[santen]] en strooi de snippers over het vulsel.
-6. Vouw de stukken aluminiumf[[olie]] eerst in de lengte en dan in de breedte goed dicht.
+6. Vouw de stukken aluminiumfolie eerst in de lengte en dan in de breedte goed dicht.
 7. Stapel de pakjes op in de stoompan zodat de stoom er aan alle kanten doorheen kan.
 8. Stoom de pakjes ongeveer een half uur goed door.
 9. Serveer met een groentegerecht zoals oerapan en witte rijst.
+
+## Notities
+
+<!-- verwerkt -->
