@@ -34,6 +34,7 @@ VAULT_ROOT = Path(__file__).parent.parent
 RECIPES_DIR = VAULT_ROOT / "01 Recipes"
 PLANS_DIR = VAULT_ROOT / "03 Weekly Plans"
 PREFS_FILE = PLANS_DIR / "_Voorkeuren.md"
+API_KEY_FILE = VAULT_ROOT / "_Setup" / "anthropic-api-key.txt"
 
 # ---------------------------------------------------------------------------
 # Constanten
@@ -578,14 +579,16 @@ def main():
     week_str = args.week or week_str_for_next_week()
     print(f"\n=== Weekmenu Generator — {week_str} ===\n")
 
-    # Controleer API key
+    # Laad API key uit bestand; omgevingsvariabele heeft voorrang
     if not os.environ.get("ANTHROPIC_API_KEY"):
-        print(
-            "Fout: de omgevingsvariabele ANTHROPIC_API_KEY is niet ingesteld.\n"
-            "Stel hem in via: setx ANTHROPIC_API_KEY sk-ant-...",
-            file=sys.stderr
-        )
-        sys.exit(1)
+        if not API_KEY_FILE.exists():
+            print(
+                f"Fout: API key niet gevonden.\n"
+                f"Verwacht op: {API_KEY_FILE}",
+                file=sys.stderr
+            )
+            sys.exit(1)
+        os.environ["ANTHROPIC_API_KEY"] = API_KEY_FILE.read_text(encoding="utf-8").strip()
 
     PLANS_DIR.mkdir(exist_ok=True)
 
