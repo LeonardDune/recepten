@@ -432,18 +432,42 @@ def build_shopping_list(
         for title in all_recipes:
             ingredient_block += f"\n### {title}\n{ingredients_per_recipe.get(title, '(niet gevonden)')}\n"
 
-    prompt = f"""Maak een overzichtelijke boodschappenlijst in Markdown op basis van onderstaande ingrediënten.
+    prompt = f"""Maak een boodschappenlijst op basis van onderstaande ingrediënten.
 
 {ingredient_block}
 
-Vereisten:
-- Groepeer in categorieën: **Groenten & Fruit**, **Vlees, Vis & Vleeswaren**, **Zuivel & Eieren**,
-  **Droog & Conserven**, **Kruiden & Specerijen**, **Sauzen & Overig**
-- Tel hoeveelheden op als hetzelfde ingrediënt in meerdere recepten voorkomt
-- Voeg achter elk item tussen haakjes toe welk(e) recept(en) het gebruiken
-- Sorteer alfabetisch binnen elke categorie
-- Gebruik checkboxes: `- [ ] ingrediënt (hoeveelheid) — Recept A, Recept B`
-- Geef ALLEEN de Markdown-inhoud terug, geen inleiding of uitleg"""
+REGELS — lees ze goed:
+
+1. **Één ingredient per regel.** Combineer nooit twee verschillende ingrediënten op één regel.
+   Komkommer en aubergine zijn twee aparte regels.
+
+2. **Gebruik winkellogica voor hoeveelheden.**
+   - Groenten/fruit: stuks, bossen, zakjes (bijv. "3 uien", "1 bosje koriander", "400 g spitskool")
+   - Vlees/vis: gram of stuks (bijv. "500 g kipfilet", "4 zalmfilets")
+   - Gember: "een stuk gember" — nooit centimeters
+   - Knoflook: "1 bol knoflook" als je meer dan ~6 teentjes nodig hebt, anders "X teentjes knoflook"
+   - Sauzen/droog: fles, blik, zakje, theelepels (bijv. "1 blik kokosmelk", "ketoembar")
+   - Wanneer een hoeveelheid onbekend of heel klein is, schrijf dan alleen de naam
+
+3. **Tel hoeveelheden op** als hetzelfde ingrediënt in meerdere recepten voorkomt.
+   Rond af naar een praktische winkelhoeveelheid.
+
+4. **Geen receptnamen achter de ingrediënten.** De shopper hoeft niet te weten waar iets voor is.
+
+5. **Categorieën** (gebruik vette koppen):
+   **Groenten & Fruit** | **Vlees & Vis** | **Zuivel & Eieren** | **Droog & Conserven** | **Kruiden & Specerijen** | **Overig**
+
+6. Sorteer alfabetisch binnen elke categorie.
+
+7. Formaat per regel: `- ingrediëntnaam (hoeveelheid)`
+   Voorbeelden:
+   - komkommer (1 stuk)
+   - knoflook (1 bol)
+   - kipfilet (500 g)
+   - ketoembar
+   - kokosmelk (2 blikken)
+
+8. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
 
     response = client.messages.create(
         model=CLAUDE_MODEL,
