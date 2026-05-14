@@ -459,13 +459,13 @@ REGELS — lees ze goed:
 
 6. Sorteer alfabetisch binnen elke categorie.
 
-7. Formaat per regel: `- ingrediëntnaam (hoeveelheid)`
+7. Formaat per regel: `- [ ] ingrediëntnaam (hoeveelheid)`
    Voorbeelden:
-   - komkommer (1 stuk)
-   - knoflook (1 bol)
-   - kipfilet (500 g)
-   - ketoembar
-   - kokosmelk (2 blikken)
+   - [ ] komkommer (1 stuk)
+   - [ ] knoflook (1 bol)
+   - [ ] kipfilet (500 g)
+   - [ ] ketoembar
+   - [ ] kokosmelk (2 blikken)
 
 8. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
 
