@@ -250,9 +250,9 @@ def read_ingredients_section(title: str, title_to_file: dict[str, Path]) -> str:
 
     content = file.read_text(encoding="utf-8", errors="ignore")
     m = re.search(
-        r'##\s*[Ii]ngredI?[eë]nten[^\n]*\n(.*?)(?=\n##|\Z)',
+        r'##\s*Ingredi[eë]nten[^\n]*\n(.*?)(?=\n##|\Z)',
         content,
-        re.DOTALL
+        re.DOTALL | re.IGNORECASE
     )
     if m:
         return m.group(1).strip() or "(Lege ingrediëntenlijst)"
