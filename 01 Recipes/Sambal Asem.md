@@ -2,6 +2,10 @@
 title: "Sambal Asem"
 source: "https://pisangsusu.com/sambal-asem/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 4. Fruit de [[lombok]] en uien in de [[olie]].
 5. Voeg als de uien geel zijn het [[asem]]-suikermengsel toe.
 6. Laat zachtjes doorkoken tot de massa dik wordt.
+
+## Notities
+
+<!-- verwerkt -->

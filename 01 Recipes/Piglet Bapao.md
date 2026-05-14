@@ -2,6 +2,10 @@
 title: "Piglet Bapao"
 source: "https://pisangsusu.com/piglet-bapao/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 10. Bevochtig de plek boven de neus en plak twee zwarte [[sesamzaadjes]] als oogjes op de bapao.
 11. Stoom de bapao 15 minuten in bamboestomers in een wok.
 12. Serveer met [[zoete sojasaus]] of pittige chilisaus als dipsaus.
+
+## Notities
+
+<!-- verwerkt -->

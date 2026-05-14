@@ -2,6 +2,10 @@
 title: "Sambal Goreng Leek"
 source: "https://pisangsusu.com/sambal-goreng-leek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Voeg het blok [[santen]], de [[sereh]] en het [[salamblad]] toe. Voeg een scheutje water toe als het mengsel er droog uitziet.
 6. Laat het gerecht ongeveer 5 tot 6 minuten sudderen, totdat de [[olie]] uit de [[santen]] komt. Zorg ervoor dat de [[prei]] niet volledig gaar is.
 7. Verwijder voor het serveren het citroengras en het [[salamblad]].
+
+## Notities
+
+<!-- verwerkt -->

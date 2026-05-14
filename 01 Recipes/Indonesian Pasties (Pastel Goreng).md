@@ -2,6 +2,10 @@
 title: "Indonesian Pasties (Pastel Goreng)"
 source: "https://pisangsusu.com/indonesian-pasties-pastel-goreng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 11. Frituur de pasties circa 6 minuten tot ze goudbruin zijn. Test de eerste pasty door hem door te snijden om te controleren of de vulling gaar is.
 12. Laat de pasties uitlekken op keukenpapier.
 13. Serveer met zoetzure chilisaus. Optioneel: laat afkoelen, vries in en verwarm later in de oven op 200 graden Celsius gedurende 10 minuten.
+
+## Notities
+
+<!-- verwerkt -->

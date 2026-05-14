@@ -2,6 +2,10 @@
 title: "Indonesian Pork Stew - Dayak Pork Stew with Tomato"
 source: "https://pisangsusu.com/143-pork-stew-tomato-dayak/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Laat het vlees zachtjes sudderen op laag vuur gedurende ongeveer 10 minuten.
 5. Voeg de [[tomaten]] toe en laat nog ongeveer 5 minuten sudderen totdat de [[tomaten]] zacht zijn.
 6. Serveer met witte rijst en een groentegerecht of acar.
+
+## Notities
+
+<!-- verwerkt -->

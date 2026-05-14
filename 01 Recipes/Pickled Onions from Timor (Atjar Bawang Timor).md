@@ -2,6 +2,10 @@
 title: "Pickled Onions from Timor (Atjar Bawang Timor)"
 source: "https://pisangsusu.com/pickled-onions-from-timor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Laat het mengsel afkoelen.
 6. Droog de uien met een doek, doe ze in een weckpot en giet de kruiden[[azijn]] erover.
 7. Bewaar de ingelegde uien een paar dagen in de koelkast zodat de uien de [[azijn]]smaak kunnen opnemen.
+
+## Notities
+
+<!-- verwerkt -->

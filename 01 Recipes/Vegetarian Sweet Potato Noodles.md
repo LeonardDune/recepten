@@ -2,6 +2,10 @@
 title: "Vegetarian Sweet Potato Noodles"
 source: "https://pisangsusu.com/vegetarian-sweet-potato-noodles/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Maak ondertussen roerei van de 2 eieren met wat zout en peper.
 7. Voeg het roerei toe aan het noodlemengsel.
 8. Serveer met [[hoisinsaus]] en bestrooi met [[sesamzaadjes]].
+
+## Notities
+
+<!-- verwerkt -->

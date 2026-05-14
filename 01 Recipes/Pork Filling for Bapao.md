@@ -2,6 +2,10 @@
 title: "Pork Filling for Bapao"
 source: "https://pisangsusu.com/533-filling-bakpao/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 3. Verlaag het vuur en kook ongeveer 1 minuut.
 4. Voeg de uien, [[knoflook]]sap, [[selderij]], [[suiker]] en [[sojasaus]] toe en kook nog 2 minuten.
 5. Laat afkoelen en vul de bapao-broodjes.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Rijst koken met klassieke rijststomer"
 source: "https://pisangsusu.com/rijst-koken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -32,3 +36,7 @@ tags:
 6. Doe een laag [[water]] in de onderste pan en plaats het met rijst gevulde vergiet er bovenop.
 7. Zet opnieuw op hoog vuur. Zodra het [[water]] stoomt, laat de rijst nog 10 minuten doorstomen.
 8. De rijst is klaar.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Goreng Buncis (Green Beans)"
 source: "https://pisangsusu.com/sambal-goreng-buncis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 7. Laat het gerecht op laag vuur sudderen totdat de bonen half gaar zijn – zeker niet helemaal doorgekookt.
 8. Laat het geheel nog 5 à 6 minuten sudderen totdat de [[olie]] uit de [[santen]] komt.
 9. Verwijder de [[sereh]] en het [[salamblad]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Raisin bread with spices"
 source: "https://pisangsusu.com/raisin-bread-with-spices/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Leg het deeg in een ingevette broodvorm en laat het nog 1 uur rijzen.
 7. Bak het brood in de oven op 200 graden gedurende 35 minuten.
 8. Bestrijk het brood direct uit de oven licht met wat [[boter]] en laat het buiten de vorm afkoelen op een rooster.
+
+## Notities
+
+<!-- verwerkt -->

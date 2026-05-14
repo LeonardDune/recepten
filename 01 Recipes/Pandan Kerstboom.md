@@ -2,6 +2,10 @@
 title: "Pandan Kerstboom"
 source: "https://pisangsusu.com/padan-meringue-kerstboom/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 10. Laat 15 minuten afkoelen in een half open oven.
 11. Haal de schijven voorzichtig van het bakpapier.
 12. Bouw de boom op vlak voor het opdienen door de schijven van groot naar klein te stapelen en bestrooi met [[poedersuiker]].
+
+## Notities
+
+<!-- verwerkt -->

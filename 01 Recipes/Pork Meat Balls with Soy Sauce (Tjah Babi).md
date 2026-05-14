@@ -2,6 +2,10 @@
 title: "Pork Meat Balls with Soy Sauce (Tjah Babi)"
 source: "https://pisangsusu.com/184-gehaktballetjes-with-soy-sauce-tjah-babi/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 5. Voeg de [[sojasaus]] en het kookvocht van de gehaktballen toe.
 6. Laat de ballen nog een paar minuten sudderen in het vocht om ze weer op te warmen.
 7. Serveer met roergebakken broccoli en witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

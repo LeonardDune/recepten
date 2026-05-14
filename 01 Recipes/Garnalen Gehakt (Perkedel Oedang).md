@@ -2,6 +2,10 @@
 title: "Garnalen Gehakt (Perkedel Oedang)"
 source: "https://pisangsusu.com/garnalen-gehakt-ii-perkedel-oedang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,8 +16,7 @@ tags:
   - balletjes
   - gebakken
   - zeevruchten
-  - boemboe
----
+  - boemboe---
 
 # Garnalen Gehakt (Perkedel Oedang)
 
@@ -40,3 +43,7 @@ tags:
 4. Klop de eieren met de [[maizena]] en kneed het goed door de massa totdat alles goed gemengd en licht plakkerig is.
 5. Vorm er balletjes van (ongeveer pingpong grootte).
 6. Bak de balletjes in [[olie]] goudbruin door ze voorzichtig rondom te rollen.
+
+## Notities
+
+<!-- verwerkt -->

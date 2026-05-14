@@ -2,6 +2,10 @@
 title: "Minced Chicken in Oven Dish"
 source: "https://pisangsusu.com/minced-chicken-oven-dish/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 7. Bestrooi het geheel met [[paneermeel]] en leg er een paar klontjes [[boter]] op.
 8. Bak de ovenschotel 40 minuten in de oven op 180 graden Celsius. Controleer na een half uur of het vlees gaar is.
 9. Serveer met witte rijst, komkommersalade en sambal.
+
+## Notities
+
+<!-- verwerkt -->

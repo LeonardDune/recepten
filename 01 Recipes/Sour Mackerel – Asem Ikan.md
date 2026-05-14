@@ -2,6 +2,10 @@
 title: "Sour Mackerel – Asem Ikan"
 source: "https://pisangsusu.com/sour-mackerel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Dek de pan af en laat de vis 10 minuten sudderen op laag vuur.
 6. Draai de vis voorzichtig om en laat nog 5 minuten sudderen.
 7. Leg de vis op een bord, giet de saus erover en garneer eventueel met (Thaise) basilicum.
+
+## Notities
+
+<!-- verwerkt -->

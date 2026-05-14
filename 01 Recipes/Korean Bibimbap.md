@@ -2,6 +2,10 @@
 title: "Korean Bibimbap"
 source: "https://pisangsusu.com/korean-bibimbap/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -62,3 +66,7 @@ tags:
 11. Voeg de olie, [[suiker]], [[taoco]], [[chilipoeder]] en azijn toe en maal tot een pasta.
 12. Voeg [[water]] en [[zout]]e sojasaus toe zodat het een (dikke) saus wordt.
 13. Serveer de rode saus naast de bibimbap of klodder er bovenop.
+
+## Notities
+
+<!-- verwerkt -->

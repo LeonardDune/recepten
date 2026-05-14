@@ -2,6 +2,10 @@
 title: "Es Cendol or Dawet"
 source: "https://pisangsusu.com/cendol-dawet-indonesian-dessert/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,8 +20,7 @@ tags:
   - dawet
   - aziatisch
   - vegetarisch
-  - vegan
----
+  - vegan---
 
 # Es Cendol or Dawet
 
@@ -60,3 +63,7 @@ tags:
 10. Vul een cocktailglas voor een derde met cendol en wat cendol[[water]] en een paar [[ijsblokjes]].
 11. Vul het glas met [[kokosmelk]] en giet de palm[[suiker]]siroop in het midden.
 12. Meng de lagen voor het serveren en eet direct.
+
+## Notities
+
+<!-- verwerkt -->

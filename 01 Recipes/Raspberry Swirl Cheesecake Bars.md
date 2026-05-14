@@ -2,6 +2,10 @@
 title: "Raspberry Swirl Cheesecake Bars"
 source: "https://www.bbcgoodfood.com/recipes/piri-piri-chicken-sweet-potato-fry-traybake"
 date_added: 2026-05-08
+cuisine: internationaal
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - cheesecake
@@ -44,3 +48,7 @@ tags:
 9. Bak de bars 40 tot 50 minuten, of totdat het cheesecakebeslag nog een klein beetje wiebelt als de pan wordt geschud.
 10. Laat 15 minuten afkoelen op een rooster, zet dan in de koelkast om volledig op te stijven.
 11. Gebruik het bakpapier om de koele bars voorzichtig uit de vorm te tillen op een snijplank. Snijd in 16 vierkanten. Veeg het mes schoon tussen elke snede voor netheid.
+
+## Notities
+
+<!-- verwerkt -->

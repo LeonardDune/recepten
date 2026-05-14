@@ -2,6 +2,10 @@
 title: "Sambal Goreng with Field Peas"
 source: "https://pisangsusu.com/sambal-goreng-with-field-peas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Simmer on low heat for about 5 minutes until the sauce reduces slightly and the oil from the [[santen]] floats to the surface.
 6. Remove the [[sereh]] and [[salam]] leaf before serving.
 7. Optionally sprinkle a few drops of lemon juice over the dish just before serving.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Spekkoek Bolletjes - Noorse broodjes op z'n Indisch"
 source: "https://pisangsusu.com/spekkoek-bolletjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -54,3 +58,7 @@ tags:
 10. Leg de gevormde bolletjes op bakpapier en laat ze nog 45 minuten rijzen tot ze twee keer zo groot worden.
 11. Verwarm de oven voor op 225 graden. Smeer de bolletjes in met een geklutst ei en bestrooi ze met wat donkerbruine basterd[[suiker]].
 12. Bak de spekkoek bolletjes 15 minuten in de voorverwarmde oven tot ze diep goudbruin zijn. Houd ze goed in de gaten, want elke oven is anders.
+
+## Notities
+
+<!-- verwerkt -->

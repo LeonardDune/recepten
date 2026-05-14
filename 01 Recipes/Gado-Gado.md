@@ -2,6 +2,10 @@
 title: "Gado-Gado"
 source: "https://pisangsusu.com/451-gado-gado-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - krupuk
   - emping
   - klassiek
-  - gado-gado
----
+  - gado-gado---
 
 # Gado-Gado
 
@@ -59,3 +62,7 @@ tags:
 8. Giet de pindasaus erover en garneer met de gebakken stukjes [[tofu]] en [[tempeh]], de emping en garnalencrackers.
 9. Voeg gesneden [[komkommer]] toe, ongepeld maar met de zaden verwijderd.
 10. Bestrooi met de gebakken uien en gehakte [[selderij]].
+
+## Notities
+
+<!-- verwerkt -->

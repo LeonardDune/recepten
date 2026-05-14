@@ -2,6 +2,10 @@
 title: "Kue Lapis Cupcakes"
 source: "https://pisangsusu.com/kue-lapis-cupcakes-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 7. Zet de kue lapis cupcakes minimaal 30 minuten in de koelkast.
 8. Snijd de cupcakes in dunne plakjes van 1 cm met een scherp mes dat licht ingevet is met olie.
 9. Serveer met groene thee of kokosijs.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Eggs with Petis - Eggs with Shrimp Coconut Sauce"
 source: "https://pisangsusu.com/eggs-with-petis-eggs-with-shrimp-coconut-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - garnalen
   - sereh
   - glutenvrij
-  - rijst
----
+  - rijst---
 
 # Eggs with Petis - Eggs with Shrimp Coconut Sauce
 
@@ -44,3 +47,7 @@ tags:
 5. Breng het geheel aan de kook en leg de [[eieren]] voorzichtig in de saus.
 6. Laat alles ongeveer 8-10 minuten sudderen totdat de saus indikt.
 7. Verdeel wat [[lamsoor]] over de bovenkant en besprenkel met het sap van de jeruk of gewone [[citroen]] vlak voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Rujak - Indonesian Sweet and Sour Fruit and Veggie Salad"
 source: "https://pisangsusu.com/rudjak/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Meng de stukken fruit en groente door de saus.
 6. Zorg dat de saus goed verdeeld is over alle ingrediënten.
 7. Laat het gerecht bij voorkeur een nacht in de koelkast staan voor een nog betere smaak.
+
+## Notities
+
+<!-- verwerkt -->

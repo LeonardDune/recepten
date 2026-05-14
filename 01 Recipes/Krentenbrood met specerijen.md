@@ -2,6 +2,10 @@
 title: "Krentenbrood met specerijen"
 source: "https://pisangsusu.com/krentenbrood-met-specerijen/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 7. Leg het deeg in een ingevet bakblik en laat wederom 1 uur rijzen.
 8. Bak het brood in een oven van 200 graden gedurende 35 minuten.
 9. Bestrijk het brood direct uit de oven dun met wat boter en laat het uit de vorm afkoelen op een ovenrekje.
+
+## Notities
+
+<!-- verwerkt -->

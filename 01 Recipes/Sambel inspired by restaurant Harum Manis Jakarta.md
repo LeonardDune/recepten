@@ -2,6 +2,10 @@
 title: "Sambel inspired by restaurant Harum Manis Jakarta"
 source: "https://pisangsusu.com/sambal-inspired-by-restaurant-harum-manis-jkt/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 2. Voeg alles toe aan een vijzel en stamp samen met de [[trassi]], het [[zout]] en de [[suiker]] totdat alles goed gemengd en papperig is.
 3. Voeg het [[citroensap]] en de [[tamarinde]] toe en meng goed.
 4. Serveer rauw met de ge[[zout]]en visjes erbovenop.
+
+## Notities
+
+<!-- verwerkt -->

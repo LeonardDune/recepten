@@ -2,6 +2,10 @@
 title: "Pandan Extract"
 source: "https://pisangsusu.com/pandan-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -29,3 +33,7 @@ tags:
 3. Zeef het mengsel door een theedoek en knijp goed uit. Het [[water]] is nu mooi groen; dit is pandan[[water]].
 4. Laat het pandan[[water]] minimaal 24 uur staan zodat er bezinksel ontstaat. Dit bezinksel is het pandanextract.
 5. Schep voorzichtig het [[water]] bovenop weg. Het overgebleven bezinksel is het pandanextract.
+
+## Notities
+
+<!-- verwerkt -->

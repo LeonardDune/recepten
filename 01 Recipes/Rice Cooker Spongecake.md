@@ -2,6 +2,10 @@
 title: "Rice Cooker Spongecake"
 source: "https://pisangsusu.com/rice-cooker-spongecake/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 5. Plaats in de rijstkoker en bak op de 'dessert' stand.
 6. Zodra de rijstkoker het 'warm houden' lampje toont, haal de cake eruit. Let op: houd je hoofd niet boven het deksel wanneer je het opent, omdat er veel hitte en stoom vrijkomt.
 7. Keer de cake op een rooster om af te koelen.
+
+## Notities
+
+<!-- verwerkt -->

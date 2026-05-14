@@ -2,6 +2,10 @@
 title: "Sambal Goreng of Meat"
 source: "https://pisangsusu.com/sambal-goreng-meat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Voeg het asemwater, het blok santen, de sereh, de [[citroenbladeren]] en het salamblad toe.
 6. Laat alles samen sudderen totdat het [[vlees]] gaar is (voor varkens[[vlees]] ongeveer 10 minuten op middelhoog vuur).
 7. Haal de pan van het vuur en laat het [[vlees]] 5 minuten rusten in de pan voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

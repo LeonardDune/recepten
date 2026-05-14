@@ -2,6 +2,10 @@
 title: "Koude Wortel Soep (Wortel Gazpacho)"
 source: "https://pisangsusu.com/koude-wortel-soep/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 5. Voeg beetje voor beetje koude [[melk]] toe en blend telkens opnieuw tot een romige soep.
 6. Voeg een mespuntje [[zout]] toe.
 7. Serveer met [[peterselie]] of [[munt]] en eventueel een scheutje [[olijfolie]].
+
+## Notities
+
+<!-- verwerkt -->

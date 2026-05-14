@@ -2,6 +2,10 @@
 title: "Vegan Tofu Shiitake Spring Rolls"
 source: "https://pisangsusu.com/vegan-tofu-shiitake-springroll/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 11. Rol volledig dicht en plak de bovenste punt ook vast met [[water]].
 12. Frituur de loempia's goudbruin in de olie en serveer warm en knapperig.
 13. Serveer met zoete sojasaus, pindasaus, zoetzure chilisaus of hoisinsaus.
+
+## Notities
+
+<!-- verwerkt -->

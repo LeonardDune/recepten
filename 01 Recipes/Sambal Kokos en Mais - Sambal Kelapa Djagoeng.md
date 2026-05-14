@@ -2,6 +2,10 @@
 title: "Sambal Kokos en Mais - Sambal Kelapa Djagoeng"
 source: "https://pisangsusu.com/sambal-kelapa-djagoeng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 1. Doe alle ingrediënten bij elkaar in een tjobek (vijzel) en meng goed door elkaar.
 2. Optioneel: als je verse [[mais]] gebruikt, kan eventueel wat Javaanse suiker worden toegevoegd.
 3. Schep de sambal op en serveer direct. Deze sambal kan niet lang bewaard blijven, ook niet in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

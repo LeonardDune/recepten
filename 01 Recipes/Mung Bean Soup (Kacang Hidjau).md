@@ -2,6 +2,10 @@
 title: "Mung Bean Soup (Kacang Hidjau)"
 source: "https://pisangsusu.com/mung-bean-soup-kacang-hidjau/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 7. Giet de [[bouillon]] erbij en proef of er nog zout nodig is.
 8. Roer alles goed door en laat de soep nog een paar minuten zachtjes sudderen.
 9. Serveer de soep met gebakken uitjes bovenop en eventueel sambal naar smaak.
+
+## Notities
+
+<!-- verwerkt -->

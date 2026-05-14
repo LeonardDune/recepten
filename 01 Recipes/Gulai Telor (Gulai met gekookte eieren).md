@@ -2,6 +2,10 @@
 title: "Gulai Telor (Gulai met gekookte eieren)"
 source: "https://pisangsusu.com/326-gulai-with-boiled-eggs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - tamarinde
   - snel
   - authentiek
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gulai Telor (Gulai met gekookte eieren)
 
@@ -41,3 +44,7 @@ tags:
 4. Voeg het kruidenpasta-mengsel toe aan de kokende [[bouillon]].
 5. Voeg de gepelde [[eieren]] toe en laat alles nog een paar minuten zachtjes sudderen.
 6. Serveer direct. Selamat makan!
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Soto Sumatra"
 source: "https://pisangsusu.com/soto-sumatra-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -66,3 +70,7 @@ tags:
 10. Bak de rest van de uien in de [[olie]] goudbruin en knapperig en snijd ook de gepelde [[eieren]] in partjes.
 11. Rangschik al deze apart bereide ingrediënten op kleine schaaltjes; doe hetzelfde met de gehakte [[bieslook]].
 12. Giet de bouillon met het [[kip]]penvlees in een terrine en serveer met [[rijst]], [[taugé]], [[aardappelen]], [[tomaten]], [[eieren]], uien, [[bieslook]] en [[emping]].
+
+## Notities
+
+<!-- verwerkt -->

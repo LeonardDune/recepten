@@ -2,6 +2,10 @@
 title: "Klepon – kleefrijstballetjes"
 source: "https://pisangsusu.com/klepon/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 6. Kook de balletjes tot ze gaan drijven (ongeveer 1 minuut). Voor een nog zachtere suiker binnenin kun je ze een half minuutje langer laten doorkoken.
 7. Schep de klepon uit het [[water]] en laat ze even rusten in een bak zodat je ze met de hand kunt aanpakken.
 8. Rol de klepon door de [[kokosrasp]] en serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

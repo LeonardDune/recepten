@@ -2,6 +2,10 @@
 title: "Sambal Goreng van Ei"
 source: "https://pisangsusu.com/sambal-goreng-ei/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Voeg de gekookte [[eieren]] in hun geheel toe en laat ze ongeveer 10 minuten zachtjes stoven totdat de saus mooi dik en plakkerig is en de [[olie]] uit de [[santen]] boven komt drijven.
 6. Verwijder de [[sereh]] en het [[salam]]blaadje.
 7. Halveer de [[eieren]], rangschik ze op een schaaltje en giet de saus er overheen.
+
+## Notities
+
+<!-- verwerkt -->

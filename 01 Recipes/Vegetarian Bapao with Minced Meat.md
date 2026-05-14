@@ -2,6 +2,10 @@
 title: "Vegetarian Bapao with Minced Meat"
 source: "https://pisangsusu.com/bapao-vegetarian-minced-meat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 12. Breng [[water]] aan de kook in een wok en plaats de bamboestomer erop (zorg dat de stomer het [[water]] niet raakt).
 13. Stoom de bapao 15 minuten. Stoom nooit meer dan één laag tegelijk.
 14. Laat afkoelen en serveer met [[zoete sojasaus]] of zoete chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

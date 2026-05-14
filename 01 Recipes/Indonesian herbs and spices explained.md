@@ -2,6 +2,10 @@
 title: "Indonesian herbs and spices explained"
 source: "https://pisangsusu.com/indonesian-herbs-and-spices-explained-1/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: artikel
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -23,4 +27,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

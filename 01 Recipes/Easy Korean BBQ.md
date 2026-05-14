@@ -2,6 +2,10 @@
 title: "Easy Korean BBQ"
 source: "https://pisangsusu.com/easy-korean-bbq/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: condiment
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -19,8 +23,7 @@ tags:
   - sushi rijst
   - botersla
   - zomer
-  - wrap
----
+  - wrap---
 
 # Easy Korean BBQ
 
@@ -64,3 +67,7 @@ tags:
 10. Maak optioneel een [[miso]] [[mayonaise]] door 1 theelepel [[miso]] te mengen met 2 eetlepels [[mayonaise]].
 11. Maak optioneel een coleslaw van [[witte kool]] met een saus van [[mayonaise]], [[mosterd]] en [[suiker]].
 12. Rol een reepje vlees samen met wat rijst en eventueel wat salade in een blad [[botersla]] en dip in [[hoisin saus]] of [[miso]] [[mayonaise]].
+
+## Notities
+
+<!-- verwerkt -->

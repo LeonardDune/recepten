@@ -2,6 +2,10 @@
 title: "Fried Tempeh (Tempe Goreng)"
 source: "https://pisangsusu.com/367-tempe-goreng-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - snack
   - tamarinde
   - makkelijk
-  - tempe goreng
----
+  - tempe goreng---
 
 # Fried Tempeh (Tempe Goreng)
 
@@ -37,3 +40,7 @@ tags:
 6. Bak 4 à 5 plakjes tegelijk (niet te veel tegelijk, anders koelt de olie te snel af).
 7. Bak de plakjes goudbruin en knapperig, ongeveer 4 minuten.
 8. Serveer eventueel met sambal badjak.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Indonesische pastei (pastel)"
 source: "https://pisangsusu.com/indonesian-pie-pastel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 9. Bedek de laag eiplakjes met een laag aardappelpuree.
 10. Strooi [[paneermeel]] erover en verdeel klontjes [[boter]] over het gehele oppervlak.
 11. Zet de schaal in een oven op 250 graden C (gasstand 5-6) gedurende ongeveer 30 minuten, of op 200 graden hetelucht gedurende 25 minuten, tot er een bruin korstje op zit.
+
+## Notities
+
+<!-- verwerkt -->

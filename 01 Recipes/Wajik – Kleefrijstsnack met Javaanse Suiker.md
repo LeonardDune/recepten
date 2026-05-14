@@ -2,6 +2,10 @@
 title: "Wajik – Kleefrijstsnack met Javaanse Suiker"
 source: "https://pisangsusu.com/wajik/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 12. Haal de wajik uit de vriezer, til hem aan het bakpapier uit de vorm en keer hem om op een nieuw stuk bakpapier. Trek het bakpapier voorzichtig los van de onderkant.
 13. Doe de omgekeerde wajik terug in de vorm en laat de onderkant nog even drogen op het aanrecht. Zet nog 10 minuten terug in de vriezer.
 14. Snij de wajik in stukken: snij de plak in 25 vierkantjes en snij elk vierkantje schuin door voor driehoekjes. Bewaar met bakpapiertjes tussen de stukjes.
+
+## Notities
+
+<!-- verwerkt -->

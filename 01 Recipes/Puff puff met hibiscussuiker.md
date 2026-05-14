@@ -2,6 +2,10 @@
 title: "Puff puff met hibiscussuiker"
 source: "https://www.culy.nl/recepten/puff-puff/"
 date_added: 2026-04-28
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - west-afrikaans
@@ -40,3 +44,7 @@ tags:
 8. Maak ondertussen de hibiscus[[suiker]]: maal de [[hibiscus[[bloem]]en]] fijn en voeg de [[suiker]] toe. Meng tot een fijn mengsel, het beste in een keukenmachine.
 9. Bestrooi de puff puff met de hibiscus[[suiker]] en schud goed, zodat alle deegballetjes zijn bedekt.
 10. Serveer terwijl ze nog warm zijn of afgekoeld.
+
+## Notities
+
+<!-- verwerkt -->

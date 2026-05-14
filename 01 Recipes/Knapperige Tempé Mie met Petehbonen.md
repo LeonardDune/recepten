@@ -2,6 +2,10 @@
 title: "Knapperige Tempé Mie met Petehbonen"
 source: "https://pisangsusu.com/knapperige-tempe-mie/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 9. Overgiet de noodles vlak voor gebruik met warm [[water]] en voeg ze toe aan de [[knoflook]]-[[prei]] mix.
 10. Maak de schaaltjes op: schep eerst wat mie, dan wat [[sla]], dan weer wat mie. Garneer met [[cherry tomaten]], een stinkboontje en steek de knapperige [[tempé]] er bovenop.
 11. Serveer met extra Kikkoman [[sojasaus]] erbij.
+
+## Notities
+
+<!-- verwerkt -->

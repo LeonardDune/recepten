@@ -2,6 +2,10 @@
 title: "Ketoprak - Veganistische Indische Salade"
 source: "https://pisangsusu.com/ketoprak/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 7. Meng de uitgebakken [[tahoe]] goed door de saus (zet het vuur uit).
 8. Voeg daarna de [[kool]], [[taogé]] en [[selderie]] toe en schep alles goed door elkaar.
 9. Dien het gerecht op bestrooid met de gebakken uien en de gehakte [[bieslook]].
+
+## Notities
+
+<!-- verwerkt -->

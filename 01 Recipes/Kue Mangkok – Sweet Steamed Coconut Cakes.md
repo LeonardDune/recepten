@@ -2,6 +2,10 @@
 title: "Kue Mangkok – Sweet Steamed Coconut Cakes"
 source: "https://pisangsusu.com/kue-mangkok-sweet-steamed-cakes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 5. Plaats de bekertjes netjes in de vergiet van de stomer.
 6. Wikkel een schone theedoek over het deksel en stoom de cakejes 40 minuten. Niet kijken tussendoor, want dat kan voorkomen dat ze bovenaan openbarsten.
 7. Na 40 minuten zijn ze als tulpen opengegaan. Bestrooi ze met kokos of rooster wat [[geraspte kokos]] in een pan zonder boter of olie voor een nootachtige smaak.
+
+## Notities
+
+<!-- verwerkt -->

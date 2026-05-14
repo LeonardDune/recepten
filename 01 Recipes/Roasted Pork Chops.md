@@ -2,6 +2,10 @@
 title: "Roasted Pork Chops"
 source: "https://pisangsusu.com/526-roasted-pork-chops/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 8. Haal ze opnieuw uit de oven, bestrijk met [[olie]] gemengd met een theelepel [[suiker]].
 9. Verhoog de oventemperatuur naar 250 graden Celsius en bak nog 5 minuten tot de buitenkant knapperig is.
 10. Serveer met [[sojasaus]], zoetzure saus, [[gember]]saus of een gecombineerde groentesaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "How to Cook Asparagus"
 source: "https://www.bbcgoodfood.com/recipes/tamales"
 date_added: 2026-05-09
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - asperges
@@ -32,3 +36,7 @@ tags:
 2. Breek de houtige uiteinden van de [[asperges]] af op de plek waar ze van nature breken.
 3. Leg de [[asperges]] op een bakplaat, besprenkel met olie en breng op smaak met [[zout]] en [[peper]].
 4. Rooster 12 minuten in de oven tot ze gaar zijn.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Tollo Pamarasan (Toradja)"
 source: "https://pisangsusu.com/tollo-pamarasan-toradja/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Laat het geheel langzaam aan de kook komen en laat het zachtjes sudderen. Voeg ook de [[zwarte peperkorrels]] toe.
 7. Na 30 minuten de staafjes [[prei]] toevoegen en nog 10 minuten laten doorkoken tot het vlees gaar is (totaal ± 40 minuten sudderen).
 8. Voeg vlak voor het opdienen de fijngehakte [[bieslook]] toe zodat de steeltjes knapperig blijven.
+
+## Notities
+
+<!-- verwerkt -->

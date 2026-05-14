@@ -2,6 +2,10 @@
 title: "Kue Pisang Nagasari"
 source: "https://pisangsusu.com/kue-pisang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 11. Schep een eetlepel beslag in het midden van een [[bananenblad]], voeg twee stukken [[banaan]] toe en bedek met nog een eetlepel beslag en vouw dicht.
 12. Plaats de kue pisang in een bamboe stoommandje of vergiet boven kokend heet [[water]] en stoom 15 minuten.
 13. Laat afkoelen op het aanrecht en bewaar daarna in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

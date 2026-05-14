@@ -2,6 +2,10 @@
 title: "Sambal Petai"
 source: "https://pisangsusu.com/sambal-petai/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 9. Voeg de [[petai bonen]] toe aan de sambal en laat nog 5 minuten sudderen.
 10. Controleer af en toe de dikte van de saus en pas aan naar wens.
 11. Bewaar de sambal in een goed schoongemaakte pot die eerst gespoeld is met kokend [[water]]. De sambal is wekenlang houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

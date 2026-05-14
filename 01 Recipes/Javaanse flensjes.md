@@ -2,6 +2,10 @@
 title: "Javaanse flensjes"
 source: "https://pisangsusu.com/569-javaanse-flensjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 1. Maak op de gewone manier van de ingrediënten ([[zelfrijzend bakmeel]], dikke santen, ei, [[kaneel]] en [[zout]]) een flensjesbeslag. Doe alles in een beslagkom en roer stevig tot een glad beslag.
 2. Bak de flensjes in een flensjespan, maar iets dikker dan de Hollandse flensjes.
 3. Rasp er [[javaanse suiker]] overheen en rol ze op, of vul ze met een mengsel van [[kokosmeel]] en [[suiker]].
+
+## Notities
+
+<!-- verwerkt -->

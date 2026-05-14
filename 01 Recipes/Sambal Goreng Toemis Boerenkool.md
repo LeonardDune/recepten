@@ -2,6 +2,10 @@
 title: "Sambal Goreng Toemis Boerenkool"
 source: "https://pisangsusu.com/sambal-goreng-toemis-boerenkool/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Voeg de sherry tomaatjes (in stukjes) toe en bak mee.
 8. Voeg de [[boerenkool]] toe en laat het geheel op laag vuur gaar worden, zeker 15 minuten.
 9. Proef tijdens het sudderen of de kool gaar genoeg is en serveer.
+
+## Notities
+
+<!-- verwerkt -->

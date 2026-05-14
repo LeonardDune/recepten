@@ -2,6 +2,10 @@
 title: "Rawon Surabaya"
 source: "https://pisangsusu.com/rawon-surabaya/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 6. Breng op smaak met [[sojasaus]] en laat het geheel sudderen totdat het vlees gaar is (ongeveer 1 tot 1,5 uur), met het deksel op de pan.
 7. Verwijder het deksel de laatste 30 minuten zodat de saus iets kan inkoken. Laat de saus niet te veel inkoken; rawon wordt het best geserveerd als een rijke, vrij vloeibare soep.
 8. Serveer met witte rijst en eventueel zelfgemaakte acar.
+
+## Notities
+
+<!-- verwerkt -->

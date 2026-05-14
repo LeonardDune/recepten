@@ -2,6 +2,10 @@
 title: "Pickled Tomato and Cucumber Chutney without vinegar (Atjar Tanpa Tjuka)"
 source: "https://pisangsusu.com/pickled-tomato-cucumber-chutney/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 6. Voeg de [[sjalotten]] en chili[[peper]]s toe en meng kort. De [[sjalotten]] mogen niet uit elkaar vallen.
 7. Voeg de rest van de groenten toe en meng goed door elkaar.
 8. Voeg het [[citroensap]] toe, breng het gerecht aan de kook en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

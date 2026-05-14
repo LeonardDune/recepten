@@ -2,6 +2,10 @@
 title: "Sambal Goreng Hati (Lever)"
 source: "https://pisangsusu.com/sambal-goreng-hati-liver/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Laat alles nog 5 tot 6 minuten zachtjes sudderen totdat de [[lever]] gaar is en de saus iets indikt. Let op: [[lever]] die te lang gekookt wordt, wordt taai.
 7. Verwijder de sereh en het [[salamblad]] voor het serveren.
 8. Serveer met witte rijst en acar.
+
+## Notities
+
+<!-- verwerkt -->

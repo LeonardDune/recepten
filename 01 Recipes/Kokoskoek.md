@@ -2,6 +2,10 @@
 title: "Kokoskoek"
 source: "https://pisangsusu.com/568-kokoskoek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 6. Laat de kokoskoek afkoelen voordat je hem aansnijdt.
 7. Trek het bakpapier voorzichtig los en snij de koek aan.
 8. Bewaar resterende koek in een luchtdichte koektrommel met een velletje keukenrol erin.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Steamed Coconut Buns (Pisang Susu)"
 source: "https://pisangsusu.com/steamed-coconut-buns/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 6. Verdeel het deeg in gelijkmatige kleine balletjes en leg ze in een muffinvorm of op een stukje bakpapier in een stoommandje.
 7. Stoom de broodjes met het deksel erop gedurende 10 minuten.
 8. Serveer warm, eventueel met ijs of een vulling naar keuze.
+
+## Notities
+
+<!-- verwerkt -->

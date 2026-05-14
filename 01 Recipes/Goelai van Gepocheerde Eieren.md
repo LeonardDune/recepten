@@ -2,6 +2,10 @@
 title: "Goelai van Gepocheerde Eieren"
 source: "https://pisangsusu.com/328-goelai-van-gepocheerde-eieren-iii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - gepocheerd
   - snel
   - kerst
-  - pasen
----
+  - pasen---
 
 # Goelai van Gepocheerde Eieren
 
@@ -34,3 +37,7 @@ tags:
 2. Voeg wanneer de [[santen]] is opgelost, de [[uien]] en de [[lombok]] aan toe.
 3. Pocheer in deze saus voorzichtig één voor één de [[eieren]].
 4. Laat de [[eieren]] ongeveer 5 tot 10 minuten zachtjes meepruttelen in de saus.
+
+## Notities
+
+<!-- verwerkt -->

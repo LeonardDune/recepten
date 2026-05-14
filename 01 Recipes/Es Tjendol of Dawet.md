@@ -2,6 +2,10 @@
 title: "Es Tjendol of Dawet"
 source: "https://pisangsusu.com/tjendol/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -21,8 +25,7 @@ tags:
   - zomer
   - ijskoud
   - vegetarisch
-  - vegan
----
+  - vegan---
 
 # Es Tjendol of Dawet
 
@@ -65,3 +68,7 @@ tags:
 10. Voeg de [[kokosmelk]] toe.
 11. Giet rustig de gesmolten en afgekoelde [[gula jawa]] stroop in het midden van het glas zodat op de bodem een mooie laag [[suiker]]stroop ontstaat.
 12. Serveer met een lepel. Roer alles door elkaar bij het eten.
+
+## Notities
+
+<!-- verwerkt -->

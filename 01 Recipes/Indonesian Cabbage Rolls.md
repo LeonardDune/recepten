@@ -2,6 +2,10 @@
 title: "Indonesian Cabbage Rolls"
 source: "https://pisangsusu.com/indonesian-cabbage-rolls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 6. Los de [[santen]] op in de [[bouillon]] en voeg 1 eetlepel [[ketjap]] toe. Giet dit mengsel over de koolrolletjes.
 7. Bestrooi de koolrolletjes met [[kokosrasp]] en verdeel klontjes [[boter]] over het gehele oppervlak.
 8. Bak de schotel in een voorverwarmde oven op 160°C (hetelucht) gedurende 35 tot 40 minuten.
+
+## Notities
+
+<!-- verwerkt -->

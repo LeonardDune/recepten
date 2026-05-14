@@ -2,6 +2,10 @@
 title: "Kue Mangkok"
 source: "https://pisangsusu.com/video-how-to-make-kue-mangkok-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -20,4 +24,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

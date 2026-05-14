@@ -2,6 +2,10 @@
 title: "Surinamese Roti"
 source: "https://pisangsusu.com/surinamese-roti/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 9. Bak de gekookte [[eieren]] eventueel kort in een pan met wat olie (optioneel).
 10. Bak de rotibroden kort in een pan.
 11. Serveer met de [[eieren]], rotibroden, [[chutney]] en/of Surinaamse sambal.
+
+## Notities
+
+<!-- verwerkt -->

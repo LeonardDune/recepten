@@ -2,6 +2,10 @@
 title: "Piendang from Padang with fish"
 source: "https://pisangsusu.com/222-piendang-from-padang-with-fish/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 4. Voeg de pasta toe aan de [[santen]] samen met de vis en de gesneden [[chilipeper]]s.
 5. Laat de vis 10 tot 15 minuten zachtjes sudderen met het deksel op de pan.
 6. Voeg vlak voor het serveren de [[basilicum]] toe en besprenkel het gerecht met [[citroen]]sap.
+
+## Notities
+
+<!-- verwerkt -->

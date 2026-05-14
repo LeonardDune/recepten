@@ -2,6 +2,10 @@
 title: "Pangsit Goreng"
 source: "https://pisangsusu.com/pangsit/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 12. Verhit een hoeveelheid [[olie]] tot de damp eraf komt.
 13. Bak de pangsit (op de manier van [[olie]]bollen) aan beide zijden bruin en knapperig.
 14. Laat ze uitlekken en serveer met een zoet-zure Chinese saus, zoete chilisaus of een taotjo-saus.
+
+## Notities
+
+<!-- verwerkt -->

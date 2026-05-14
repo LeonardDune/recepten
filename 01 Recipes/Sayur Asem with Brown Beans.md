@@ -2,6 +2,10 @@
 title: "Sayur Asem with Brown Beans"
 source: "https://pisangsusu.com/sayur-asem-with-brown-beans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Voeg het vlees ([[gehakt]]balletjes) toe en laat een paar minuten sudderen tot gaar.
 5. Voeg de [[bruine bonen]] toe en laat alles sudderen totdat de uien zacht zijn (ongeveer 5 minuten).
 6. Serveer met acar ketimun en witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

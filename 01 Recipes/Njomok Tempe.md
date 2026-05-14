@@ -2,6 +2,10 @@
 title: "Njomok Tempe"
 source: "https://pisangsusu.com/njomok-tempe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 3. Doe er als de [[uien]] geel zijn de in water opgeloste [[santen]] bij en laat dit even doorkoken.
 4. Voeg vervolgens de [[tempe]] met het gezeefde [[asem]]nat, de suiker, de [[groene lombok]]s, het [[zout]] en de [[salamblaadjes]] bij.
 5. Laat het gerecht op een niet te groot vuur zachtjes gaar stoven totdat de saus wat indikt, ongeveer 10-15 minuten.
+
+## Notities
+
+<!-- verwerkt -->

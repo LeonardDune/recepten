@@ -2,6 +2,10 @@
 title: "Indonesian Stuffed Cucumber"
 source: "https://pisangsusu.com/189-stuffed-cucumbers/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 6. Meng de [[bouillon]] met de [[kecap manis]] en de [[santen]]. Giet dit mengsel in de ovenschaal.
 7. Bak de schotel in een voorverwarmde oven op 180 graden Celsius gedurende ongeveer 30 minuten, totdat het vlees gaar is en knapperig van buiten.
 8. Serveer eventueel met sambal badjak.
+
+## Notities
+
+<!-- verwerkt -->

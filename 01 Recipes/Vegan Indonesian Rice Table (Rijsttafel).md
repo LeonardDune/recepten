@@ -2,6 +2,10 @@
 title: "Vegan Indonesian Rice Table (Rijsttafel)"
 source: "https://pisangsusu.com/vegan-indonesian-rice-table/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -67,3 +71,7 @@ tags:
 16. Bereid wingko babat: kleef[[rijstmeel]]koek.
 17. Serveer [[emping]] en [[cassave krupuk]] als alternatief voor garnalenkrupuk.
 18. Optioneel voor vegetariërs: voeg een pittige omelet gevuld met krokante [[kokos]] en gekookte eieren toe.
+
+## Notities
+
+<!-- verwerkt -->

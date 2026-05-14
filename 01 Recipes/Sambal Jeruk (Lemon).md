@@ -2,6 +2,10 @@
 title: "Sambal Jeruk (Lemon)"
 source: "https://pisangsusu.com/sambal-lemon/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -31,3 +35,7 @@ tags:
 3. Optioneel: blend de pepers met een staafmixer tot een gladde pasta. Leg een theedoek over de staafmixer tijdens het mixen om spatten te voorkomen.
 4. Bewaar de sambal in een schone pot. Voor langere houdbaarheid: steriliseer de potten door ze enkele minuten in kokend water te laten staan, vul ze heet met de sambal en sluit ze af zodat er een vacuüm ontstaat.
 5. De sambal kan ook worden ingevroren, bijvoorbeeld in een ijsblokjesvorm.
+
+## Notities
+
+<!-- verwerkt -->

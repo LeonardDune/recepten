@@ -2,6 +2,10 @@
 title: "Klepon"
 source: "https://pisangsusu.com/klepon-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Leg de klepon op een spatel en laat ze langzaam in het [[water]] zakken. Schud een beetje om ze los te maken.
 6. De klepon is klaar wanneer ze naar het oppervlak drijven. Voor een zachtere kern, laat ze nog ongeveer een minuut extra in het [[water]].
 7. Laat ze een beetje afkoelen en rol ze door de [[geraspte kokos]].
+
+## Notities
+
+<!-- verwerkt -->

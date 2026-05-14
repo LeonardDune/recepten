@@ -2,6 +2,10 @@
 title: "Masak Kambing (goat or mutton dish)"
 source: "https://pisangsusu.com/masak-kambing-goat-mutton-meat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 3. Voeg na ongeveer vijf minuten [[water]] toe en laat sudderen totdat het vlees mals is (ongeveer 15 minuten op laag vuur).
 4. Laat het vlees na het garen ongeveer 5 minuten rusten.
 5. Voeg vlak voor het serveren de rest van de uien (in kleine stukjes gesneden) toe.
+
+## Notities
+
+<!-- verwerkt -->

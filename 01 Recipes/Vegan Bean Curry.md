@@ -2,6 +2,10 @@
 title: "Vegan Bean Curry"
 source: "https://pisangsusu.com/vegan-bean-curry/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 4. Spoel de bonen uit blik af om het [[zout]] te verwijderen. Voeg toe aan de pan, roer door en zet het gas uit, want de bonen zijn al gaar en hoeven alleen opgewarmd te worden.
 5. Doe de deksel op de pan en laat de bonen even de smaken opnemen. Proef of er voldoende [[zout]] in zit.
 6. Roer vlak voor het serveren de fijngehakte [[koriander]] (inclusief stelen) en [[lente-ui]]tjes erdoor. Voeg extra [[koriander]] toe als garnering.
+
+## Notities
+
+<!-- verwerkt -->

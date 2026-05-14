@@ -2,6 +2,10 @@
 title: "Sweet Potato Porridge - Kolak Bubur"
 source: "https://pisangsusu.com/sweet-potato-porridge-kolak-bubur/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 7. Laat nog ongeveer 10 minuten sudderen totdat de aardappelen gaar zijn en de saus iets is ingekookt.
 8. De aardappelen mogen iets zacht worden maar moeten hun vorm behouden.
 9. Serveer warm of laat afkoelen; de pap wordt dikker naarmate hij afkoelt.
+
+## Notities
+
+<!-- verwerkt -->

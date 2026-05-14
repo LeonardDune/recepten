@@ -2,6 +2,10 @@
 title: "Vegetarische zoete aardappel bami"
 source: "https://pisangsusu.com/vegetarische-zoete-aardappel-bami/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 6. Maak ondertussen van de twee [[eieren]] een roerei met [[zout]] en [[peper]].
 7. Voeg het roerei toe aan de bami.
 8. Bestrooi met [[sesamzaadjes]] en serveer, eventueel met [[hoisinsaus]].
+
+## Notities
+
+<!-- verwerkt -->

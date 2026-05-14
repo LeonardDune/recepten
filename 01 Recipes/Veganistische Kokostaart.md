@@ -2,6 +2,10 @@
 title: "Veganistische Kokostaart"
 source: "https://pisangsusu.com/kokostaart-veganistisch/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 8. Haal de bodem en het bakpapier eraf en laat de taart verder afkoelen.
 9. Meng [[poedersuiker]] door de [[kokosyogurt]] en schep dit bovenop de taart.
 10. Schep in het midden een dot jam of zelfgemaakte bessensaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Matah with Spring Onions"
 source: "https://pisangsusu.com/sambal-matah-with-spring-onions/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 2. Kneed het geheel een beetje met je handen om de smaken te mengen.
 3. Pers het sap van een halve [[limoen]] erover.
 4. Giet kokend hete olie over de sambal en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

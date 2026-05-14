@@ -2,6 +2,10 @@
 title: "Pecel Saus (Pindakaaassaus III)"
 source: "https://pisangsusu.com/470-peanut-sauce-iii-pecel-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 5. Voeg de [[tamarindepasta]] toe tussen de toevoegingen van [[water]] door.
 6. Blijf [[water]] toevoegen totdat de saus de dikte heeft van een slasaus.
 7. Breng op smaak met [[zout]] en [[azijn]]. De saus is klaar.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Vegan Sambal Peteh"
 source: "https://pisangsusu.com/vegan-sambal-peteh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Bak alles goed door en voeg dan de [[peteh bonen]] toe.
 6. Laat alles sudderen op laag vuur gedurende 10 tot 15 minuten (eventueel met 1 à 2 eetlepels water) totdat de sambal donkerder van kleur wordt.
 7. Vul direct een grote jampot die je net uit kokend water hebt gehaald, zodat de pot vacuüm trekt. De sambal is minstens een maand houdbaar in de voorraadkast.
+
+## Notities
+
+<!-- verwerkt -->

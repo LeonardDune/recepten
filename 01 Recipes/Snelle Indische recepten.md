@@ -2,6 +2,10 @@
 title: "Snelle Indische recepten"
 source: "https://pisangsusu.com/snelle-indische-recepten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -22,4 +26,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

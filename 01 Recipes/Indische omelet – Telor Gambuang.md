@@ -2,6 +2,10 @@
 title: "Indische omelet – Telor Gambuang"
 source: "https://pisangsusu.com/telor-gambuang-indische-omelet/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 3. Bak een omelet aan beide kanten gaar (of bak op één zijde en rol op in de pan zodat de omelet smeuïg blijft van binnen).
 4. Rol de omelet op en snijd haar in schuine, 4 à 5 cm dikke repen.
 5. Serveer met witte rijst, een salade en sambal.
+
+## Notities
+
+<!-- verwerkt -->

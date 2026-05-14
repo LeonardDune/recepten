@@ -2,6 +2,10 @@
 title: "Sambal Teri (Tapanoeli) - Sambal Ansjovis"
 source: "https://pisangsusu.com/sambal-teri-tapanoeli/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Meng de gebakken teri met de gebakken kruidenmix.
 6. Voeg geen zout toe, want de [[ikan teri]] is al zout genoeg.
 7. Schep de sambal in een schoon potje en druk aan. De sambal is maanden houdbaar en kan ook worden ingevroren.
+
+## Notities
+
+<!-- verwerkt -->

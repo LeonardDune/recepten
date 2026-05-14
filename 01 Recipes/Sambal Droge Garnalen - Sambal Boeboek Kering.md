@@ -2,6 +2,10 @@
 title: "Sambal Droge Garnalen - Sambal Boeboek Kering"
 source: "https://pisangsusu.com/sambal-boeboek-kering/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 6. Roer de sambal nog 2 à 3 minuten goed door.
 7. Laat de sambal afkoelen op een bord.
 8. Verwijder eventuele restjes [[djeroek poeroetblaadjes]] en doe de sambal over in een goed afgesloten jampot.
+
+## Notities
+
+<!-- verwerkt -->

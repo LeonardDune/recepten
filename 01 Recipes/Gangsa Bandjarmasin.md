@@ -2,6 +2,10 @@
 title: "Gangsa Bandjarmasin"
 source: "https://pisangsusu.com/150-gangsa-bandjarmasin-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,8 +21,7 @@ tags:
   - kurkuma
   - traditioneel
   - beb vuyk
-  - indo
----
+  - indo---
 
 # Gangsa Bandjarmasin
 
@@ -42,3 +45,7 @@ tags:
 2. Wrijf uien, [[chilipeper]]s, [[koriander]], [[kurkuma]] en [[kencur]] samen tot een pasta.
 3. Bak de pasta in de [[olie]], die niet te heet mag zijn.
 4. Voeg het [[water]] toe en het vlees dat in blokjes is gesneden en laat het sudderen totdat het vlees mals is (lam circa 45 minuten, [[rundvlees]] minstens 3 uur).
+
+## Notities
+
+<!-- verwerkt -->

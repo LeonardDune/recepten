@@ -2,6 +2,10 @@
 title: "Sambal Asem Kemamah (Aceh) - Sambal Stockfish"
 source: "https://pisangsusu.com/sambal-asem-kemamah-aceh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 7. Voeg indien nodig 1 tot 2 eetlepels water toe.
 8. Kook de sambal in totdat hij vrij droog is.
 9. Bewaar de sambal in een schone pot in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

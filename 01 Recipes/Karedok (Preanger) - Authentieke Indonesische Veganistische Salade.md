@@ -2,6 +2,10 @@
 title: "Karedok (Preanger) - Authentieke Indonesische Veganistische Salade"
 source: "https://pisangsusu.com/karedok-vegan-salad-with-peanut-dressing/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 3. Spoel de [[taugé]] af met koud [[water]].
 4. Wrijf ui, [[knoflook]], sambal, [[kencur]], [[pindakaas]], [[tamarinde]] en [[zout]] tot een pasta.
 5. Meng de saus met de groenten en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

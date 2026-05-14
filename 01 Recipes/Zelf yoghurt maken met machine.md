@@ -2,6 +2,10 @@
 title: "Zelf yoghurt maken met machine"
 source: "https://pisangsusu.com/zelf-yogurt-maken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 5. Giet de mix in het bakje van de yoghurtmachine. Doe het deksel erop en zet de machine aan voor 10 uur fermenteren (tussen de 8 en 12 uur is normaal).
 6. Na het fermenteren zet je de yoghurt in de koelkast. Na een paar uur in de koelkast dikt de yoghurt verder in. Roer even door voor het serveren.
 7. Optioneel voor dikke yoghurt: leg een schone dunne theedoek dubbel gevouwen in een vergiet boven een schaal. Giet de yoghurt erin en laat ongeveer 1 uur uitlekken zodat de wei eruit druppelt. Keer voorzichtig om in een schaal en roer door.
+
+## Notities
+
+<!-- verwerkt -->

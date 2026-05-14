@@ -2,6 +2,10 @@
 title: "Stew of chicken hearts and liver (hachee)"
 source: "https://pisangsusu.com/313-hachee-with-chicken-hearts/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 7. Voeg een theelepel [[peper]] toe en laat het gerecht 6 minuten sudderen, af en toe roerend, totdat de [[santen]] voor de helft is opgelost.
 8. Roer de goed uitgeknepen [[laksa]] erdoor en laat sudderen totdat de [[laksa]] gaar is.
 9. Serveer met roergebakken paksoi, zelfgemaakte sambal en serundeng.
+
+## Notities
+
+<!-- verwerkt -->

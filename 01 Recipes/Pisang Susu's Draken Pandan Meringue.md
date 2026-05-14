@@ -2,6 +2,10 @@
 title: "Pisang Susu's Draken Pandan Meringue"
 source: "https://pisangsusu.com/pandan-meringue-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 10. Bak de meringues 1 uur en 45 minuten in de oven.
 11. Laat de meringues afkoelen in de oven met de deur half open zodat ze verder uitdrogen.
 12. Bewaar de meringues zo snel mogelijk in een luchtdichte trommel. Ze zijn tot 2 weken houdbaar, of een maand in de vriezer.
+
+## Notities
+
+<!-- verwerkt -->

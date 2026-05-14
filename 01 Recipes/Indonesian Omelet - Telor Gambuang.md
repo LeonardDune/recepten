@@ -2,6 +2,10 @@
 title: "Indonesian Omelet - Telor Gambuang"
 source: "https://pisangsusu.com/indonesian-omelet/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Rol de omelet op in de pan zodat hij volledig gaart maar van binnen lekker mals blijft.
 5. Snijd de omelet in schuine plakken van 4 tot 5 cm dik.
 6. Serveer met witte rijst en sambal.
+
+## Notities
+
+<!-- verwerkt -->

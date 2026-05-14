@@ -2,6 +2,10 @@
 title: "Gekookte Pangsit – Wonton Soep"
 source: "https://pisangsusu.com/gekookte-pangsit-wonton-soep/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - voorgerecht
   - lunch
   - ontbijt
-  - dumplings
----
+  - dumplings---
 
 # Gekookte Pangsit – Wonton Soep
 
@@ -46,3 +49,7 @@ tags:
 5. Laat de [[pangsits]] (10 à 12 stuks per liter bouillon) 10 minuten meekoken in de bouillon. Gebruik een ruime pan, want de wontons groeien tijdens het koken.
 6. Meng vlak voor het opdienen een eetlepel fijn[[gehakt]]e [[selderie]] (of [[peterselie]]) en een eetlepel fijn[[gehakt]]e [[prei]] door de soep.
 7. Dien op per 3 stuks en garneer met wat extra [[peterselie]].
+
+## Notities
+
+<!-- verwerkt -->

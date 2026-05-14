@@ -2,6 +2,10 @@
 title: "Zoet-Zure Ketjapsaus"
 source: "https://pisangsusu.com/zoet-zure-ketjapsaus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Proef de saus en controleer de balans zoet-zuur. Voeg eventueel enkele druppels citroensap toe als de saus te zoet is.
 5. Laat de saus voor opdienen even rusten zodat de [[ketjap]] goed in de uien kan trekken.
 6. Eventueel aanlengen met een beetje water als de saus te dik is.
+
+## Notities
+
+<!-- verwerkt -->

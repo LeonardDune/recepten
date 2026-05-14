@@ -2,6 +2,10 @@
 title: "Ternataanse Kip"
 source: "https://pisangsusu.com/ternataanse-kip/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Kook hierin de stukken [[kip]] half gaar.
 5. Voeg er daarna de [[santen]] aan toe en kook dit alles tot de saus ingedikt is en de [[kip]] gaar.
 6. Roer er daarna het [[citroen]]sap voorzichtig doorheen.
+
+## Notities
+
+<!-- verwerkt -->

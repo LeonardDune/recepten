@@ -2,6 +2,10 @@
 title: "Gembersaus"
 source: "https://pisangsusu.com/gembersaus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,8 +16,7 @@ tags:
   - vegetarisch
   - bbq
   - snel
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gembersaus
 
@@ -35,3 +38,7 @@ tags:
 5. Laat de saus zachtjes inkoken totdat deze dikker wordt, ongeveer 2 minuten.
 6. Proef of het zoet-zure goed in balans is en pas eventueel aan.
 7. Haal de pan van het vuur en schenk de saus in een kom. Laat de gemberschijfjes in de saus zitten voor presentatie.
+
+## Notities
+
+<!-- verwerkt -->

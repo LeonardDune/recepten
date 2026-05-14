@@ -2,6 +2,10 @@
 title: "Tahu Pong - Tofu uit Oost-Java"
 source: "https://pisangsusu.com/tahu-pong-tahu-tofu-from-east-java/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 6. Voeg de [[azijn]] en de [[zoete sojasaus]] toe aan de pasta en meng tot een saus.
 7. Leg de [[tofu]] op een schaal, decoreer met de plakjes ei en giet de saus erover.
 8. Laat het geheel ongeveer 15 minuten staan zodat de [[tofu]] de zoetzure smaken kan opnemen.
+
+## Notities
+
+<!-- verwerkt -->

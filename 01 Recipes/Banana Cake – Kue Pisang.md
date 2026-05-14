@@ -2,6 +2,15 @@
 title: "Banana Cake – Kue Pisang"
 source: "https://pisangsusu.com/banana-cake-kue-pisang/"
 date_added: 2026-04-27
+status: processed
+cuisine: indonesisch
+course: dessert
+servings: 8
+time_prep: 20
+time_cook: 55
+time_total: 75
+rating: 
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,6 +24,8 @@ tags:
   - kindvriendelijk
   - zonder oven
   - zoet
+  - cuisine/indonesisch
+  - course/dessert
 ---
 
 # Banana Cake – Kue Pisang
@@ -44,3 +55,7 @@ tags:
 6. Vet de pan van de rijstkoker in.
 7. Giet het beslag in de rijstkoker.
 8. Bak 50 tot 55 minuten. Controleer met een satéprikker of de cake gaar is en serveer.
+
+## Notities
+
+<!-- verwerkt -->

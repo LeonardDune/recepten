@@ -2,6 +2,10 @@
 title: "Sambal Goreng Omelet (Dadar)"
 source: "https://pisangsusu.com/sambal-goreng-omelet/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Add the [[santen]], lemongrass, salam leaf and 1 dl of water.
 8. Let the sauce thicken for about 5 minutes.
 9. Pour the sauce over the sliced omelet strips and serve.
+
+## Notities
+
+<!-- verwerkt -->

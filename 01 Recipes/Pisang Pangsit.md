@@ -2,6 +2,10 @@
 title: "Pisang Pangsit"
 source: "https://pisangsusu.com/pisang-pangsit/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 8. Vouw nu de linkerpunt naar rechts en dan de rechterkant naar links erover heen. Maak telkens vast met een beetje water.
 9. Frituur de pakjes in [[frituurolie]] in een paar minuten tot goudbruin.
 10. Serveer warm en bestrooi met wat [[poedersuiker]].
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Pisang Pangsit - Crispy Wonton Snack filled with Banana"
 source: "https://pisangsusu.com/pisang-pangsit-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 9. Vouw de linkerhoek naar rechts en dan de rechterkant naar links. Plak steeds vast met een beetje water.
 10. Frituur de pakketjes in hete olie in een paar minuten goudbruin.
 11. Serveer warm en bestrooi met wat [[poedersuiker]].
+
+## Notities
+
+<!-- verwerkt -->

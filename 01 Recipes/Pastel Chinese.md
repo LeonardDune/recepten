@@ -2,6 +2,10 @@
 title: "Pastel Chinese"
 source: "https://pisangsusu.com/pastel-chinese/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 7. Doe het mengsel in een ingevette ovenschaal. Strooi de [[selderij]] erover en bedek het geheel met de in partjes gesneden hardgekookte [[eieren]] en de gebakken [[uitjes]].
 8. Verdeel de aardappelpuree over het geheel, bestrooi het oppervlak met [[paneermeel]] en leg er een paar klontjes [[boter]] op.
 9. Zet de schaal in een oven op 250°C (gasstand 5-6) gedurende 30 minuten tot er een bruin korstje ontstaat.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Pork Liver with Chives (Babi Kucai)"
 source: "https://pisangsusu.com/pork-liver-with-chives/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Bak het gerecht nog een paar minuten.
 7. Bestrooi met [[zout]] en [[peper]], voeg dan de ketjap toe, eventueel een scheutje water, en roer de [[bieslook]] en [[vetsin]] erdoor voor het serveren.
 8. Bestrooi het gerecht met [[gebakken uitjes]] en voeg het gebakken spek toe aan het gerecht.
+
+## Notities
+
+<!-- verwerkt -->

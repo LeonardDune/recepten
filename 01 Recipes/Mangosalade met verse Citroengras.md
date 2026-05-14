@@ -2,6 +2,10 @@
 title: "Mangosalade met verse Citroengras"
 source: "https://pisangsusu.com/mangosalade/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 9. Knijp als allerlaatste een halve [[limoen]] uit over de salade.
 10. Laat de salade ongeveer 10 minuten staan zodat alles kan intrekken.
 11. Schep de salade nog even door vlak voor het opdienen.
+
+## Notities
+
+<!-- verwerkt -->

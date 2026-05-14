@@ -2,6 +2,10 @@
 title: "Serundeng | Roasted Coconut"
 source: "https://pisangsusu.com/84-serundeng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 8. Roer de geroosterde [[pinda's]] erdoor wanneer het mengsel gelijkmatig lichtbruin van kleur is.
 9. Laat de serundeng niet afkoelen in de pan, maar leg hem direct op een bord op een stuk keukenpapier wanneer hij de gewenste kleur heeft.
 10. Laat volledig afkoelen en droog worden, vul daarna een luchtdichte pot. Laat de blaadjes en [[citroengras]] erin zitten.
+
+## Notities
+
+<!-- verwerkt -->

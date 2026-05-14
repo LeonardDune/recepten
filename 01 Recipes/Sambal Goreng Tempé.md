@@ -2,6 +2,10 @@
 title: "Sambal Goreng Tempé"
 source: "https://pisangsusu.com/sambal-goreng-tempe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Laat het geheel met de deksel op de pan ongeveer 5 minuten sudderen zodat de [[santen]] smelt.
 8. Roer alles goed door en laat de saus zonder deksel nog even indikken (totaal ongeveer 10 minuten stoven).
 9. Dien op met de kruiden nog in het gerecht.
+
+## Notities
+
+<!-- verwerkt -->

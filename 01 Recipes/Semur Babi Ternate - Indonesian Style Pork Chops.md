@@ -2,6 +2,10 @@
 title: "Semur Babi Ternate - Indonesian Style Pork Chops"
 source: "https://pisangsusu.com/semur-babi-ternate/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Maak de saus met de helft van het kookvocht en het [[citroen]]sap.
 5. Laat het gerecht 30 minuten sudderen.
 6. Laat de koteletjes 5 minuten rusten in de saus voordat je opdient.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Rendang Padang | Indonesian Beef Stew"
 source: "https://pisangsusu.com/178-rendang-padang-beef-stew/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 7. Verwijder de deksel tijdens de laatste 30 minuten om de saus verder in te dikken.
 8. Roer regelmatig wanneer het mengsel dikker begint te worden.
 9. Serveer wanneer de saus is ingedikt tot een gladde pasta. Selamat Makan!
+
+## Notities
+
+<!-- verwerkt -->

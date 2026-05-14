@@ -2,6 +2,10 @@
 title: "Sambal Goreng Eggs"
 source: "https://pisangsusu.com/sambal-goreng-egg/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Add 1 dl of water, the block of [[santen]], the [[sereh]] stalk and the salam leaf. Heat everything up.
 5. Add the hard boiled eggs and let simmer for about 10 minutes until the sauce thickens and the oil from the [[santen]] floats to the surface.
 6. Remove the [[sereh]] and the salam leaf. Cut the eggs in half lengthwise, arrange them on a dish and pour the sauce over them.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal with Chives"
 source: "https://pisangsusu.com/sambal-with-chives/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -32,3 +36,7 @@ tags:
 1. Maak een sambal [[terasi]] met [[knoflook]].
 2. Meng de [[bieslook]] erdoor zonder te wrijven.
 3. Maak de sambal af met een paar druppels [[citroensap]].
+
+## Notities
+
+<!-- verwerkt -->

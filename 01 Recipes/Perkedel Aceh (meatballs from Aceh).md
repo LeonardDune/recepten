@@ -2,6 +2,10 @@
 title: "Perkedel Aceh (meatballs from Aceh)"
 source: "https://pisangsusu.com/meatballs-from-aceh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Fry the meatballs in oil in the wok until brown and cooked through, about 15 minutes.
 7. Remove the meatballs and set aside. Sauté the herb paste in the remaining hot oil over high heat and let it reduce a bit. Taste and adjust seasoning.
 8. Pour the herb sauce over the meatballs and serve.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Foe Joeng Hay - Chinese Gevulde Omelet"
 source: "https://pisangsusu.com/foe-joeng-hay/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - omelet
   - gembersaus
   - kantonees
-  - snel
----
+  - snel---
 
 # Foe Joeng Hay - Chinese Gevulde Omelet
 
@@ -52,3 +55,7 @@ tags:
 8. Maak de gembersaus af door [[azijn]], [[suiker]] en soja aan de [[bouillon]] toe te voegen en goed te roeren tot de [[suiker]] is opgelost.
 9. Leng de [[maizena]] aan met een eetlepel water en voeg toe aan de saus om te binden.
 10. Leg de gevulde omelet op een grote schaal en giet de warme gembersaus erover.
+
+## Notities
+
+<!-- verwerkt -->

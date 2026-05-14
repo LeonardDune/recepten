@@ -2,6 +2,10 @@
 title: "Sayur Tumis Bayam (spinach)"
 source: "https://pisangsusu.com/sayur-tumis-bayam-spinach/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Roerbak kort.
 5. Voeg het [[bouillonblokje]] toe en maak de sayur af met een lepel [[sojasaus]].
 6. De [[spinazie]] moet helder groen blijven en zo rauw mogelijk.
+
+## Notities
+
+<!-- verwerkt -->

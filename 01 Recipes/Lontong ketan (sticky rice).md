@@ -2,6 +2,10 @@
 title: "Lontong ketan (sticky rice)"
 source: "https://pisangsusu.com/lontong-ketan-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 6. Schep de [[rijst]] in de schaal (ongeveer 5 cm diep), druk goed aan en strijk glad. Druk de hoeken goed aan.
 7. Laat de [[rijst]] eerst afkoelen op het aanrecht en zet daarna in de koelkast, bij voorkeur een nacht.
 8. Haal de lontong voor het serveren op kamertemperatuur en snijd in rechthoekige of ruitvormige stukken.
+
+## Notities
+
+<!-- verwerkt -->

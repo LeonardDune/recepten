@@ -2,6 +2,10 @@
 title: "Pisang Goreng Cheese (Pisang Goreng Keju)"
 source: "https://pisangsusu.com/pisang-goreng-cheese/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Frituur de pisang goreng in hete [[olie]] van 180 graden gedurende 1,5 tot 2 minuten totdat ze mooi goudbruin zijn.
 6. Haal de pisang goreng uit de [[olie]] en bestrooi ze met [[poedersuiker]].
 7. Serveer warm (zodat de [[kaas]] lekker uitloopt) of bewaar ze voor later.
+
+## Notities
+
+<!-- verwerkt -->

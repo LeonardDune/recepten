@@ -2,6 +2,10 @@
 title: "Hoisin Sauce"
 source: "https://pisangsusu.com/hoisin-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 5. Laat de saus afkoelen; hij wordt nog dikker bij het afkoelen.
 6. Als de saus te dik wordt, verwarm hem dan een paar seconden (5 sec.) in de magnetron met een of twee eetlepels [[water]] en roer goed door.
 7. Bewaar de hoisinsaus wekenlang in de koelkast in een schone pot.
+
+## Notities
+
+<!-- verwerkt -->

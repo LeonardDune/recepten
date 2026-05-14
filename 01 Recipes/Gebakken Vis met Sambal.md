@@ -2,6 +2,10 @@
 title: "Gebakken Vis met Sambal"
 source: "https://pisangsusu.com/206-gebakken-vis-met-sambal/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - ketjap
   - snel
   - gezond
-  - indisch
----
+  - indisch---
 
 # Gebakken Vis met Sambal
 
@@ -36,3 +39,7 @@ tags:
 4. Doe de kruiden bij de hete [[olie]] en bak ze tot de uien geel zijn.
 5. Voeg de [[ketjap]] en het [[citroen]]sap toe.
 6. Giet dit sausje warm over de gebakken filets.
+
+## Notities
+
+<!-- verwerkt -->

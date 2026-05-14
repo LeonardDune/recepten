@@ -2,6 +2,10 @@
 title: "Pickled Pineapple"
 source: "https://pisangsusu.com/pickled-pineapple/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Voeg de [[ananas]]blokjes toe en roer alles door.
 8. Proef of het gerecht zuur genoeg is; voeg indien nodig slechts de helft van het [[ananas]]sap toe.
 9. Laat de zoetzure [[ananas]] een paar dagen in de pot staan voordat je het serveert, zodat de smaken zich kunnen ontwikkelen.
+
+## Notities
+
+<!-- verwerkt -->

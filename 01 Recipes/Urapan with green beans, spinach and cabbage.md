@@ -2,6 +2,10 @@
 title: "Urapan with green beans, spinach and cabbage"
 source: "https://pisangsusu.com/urapan-with-green-beans-spinach-and-cabbage/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 5. Rinse all vegetables with cold [[water]] to preserve their fresh green color.
 6. Drain the vegetables and mix them gently with the warm coconut sauce.
 7. Serve the urapan as a salad.
+
+## Notities
+
+<!-- verwerkt -->

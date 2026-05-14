@@ -2,6 +2,10 @@
 title: "Nasischijf Balletjes"
 source: "https://pisangsusu.com/nasischijf-a-la-pisang-susu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 3. Vorm met de hand balletjes van het rijstmengsel.
 4. Rol de balletjes door [[panko]] (Japans paneermeel).
 5. Bak de balletjes in een goede laag [[frituurolie]] en keer ze halverwege zodat ze rondom knapperig worden.
+
+## Notities
+
+<!-- verwerkt -->

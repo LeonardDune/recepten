@@ -2,6 +2,10 @@
 title: "Pandan Sponge Cake"
 source: "https://pisangsusu.com/pandan-sponge-cake/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 14. Keer de cake direct na het bakken ondersteboven en laat hem zo 30 minuten afkoelen.
 15. Snijd de cake los van de vorm met een botermes en verwijder voorzichtig het [[bakpapier]].
 16. Bestrooi met [[poedersuiker]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

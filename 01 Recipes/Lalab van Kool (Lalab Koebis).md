@@ -2,6 +2,10 @@
 title: "Lalab van Kool (Lalab Koebis)"
 source: "https://pisangsusu.com/438-lalab-kool-lalab-koebis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -30,3 +34,7 @@ tags:
 2. Laat ze uitlekken.
 3. Besmeer de [[kool]]bladeren met [[sambal]] (bijvoorbeeld [[sambal]] manis).
 4. Rol de bladeren op en serveer.
+
+## Notities
+
+<!-- verwerkt -->

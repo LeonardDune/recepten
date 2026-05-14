@@ -2,6 +2,10 @@
 title: "Espagueti verde (green spaghetti)"
 source: "https://www.culy.nl/recepten/salade-met-steak-avocado-citrus/"
 date_added: 2026-05-06
+cuisine: mexicaans
+course: condiment
+rating:
+tried: false
 tags:
   - recipe
   - mexicaans
@@ -11,8 +15,7 @@ tags:
   - romig
   - groen
   - spaghetti
-  - snelle maaltijd
----
+  - snelle maaltijd---
 
 # Espagueti verde (green spaghetti)
 
@@ -37,3 +40,7 @@ tags:
 3. Breng een grote pot water aan de kook met het [[zout]]. Voeg na het koken de pasta toe. Kook tot al dente, ongeveer 8 minuten. Schep voor het afgieten een halve cup water eruit en zet apart.
 4. Giet de pasta af, doe terug in de pot en giet de saus erover. Zet het vuur aan en voeg langzaam het gereserveerde water en de [[queso fresco]] toe. Meng totdat de saus dik is en de pasta goed bedekt is.
 5. Serveer met extra kaas.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Goreng Udang Peteh - Garnalen met Petehbonen"
 source: "https://pisangsusu.com/sambal-goreng-udang-peteh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 5. Voeg de bevroren [[garnalen]] en de asem ([[tamarinde]]) toe en kook op middelhoog vuur, af en toe roerend, tot de [[garnalen]] roze worden.
 6. Voeg de (al gare) [[sojabonen]] toe.
 7. Serveer met (bruine) rijst.
+
+## Notities
+
+<!-- verwerkt -->

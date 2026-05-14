@@ -2,6 +2,10 @@
 title: "Soto Kedu"
 source: "https://pisangsusu.com/soto-kedu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Wanneer het vlees gaar is, voeg dan de [[kool]], gesneden [[tomaat]] en schoongemaakte [[taugé]] toe.
 7. Laat nog 10 minuten sudderen en controleer of het vlees mals is.
 8. Breng de soto op smaak met [[zout]] en [[peper]].
+
+## Notities
+
+<!-- verwerkt -->

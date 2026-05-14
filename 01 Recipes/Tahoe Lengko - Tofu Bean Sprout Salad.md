@@ -2,6 +2,10 @@
 title: "Tahoe Lengko - Tofu Bean Sprout Salad"
 source: "https://pisangsusu.com/tofu-lengko-tofu-bean-sprout-salad/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 5. Wrijf [[knoflook]], sambal en [[suiker]] samen in een vijzel en meng dit met de [[azijn]] en [[ketjap manis]] tot een saus.
 6. Leg de [[tofu]] op een schaal, verdeel de [[taogé]] en de uitgelekte [[komkommer]] erover.
 7. Giet de saus erover en bestrooi met de gebakken uien en gehakte [[selderij]].
+
+## Notities
+
+<!-- verwerkt -->

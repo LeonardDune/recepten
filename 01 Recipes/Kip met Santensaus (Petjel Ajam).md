@@ -2,6 +2,10 @@
 title: "Kip met Santensaus (Petjel Ajam)"
 source: "https://pisangsusu.com/298-kip-met-santensaus-petjel-ajam/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 6. Roer de [[santen]] en [[melk]] door het geroosterde [[kokosmeel]].
 7. Doe dit mengsel bij de [[kip]] en laat het geheel warm worden maar niet meer koken.
 8. Serveer de [[kip]] in het [[melk]]bad.
+
+## Notities
+
+<!-- verwerkt -->

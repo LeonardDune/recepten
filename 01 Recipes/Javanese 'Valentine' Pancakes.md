@@ -2,6 +2,10 @@
 title: "Javanese 'Valentine' Pancakes"
 source: "https://pisangsusu.com/javanese-pancakes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 1. Doe alle ingrediënten voor het beslag ([[zelfrijzend bakmeel]], [[kokosmelk]], ei, [[kaneel]] en [[zout]]) in een kom en klop het tot een glad beslag.
 2. Bak de pannenkoeken iets dikker dan gewone Nederlandse pannenkoeken.
 3. Rasp Javaanse [[suiker]] over de pannenkoeken en rol ze op, of vul ze met een mengsel van [[kokosrasp]] en [[suiker]].
+
+## Notities
+
+<!-- verwerkt -->

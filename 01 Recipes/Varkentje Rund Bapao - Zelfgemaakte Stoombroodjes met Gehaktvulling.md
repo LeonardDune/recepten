@@ -2,6 +2,10 @@
 title: "Varkentje Rund Bapao - Zelfgemaakte Stoombroodjes met Gehaktvulling"
 source: "https://pisangsusu.com/varkentje-rund-bapao/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 10. Maak de plek van de oogjes nat en plak twee zwarte [[sesamzaadjes]] als oogjes op de bapao.
 11. Laat de gevulde bapao rijzen in de stoommandjes.
 12. Stoom de bapao 15 minuten in bamboe mandjes in een wok.
+
+## Notities
+
+<!-- verwerkt -->

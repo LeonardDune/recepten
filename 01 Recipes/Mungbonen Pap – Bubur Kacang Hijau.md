@@ -2,6 +2,10 @@
 title: "Mungbonen Pap – Bubur Kacang Hijau"
 source: "https://pisangsusu.com/bubur-kacang-hijau-mungbonen-pap/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 8. Roer de laatste 10 minuten alles goed door op gemiddeld vuur totdat de bonen zacht zijn en beginnen te breken.
 9. Zet het gas uit en laat de pap ongeveer 20 minuten rusten zodat het verder indikt.
 10. Schep de pap in een grote schaal en giet de opgewarmde [[kokosmelk]] erover. Serveer in kleinere bakjes.
+
+## Notities
+
+<!-- verwerkt -->

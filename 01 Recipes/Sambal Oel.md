@@ -2,6 +2,10 @@
 title: "Sambal Oel"
 source: "https://pisangsusu.com/sambal-oel-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 6. Heat up 2 tablespoons of oil in a pan until boiling hot.
 7. Pour the boiling oil over the sambal in the heat resistant dish.
 8. Squeeze the quarter lime over the sambal and serve.
+
+## Notities
+
+<!-- verwerkt -->

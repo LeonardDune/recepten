@@ -2,6 +2,10 @@
 title: "Rendang with Eggs (Padang) – Rendang Telor"
 source: "https://pisangsusu.com/rendang-with-eggs-padang-rendang-telor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Voeg de [[eieren]] toe aan de saus en laat op laag vuur sudderen, af en toe de [[eieren]] omdraaien zodat de saus alle kanten bedekt.
 5. Laat ongeveer 15 minuten sudderen totdat een groot deel van het vocht is verdampt en de saus dik is en goed aan de [[eieren]] kleeft.
 6. Serveer met rode rijst, roerbak paksoi met [[knoflook]] en eventueel zelfgemaakte serundeng.
+
+## Notities
+
+<!-- verwerkt -->

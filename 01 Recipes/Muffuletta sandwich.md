@@ -2,6 +2,10 @@
 title: "Muffuletta sandwich"
 source: "https://www.culy.nl/recepten/asian-style-panzanella/"
 date_added: 2026-05-12
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - italiaans-amerikaans
@@ -50,3 +54,7 @@ tags:
 2. Voor de olijfsalade: mix 75g van de giardiniera, alle olijven, de [[geroosterde rode paprika]], [[kappertjes]], [[knoflook]] en [[peterselie]] in een keukenmachine tot fijn gehakt maar nog met textuur. Schep in een kom. Roer de [[olijfolie]], azijn en 1 el van het giardiniera-vocht erdoor, breng op smaak met zwarte peper. Zet 30 minuten of een nacht in de koelkast.
 3. Snijd het brood horizontaal doormidden. Als het een erg dikke, luchtige kruim heeft, haal dan een beetje eruit om ruimte te maken voor de vulling. Bestrijk de gesneden kanten met de olie en schep de olijfsalade over beide helften zodat de sappen in het brood trekken.
 4. Leg de [[mortadella]] op de bodem, gevolgd door de [[salami]], dan de prosciutto. Leg de [[provolone]] erbovenop. Sluit het brood met de bovenste helft en druk stevig aan. Wikkel strak in bakpapier, zet dan een dienblad of plank erop en verzwaar met een paar blikken. Laat 1 uur op kamertemperatuur rusten voor het snijden en serveren.
+
+## Notities
+
+<!-- verwerkt -->

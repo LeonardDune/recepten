@@ -2,6 +2,10 @@
 title: "Tong Tong Fair 2019 - De Indische wereldkeuken"
 source: "https://pisangsusu.com/tong-tong-fair/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -21,4 +25,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Zelf gemberbier maken (geen alcohol)"
 source: "https://pisangsusu.com/gemberbier-maken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 7. Laat 24 uur op een warme plaats staan en ontlucht af en toe de fles voorzichtig door heel langzaam de dop open te draaien.
 8. Zeef na 24 uur de inhoud van de fles in een schenkkan en zet het drankje in de koelkast om te koelen.
 9. Serveer met veel ijs of gebruik als basis voor een cocktail.
+
+## Notities
+
+<!-- verwerkt -->

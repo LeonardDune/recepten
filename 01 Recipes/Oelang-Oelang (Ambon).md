@@ -2,6 +2,10 @@
 title: "Oelang-Oelang (Ambon)"
 source: "https://pisangsusu.com/oelang-oelang-ambon/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 4. Verdun deze brij met de [[azijn]] en eventueel nog een eetlepel water tot een dressing.
 5. Meng de rauwe groenten ([[aubergine]], [[komkommer]], [[kool]] en [[taogé]]) door de dressing.
 6. Serveer de salade direct, eventueel naast knapperig gebakken tahoe met ketjapsaus of een zacht vleesgerecht.
+
+## Notities
+
+<!-- verwerkt -->

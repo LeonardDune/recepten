@@ -2,6 +2,10 @@
 title: "Gevulde Koolrolletjes"
 source: "https://pisangsusu.com/gevulde-koolrolletjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - schapevlees
   - santen
   - kokos
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gevulde Koolrolletjes
 
@@ -47,3 +50,7 @@ tags:
 7. Los de snippers [[santen]] op in de [[bouillon]] en maak het vocht af met 1 eetlepel [[ketjap]]. Giet het over de koolrolletjes in de schotel.
 8. Bestrooi de kool met de [[kokosmeel]] en verdeel de klontjes [[boter]] over het gehele oppervlak.
 9. Laat de schotel in de oven op 160 graden (hete lucht) gedurende ongeveer 40 minuten gaar worden.
+
+## Notities
+
+<!-- verwerkt -->

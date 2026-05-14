@@ -2,6 +2,15 @@
 title: "Bami Koeah"
 source: "https://pisangsusu.com/bami-koeah/"
 date_added: 2026-04-27
+status: processed
+cuisine: chinees
+course: soep
+servings: 4
+time_prep: 15
+time_cook: 15
+time_total: 30
+rating: 
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - soep
   - bouillon
   - beb vuyk
+  - cuisine/chinees
+  - course/soep
 ---
 
 # Bami Koeah
@@ -51,3 +62,7 @@ tags:
 13. Breng op smaak met [[zout]]e [[ketjap]] en proef goed.
 14. Doe de [[mie]] in kommen of schaaltjes en giet de saus erover.
 15. Versier met de rest van de [[ham]].
+
+## Notities
+
+<!-- verwerkt -->

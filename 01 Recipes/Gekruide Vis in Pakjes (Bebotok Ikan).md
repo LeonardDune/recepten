@@ -2,6 +2,10 @@
 title: "Gekruide Vis in Pakjes (Bebotok Ikan)"
 source: "https://pisangsusu.com/237-gekruide-vis-in-pakjes-bebotok-ikan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - boemboe
   - oven
   - gezond
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gekruide Vis in Pakjes (Bebotok Ikan)
 
@@ -46,3 +49,7 @@ tags:
 9. Verwarm de oven voor op 180 graden Celsius.
 10. Leg de pakjes in de oven en laat ze in 20 à 30 minuten gaar worden. Controleer of de vis gaar is en verleng de tijd indien nodig.
 11. Serveer de bebotok ikan in het pakje. Snijd de bovenkant in een kruis open zodat de hoekjes openvouwen maar de boemboe er niet uitloopt.
+
+## Notities
+
+<!-- verwerkt -->

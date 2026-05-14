@@ -2,6 +2,10 @@
 title: "Lekkerbekjes in saus (Indonesisch visgerecht)"
 source: "https://pisangsusu.com/lekkerbekjes-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 2. Bak ze in de [[olie]] totdat de uien geel zijn.
 3. Voeg de [[sojasaus]], [[azijn]] en eventueel een beetje [[water]] toe.
 4. Voeg de vis toe en bak kort mee totdat de vis warm is en alle smaken heeft opgenomen.
+
+## Notities
+
+<!-- verwerkt -->

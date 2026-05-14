@@ -2,6 +2,10 @@
 title: "Tahoe-tempe met Roedjak-kruiden"
 source: "https://pisangsusu.com/tofu-tempeh-with-rujak-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Voeg de bumbu (kruidenpasta) toe aan het [[water]] met [[santen]]. Voeg ook direct de gekookte [[tempe]] en [[tahoe]] toe, samen met de [[sereh]] en de [[salamblad]]en.
 6. Laat het geheel op laag vuur zachtjes sudderen totdat de saus mooi is ingedikt, ongeveer 15 minuten.
 7. Zet het vuur uit en laat het gerecht nog even staan zodat de saus verder indikt. Serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

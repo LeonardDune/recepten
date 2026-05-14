@@ -2,6 +2,10 @@
 title: "Tollo Pamarasan (Toraja)"
 source: "https://pisangsusu.com/tollo-pamarasan-toraja/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 8. Voeg na 30 minuten de [[prei]] toe en laat nog 10 minuten meekoken.
 9. Voeg vlak voor het serveren de fijngehakte [[bieslook]] toe zodat de steeltjes knapperig blijven.
 10. Serveer het gerecht warm.
+
+## Notities
+
+<!-- verwerkt -->

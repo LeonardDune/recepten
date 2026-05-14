@@ -2,6 +2,10 @@
 title: "Indonesische Ingrediënten en Kruiden"
 source: "https://pisangsusu.com/indonesische-kruiden-overzicht/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 3. Gebruik verse koenjit (kunyit) in nasi kuning voor een diepere, aardse smaak.
 4. Bezoek een toko voor verse kruiden zoals [[kencur]], [[pandanbladeren]] en [[bananenblad]].
 5. Gebruik [[bananenblad]] bij het bereiden van lontong voor extra smaak.
+
+## Notities
+
+<!-- verwerkt -->

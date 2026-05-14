@@ -2,6 +2,10 @@
 title: "Magadip (Madoerees gerecht)"
 source: "https://pisangsusu.com/magadip-madoerees-gerecht/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 6. Voeg de gebakken boemboe bij het kokende vlees.
 7. Breng aan de kook en laat op een gemiddeld vuurtje pruttelen (grotendeels zonder deksel) tot het vlees gaar is, ongeveer 25-30 minuten.
 8. Meng er voor het opdienen de eetlepel [[boter]] doorheen.
+
+## Notities
+
+<!-- verwerkt -->

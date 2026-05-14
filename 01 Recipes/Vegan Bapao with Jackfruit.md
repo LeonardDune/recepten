@@ -2,6 +2,10 @@
 title: "Vegan Bapao with Jackfruit"
 source: "https://pisangsusu.com/vegan-bapao-with-jackfruit/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -59,3 +63,7 @@ tags:
 15. Add a spoonful of the cooled filling to the center of each dough circle and fold the bapao closed.
 16. Place the bapao on parchment paper in a bamboo steamer basket.
 17. Steam the bapao for 15 minutes until cooked through.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Indische Kookworkshops Amsterdam - Manis & Streetfood"
 source: "https://pisangsusu.com/workshop-indisch-koken-amsterdam/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 7. Maak [[lemper]].
 8. Bereid [[pangsiet]].
 9. Serveer alle gerechten en proef tijdens de workshop.
+
+## Notities
+
+<!-- verwerkt -->

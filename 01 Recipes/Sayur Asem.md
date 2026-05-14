@@ -2,6 +2,10 @@
 title: "Sayur Asem"
 source: "https://pisangsusu.com/103-sayur-asem-summer-recipe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 5. Voeg daarna de [[spitskool]] toe.
 6. Als de [[spitskool]] zacht wordt, voeg dan de [[paprika]] en de [[aubergine]] toe.
 7. Breng op smaak met [[zout]].
+
+## Notities
+
+<!-- verwerkt -->

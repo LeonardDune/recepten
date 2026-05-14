@@ -2,6 +2,10 @@
 title: "Kayaku Gohan - Japanese Rice"
 source: "https://pisangsusu.com/japanese-rice-kayaku-gohan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Plaats de pan in de [[rijst]]stomer en kook de [[rijst]] op de normale instelling tot gaar.
 7. Haal de pan uit de stomer en schep alle ingrediënten door elkaar. De [[rijst]] onderin heeft een mooie bruine kleur door de [[sojasaus]] en [[dashi]].
 8. Bestrooi met [[lente-ui]] en platte [[peterselie]] en serveer.
+
+## Notities
+
+<!-- verwerkt -->

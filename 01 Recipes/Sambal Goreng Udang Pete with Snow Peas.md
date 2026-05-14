@@ -2,6 +2,10 @@
 title: "Sambal Goreng Udang Pete with Snow Peas"
 source: "https://pisangsusu.com/sambal-goreng-udang-pete-with-snow-peas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Leg het deksel 2 minuten op de pan zodat alles kort kan stomen.
 8. Roer de asem ([[tamarinde]]) erdoor en controleer of de [[garnalen]] gaar zijn (roze).
 9. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Tahu Goreng – Fried Tofu (Central Java)"
 source: "https://pisangsusu.com/fried-tofu-central-java/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 6. Heat the oil in a deep pan.
 7. Carefully slide the [[tofu]] slices into the hot oil and deep-fry two at a time for 3-5 minutes until golden brown and crispy.
 8. Serve with red rice and sambal.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Kaber-Kabertoe (Gevulde Indische Omelet)"
 source: "https://pisangsusu.com/kaber-kabertoe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 8. Rol de omelet voorzichtig op over de vulling en laat hem nog even zachtjes bakken zodat de sluiting goed dichtzit.
 9. Bak de omelet aan beide zijden nog even lichtbruin.
 10. Snij de kaber-kabertoe in brede repen en serveer.
+
+## Notities
+
+<!-- verwerkt -->

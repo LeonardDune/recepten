@@ -2,6 +2,10 @@
 title: "Gestoomde kokosbroodjes"
 source: "https://pisangsusu.com/gestoomde-kokos-broodjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - vegetarisch
   - gula jawa
   - kokosmelk
-  - pandan
----
+  - pandan---
 
 # Gestoomde kokosbroodjes
 
@@ -38,3 +41,7 @@ tags:
 7. Plaats de ballen in een cupcake papiertje of op bakpapier in het stoommandje naast elkaar.
 8. Stoom de broodjes met het deksel erop voor 10 minuten.
 9. Proef of de broodjes [[zout]] genoeg zijn.
+
+## Notities
+
+<!-- verwerkt -->

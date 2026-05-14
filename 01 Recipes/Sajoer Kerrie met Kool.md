@@ -2,6 +2,10 @@
 title: "Sajoer Kerrie met Kool"
 source: "https://pisangsusu.com/sajoer-kerrie/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 4. Snijd de [[kool]] in grove stukken en de [[tahoe]] in blokjes van +/- 2 cm en kook ze mee.
 5. Voeg na ongeveer 10 minuten het [[asemwater]] toe en de goed uitgeknepen [[laksa]].
 6. Daarna de sajoer nog enkele minuten laten doorkoken.
+
+## Notities
+
+<!-- verwerkt -->

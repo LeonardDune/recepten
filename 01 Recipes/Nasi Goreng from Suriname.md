@@ -2,6 +2,10 @@
 title: "Nasi Goreng from Suriname"
 source: "https://pisangsusu.com/fried-rice-from-suriname/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -55,3 +59,7 @@ tags:
 7. Breng op smaak met een theelepel [[peper]] en een halve theelepel [[zout]].
 8. Voeg vlak voor het serveren de fijngehakte [[peterselie]], [[erwten]] en [[garnalen]] toe. Laat de [[garnalen]] en [[erwten]] opwarmen.
 9. Schep op borden en serveer met [[augurken]] en dun gesneden [[omelet]].
+
+## Notities
+
+<!-- verwerkt -->

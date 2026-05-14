@@ -2,6 +2,10 @@
 title: "Vetsin or Monosodium Glutamate (MSG)"
 source: "https://pisangsusu.com/vetsin-or-monosodium-glutamate/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -25,4 +29,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

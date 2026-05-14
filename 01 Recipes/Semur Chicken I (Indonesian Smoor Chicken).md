@@ -2,6 +2,10 @@
 title: "Semur Chicken I (Indonesian Smoor Chicken)"
 source: "https://pisangsusu.com/265-smoor-chicken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 6. Voeg de ui en [[knoflook]] toe en bak mee totdat ze geel zijn.
 7. Maak de saus met een beetje water, [[sojasaus]] en [[citroensap]].
 8. Zet het vuur laag en laat de [[kip]] langzaam gaar worden, af en toe omdraaien, gedurende minimaal 45 minuten totdat het vlees gaar is.
+
+## Notities
+
+<!-- verwerkt -->

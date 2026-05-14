@@ -2,6 +2,10 @@
 title: "Smoor Chicken II (Braised Chicken II)"
 source: "https://pisangsusu.com/266-braised-chicken-ii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Maak het gerecht af met een beetje water, [[sojasaus]] en [[citroen]]sap.
 6. Voeg de [[gember]]poeder, [[laos]] en [[chilipeper]] toe aan de saus.
 7. Laat het geheel sudderen op laag vuur gedurende ongeveer 40 minuten, af en toe omdraaien, totdat de [[kip]] gaar is.
+
+## Notities
+
+<!-- verwerkt -->

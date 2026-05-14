@@ -2,6 +2,10 @@
 title: "Sambal Luat (Timor)"
 source: "https://pisangsusu.com/sambal-luat-timor-chili-salsa/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Voeg het [[citroen]]sap toe en blijf roeren tot het meeste vocht is verdampt.
 6. Zet het vuur uit en meng de gehakte [[bieslook]] door de sambal.
 7. Serveer direct of bewaar warm in een schone, gesteriliseerde pot.
+
+## Notities
+
+<!-- verwerkt -->

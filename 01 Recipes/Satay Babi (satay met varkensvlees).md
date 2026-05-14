@@ -2,6 +2,10 @@
 title: "Satay Babi (satay met varkensvlees)"
 source: "https://pisangsusu.com/satay-babi/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 7. Rooster de satés eerst boven een laag vuur en daarna boven een hoger vuur (op houtskool of elektrische grill), ongeveer 10 minuten totaal.
 8. Bestrijk de satés af en toe met de marinade tijdens het roosteren.
 9. Serveer met [[sojasaus]], pindasaus of zoetzure saus.
+
+## Notities
+
+<!-- verwerkt -->

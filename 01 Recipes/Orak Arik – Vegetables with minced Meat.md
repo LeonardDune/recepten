@@ -2,6 +2,10 @@
 title: "Orak Arik – Vegetables with minced Meat"
 source: "https://pisangsusu.com/452-orak-arik-finely-chopped-vegetables-minced-meat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 2. Bak het [[gehakt]] in de [[olie]], voeg de uien, [[knoflook]], [[zout]] en [[peper]] toe. Voeg iets meer [[peper]] toe dan gebruikelijk.
 3. Wanneer het vlees gaar is, voeg de [[kool]] toe en roerbak niet te lang. Het moet knapperig blijven.
 4. Klop de [[eieren]] met [[zout]] en [[peper]]. Meng dit door het vlees en de [[kool]], roer totdat het ei gestold is.
+
+## Notities
+
+<!-- verwerkt -->

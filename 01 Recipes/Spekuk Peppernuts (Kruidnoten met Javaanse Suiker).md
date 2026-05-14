@@ -2,6 +2,10 @@
 title: "Spekuk Peppernuts (Kruidnoten met Javaanse Suiker)"
 source: "https://pisangsusu.com/spekuk-peppernuts-sinterklaas-delights/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Bak 12-15 minuten in het midden van de oven op 160 graden Celsius.
 6. Haal ze uit de oven – ze zijn dan nog zacht. Tijdens het afkoelen worden ze harder.
 7. Optioneel: decoreer met glazuur of eetbare parels.
+
+## Notities
+
+<!-- verwerkt -->

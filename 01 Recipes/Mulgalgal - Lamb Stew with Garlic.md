@@ -2,6 +2,10 @@
 title: "Mulgalgal - Lamb Stew with Garlic"
 source: "https://pisangsusu.com/mulgalgal-lamb-stew-with-garlic/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 4. Laat de eerste 18 minuten het deksel op de pan.
 5. Verwijder daarna het deksel zodat de saus zachtjes kan inkoken.
 6. Garneer eventueel met Thaise basilicum en serveer met terancam salade en rode rijst.
+
+## Notities
+
+<!-- verwerkt -->

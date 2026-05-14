@@ -2,6 +2,10 @@
 title: "Goelai van Kip (Gulai Ajam)"
 source: "https://pisangsusu.com/goelai-kip-gulai-ajam/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -11,8 +15,7 @@ tags:
   - stoofgerecht
   - gulai
   - Beb Vuyk
-  - klassiek
----
+  - klassiek---
 
 # Goelai van Kip (Gulai Ajam)
 
@@ -43,3 +46,7 @@ tags:
 6. Haal de [[kip]]petjes even eruit en kook de saus nog wat verder in tot een iets dikkere saus.
 7. Leg de [[kip]]petjes terug in de saus en laat nog zeker 5 minuten meekoken.
 8. Serveer met stukjes citroen en serundeng.
+
+## Notities
+
+<!-- verwerkt -->

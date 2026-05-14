@@ -2,6 +2,10 @@
 title: "Kue Pisang (Bananenkoek)"
 source: "https://pisangsusu.com/565-kue-pisang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 4. Verdeel de [[boter]] in klontjes over het oppervlak.
 5. Bak de koek in een oven van ± 175 °C (gasovenstand 3) in 20-25 minuten goudgeel.
 6. Kan warm zowel koud gegeten worden.
+
+## Notities
+
+<!-- verwerkt -->

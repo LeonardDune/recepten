@@ -2,6 +2,10 @@
 title: "Pangsit Goreng Dough (Wonton / Dumpling Dough)"
 source: "https://pisangsusu.com/pangsit-or-wonton-soup/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 10. Laat de pangsit 30 minuten rusten voor het bakken.
 11. Verhit de olie totdat er damp afkomt. Bak de pangsit aan beide kanten goudbruin en knapperig.
 12. Laat uitlekken en serveer met een zoetzure Chinese saus of taotjo saus.
+
+## Notities
+
+<!-- verwerkt -->

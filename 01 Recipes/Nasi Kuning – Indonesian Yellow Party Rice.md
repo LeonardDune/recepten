@@ -2,6 +2,10 @@
 title: "Nasi Kuning – Indonesian Yellow Party Rice"
 source: "https://pisangsusu.com/nasi-kuning-indonesian-yellow-rice/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 7. Verwijder de blaadjes en het citroengras.
 8. Schep de rijst goed door zodat de [[kokosmelk]] goed verdeeld is.
 9. Doe de rijst in een vorm, plaats op een bord en decoreer naar wens (optioneel met bananenbladeren, hete pepers en serundeng).
+
+## Notities
+
+<!-- verwerkt -->

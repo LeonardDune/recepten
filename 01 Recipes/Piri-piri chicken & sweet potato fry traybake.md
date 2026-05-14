@@ -2,6 +2,10 @@
 title: "Piri-piri chicken & sweet potato fry traybake"
 source: "https://www.bbcgoodfood.com/recipes/piri-piri-chicken-sweet-potato-fry-traybake"
 date_added: 2026-05-01
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - traybake
@@ -42,3 +46,7 @@ tags:
 1. Verwarm de oven voor op 200C/180C hetelucht/gasstand 6. Meng alle specerijen, de [[honing]], [[limoen]]schil en -sap, de [[rode wijnazijn]], [[knoflook]] en [[olijfolie]] in een grote kom. Breng goed op smaak met zout en peper. Schep de [[kippendijen]], [[paprika]]'s en [[rode ui]] door de marinade. Zet 1 uur in de koelkast om te marineren, als je de tijd hebt.
 2. Verdeel de kip en groenten over één kant van een grote bakplaat. Bak 25 minuten, voeg dan de [[zoete aardappelfriet]] toe aan de andere kant van de bakplaat en rooster nog 20-25 minuten totdat de kip gaar is, de groenten zacht en licht geblakerd zijn, en de friet knapperig is.
 3. Meng vlak voor het serveren de kip en groenten voorzichtig door de friet, zodat de friet wat saus opneemt maar niet zacht wordt. Serveer direct, bestrooid met [[koriander]] en klodders yoghurt, met [[limoen]]wiggen om over te knijpen, als je dat lekker vindt.
+
+## Notities
+
+<!-- verwerkt -->

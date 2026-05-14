@@ -2,6 +2,10 @@
 title: "Kalio with Chicken (Kalio Ajam – Padang)"
 source: "https://pisangsusu.com/kalio-with-chicken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Laat de [[kip]] 5-8 minuten sudderen met het deksel op de pan.
 5. Wanneer de [[kip]] half gaar is, voeg de [[santen]] toe en laat het gerecht sudderen totdat de [[kip]] gaar is en de saus is ingedikt (nog 15-20 minuten).
 6. Wil je de saus goed laten indikken, laat dan de laatste 5 minuten het deksel van de pan.
+
+## Notities
+
+<!-- verwerkt -->

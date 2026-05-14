@@ -2,6 +2,10 @@
 title: "Onde-Onde (Sesame Seed Balls)"
 source: "https://pisangsusu.com/onde-onde-or-sesame-seed-balls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 12. Verhit [[plantaardige olie]] op middelhoog vuur (niet te heet, anders barsten de balletjes).
 13. Frituur de balletjes 3 tegelijk, terwijl je ze ronddraait in de olie, gedurende precies 6 minuten. Ze zijn klaar als ze gaan drijven.
 14. Laat de onde-onde een minuut rusten op keukenpapier en serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

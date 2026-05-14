@@ -2,6 +2,10 @@
 title: "Gulai Telor II (Aceh)"
 source: "https://pisangsusu.com/327-gulai-telor-ii-aceh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,8 +16,7 @@ tags:
   - tamarinde
   - gulai
   - aziatisch
-  - snel klaar
----
+  - snel klaar---
 
 # Gulai Telor II (Aceh)
 
@@ -41,3 +44,7 @@ tags:
 5. Breng het geheel zachtjes aan de kook.
 6. Breek de [[eieren]] voorzichtig één voor één in de saus.
 7. Laat de [[eieren]] ongeveer 10 minuten zachtjes sudderen tot ze gaar zijn. Roer de [[eieren]] niet door de saus.
+
+## Notities
+
+<!-- verwerkt -->

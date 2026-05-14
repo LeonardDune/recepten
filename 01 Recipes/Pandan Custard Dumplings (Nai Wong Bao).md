@@ -2,6 +2,10 @@
 title: "Pandan Custard Dumplings (Nai Wong Bao)"
 source: "https://pisangsusu.com/pandan-custard-dumplings-nai-wong-bao-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -57,3 +61,7 @@ tags:
 13. Stoom alle gevulde broodjes 15 minuten boven een wok met kokend [[water]].
 14. Haal het mandje van de wok maar laat het deksel nog 5 minuten op het mandje voor een stevige bovenkant.
 15. Laat de bao volledig afkoelen op een rooster.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Petjel - Indonesische Salade met Pindasaus"
 source: "https://pisangsusu.com/450-petjel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 7. Meng de [[pindakaas]] door de gefruitte kruiden; gebruik een mixer in een mengkom voor een gladde saus.
 8. Maak van het [[water]] en de [[tamarinde]] een papje (na het verwijderen van de zaden en vliezen) en roer dit lepelsgewijs door de massa. De saus moet dik zijn als slasaus.
 9. Schik de uitgelekte groenten op een schotel en overgiet ze met de saus.
+
+## Notities
+
+<!-- verwerkt -->

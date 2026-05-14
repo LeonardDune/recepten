@@ -2,6 +2,10 @@
 title: "Zuur van Tomaten en Komkommer (Atjar tanpa Tjoeka – Poerwokerto)"
 source: "https://pisangsusu.com/416-zuur-van-tomaten-en-komkommer-zonder-azijn-atjar-tanpa-tjoeka-poerwokerto/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 9. Voeg daarna de [[komkommer]] en de [[tomaten]] bij en schep de massa goed om en om zodat de boemboe overal aanplakt.
 10. Doe er het [[citroen]]sap bij en breng het gerecht aan de kook.
 11. Schep nog een keer door en dien direct op, nog warm.
+
+## Notities
+
+<!-- verwerkt -->

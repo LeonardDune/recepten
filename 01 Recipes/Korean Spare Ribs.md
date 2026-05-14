@@ -2,6 +2,10 @@
 title: "Korean Spare Ribs"
 source: "https://pisangsusu.com/korean-spare-ribs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 7. Haal de [[spare ribs]] uit de aluminiumfolie en rooster ze nog 10-15 minuten op de BBQ voor een knapperige buitenkant.
 8. Serveer de [[spare ribs]] door het vlees in [[sla]]blaadjes te rollen met een theelepel [[hoisinsaus]]. Voeg optioneel verse [[lente-ui]]tjes, [[koriander]] en [[kimchi]] toe.
 9. Serveer met sushi[[rijst]] en [[cole[[sla]]w]].
+
+## Notities
+
+<!-- verwerkt -->

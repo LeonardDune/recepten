@@ -2,6 +2,10 @@
 title: "Sambal Goreng van Vlees"
 source: "https://pisangsusu.com/sambal-goreng-vlees/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 5. Voeg het asemwater, het blokje [[santen]], de sereh, de djeroek poeroetblaadjes en het salamblaadje toe.
 6. Doe de deksel op de pan en laat de sambal goreng ongeveer 10 minuten sudderen op middelhoog vuur.
 7. Haal de pan van het vuur en laat het [[vlees]] nog 5 minuten rusten in de pan voordat je het opdient.
+
+## Notities
+
+<!-- verwerkt -->

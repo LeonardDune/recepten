@@ -2,6 +2,10 @@
 title: "Pepesan - Gestoomde Vis in Pakjes"
 source: "https://pisangsusu.com/238-gestoomde-vis-pakjes-pepesan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Vouw de f[[olie]] dicht zodat de pakjes goed sluiten.
 8. Stoom de pakjes in een stoompan gedurende ongeveer 30 tot 45 minuten.
 9. Rooster ze zo nodig nog even na in de oven of op een houtskoolvuurtje.
+
+## Notities
+
+<!-- verwerkt -->

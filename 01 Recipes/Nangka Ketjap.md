@@ -2,6 +2,10 @@
 title: "Nangka Ketjap"
 source: "https://pisangsusu.com/huishoudbeurs-pasar-colors/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 4. Voor de lalab: maak een dressing van pittige [[ketjap]], [[limoen]], [[knoflook]] en [[trassi]].
 5. Serveer de lalab van [[tomaat]] als bijgerecht bij de nangka [[ketjap]].
 6. Het gerecht is de volgende dag het lekkerst.
+
+## Notities
+
+<!-- verwerkt -->

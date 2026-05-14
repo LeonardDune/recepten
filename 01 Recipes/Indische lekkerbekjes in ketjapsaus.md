@@ -2,6 +2,10 @@
 title: "Indische lekkerbekjes in ketjapsaus"
 source: "https://pisangsusu.com/213-lekkerbekjes-saus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 2. Bak het mengsel op in de [[olie]] tot de [[uien]] geel zijn.
 3. Maak het geheel af met de [[ketjap]], [[azijn]] en zo nodig wat water.
 4. Stoof hierin de [[lekkerbekjes]] even op tot ze warm zijn (15-20 minuten).
+
+## Notities
+
+<!-- verwerkt -->

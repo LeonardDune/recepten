@@ -2,6 +2,10 @@
 title: "Karedok (Preanger) - Veganistische Salade met Pindadressing"
 source: "https://pisangsusu.com/karedok-preanger/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 5. Voeg 3 à 4 eetlepels [[water]] toe aan de dressing om de gewenste consistentie te krijgen.
 6. Meng de dressing met de gesneden groenten en [[taogé]].
 7. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

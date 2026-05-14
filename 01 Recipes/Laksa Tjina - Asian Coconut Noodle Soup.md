@@ -2,6 +2,10 @@
 title: "Laksa Tjina - Asian Coconut Noodle Soup"
 source: "https://pisangsusu.com/517-laksa-tjina-indonesian-chinese/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -61,3 +65,7 @@ tags:
 7. Laat het gerecht 15 minuten sudderen.
 8. Maak het gerecht af met 1 eetlepel [[sojasaus]] en [[citroen]]sap.
 9. Serveer met rijst.
+
+## Notities
+
+<!-- verwerkt -->

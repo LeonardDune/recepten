@@ -2,6 +2,10 @@
 title: "Sambal Belimbing"
 source: "https://pisangsusu.com/sambal-belimbing/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Snij de belimbing in blokjes van 2 cm en roerbak mee totdat het fruit zacht is.
 5. Voeg een half kopje water toe als de mix te droog dreigt te worden.
 6. Knijp een kwart [[limoen]] uit over het geheel en schep door. De sambal is nu klaar.
+
+## Notities
+
+<!-- verwerkt -->

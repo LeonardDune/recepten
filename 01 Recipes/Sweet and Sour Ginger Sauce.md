@@ -2,6 +2,10 @@
 title: "Sweet and Sour Ginger Sauce"
 source: "https://pisangsusu.com/3349/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 2. Voeg het [[gemberpoeder]], de [[tomatenpuree]], de [[bouillon]] en de [[azijn]] toe.
 3. Bind de saus met de [[maizena]] en laat een minuutje sudderen.
 4. Roer de [[stemgember]] erdoor.
+
+## Notities
+
+<!-- verwerkt -->

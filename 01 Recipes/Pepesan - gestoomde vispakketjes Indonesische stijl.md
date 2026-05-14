@@ -2,6 +2,10 @@
 title: "Pepesan - gestoomde vispakketjes Indonesische stijl"
 source: "https://pisangsusu.com/pepesan-indonesian/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Stoom de pakketjes in een rijststomer gedurende ongeveer 30 tot 45 minuten.
 8. Indien gewenst, rooster ze daarna nog even in de oven of op een houtskoolvuur.
 9. Serveer de pakketjes op een groot bord, samen met witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

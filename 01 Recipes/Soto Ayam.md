@@ -2,6 +2,10 @@
 title: "Soto Ayam"
 source: "https://pisangsusu.com/video-how-to-make-soto-ayam/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -21,4 +25,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

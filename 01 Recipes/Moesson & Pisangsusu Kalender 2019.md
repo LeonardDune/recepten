@@ -2,6 +2,10 @@
 title: "Moesson & Pisangsusu Kalender 2019"
 source: "https://pisangsusu.com/moesson-pisang-susu-kalender-2019/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -22,4 +26,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

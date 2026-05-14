@@ -2,6 +2,10 @@
 title: "Sambal Petis"
 source: "https://pisangsusu.com/sambal-petis-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -30,3 +34,7 @@ tags:
 3. Wrijf de pepers met het [[zout]] in de vijzel (cobek) tot een sambal ulek, maar niet te fijn zodat de kleuren van de pepers zichtbaar blijven.
 4. Voeg naar smaak 1 à 2 theelepels [[petis]] toe en wrijf dit goed door de sambal heen.
 5. Optioneel: strooi er een paar blaadjes gehakte lente-ui over voor kleurverschil en extra knapperigheid.
+
+## Notities
+
+<!-- verwerkt -->

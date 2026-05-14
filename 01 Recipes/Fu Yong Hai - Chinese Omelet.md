@@ -2,6 +2,10 @@
 title: "Fu Yong Hai - Chinese Omelet"
 source: "https://pisangsusu.com/fu-yong-hai-chinese-omelet/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - indisch
   - foe joeng hay
   - fu yong hai
-  - cantonees
----
+  - cantonees---
 
 # Fu Yong Hai - Chinese Omelet
 
@@ -51,3 +54,7 @@ tags:
 7. Maak de gembersaus af door [[azijn]], [[suiker]] en [[sojasaus]] aan de [[bouillon]] toe te voegen.
 8. Los de [[maizena]] op in een eetlepel water en voeg toe aan de saus om deze te binden.
 9. Leg de gevulde omelet op een schaal en giet de warme gembersaus erover.
+
+## Notities
+
+<!-- verwerkt -->

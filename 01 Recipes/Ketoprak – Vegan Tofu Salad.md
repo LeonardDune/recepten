@@ -2,6 +2,10 @@
 title: "Ketoprak – Vegan Tofu Salad"
 source: "https://pisangsusu.com/ketoprak-vegan-tofu-salad/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Mix the paste with the soy sauce and some vinegar to turn it into a sauce.
 6. Mix in the [[tofu]], the bean sprouts, the cabbage and the celery.
 7. Serve the dish with the fried onions and chopped chives on top.
+
+## Notities
+
+<!-- verwerkt -->

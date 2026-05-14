@@ -2,6 +2,10 @@
 title: "Sajoer Oelih (Bali)"
 source: "https://pisangsusu.com/sajoer-oelih-bali/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 9. Roer de gebakken [[uien]] voor het opdoen door de sajoer.
 10. Maak het geheel af met het [[citroen]]sap en [[zout]] naar smaak.
 11. Meteen serveren, eventueel met witte rijst, lontong en/of gekookte eieren.
+
+## Notities
+
+<!-- verwerkt -->

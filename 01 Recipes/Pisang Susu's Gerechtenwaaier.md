@@ -2,6 +2,10 @@
 title: "Pisang Susu's Gerechtenwaaier"
 source: "https://pisangsusu.com/pisang-susus-gerechtwaaier/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -28,3 +32,7 @@ tags:
 3. Pisang Susu neemt contact op voor betalingsdetails en adresgegevens
 4. Maak de 20 recepten uit de waaier, zoals roti kukus en sambal peteh
 5. Combineer gerechten naar keuze voor een luxe rijsttafel of vegetarische maaltijd
+
+## Notities
+
+<!-- verwerkt -->

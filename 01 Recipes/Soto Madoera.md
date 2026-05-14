@@ -2,6 +2,10 @@
 title: "Soto Madoera"
 source: "https://pisangsusu.com/133-soto-madoera/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -58,3 +62,7 @@ tags:
 13. Overgiet dit alles ruim met de bouillon waarin de [[kip]]pestukjes drijven.
 14. Druppel er wat [[citroen]]sap op, plaats een paar partjes ei er bovenop en bestrooi het geheel met gefruite uitjes.
 15. Serveer er gekookte rijst, sambal oelek en [[zout]]e ketjap bij.
+
+## Notities
+
+<!-- verwerkt -->

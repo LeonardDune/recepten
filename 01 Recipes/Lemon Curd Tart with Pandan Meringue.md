@@ -2,6 +2,10 @@
 title: "Lemon Curd Tart with Pandan Meringue"
 source: "https://pisangsusu.com/lemon-curd-tart-with-pandan-meringue/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 15. Schep de meringue op de afgekoelde taart en verdeel zodat het de randen raakt.
 16. Bak nog 5 minuten in de oven op 180 graden, of totdat de hoogste pieken licht goudbruin kleuren.
 17. Verwijder de rand van de bakvorm en serveer.
+
+## Notities
+
+<!-- verwerkt -->

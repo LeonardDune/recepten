@@ -2,6 +2,10 @@
 title: "Thai Mango Salad with Lemongrass"
 source: "https://pisangsusu.com/mango-salad/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 9. Squeeze half a lime over everything.
 10. Let the salad stand for about 10 minutes so the dressing flavors the [[mango]] and onions.
 11. Mix the salad again just before serving.
+
+## Notities
+
+<!-- verwerkt -->

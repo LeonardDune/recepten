@@ -2,6 +2,10 @@
 title: "Sambal Goreng Bruine Bonen met Spek"
 source: "https://pisangsusu.com/bruine-bonen-spek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 6. Doe er de [[santen]] bij, het [[asem]]water gemaakt van het stukje [[asem]] met 4 lepels kookwater, de [[sereh]] en salam.
 7. Stoof dit tot de [[olie]] uit de [[santen]] boven komt drijven.
 8. Roer er voor het opdoen het gebakken spek doorheen.
+
+## Notities
+
+<!-- verwerkt -->

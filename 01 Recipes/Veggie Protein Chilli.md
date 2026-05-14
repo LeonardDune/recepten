@@ -2,6 +2,10 @@
 title: "Veggie Protein Chilli"
 source: "https://www.bbcgoodfood.com/recipes/how-to-cook-salmon"
 date_added: 2026-05-09
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - vegan
@@ -20,4 +24,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

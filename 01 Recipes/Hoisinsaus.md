@@ -2,6 +2,10 @@
 title: "Hoisinsaus"
 source: "https://pisangsusu.com/hoisinsaus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 4. Giet de saus door een vergiet om de [[knoflook]]stukjes eruit te filteren.
 5. Laat de saus afkoelen; hij wordt dikker naarmate hij afkoelt. Als de saus te dik is, warm hem dan 5 seconden op in de magnetron met 1 of 2 eetlepels [[water]] en roer door.
 6. Bewaar de hoisinsaus ongeveer een week in de koelkast in een superschoon potje.
+
+## Notities
+
+<!-- verwerkt -->

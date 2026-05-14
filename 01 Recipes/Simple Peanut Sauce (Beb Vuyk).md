@@ -2,6 +2,10 @@
 title: "Simple Peanut Sauce (Beb Vuyk)"
 source: "https://pisangsusu.com/469-simple-peanut-sauce-ii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Voeg het mengsel uit de vijzel toe en meng goed door.
 5. Proef de saus en voeg indien nodig extra [[azijn]] of [[zout]] toe.
 6. Serveer koud als saus over sateh of als diopsaus bij groenten.
+
+## Notities
+
+<!-- verwerkt -->

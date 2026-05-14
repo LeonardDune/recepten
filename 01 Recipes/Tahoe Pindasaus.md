@@ -2,6 +2,10 @@
 title: "Tahoe Pindasaus"
 source: "https://pisangsusu.com/tahoe-pindasaus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Wrijf [[knoflook]], sambal, [[javaanse suiker]] en [[pindakaas]] met elkaar tot een brij en bak die in het restje [[olie]] op een laag pitje even goed door en door.
 5. Maak de saus af met de [[ketjap]] en roer er dan de [[tahoe]]blokjes doorheen.
 6. Maak het geheel af met het [[citroen]]sap en bestrooi het gerecht bij het opdoen met de gebakken uien en de gehakte [[selderie]].
+
+## Notities
+
+<!-- verwerkt -->

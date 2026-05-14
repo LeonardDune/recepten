@@ -2,6 +2,10 @@
 title: "Roedjak Manis"
 source: "https://pisangsusu.com/roedjak/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 5. Meng de vruchten en [[komkommer]] door de saus.
 6. Zorg dat de saus goed wordt verdeeld over alle ingrediënten.
 7. Bewaar in een afgesloten pot in de koelkast zodat de smaken goed kunnen intrekken.
+
+## Notities
+
+<!-- verwerkt -->

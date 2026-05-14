@@ -2,6 +2,10 @@
 title: "Rawon Soerabaja"
 source: "https://pisangsusu.com/rawon-soerabaja/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 5. Voeg het halfgare vlees toe met de bouillon, de [[djeroek poeroetblaadjes]] en de [[sereh]].
 6. Maak het gerecht af met [[ketjap]] en laat het smoren tot het vlees gaar is (ongeveer 1,5 uur met deksel op de pan).
 7. Het laatste half uur de deksel van de pan halen zodat de saus wat inkookt. Rawon mag geserveerd worden als een volle, natte soep.
+
+## Notities
+
+<!-- verwerkt -->

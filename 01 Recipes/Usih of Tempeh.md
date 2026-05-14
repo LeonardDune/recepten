@@ -2,6 +2,10 @@
 title: "Usih of Tempeh"
 source: "https://pisangsusu.com/375-usih-of-tempeh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Breek het [[citroengras]] en sla het een paar keer in de vijzel zodat de vezels meer smaak afgeven.
 6. Voeg de [[tempeh]]blokjes toe en laat alles sudderen totdat de saus indikt, ongeveer 5-6 minuten.
 7. Serveer zodra de saus voldoende is ingedikt en de blokjes zichtbaar zijn.
+
+## Notities
+
+<!-- verwerkt -->

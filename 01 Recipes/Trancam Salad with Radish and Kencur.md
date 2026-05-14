@@ -2,6 +2,10 @@
 title: "Trancam Salad with Radish and Kencur"
 source: "https://pisangsusu.com/terancam-salad-with-radish-and-kencur/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -54,3 +58,7 @@ tags:
 8. Taste and adjust salt or sourness as needed. Add a few drops of lemon juice.
 9. Add the fresh (Thai) basil and mix gently. If fresh basil is not available, use dried basil rubbed in with the onions.
 10. Serve immediately.
+
+## Notities
+
+<!-- verwerkt -->

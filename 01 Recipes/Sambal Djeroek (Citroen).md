@@ -2,6 +2,10 @@
 title: "Sambal Djeroek (Citroen)"
 source: "https://pisangsusu.com/sambal-djeroek-citroen/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -32,3 +36,7 @@ tags:
 3. Meng het [[citroensap]] goed door de sambal heen.
 4. Gebruik een cobèk (vijzel) of staafmixer om alles fijn te malen. Leg bij gebruik van de staafmixer een theedoek over het apparaat om spatten te voorkomen.
 5. Bewaar de sambal in schone, uitgekokte potjes. Voor langere houdbaarheid: vul hete potjes met de verse sambal, draai de deksel erop zodat het vacuum trekt. De sambal kan ook worden ingevroren in ijsklontbakjes.
+
+## Notities
+
+<!-- verwerkt -->

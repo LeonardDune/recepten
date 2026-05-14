@@ -2,6 +2,10 @@
 title: "Indische pasteitjes – pastel goreng"
 source: "https://pisangsusu.com/indische-pasteitjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -55,3 +59,7 @@ tags:
 12. Frituur de pasteitjes ongeveer 6 minuten tot ze goudbruin zijn. Bak er eerst één, laat uitlekken op keukenpapier en snij doormidden om te controleren of de vulling gaar is. Pas de baktijd aan indien nodig.
 13. Laat alle pasteitjes goed uitlekken en afkoelen op keukenpapier.
 14. Serveer met zoet-zure chilisaus. Wil je ze invriezen, laat ze dan volledig afkoelen en vries in. Om op te warmen: ontdooi en bak ze circa 10 minuten in een oven op 200 graden op een met bakpapier beklede bakplaat.
+
+## Notities
+
+<!-- verwerkt -->

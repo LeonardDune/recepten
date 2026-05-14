@@ -2,6 +2,10 @@
 title: "Rosette Koekjes – Kembang Goyang"
 source: "https://pisangsusu.com/rosette-koekjes-kembang-goyang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 9. Laat het koekje nog 3 tellen in de olie pruttelen en haal het er dan met een tang uit.
 10. Leg de koekjes op keukenpapier om uit te lekken. Na een paar tellen worden ze knapperig.
 11. Herhaal het proces. Houd de ijzers tussen de beurten door 10 tellen buiten de olie om oververhitting te voorkomen.
+
+## Notities
+
+<!-- verwerkt -->

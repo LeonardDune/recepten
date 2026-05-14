@@ -2,6 +2,10 @@
 title: "Sambal Brandal"
 source: "https://pisangsusu.com/sambal-brandal/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 5. Voeg de djeroek poeroet blaadjes toe tijdens het bakken.
 6. Voeg het [[asem]]water toe aan de gebakken kruiden.
 7. Laat even goed pruttelen zodat de sambal inkookt en de smaken goed worden opgenomen. Blijf goed omscheppen.
+
+## Notities
+
+<!-- verwerkt -->

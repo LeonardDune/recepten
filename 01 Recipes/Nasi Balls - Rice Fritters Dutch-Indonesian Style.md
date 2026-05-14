@@ -2,6 +2,10 @@
 title: "Nasi Balls - Rice Fritters Dutch-Indonesian Style"
 source: "https://pisangsusu.com/nasi-balls-rice-fritters/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 3. Vorm kleine balletjes met de hand.
 4. Rol de balletjes door Japanse [[panko]] paneermeel.
 5. Bak de balletjes in een ruime laag [[frituurolie]] tot ze knapperig en goudbruin zijn.
+
+## Notities
+
+<!-- verwerkt -->

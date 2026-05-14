@@ -2,6 +2,10 @@
 title: "Vlees met Boemboe Bali"
 source: "https://pisangsusu.com/146-vlees-met-boemboe-bali/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 3. Voeg de in stukken gesneden [[tomaten]] toe en laat die bakken tot ze kapot gaan.
 4. Maak het gerecht af met [[water]], de [[sereh]] en de salam en laat het stoven tot het vlees zacht is (ongeveer 25 minuten).
 5. Breng op smaak met [[zout]].
+
+## Notities
+
+<!-- verwerkt -->

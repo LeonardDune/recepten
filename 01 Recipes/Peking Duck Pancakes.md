@@ -2,6 +2,10 @@
 title: "Peking Duck Pancakes"
 source: "https://pisangsusu.com/peking-duck-pancakes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 8. Haal de pannenkoekjes onmiddellijk van het vuur en scheid ze voorzichtig één voor één van elkaar. Leg ze op een bord of terug in het mandje.
 9. Snijd [[komkommer]] en [[lente-ui]]tjes in lange dunne reepjes.
 10. Schep een theelepel [[pruimensaus]] op een pannenkoekje, voeg eendenreepjes, [[komkommer]], [[lente-ui]] en [[chilipeper]] toe, en besprenkel met [[hoisin saus]] of [[pruimensaus]]. Rol het pannenkoekje op en serveer.
+
+## Notities
+
+<!-- verwerkt -->

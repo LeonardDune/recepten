@@ -2,6 +2,10 @@
 title: "Sajoer Asem"
 source: "https://pisangsusu.com/sajoer-asem/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 4. Doe er ook de prinsesse- en de [[tuinbonen]] bij en laat die ongeveer 10 minuten meekoken.
 5. Voeg er daarna de [[spitskool]] aan toe en als die slap begint te worden de [[paprika]].
 6. Voeg vervolgens de [[aubergine]] toe, die slechts even mag meekoken.
+
+## Notities
+
+<!-- verwerkt -->

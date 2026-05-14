@@ -2,6 +2,10 @@
 title: "Gado Gado saus"
 source: "https://pisangsusu.com/video-hoe-maak-je-gado-gado-saus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - vegetarisch
   - veganistisch
   - klassiek
-  - indisch
----
+  - indisch---
 
 # Gado Gado saus
 
@@ -24,4 +27,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

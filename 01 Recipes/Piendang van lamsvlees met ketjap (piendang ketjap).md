@@ -2,6 +2,10 @@
 title: "Piendang van lamsvlees met ketjap (piendang ketjap)"
 source: "https://pisangsusu.com/151-piendang-rund-schapevlees-ketjap-piendang-ketjap/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 6. Maak het gerecht af met het (kokend hete) [[water]], de [[ketjap]] en de [[sereh]]. Zorg dat het vlees net niet onder staat.
 7. Laat het vlees ongeveer 30 minuten ([[lamsvlees]]) tot 2,5 uur (rundvlees) zachtjes stoven op laag vuur.
 8. Serveer met bijvoorbeeld gulai telor en een lalab van tomaat.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Lemon Curd"
 source: "https://pisangsusu.com/lemon-curd/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 6. Haal van het vuur. De curd wordt nog dikker tijdens het afkoelen.
 7. Giet de lemon curd in goed schoongemaakte (uitgekookte) jampotjes en sluit de deksel direct. De pot wordt vacuüm en de curd is maandenlang houdbaar.
 8. Breng terug op kamertemperatuur voor gebruik in een taart, of verwarm kort in de magnetron.
+
+## Notities
+
+<!-- verwerkt -->

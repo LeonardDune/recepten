@@ -2,6 +2,10 @@
 title: "Saté Babi – Saté van Karbonades"
 source: "https://pisangsusu.com/197-sate-babi-sate-van-varkensvlees/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 7. Rooster de saté eerst boven een zacht vuur en daarna boven een aangewakkerd houtskooluur (of op een grillplaat), maximaal 10 minuten.
 8. Smeer de saté af en toe in met de marinade tijdens het roosteren.
 9. Serveer met ketjapsaus, pindasaus of een zoet-zure saus.
+
+## Notities
+
+<!-- verwerkt -->

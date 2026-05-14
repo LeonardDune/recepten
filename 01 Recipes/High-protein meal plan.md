@@ -2,6 +2,10 @@
 title: "High-Protein Meal Plan"
 source: "https://www.bbcgoodfood.com/recipes/how-to-cook-salmon"
 date_added: 2026-05-06
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - high-protein
@@ -30,3 +34,7 @@ tags:
 3. Controleer het 'My Good Food' tabblad voor een overzichtelijke, georganiseerde lijst voor het winkelen.
 4. Bereid het gekozen recept volgens de bijbehorende instructies.
 5. Vries restjes in van de lentil bolognese en veggie enchiladas voor later gebruik.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Perkedel Jagung III (Corn Fritters)"
 source: "https://pisangsusu.com/perkedel-jagung-iii-corn-fritters/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -57,3 +61,7 @@ tags:
 7. Verhit de [[olie]] en bak de fritters ter grootte van een grote eetlepel.
 8. Bak de fritters op middelhoog vuur goudbruin en draai ze halverwege om.
 9. Laat de fritters uitlekken op keukenpapier en serveer warm met chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

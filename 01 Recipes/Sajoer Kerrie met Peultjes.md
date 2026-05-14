@@ -2,6 +2,10 @@
 title: "Sajoer Kerrie met Peultjes"
 source: "https://pisangsusu.com/sajoer-kerrie-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 5. Voeg de [[garnalen]] en de [[peultjes]] in hun geheel toe aan de pan.
 6. Na ongeveer 5 minuten het [[asemwater]] en de goed uitgeknepen [[laksa]] toevoegen.
 7. De sajoer nog enkele minuten laten doorkoken en serveren.
+
+## Notities
+
+<!-- verwerkt -->

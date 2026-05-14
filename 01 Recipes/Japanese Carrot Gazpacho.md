@@ -2,6 +2,10 @@
 title: "Japanese Carrot Gazpacho"
 source: "https://pisangsusu.com/cold-carrot-soup/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Verdun de [[wortel]]purée met koude [[melk]] totdat de soep een romige, dunne consistentie heeft.
 5. Voeg een snufje [[zout]] en een theelepel [[suiker]] toe naar smaak.
 6. Serveer koud, gegarneerd met [[peterselie]] en een scheutje [[olijfolie]].
+
+## Notities
+
+<!-- verwerkt -->

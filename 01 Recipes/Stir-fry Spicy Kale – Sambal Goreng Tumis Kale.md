@@ -2,6 +2,10 @@
 title: "Stir-fry Spicy Kale – Sambal Goreng Tumis Kale"
 source: "https://pisangsusu.com/stir-fry-spicy-kale-sambal-goreng-tumis-kale/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 7. Voeg de [[cherrytomaatjes]] (in stukjes) toe en bak mee.
 8. Voeg de [[boerenkool]] toe en laat op laag vuur minstens 15 minuten sudderen.
 9. Proef minimaal 2 keer tijdens het sudderen om te controleren of alles gaar is.
+
+## Notities
+
+<!-- verwerkt -->

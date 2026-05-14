@@ -2,6 +2,10 @@
 title: "Vietnamese Spring Rolls with Homemade Hoisin Sauce"
 source: "https://pisangsusu.com/vietnamese-spring-rolls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -61,3 +65,7 @@ tags:
 9. Rol het vel één keer op, vouw dan één zijkant naar binnen, daarna de andere zijkant.
 10. Druk licht aan om de loempia stevig te sluiten. Het rijstvel is plakkerig, dus sluiten gaat gemakkelijk.
 11. Serveer met [[hoisinsaus]], chilisaus, zoete of [[zout]]e [[sojasaus]], een pittige pindasaus of een mengsel van [[sesamolie]] en zoete [[sojasaus]].
+
+## Notities
+
+<!-- verwerkt -->

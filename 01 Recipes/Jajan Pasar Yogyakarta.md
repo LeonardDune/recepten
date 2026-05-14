@@ -2,6 +2,10 @@
 title: "Jajan Pasar Yogyakarta"
 source: "https://pisangsusu.com/jajan-pasar-yogyakarta-on-netflix/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -22,4 +26,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

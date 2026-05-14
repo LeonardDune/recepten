@@ -2,6 +2,10 @@
 title: "Kip met Makasaarse kruiden (boendoe-boendoe Makasar)"
 source: "https://pisangsusu.com/kip-makasaarse-kruiden-boendoe-boendoe-makasar/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Laat de [[kip]] zachtjes koken tot ze gaar is en de saus ingedikt is, ongeveer 20 minuten.
 6. Maak [[asem]][[water]] door de [[asem]] te verdunnen met 3 eetlepels [[water]].
 7. Voeg het [[asem]][[water]] toe aan het gerecht en serveer.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Perkedel Udang | Shrimp Fritters"
 source: "https://pisangsusu.com/perkedel-udang-shrimp-fritters/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 3. Vorm balletjes ter grootte van grote soepknoedels.
 4. Rol de balletjes door het [[paneermeel]].
 5. Bak de balletjes in ruim [[olie]] (of [[boter]]) tot ze gaar en goudbruin zijn.
+
+## Notities
+
+<!-- verwerkt -->

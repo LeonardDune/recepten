@@ -2,6 +2,10 @@
 title: "Sayur Curry with Chicken"
 source: "https://pisangsusu.com/sayur-curry-with-chicken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -54,3 +58,7 @@ tags:
 7. Laat de groenten ongeveer 15 minuten meekoken.
 8. Voeg het asemwater en de goed uitgeknepen geweekte [[laksa]] toe en laat de sayur nog een paar minuten sudderen.
 9. Schep de sayur curry in een grote serveerschaal, voeg het [[kip]]penvlees toe en bestrooi met gesneden lente-uitjes. Serveer met sambal.
+
+## Notities
+
+<!-- verwerkt -->

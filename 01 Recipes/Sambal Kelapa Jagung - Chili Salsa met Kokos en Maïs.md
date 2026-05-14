@@ -2,6 +2,10 @@
 title: "Sambal Kelapa Jagung - Chili Salsa met Kokos en Maïs"
 source: "https://pisangsusu.com/sambal-kelapa-jagung/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 1. Meng alle ingrediënten goed door elkaar in een cobek (vijzel).
 2. Druk af en toe met de stamper (oelekan) in het mengsel zodat de [[maïs]]korrels een beetje openbreken en de geraspte [[kokos]] aan het mengsel blijft plakken.
 3. Serveer direct. Bewaar eventueel restanten in de koelkast, maar bewaar niet te lang.
+
+## Notities
+
+<!-- verwerkt -->

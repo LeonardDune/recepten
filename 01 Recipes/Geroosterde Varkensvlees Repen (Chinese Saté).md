@@ -2,6 +2,10 @@
 title: "Geroosterde Varkensvlees Repen (Chinese Saté)"
 source: "https://pisangsusu.com/geroosterde-varkensvlees-repen/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: condiment
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - marinade
   - gember
   - sherry
-  - sojasaus
----
+  - sojasaus---
 
 # Geroosterde Varkensvlees Repen (Chinese Saté)
 
@@ -40,3 +43,7 @@ tags:
 6. Rijg de repen aan satépennen of dikke ijzeren pennen.
 7. Rooster de repen op een grilplaat of boven een houtskool BBQ tot ze gaar zijn en een mooi kleurtje hebben.
 8. Serveer met witte rijst, een salade en zoete ketjap om erover te gieten.
+
+## Notities
+
+<!-- verwerkt -->

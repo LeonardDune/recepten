@@ -2,6 +2,10 @@
 title: "Small Scones with Whey and Lime"
 source: "https://pisangsusu.com/small-scones-with-whey-and-lime/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: ontbijt
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Haal de hete bakplaat uit de oven. Leg de scones op bakpapier op de bakplaat en bestrijk de bovenkant met losgeklopt ei.
 8. Bak de scones in het midden van de oven op 220 graden Celsius gedurende 12 minuten, totdat ze lichtbruin zijn.
 9. Serveer met [[jam]] en [[zure room]], crème fraîche of clotted cream. Resterende scones kunnen worden ingevroren en later opgewarmd worden in een oven van 150 graden.
+
+## Notities
+
+<!-- verwerkt -->

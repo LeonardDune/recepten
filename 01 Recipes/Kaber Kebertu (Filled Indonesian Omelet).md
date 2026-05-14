@@ -2,6 +2,10 @@
 title: "Kaber Kebertu (Filled Indonesian Omelet)"
 source: "https://pisangsusu.com/kaber-kebertu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 9. Carefully fold and roll the omelet over the filling using a spatula until it is closed.
 10. Fry the rolled omelet gently for about half a minute on each side until lightly browned.
 11. Cut into broad strips and serve.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Lula Jakarta with Lamb"
 source: "https://pisangsusu.com/177-lula-jakarta/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Laat het geheel sudderen totdat het vlees gaar en mals is en de saus is ingedikt (ongeveer 20 minuten).
 8. Controleer na 15 minuten of het vlees gaar is. Het vlees moet mals en sappig zijn, niet te gaar.
 9. Laat het gerecht eventueel 20 minuten rusten voor een nog malser resultaat.
+
+## Notities
+
+<!-- verwerkt -->

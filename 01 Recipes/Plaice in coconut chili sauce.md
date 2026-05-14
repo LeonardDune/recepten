@@ -2,6 +2,10 @@
 title: "Plaice in coconut chili sauce"
 source: "https://pisangsusu.com/212-plaice-coconut-chili-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Breng het [[water]] aan de kook en meng er de santen en [[sambal badjak]] door.
 5. Breng de saus aan de kook en laat hem een beetje indikken.
 6. Giet de saus over de vis voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

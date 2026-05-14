@@ -2,6 +2,10 @@
 title: "Pickled Vegetables (Acar Bening)"
 source: "https://pisangsusu.com/420-pickled-vegetables-atjar-bening/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 3. Voeg de [[azijn]] toe en roer de rest van de fijngehakte groenten erdoor.
 4. Laat het mengsel nog 2 minuten zachtjes sudderen.
 5. Serveer als bijgerecht.
+
+## Notities
+
+<!-- verwerkt -->

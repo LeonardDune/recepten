@@ -2,6 +2,10 @@
 title: "Rosette Cookies Indonesian Style - Kembang Goyang"
 source: "https://pisangsusu.com/rosette-cookies-indonesian-style-glutenfree/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 10. Leg de koekjes op keukenpapier om overtollige olie te verwijderen. Na 3 seconden afkoelen zijn ze knapperig.
 11. Laat de ijzers in de olie zodat ze warm blijven. Als ze te heet worden, haal ze 10 tellen uit de olie voor het opnieuw dopen.
 12. Optioneel: voeg een halve theelepel pandanextract toe aan het beslag voor een groene kleur en smaak.
+
+## Notities
+
+<!-- verwerkt -->

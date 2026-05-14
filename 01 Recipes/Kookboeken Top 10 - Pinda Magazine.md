@@ -2,6 +2,10 @@
 title: "Kookboeken Top 10 - Pinda Magazine"
 source: "https://pisangsusu.com/kookboeken-top-10/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 8. 8. Groot Chinees Kookboek van Gloria Bley Miller (bewerking Beb Vuyk) - 558 recepten inclusief hoofdstuk over eend en zoete theeën.
 9. 9. Eenvoudige en berekende recepten (1901) van Martine Wittop Koning - Zuinige, eenvoudige maar gezonde recepten zoals watergruel, koffiepudding en sinaasappelvla.
 10. 10. Amsterdamse Huishoudschool Kookboek (1910) van GJ Wannée - Klassiek Hollands kookboek met uitgebreid hoofdstuk over de Rijsttafel, inclusief sambal ati.
+
+## Notities
+
+<!-- verwerkt -->

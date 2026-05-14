@@ -2,6 +2,10 @@
 title: "Sambal Kemiri"
 source: "https://pisangsusu.com/sambal-kemiri/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 3. Stamp de [[kemiri]] terwijl ze nog warm is fijn.
 4. Wrijf de gestampte [[kemiri]] samen met de [[lombok]], [[knoflook]] en [[zout]] goed door elkaar in de vijzel.
 5. Proef de sambal en pas eventueel de smaak aan. Wil je een mildere sambal, verwijder dan de zaadlijsten uit de pepers en spoel ze af.
+
+## Notities
+
+<!-- verwerkt -->

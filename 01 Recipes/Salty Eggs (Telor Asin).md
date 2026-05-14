@@ -2,6 +2,10 @@
 title: "Salty Eggs (Telor Asin)"
 source: "https://pisangsusu.com/salty-eggs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 9. Test de [[eieren]] na 3 weken en na 4 weken. Na 4 weken zijn ze goed ge[[zout]]en. Langer dan 4 weken kan te [[zout]] worden, tenzij je van een intensere smaak houdt.
 10. Haal de [[eieren]] uit de pekel na de gewenste tijd en bewaar ze in de koelkast om het pekelen te stoppen.
 11. Kook de [[eieren]] voor het serveren: kippeneitjes minimaal 12 minuten, eenden[[eieren]] minimaal 15 minuten. Serveer in halven op kamertemperatuur.
+
+## Notities
+
+<!-- verwerkt -->

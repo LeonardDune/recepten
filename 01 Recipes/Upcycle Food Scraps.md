@@ -2,6 +2,10 @@
 title: "Upcycle Food Scraps"
 source: "https://pisangsusu.com/upcycle-food-scraps/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 5. Gebruik vochtige maar niet te natte aarde en geef regelmatig kleine hoeveelheden water om de grond vochtig te houden.
 6. Zet de planten op een vensterbank met veel licht.
 7. Herhaal het proces voor [[basilicum]] elke zes weken door stelen in water te plaatsen totdat ze [[wortel]]s ontwikkelen, en plant ze daarna in grond.
+
+## Notities
+
+<!-- verwerkt -->

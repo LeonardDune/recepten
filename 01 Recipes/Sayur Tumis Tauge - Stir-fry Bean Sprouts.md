@@ -2,6 +2,10 @@
 title: "Sayur Tumis Tauge | Stir-fry Bean Sprouts"
 source: "https://pisangsusu.com/sayur-tumis-tauge-stir-fry-bean-sprouts/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 3. Voeg de [[taugé]] een handvol tegelijk toe en roerbak 1 minuut.
 4. Voeg dan het [[bouillonblokje]] opgelost in warm water toe en laat alles aan de kook komen.
 5. Zet het vuur onmiddellijk uit en roer de [[selderij]], [[citroen]]sap en [[sojasaus]] erdoor.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Nasi Kebuli - Indonesian Steamed Rice with Clove, Nutmeg and Cinnamon"
 source: "https://pisangsusu.com/nasi-kebuli/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Voeg de gewassen [[rijst]] toe en kook zachtjes gedurende 8 minuten.
 5. Schep het bumbu mengsel door de [[rijst]] in de pan van de elektrische [[rijst]]koker. Voeg het [[kaneel]]stokje toe samen met het [[water]] (een vingerbreedte boven de [[rijst]]).
 6. Stoom de [[rijst]] op de instelling voor gewone witte [[rijst]] totdat de [[rijst]] gaar is.
+
+## Notities
+
+<!-- verwerkt -->

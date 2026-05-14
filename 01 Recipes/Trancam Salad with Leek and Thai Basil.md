@@ -2,6 +2,10 @@
 title: "Trancam Salad with Leek and Thai Basil"
 source: "https://pisangsusu.com/terancam-salad-with-leek-and-thai-basil/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 7. Meng de [[sla]], [[komkommer]] en [[prei]] samen in een schaal.
 8. Voeg de kokos-dressing toe en meng alles goed door totdat alles bedekt is met de dressing.
 9. Voeg de verse [[thaise basilicum]] toe en breng op smaak met [[zout]] en eventueel extra [[citroensap]].
+
+## Notities
+
+<!-- verwerkt -->

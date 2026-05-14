@@ -2,6 +2,10 @@
 title: "Sambal Goreng Kwartelei met Sambal Boeboek Kering"
 source: "https://pisangsusu.com/sambal-goreng-kwartelei/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 5. Voeg de [[kokosmelk]] toe aan de pan met ui, [[knoflook]] en sambal en breng rustig aan de kook.
 6. Voeg de gepelde [[kwarteleitjes]] toe aan de kokossaus en laat ze ongeveer 2 minuten meekoken zodat ze de smaak van de bouillon opnemen.
 7. Serveer met witte rijst en een roerbak groentegerecht.
+
+## Notities
+
+<!-- verwerkt -->

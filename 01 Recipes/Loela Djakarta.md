@@ -2,6 +2,10 @@
 title: "Loela Djakarta"
 source: "https://pisangsusu.com/loela-djakarta/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Braad dit alles op in de [[boter]].
 6. Doe er dan de opgeloste [[santen]] en het [[salamblaadje]] bij.
 7. Laat het geheel doorstoven tot het vlees gaar is en de saus dik.
+
+## Notities
+
+<!-- verwerkt -->

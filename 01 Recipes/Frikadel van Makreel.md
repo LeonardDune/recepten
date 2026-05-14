@@ -2,6 +2,10 @@
 title: "Frikadel van Makreel"
 source: "https://pisangsusu.com/233-frikadel-van-vis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -11,8 +15,7 @@ tags:
   - oven
   - frikadel
   - viskoekje
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Frikadel van Makreel
 
@@ -38,3 +41,7 @@ tags:
 5. Doe de massa over in een vuurvaste schotel en strooi er wat [[paneermeel]] overheen.
 6. Schik een paar klontjes [[boter]] over de schotel.
 7. Bak het geheel 30 minuten in een voorverwarmde oven op 180 graden Celsius.
+
+## Notities
+
+<!-- verwerkt -->

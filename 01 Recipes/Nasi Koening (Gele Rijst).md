@@ -2,6 +2,10 @@
 title: "Nasi Koening (Gele Rijst)"
 source: "https://pisangsusu.com/nasi-kuning/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Haal de bladeren eruit.
 7. Schep de rijst voorzichtig maar goed door.
 8. Doe de rijst in een vorm, plaats het op een bord en decoreer naar wens.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Spiced Mutton"
 source: "https://pisangsusu.com/173-spiced-mutton-big-pieces-dish/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 3. Maal [[knoflook]], [[koriander]], [[komijn]] en [[kurkuma]] samen tot een pasta.
 4. Bak de pasta in de [[olie]].
 5. Los de santen ([[kokosroom]]) op in het [[water]] en kook het vlees in dit vocht samen met de gebakken specerijen.
+
+## Notities
+
+<!-- verwerkt -->

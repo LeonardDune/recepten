@@ -2,6 +2,10 @@
 title: "Nasi Goerih"
 source: "https://pisangsusu.com/nasi-goerih/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 4. Schilfer het blokje [[santen]] over de [[rijst]].
 5. Breng de [[rijst]] over in de stoompan en stoom tot ze gaar is.
 6. Bak de [[uien]] in de [[olie]] goudgeel en knappend en strooi ze over de [[rijst]].
+
+## Notities
+
+<!-- verwerkt -->

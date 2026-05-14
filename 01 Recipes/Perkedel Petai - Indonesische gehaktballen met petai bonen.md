@@ -2,6 +2,10 @@
 title: "Perkedel Petai - Indonesische gehaktballen met petai bonen"
 source: "https://pisangsusu.com/perkedel-petai/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Voeg een ei en [[paneermeel]] toe en meng (niet te lang).
 7. Vorm kleine balletjes met een dessertlepel.
 8. Bak de balletjes in [[boter]] of [[olie]] op laag vuur gedurende minimaal 20 minuten.
+
+## Notities
+
+<!-- verwerkt -->

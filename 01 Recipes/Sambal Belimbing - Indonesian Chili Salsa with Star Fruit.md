@@ -2,6 +2,10 @@
 title: "Sambal Belimbing - Indonesian Chili Salsa with Star Fruit"
 source: "https://pisangsusu.com/sambal-belimbing-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Snijd het [[sterfruit]] in blokjes van 2 cm en voeg toe aan de pan.
 6. Bak het [[sterfruit]] mee totdat de stukjes zacht zijn (ongeveer 5 minuten sudderen).
 7. Pers een kwart [[limoen]] uit over het mengsel en roer door. Klaar om te serveren.
+
+## Notities
+
+<!-- verwerkt -->

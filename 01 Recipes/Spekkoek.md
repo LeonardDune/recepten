@@ -2,6 +2,10 @@
 title: "Spekkoek"
 source: "https://pisangsusu.com/572-spekkoek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -55,3 +59,7 @@ tags:
 15. De koek is klaar als het bovenste laagje gaar en bruin is.
 16. Alternatief: bak in een oven op 125°C met aparte onder- en bovenwarmte. Zet de springvorm met het eerste dunne laagje in de oven en schakel de onderwarmte uit. Bak verder laag voor laag zoals bij de grill.
 17. Laat de spekkoek afkoelen voordat je hem aansnijdt.
+
+## Notities
+
+<!-- verwerkt -->

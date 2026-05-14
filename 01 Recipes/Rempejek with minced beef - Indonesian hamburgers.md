@@ -2,6 +2,10 @@
 title: "Rempejek with minced beef - Indonesian hamburgers"
 source: "https://pisangsusu.com/rempejek-with-minced-beef/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 5. Druk de balletjes plat zoals hamburgers.
 6. Bak ze in [[olie]] goudbruin aan beide kanten.
 7. Controleer of de rempejek gaar zijn door erop te drukken: als het vlees meteen terugveert, zijn ze klaar.
+
+## Notities
+
+<!-- verwerkt -->

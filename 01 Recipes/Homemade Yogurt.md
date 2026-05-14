@@ -2,6 +2,10 @@
 title: "Homemade Yogurt"
 source: "https://pisangsusu.com/homemade-yogurt/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 7. Haal de container uit de machine als hij klaar is en zet hem in de koelkast. Na een paar uur afkoelen, roer de yoghurt door en serveer.
 8. Optioneel voor Griekse yoghurt: vouw een schone dunne doek dubbel en leg deze in een vergiet boven een kom. Giet de yoghurt in de doek en laat 1 uur uitlekken zodat het wei eruit loopt.
 9. Haal de doek voorzichtig uit het vergiet, keer hem om in een grote kom en roer de yoghurt glad en glanzend.
+
+## Notities
+
+<!-- verwerkt -->

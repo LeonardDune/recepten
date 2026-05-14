@@ -2,6 +2,10 @@
 title: "Javaanse Omelet met Santen en Kentjoer"
 source: "https://pisangsusu.com/javanese-omelet-with-coconut-cream-and-kencur/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Laat de omelet op laag vuur stollen.
 6. Als de omelet stevig genoeg is, rol hem op en laat hem aan beide kanten goudbruin bakken.
 7. Snijd de omelet in reepjes van 2 tot 3 cm breedte en serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

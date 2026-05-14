@@ -2,6 +2,10 @@
 title: "Veganistische Rijsttafel"
 source: "https://pisangsusu.com/veganistische-rijsttafel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -64,3 +68,7 @@ tags:
 17. Frituur de [[emping]] en [[cassave]] krupuk.
 18. Optioneel voor vegetariërs: maak een Indische omelet met [[kokos]].
 19. Koop de [[spekkoek]] bij een betrouwbare toko; controleer op smeuïgheid en rijke smaak.
+
+## Notities
+
+<!-- verwerkt -->

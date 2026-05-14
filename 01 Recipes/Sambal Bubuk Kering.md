@@ -2,6 +2,10 @@
 title: "Sambal Bubuk Kering"
 source: "https://pisangsusu.com/sambal-bubuk-kering/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 7. Laat de sambal afkoelen op een bord.
 8. Verwijder de [[jeruk purut]] bladeren voor het serveren.
 9. Bewaar de afgekoelde sambal in een goed afgesloten jampot.
+
+## Notities
+
+<!-- verwerkt -->

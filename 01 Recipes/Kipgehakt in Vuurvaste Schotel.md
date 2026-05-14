@@ -2,6 +2,10 @@
 title: "Kipgehakt in Vuurvaste Schotel"
 source: "https://pisangsusu.com/kipgehakt-vuurvaste-schotel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Giet een losgeklopt ei over het gehakt.
 6. Bestrooi met een dikke laag [[paneermeel]] en leg er enkele klontjes [[boter]] op.
 7. Bak de schotel 40 minuten in een voorverwarmde oven op 180 graden. Controleer na 30 minuten of het korstje al mooi bruin is en het gehakt gaar.
+
+## Notities
+
+<!-- verwerkt -->

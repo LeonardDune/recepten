@@ -2,6 +2,10 @@
 title: "Zoute Eitjes (Telor Asin)"
 source: "https://pisangsusu.com/zoute-eitjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 8. Na de gewenste pekeltijd de eieren uit het pekel[[water]] halen. Wil je het pekelproces stoppen zonder ze meteen te koken, bewaar ze dan in de koelkast.
 9. Kook de ge[[zout]]en eieren voor gebruik: breng ze met ruim koud [[water]] aan de kook en kook [[kippeneieren]] minstens 12 minuten (eendeneieren minstens 15 minuten).
 10. Serveer de eieren gehalveerd op kamertemperatuur als smaakmaker bij de maaltijd, net als sambal of atjar.
+
+## Notities
+
+<!-- verwerkt -->

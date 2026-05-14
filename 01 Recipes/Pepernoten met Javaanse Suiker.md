@@ -2,6 +2,10 @@
 title: "Pepernoten met Javaanse Suiker"
 source: "https://pisangsusu.com/spekkoek-pepernoten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Leg de balletjes op bakpapier en druk ze zachtjes iets in.
 5. Bak 12-15 minuten in het midden van de oven op 160 graden Celsius.
 6. Laat de pepernoten afkoelen; ze voelen zacht uit de oven maar worden stevig tijdens het afkoelen.
+
+## Notities
+
+<!-- verwerkt -->

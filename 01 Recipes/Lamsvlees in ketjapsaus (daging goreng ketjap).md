@@ -2,6 +2,10 @@
 title: "Lamsvlees in ketjapsaus (daging goreng ketjap)"
 source: "https://pisangsusu.com/vlees-ketjapsaus-daging-goreng-ketjap/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 4. Voeg warm [[water]], het [[citroen]]sap en de [[ketjap]] toe.
 5. Laat het geheel sudderen op laag vuur tot het vlees gaar en mals is, ongeveer 25 minuten.
 6. Serveer met witte rijst en een komkommersalade, eventueel gegarneerd met gebakken uitjes.
+
+## Notities
+
+<!-- verwerkt -->

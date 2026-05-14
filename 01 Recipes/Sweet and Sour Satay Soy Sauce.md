@@ -2,6 +2,10 @@
 title: "Sweet and Sour Satay Soy Sauce"
 source: "https://pisangsusu.com/sweet-and-sour-satay-soy-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 3. Voeg de [[olie]] toe en meng goed.
 4. Proef de saus en voeg eventueel een paar druppels [[citroensap]] of limoensap toe voor de perfecte zoet-zure balans.
 5. Laat de saus 10 minuten rusten voor het serveren zodat de smaken zich kunnen zetten.
+
+## Notities
+
+<!-- verwerkt -->

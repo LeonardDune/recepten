@@ -2,6 +2,10 @@
 title: "Sambal Taoco - Chili salsa with Taoco Soy Beans"
 source: "https://pisangsusu.com/sambal-taotjo-chili-salsa-with-taotjo-soy-beans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Dilute the tamarind ([[asem]]) with 3 tablespoons of hot water to make [[asem]] water.
 6. Add the [[asem]] water to the mixture and let it thicken for a few minutes, keeping the sambal slightly moist.
 7. Boil everything intensely for at least 5 minutes before filling into a jar.
+
+## Notities
+
+<!-- verwerkt -->

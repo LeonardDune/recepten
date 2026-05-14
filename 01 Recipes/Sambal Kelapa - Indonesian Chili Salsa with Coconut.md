@@ -2,6 +2,10 @@
 title: "Sambal Kelapa - Indonesian Chili Salsa with Coconut"
 source: "https://pisangsusu.com/sambal-kelapa-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 8. Scoop the sambal kelapa onto a dish lined with parchment paper and let it cool down and dry overnight (or two nights if needed).
 9. Transfer to a clean, well-sealed jar with a paper towel on the bottom to catch excess moisture.
 10. Remove jeruk purut leaves before serving.
+
+## Notities
+
+<!-- verwerkt -->

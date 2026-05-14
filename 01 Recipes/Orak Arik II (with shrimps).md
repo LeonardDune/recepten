@@ -2,6 +2,10 @@
 title: "Orak Arik II (with shrimps)"
 source: "https://pisangsusu.com/453-orak-arik-ii-with-shrimps/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 6. Beat eggs with salt, pepper and nutmeg and stir in when the vegetables are halfway done.
 7. Keep stirring until the egg solidifies.
 8. Mix in, just before serving, the celery and monosodium glutamate ([[vetsin]]).
+
+## Notities
+
+<!-- verwerkt -->

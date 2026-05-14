@@ -2,6 +2,10 @@
 title: "Onde-Onde (sesamballen)"
 source: "https://pisangsusu.com/onde-onde/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 10. Verhit [[plantaardige olie]] op matig vuur (niet te heet, anders barsten de ballen).
 11. Frituur de balletjes (ongeveer 3 tegelijk) gedurende precies 6 minuten en draai ze meerdere keren om. Ze zijn gaar wanneer ze gaan drijven.
 12. Laat de onde-onde uitlekken op keukenpapier en serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

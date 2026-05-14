@@ -2,6 +2,10 @@
 title: "Smoor Jawa - Klassieke Javaanse Rundvleesstoof"
 source: "https://pisangsusu.com/138-smoor-jawa-classic-meat-dish-javanese-way/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Verhit de [[boter]] in een pan en bak de plakken vlees hierin aan.
 6. Voeg de bouillon, [[sojasaus]] en het [[citroen]]sap toe aan de pan.
 7. Laat nog even doorwarmen en serveer met witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

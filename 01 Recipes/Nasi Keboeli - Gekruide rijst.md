@@ -2,6 +2,10 @@
 title: "Nasi Keboeli - Gekruide rijst"
 source: "https://pisangsusu.com/nasi-keboeli/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Voeg de gewassen [[rijst]] toe en kook deze 8 minuten zachtjes door.
 5. Stoom de [[rijst]] daarna gaar in een [[rijst]]stomer (of vergiet boven kokend [[water]]) tot de [[rijst]] volledig gaar is.
 6. Serveer de nasi keboeli bij gerechten zoals goelai, rempah, saté kambing, atjar ketimoen of gebraden kip.
+
+## Notities
+
+<!-- verwerkt -->

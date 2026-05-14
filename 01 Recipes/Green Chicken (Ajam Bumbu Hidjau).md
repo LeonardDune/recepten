@@ -2,6 +2,10 @@
 title: "Green Chicken (Ajam Bumbu Hidjau)"
 source: "https://pisangsusu.com/green-chicken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: condiment
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - bumbu
   - lombok
   - kemirie
-  - glutenvrij
----
+  - glutenvrij---
 
 # Green Chicken (Ajam Bumbu Hidjau)
 
@@ -42,3 +45,7 @@ tags:
 4. Voeg het [[water]], de citroengras en de [[kip]]stukken toe.
 5. Kook het geheel met de deksel van de pan gedurende minimaal 50 minuten, totdat de [[kip]] gaar is en de bouillon tot de helft is ingekookt.
 6. Serveer bij voorkeur met nasi gurih (rijst gekookt met kokosroom).
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Gestoofde Garnalen (Toemis Oedang)"
 source: "https://pisangsusu.com/261-gestoofde-garnalen-toemis-oedang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -11,8 +15,7 @@ tags:
   - snel recept
   - zeevruchten
   - bijgerecht
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gestoofde Garnalen (Toemis Oedang)
 
@@ -32,3 +35,7 @@ tags:
 2. Meng [[tomaat]], [[uien]] en sambal door elkaar en bak ze op in de [[olie]].
 3. Bak ook even de [[garnalen]] mee.
 4. Voeg het [[water]] en de [[basilicum]] toe en stoof het gerecht nog even door.
+
+## Notities
+
+<!-- verwerkt -->

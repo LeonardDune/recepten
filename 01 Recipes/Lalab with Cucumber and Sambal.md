@@ -2,6 +2,10 @@
 title: "Lalab with Cucumber and Sambal"
 source: "https://pisangsusu.com/433-lalab-cucumber-sambal/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -31,3 +35,7 @@ tags:
 3. Stapel de [[komkommer]]stukjes op een schaal.
 4. Serveer apart met de sambal.
 5. Doe een lepel sambal op de rand van het bord en veeg het uiteinde van de [[komkommer]] door de sambal; bijt een stuk af en gebruik het resterende deel om het opnieuw te doen.
+
+## Notities
+
+<!-- verwerkt -->

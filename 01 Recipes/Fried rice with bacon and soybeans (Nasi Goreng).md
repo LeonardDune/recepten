@@ -2,6 +2,10 @@
 title: "Fried rice with bacon and soybeans (Nasi Goreng)"
 source: "https://pisangsusu.com/fried-rice-with-bacon-and-soybeans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - makkelijk
   - snel
   - ketjap
-  - trassi
----
+  - trassi---
 
 # Fried rice with bacon and soybeans (Nasi Goreng)
 
@@ -41,3 +44,7 @@ tags:
 6. Voeg de sojasaus toe en blijf roeren totdat de [[rijst]] een mooie bruine kleur heeft.
 7. Voeg de nog bevroren [[sojabonen]] toe. Als je ontdooide gekookte bonen gebruikt, voeg ze dan aan het einde toe, alleen om ze op te warmen zodat ze knapperig blijven.
 8. Proef de nasi goreng en voeg eventueel extra sojasaus toe.
+
+## Notities
+
+<!-- verwerkt -->

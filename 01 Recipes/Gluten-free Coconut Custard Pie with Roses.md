@@ -2,6 +2,10 @@
 title: "Gluten-free Coconut Custard Pie with Roses"
 source: "https://pisangsusu.com/gluten-free-coconut-custard-pie/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,8 +21,7 @@ tags:
   - makkelijk
   - blender
   - dessert
-  - invriezen
----
+  - invriezen---
 
 # Gluten-free Coconut Custard Pie with Roses
 
@@ -46,3 +49,7 @@ tags:
 7. Strooi de 60 gram [[geraspte kokos]] gelijkmatig over het beslag.
 8. Schuif de bakvorm voorzichtig in de oven en bak de taart 45 minuten.
 9. Laat de taart na het bakken bij voorkeur een paar uur afkoelen zodat de custard kan opstijven voor het beste resultaat.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Pittige Perkedel van Vegetarisch Gehackt"
 source: "https://pisangsusu.com/vegetarische-perkedel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 3. Meng het [[vegetarisch gehackt]] met de [[zoete aardappel]], [[peper]], [[zout]], [[nootmuskaat]], [[hete ketjap]], gewone [[ketjap]] en [[paneermeel]]. Kneed het mengsel zo min mogelijk.
 4. Draai balletjes ter grootte van een pingpongbal.
 5. Laat [[boter]] smelten in een pan met twee eetlepels [[olie]] en bak de balletjes op lage temperatuur rustig gaar tot ze een mooi korstje hebben.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Tempeh Balls (Ento-ento from Solo / Perkedel Tempe)"
 source: "https://pisangsusu.com/tempeh-balls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 5. Verhit frituur[[olie]] in een kleine pan en frituur de ballen in porties van drie tegelijk gedurende ongeveer 1,5 minuut per keer, of tot ze mooi goudbruin en knapperig zijn. Frituur niet te veel tegelijk om afkoeling van de [[olie]] te voorkomen.
 6. Laat de gebakken [[tempeh]]ballen uitlekken op keukenpapier.
 7. Garneer eventueel met fijngehakte [[verse koriander]] en [[serundeng]]. Serveer met [[ketjap manis]] als condiment.
+
+## Notities
+
+<!-- verwerkt -->

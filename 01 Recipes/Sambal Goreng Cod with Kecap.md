@@ -2,6 +2,10 @@
 title: "Sambal Goreng Cod with Kecap"
 source: "https://pisangsusu.com/indonesian-sauteed-fish-sambal/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 4. Bak het kruidenmengsel in hete [[olie]] tot de uien geel worden.
 5. Voeg de [[kecap manis]] en het [[citroen]]sap toe.
 6. Giet de warme saus over de gebakken filets en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

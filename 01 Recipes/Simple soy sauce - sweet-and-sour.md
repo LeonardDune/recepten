@@ -2,6 +2,10 @@
 title: "Simple soy sauce | sweet-and-sour"
 source: "https://pisangsusu.com/461-simple-soy-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 2. Voeg de [[sojasaus]] toe samen met [[azijn]] en/of [[citroensap]] en een paar druppels [[water]].
 3. Stamp alles samen fijn en meng goed.
 4. Serveer bij gegrild vlees of vis.
+
+## Notities
+
+<!-- verwerkt -->

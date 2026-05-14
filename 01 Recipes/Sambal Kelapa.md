@@ -2,6 +2,10 @@
 title: "Sambal Kelapa"
 source: "https://pisangsusu.com/sambal-kelapa/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 8. Doe de sambal op een bord of schaaltje met bakpapier en laat afkoelen en verder drogen, bij voorkeur een nacht.
 9. Verwijder voor het opdienen de zichtbare [[djeroek poeroetblaadjes]].
 10. Bewaar de afgekoelde sambal kelapa in een goed afgesloten jampot.
+
+## Notities
+
+<!-- verwerkt -->

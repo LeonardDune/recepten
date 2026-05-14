@@ -2,6 +2,10 @@
 title: "Koekjes van Jonge Mais III (van mais uit blik) - Perkedèl Djagung"
 source: "https://pisangsusu.com/koekjes-jonge-mais-iii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -55,3 +59,7 @@ tags:
 5. Maak [[olie]] heet in een koekepan en bak er platte koekjes van, ongeveer als drie-in-de-pan maar kleiner van formaat.
 6. Bak de koekjes in een paar minuten bruin en draai ze halverwege om. Niet te heet frituren, anders verbranden de koekjes.
 7. Laat de koekjes uitlekken op keukenpapier en serveer warm, eventueel met chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

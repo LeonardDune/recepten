@@ -2,6 +2,10 @@
 title: "Sambal Goreng Udang Petai (Stir-Fried Shrimp with Stinky Beans)"
 source: "https://pisangsusu.com/sambal-goreng-udang-petai/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 4. Voeg een half kopje [[water]] toe, breng aan de kook en laat minimaal 10 minuten sudderen (bij gebruik van bevroren [[petai bonen]]).
 5. Voeg de bevroren [[garnalen]] en de [[tamarinde]] toe en kook op middelhoog vuur, af en toe roerend, totdat de [[garnalen]] roze worden.
 6. Voeg de sojabonen toe en serveer.
+
+## Notities
+
+<!-- verwerkt -->

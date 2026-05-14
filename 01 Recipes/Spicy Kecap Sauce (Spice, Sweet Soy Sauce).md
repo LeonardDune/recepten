@@ -2,6 +2,10 @@
 title: "Spicy Kecap Sauce (Spice, Sweet Soy Sauce)"
 source: "https://pisangsusu.com/spicy-kecap-sauce-soy-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 3. Lower the heat and add the soy sauce and the vinegar or lemon juice.
 4. Stir the sauce shortly and immediately pour it into a bowl. Make sure the sauce does not burn.
 5. Taste the sauce and adjust with extra kecap or lemon juice if needed.
+
+## Notities
+
+<!-- verwerkt -->

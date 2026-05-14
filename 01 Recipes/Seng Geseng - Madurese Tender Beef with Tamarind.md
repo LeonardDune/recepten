@@ -2,6 +2,10 @@
 title: "Seng Geseng - Madurese Tender Beef with Tamarind"
 source: "https://pisangsusu.com/seng-geseng-beef-from-madura/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 8. Verwijder de laatste 45 minuten het deksel van de pan zodat het gerecht kan inkoken en bijna droog wordt.
 9. Voeg indien nodig een paar eetlepels water toe tijdens het koken.
 10. Serveer eventueel in koolbladeren met gebakken uitjes (bawang goreng) erbovenop.
+
+## Notities
+
+<!-- verwerkt -->

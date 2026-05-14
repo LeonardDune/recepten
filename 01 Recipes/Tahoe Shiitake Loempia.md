@@ -2,6 +2,10 @@
 title: "Tahoe Shiitake Loempia"
 source: "https://pisangsusu.com/tahoe-shiitake-loempia/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 10. [[sla]] de rechterkant en linkerkant over de vulling en plak vast met wat [[water]].
 11. Rol helemaal dicht en plak ook de bovenste punt vast met [[water]].
 12. Frituur de loempia's tot ze goudbruin van kleur zijn. Serveer warm en knapperig.
+
+## Notities
+
+<!-- verwerkt -->

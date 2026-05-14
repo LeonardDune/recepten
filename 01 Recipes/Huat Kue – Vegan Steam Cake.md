@@ -2,6 +2,10 @@
 title: "Huat Kue – Vegan Steam Cake"
 source: "https://pisangsusu.com/huat-kue-vegan-steam-cake/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Schep het beslag in kleine cakevormjes met een cupcakeliner en vul ze bijna tot de rand.
 6. Stoom op hoog vuur gedurende 12 minuten totdat ze gaar zijn en openbloeien als een bloem (til het deksel er niet tussentijds af, anders zakken de cakejes in).
 7. Serveer warm met de gesmolten stukjes chocolade nog zichtbaar.
+
+## Notities
+
+<!-- verwerkt -->

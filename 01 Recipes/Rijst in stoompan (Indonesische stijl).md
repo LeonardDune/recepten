@@ -2,6 +2,10 @@
 title: "Rijst in stoompan (Indonesische stijl)"
 source: "https://pisangsusu.com/1-rice-in-steam-pan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 7. Zorg dat het [[water]] de [[rijst]] niet raakt.
 8. Stoom de [[rijst]] ongeveer een half uur, af en toe roeren met een houten lepel.
 9. Doe de [[rijst]] in een schaal en laat het vocht verdampen.
+
+## Notities
+
+<!-- verwerkt -->

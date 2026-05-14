@@ -2,6 +2,10 @@
 title: "Ulang-Ulang (Ambon) - Slightly Spicy Indonesian Salad"
 source: "https://pisangsusu.com/ulang-ulang-ambon/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Meng de rauwe groenten ([[aubergine]], [[komkommer]], [[kool]] en [[taugé]]) in een schaal.
 6. Schep de dressing over de groenten en meng alles goed door elkaar.
 7. Serveer direct als salade, eventueel naast krokant gebakken tofu of een vleesgerecht.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Soto Kedoe"
 source: "https://pisangsusu.com/135-soto-kedoe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 6. Laat het geheel nog circa 10 minuten sudderen en controleer of het vlees zacht is.
 7. Maak de soto af met [[peper]] en [[zout]] naar smaak.
 8. Serveer eventueel met emping, aardappel of rijst.
+
+## Notities
+
+<!-- verwerkt -->

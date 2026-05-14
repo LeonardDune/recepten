@@ -2,6 +2,10 @@
 title: "Kuluban - Indonesian Salad"
 source: "https://pisangsusu.com/446-kuluban-purwokerto/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 5. Stamp [[knoflook]], sambal, [[kencur]], suiker en [[zout]] samen tot een pasta en bak dit in de [[olie]].
 6. Rasp het witte vruchtvlees van de kokosnoot fijn. Je kunt ook [[kokosrasp]] gebruiken gemengd met 2 eetlepels geraspte santen opgelost in 2 tot 3 eetlepels water.
 7. Meng het kruidenmengsel met de geraspte kokos en voeg de uitgelekte groenten toe.
+
+## Notities
+
+<!-- verwerkt -->

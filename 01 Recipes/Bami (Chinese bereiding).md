@@ -2,6 +2,15 @@
 title: "Bami (Chinese bereiding)"
 source: "https://pisangsusu.com/bami-chinese-bereiding/"
 date_added: 2026-04-27
+status: processed
+cuisine: chinees
+course: hoofdgerecht
+servings: 4
+time_prep: 15
+time_cook: 15
+time_total: 30
+rating: 
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -16,6 +25,8 @@ tags:
   - shiitake
   - snel klaar
   - lunch
+  - cuisine/chinees
+  - course/hoofdgerecht
 ---
 
 # Bami (Chinese bereiding)
@@ -46,3 +57,7 @@ tags:
 9. Meng de voorgekookte [[bami]] er doorheen (doe dit bij voorkeur in delen). Breng de massa aan de kook en serveer direct.
 10. Maak ondertussen roerei van de geklopen [[eieren]] in een aparte pan.
 11. Garneer het gerecht met fijn gehakte [[peterselie]] en het roerei. Serveer eventueel met emping en rode chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Kayaku Gohan - Japanse Rijst"
 source: "https://pisangsusu.com/japanse-rijst-kayaku-gohan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 9. Zet de pan in de [[rijst]]stomer en kook de kayaku gohan op normale instelling (witte [[rijst]]/quick rice) gaar.
 10. Als de [[rijst]] klaar is en op warmhoudstand staat, haal dan de pan uit de [[rijst]]stomer en schep alles door.
 11. Serveer in een mooie schaal met wat stukjes lenteui erover.
+
+## Notities
+
+<!-- verwerkt -->

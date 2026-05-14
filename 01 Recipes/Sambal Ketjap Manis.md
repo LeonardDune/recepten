@@ -2,6 +2,10 @@
 title: "Sambal Ketjap Manis"
 source: "https://pisangsusu.com/sambal-ketjap-manis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 5. Zet het gas laag en voeg 3 eetlepels [[ketjap manis]] toe.
 6. Haal van het vuur en voeg het sap van een halve [[limoen]] toe.
 7. Serveer met 1 eetlepel gehakte [[pinda's]] er bovenop.
+
+## Notities
+
+<!-- verwerkt -->

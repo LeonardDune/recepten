@@ -2,6 +2,10 @@
 title: "Omelet with Coconut"
 source: "https://pisangsusu.com/omelet-with-coconut/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 2. Klop de eieren met [[zout]] en [[peper]] en meng de geraspte [[kokos]] erdoor.
 3. Bak een omelet in de hete [[olie]]; dek de pan af tijdens het bakken.
 4. Bak de omelet aan beide kanten gaar.
+
+## Notities
+
+<!-- verwerkt -->

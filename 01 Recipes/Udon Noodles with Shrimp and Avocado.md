@@ -2,6 +2,10 @@
 title: "Udon Noodles with Shrimp and Avocado"
 source: "https://pisangsusu.com/udon-noodles-with-shrimps-and-avocado/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 9. Snijd de [[avocado]] in grove stukken en leg ze bovenop.
 10. Garneer met [[koriander]], zwarte [[peper]] en een paar druppels [[citroen- of limoensap]].
 11. Voeg vlak voor het serveren een paar theelepels Kikkoman [[sojasaus]] toe naar smaak.
+
+## Notities
+
+<!-- verwerkt -->

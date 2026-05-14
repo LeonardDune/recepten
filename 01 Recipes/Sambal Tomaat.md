@@ -2,6 +2,10 @@
 title: "Sambal Tomaat"
 source: "https://pisangsusu.com/sambal-tomaat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -31,3 +35,7 @@ tags:
 1. Maak sambal oelek door pepers met [[zout]] samen te wrijven, of maak sambal terasi door pepers met [[trassi]] en [[zout]] samen te wrijven.
 2. Roer er een theelepel [[tomatenpuree]] doorheen.
 3. Serveer direct, want de sambal is ook in de koelkast niet lang houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

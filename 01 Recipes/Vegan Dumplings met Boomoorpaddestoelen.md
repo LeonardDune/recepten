@@ -2,6 +2,10 @@
 title: "Vegan Dumplings met Boomoorpaddestoelen"
 source: "https://pisangsusu.com/vegetarische-dumplings/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: lunch
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 10. Leg een stukje [[bakpapier]] (iets kleiner dan de bodem) in het stoommandje en zet de dumplings erop.
 11. Vul een wok met kokend heet water en zet het stoommandje erop, zodat het mandje net boven het water hangt.
 12. Stoom de dumplings 15 minuten en serveer warm in het mandje met chili en [[zout]]e [[ketjapsaus]].
+
+## Notities
+
+<!-- verwerkt -->

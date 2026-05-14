@@ -2,6 +2,10 @@
 title: "Steamed Prawns with Petai Beans (Toemis Oedang Peteh – Menado)"
 source: "https://pisangsusu.com/264-steamed-prawns-with-petai-beans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Bak de pasta in de [[olie]].
 6. Wanneer de uien geel zijn, voeg de [[garnalen]], de lombok, de peteh bonen en het [[salamblad]] toe.
 7. Bak alles samen met wat [[water]] en laat het even sudderen.
+
+## Notities
+
+<!-- verwerkt -->

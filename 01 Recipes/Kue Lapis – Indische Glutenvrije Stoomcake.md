@@ -2,6 +2,10 @@
 title: "Kue Lapis – Indische Glutenvrije Stoomcake"
 source: "https://pisangsusu.com/kue-lapis-30-minuten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -60,3 +64,7 @@ tags:
 12. Laat de kue glijden op een licht met [[olie]] ingesmeerd bord.
 13. Laat de kue goed afkoelen (minimaal 20 minuten) en zet daarna nog een half uur in de koelkast.
 14. Smeer je mes in met een beetje [[olie]] en snijd de kue lapis in stukken. De laagjes moeten een voor een los getrokken kunnen worden.
+
+## Notities
+
+<!-- verwerkt -->

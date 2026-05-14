@@ -2,6 +2,10 @@
 title: "Tahoe Isi (vegan)"
 source: "https://pisangsusu.com/tahoe-isi-vegan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -55,3 +59,7 @@ tags:
 10. Verwarm een goede laag [[zonnebloemolie]] in de pan en bak de stukken [[tahoe]] goudbruin en knapperig.
 11. Leg de gebakken [[tahoe]] op keukenpapier om uit te lekken.
 12. Serveer met zoete ketjap of een zoete ketjapsaus.
+
+## Notities
+
+<!-- verwerkt -->

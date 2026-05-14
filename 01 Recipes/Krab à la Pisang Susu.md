@@ -2,6 +2,10 @@
 title: "Krab à la Pisang Susu"
 source: "https://pisangsusu.com/krab-a-la-pisang-susu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 9. Haal de [[krab]]stukken uit de pan en laat de saus nog ongeveer 10 minuten inkoken. Proef op [[zout]] en voeg eventueel water toe.
 10. Voeg voor het opdienen het sap van een [[limoen]]tje toe aan de saus.
 11. Serveer de saus apart van of over de [[krab]]ben. Garneer met gesnipperde verse [[koriander]]. Serveer met witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

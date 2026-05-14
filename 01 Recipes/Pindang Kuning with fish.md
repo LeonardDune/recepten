@@ -2,6 +2,10 @@
 title: "Pindang Kuning with fish"
 source: "https://pisangsusu.com/220-piendang-koening-fish/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 3. Breng het [[water]] aan de kook met het mengsel van kruiden en bladeren.
 4. Voeg de vis toe en laat het ongeveer vijftien minuten sudderen.
 5. Serveer met witte pandanrijst.
+
+## Notities
+
+<!-- verwerkt -->

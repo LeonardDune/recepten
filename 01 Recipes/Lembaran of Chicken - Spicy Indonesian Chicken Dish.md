@@ -2,6 +2,10 @@
 title: "Lembaran of Chicken - Spicy Indonesian Chicken Dish"
 source: "https://pisangsusu.com/lembaran-of-chicken/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Let the chicken cook until done, simmering for at least another 25 minutes.
 6. Add 3 tablespoons of tamarind [[water]] and simmer for a few more minutes.
 7. Serve with white rice and sambal goreng tomato.
+
+## Notities
+
+<!-- verwerkt -->

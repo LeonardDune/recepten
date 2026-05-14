@@ -2,6 +2,10 @@
 title: "Lemper – Sticky Rice Snack"
 source: "https://pisangsusu.com/lemper-sticky-rice-snack/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -68,3 +72,7 @@ tags:
 17. Leg een rechte lijn kipvulling in het midden van de rijstrechthoek. Zorg dat er genoeg onbedekte rijst aan de boven- en onderkant overblijft.
 18. Rol de lemper op als een sushirol: pak de onderkant van het f[[olie]] en rol de rijst over de kip heen. Vouw de rechterkant dicht en knijp de linkerkant dicht als een tube tandpasta totdat de lemper de gewenste maat heeft. Vouw ook de linkerkant dicht en wikkel het f[[olie]] stevig om de lemper.
 19. Warm de lempers op voor het serveren: vanuit de koelkast 30 seconden per lemper in de magnetron, vanuit de vriezer 1 minuut in de magnetron.
+
+## Notities
+
+<!-- verwerkt -->

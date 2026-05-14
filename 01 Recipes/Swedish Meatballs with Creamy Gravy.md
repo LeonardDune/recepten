@@ -2,6 +2,10 @@
 title: "Swedish Meatballs with Creamy Gravy"
 source: "https://pisangsusu.com/famous-dishes-from-around-the-world/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 7. Roer de gehaktballen door de saus, voeg de [[dille]] toe en laat nog vijf minuten sudderen.
 8. Kook de [[eiernoodles]] en zet apart.
 9. Serveer de gehaktballen over de [[eiernoodles]] met lingonberry- of [[cranberrysaus]].
+
+## Notities
+
+<!-- verwerkt -->

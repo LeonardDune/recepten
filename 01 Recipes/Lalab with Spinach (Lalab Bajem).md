@@ -2,6 +2,10 @@
 title: "Lalab with Spinach (Lalab Bajem)"
 source: "https://pisangsusu.com/436-lalab-with-spinach/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -29,3 +33,7 @@ tags:
 2. Doe de [[spinazie]] in een plastic zak en plaats deze boven kokende of stomende rijst.
 3. Laat de [[spinazie]] een paar minuten stomen met de deksel dicht.
 4. Haal de [[spinazie]] uit de zak en serveer met [[sambal]].
+
+## Notities
+
+<!-- verwerkt -->

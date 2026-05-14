@@ -2,6 +2,10 @@
 title: "Ginger Sauce"
 source: "https://pisangsusu.com/ginger-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - eenvoudig
   - snel
   - tempé
-  - tofu
----
+  - tofu---
 
 # Ginger Sauce
 
@@ -36,3 +39,7 @@ tags:
 3. Meng de [[maizena]] met een eetlepel water en voeg dit toe aan de saus.
 4. Laat de saus een paar minuten zachtjes inkoken totdat hij indikt (ongeveer 2 minuten).
 5. Giet de saus in een kom en laat de gemberplakjes erin voor de presentatie. Proef of de zoet-zure balans goed is.
+
+## Notities
+
+<!-- verwerkt -->

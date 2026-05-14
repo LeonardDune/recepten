@@ -2,6 +2,10 @@
 title: "Mung Bean Porridge - Bubur Kacang Hijau"
 source: "https://pisangsusu.com/bubur-kacang-hijau-mung-bean-porridge/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 10. Zet het vuur uit en laat de pap 20 minuten rusten.
 11. Schep de pap in een grote schaal en giet de opgewarmde [[kokosmelk]] erover.
 12. Serveer in kleine kommen.
+
+## Notities
+
+<!-- verwerkt -->

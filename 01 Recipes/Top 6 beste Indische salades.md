@@ -2,6 +2,10 @@
 title: "Top 6 beste Indische salades"
 source: "https://pisangsusu.com/top-zes-beste-indische-zomersalades/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 4. Karedok: Combineer rauwe [[boontjes]], [[aubergine]] en [[kool]] met een dressing op basis van [[pinda's]] voor een veganistische salade.
 5. Petjel: Combineer diverse groenten met een lichte pindasaus, vergelijkbaar met gado-gado maar zonder eieren of tempeh.
 6. Lalab van [[komkommer]]: Snijd [[komkommer]] in stukken en serveer met zelfgemaakte [[sambal]] (bij voorkeur [[sambal oelek]] of [[sambal terasi]]) apart erbij. Doop de [[komkommer]] in de [[sambal]] voor het eten.
+
+## Notities
+
+<!-- verwerkt -->

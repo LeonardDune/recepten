@@ -2,6 +2,10 @@
 title: "Sambal Goreng Quail Eggs"
 source: "https://pisangsusu.com/sambal-goreng-quail-eggs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 5. Voeg de [[kokosmelk]] toe aan het uienmengsel in de pan en breng langzaam aan de kook.
 6. Voeg de gepelde [[kwarteleitjes]] toe aan de saus en laat ze 1 à 2 minuten meekoken zodat ze de smaken van de saus opnemen.
 7. Serveer met witte rijst en een eenvoudig roerbakgroentegerecht zoals broccoli.
+
+## Notities
+
+<!-- verwerkt -->

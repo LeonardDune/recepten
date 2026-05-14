@@ -2,6 +2,10 @@
 title: "Timorees Zuur (Atjar Timor)"
 source: "https://pisangsusu.com/417-timorees-zuur-atjar-timor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 6. Voeg de [[sjalotten]] toe en laat ze meekoken totdat ze gaar zijn.
 7. Roer er daarna de [[taogé]] doorheen en laat de atjar nog een minuut koken.
 8. Doe de atjar heet in een schone pot. Door het afkoelen trekt de pot vacuum en blijft het zuur lang goed.
+
+## Notities
+
+<!-- verwerkt -->

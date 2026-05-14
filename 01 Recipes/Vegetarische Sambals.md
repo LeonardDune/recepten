@@ -2,6 +2,10 @@
 title: "Vegetarische Sambals"
 source: "https://pisangsusu.com/vegetarische-sambals/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -28,3 +32,7 @@ tags:
 1. Kies de gewenste sambalvariant: Sambal Oelek, Sambal Tomaat, Sambal Manis, Sambal Djeroek, Sambal Kemiri, Sambal Pinda, Sambal Bieslook of Sambal Asem.
 2. Voor een vegetarische versie: laat trassi weg of vervang het door [[taotjo]] (gefermenteerde gele sojabonen) voor een rijke umami-smaak.
 3. Bereid de sambal naar keuze volgens het bijbehorende recept.
+
+## Notities
+
+<!-- verwerkt -->

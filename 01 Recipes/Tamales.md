@@ -2,6 +2,10 @@
 title: "Tamales"
 source: "https://www.culy.nl/recepten/fruitschelpen-moederdag/"
 date_added: 2026-05-06
+cuisine: mexicaans
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - mexicaans
@@ -40,3 +44,7 @@ tags:
 6. Fold one side of the husk over stopping in the middle. Fold the other side over this just overlapping. Tuck the tail up and over for an open ended pouch. Repeat the process with the other husks.
 7. Fit a dutch oven or large pot with a steamer basket. Fill the pot with water so it just touches the bottom of the steamer and bring to a boil. Stand the tamales, open end up in the steamer. Cover, turn the heat to low and steam for 45 minutes to one hour. To test if it's done; open one up and if the dough doesn't stick to the husk it's done. If not, give it another 10 minutes.
 8. Let the tamales rest for 5 minutes with the lid on. Serve with the extra [[salsa verde]], [[crema]], chopped onions and cilantro.
+
+## Notities
+
+<!-- verwerkt -->

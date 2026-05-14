@@ -2,6 +2,10 @@
 title: "Sambal Ketjap"
 source: "https://pisangsusu.com/pasar-colors-huishoudbeurs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -22,4 +26,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

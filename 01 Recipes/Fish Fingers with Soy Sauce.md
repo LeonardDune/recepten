@@ -2,6 +2,10 @@
 title: "Fish Fingers with Soy Sauce"
 source: "https://pisangsusu.com/209-fish-fingers-soy-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - vissticks
   - sojasaus
   - citroensap
-  - kinderen
----
+  - kinderen---
 
 # Fish Fingers with Soy Sauce
 
@@ -36,3 +39,7 @@ tags:
 4. Voeg de [[sojasaus]] en het [[citroen]]sap toe en meng dit met de gebakken [[vissticks]].
 5. Laat de [[vissticks]] niet te lang bakken, want ze garen nog iets door in de [[sojasaus]].
 6. Serveer met wat extra [[citroen]]sap en gesneden lente-uitjes erover.
+
+## Notities
+
+<!-- verwerkt -->

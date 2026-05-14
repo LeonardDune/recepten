@@ -2,6 +2,10 @@
 title: "Makkelijke Koreaanse BBQ"
 source: "https://pisangsusu.com/makkelijke-koreaanse-bbq/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 8. Dep de vleesreepjes even droog met keukenpapier zodat ze niet te nat zijn.
 9. Rooster het vlees op de BBQ en laat het dicht schroeien; zet de gril telkens wat lager zodat de [[peer]] en [[suiker]]s in de marinade karameliseren.
 10. Rol het geroosterde vlees samen met wat [[sushirijst]] in een blaadje [[botersla]] en doop in [[hoisinsaus]] of miso-mayonaise.
+
+## Notities
+
+<!-- verwerkt -->

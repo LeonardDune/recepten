@@ -2,6 +2,10 @@
 title: "Wonton Soep / Cooked Pangsit"
 source: "https://pisangsusu.com/cooked-pangsit-wonton-soup/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 5. Laat de [[pangsit]]s circa 10 minuten zachtjes sudderen. De vulling hoeft niet vooraf gekookt te worden.
 6. Roer een eetlepel fijn[[gehakt]]e [[selderij]] (of [[peterselie]]) en een eetlepel gesneden [[prei]] door de soep.
 7. Serveer de [[pangsit]]s per 3 stuks en bestrooi met wat [[peterselie]].
+
+## Notities
+
+<!-- verwerkt -->

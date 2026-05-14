@@ -2,6 +2,10 @@
 title: "Roti Kukus die altijd lukt"
 source: "https://pisangsusu.com/roti-kukus-die-altijd-lukt/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 8. Stoom de roti kukus 25 minuten zonder de deksel te openen.
 9. Til het geheel voorzichtig met doek en al uit de pan. Laat een minuut afkoelen en verwijder dan de theedoek.
 10. Serveer warm met een lik roomboter.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Opor with beef and pineapple (Daging Opor)"
 source: "https://pisangsusu.com/175-opor-van-vlees-daging-opor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Voeg de [[aardappelen]] toe wanneer het vlees mals is en laat nog ongeveer 5 minuten sudderen.
 8. Voeg vlak voor het serveren een eetlepel [[azijn]] toe.
 9. Serveer met lente-uitjes, peterselie en sambal trassi.
+
+## Notities
+
+<!-- verwerkt -->

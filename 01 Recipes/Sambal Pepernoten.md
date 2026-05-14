@@ -2,6 +2,10 @@
 title: "Sambal Pepernoten"
 source: "https://pisangsusu.com/sambalpepernoten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Bak de pepernoten in een voorverwarmde oven op 160 graden gedurende 14 tot 18 minuten, afhankelijk van de dikte.
 8. Laat de pepernoten afkoelen op de bakplaat. Ze komen zacht uit de oven maar worden snel knapperig.
 9. Als ze niet knapperig genoeg zijn, bak ze dan nog een paar minuten extra (bijvoorbeeld 5 minuten) in de oven.
+
+## Notities
+
+<!-- verwerkt -->

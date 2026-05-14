@@ -2,6 +2,10 @@
 title: "Pandan Sponscake"
 source: "https://pisangsusu.com/pandan-sponscake/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 12. Haal de cake uit de oven en laat hem ONDERSTEBOVEN afkoelen gedurende ongeveer 30 minuten (zet de tulbandvorm op een omgekeerd bakje).
 13. Snij de cake los van het middelste gedeelte met een mes en til de cake er voorzichtig uit.
 14. Verwijder het [[bakpapier]] voorzichtig en bestrooi de cake met [[poedersuiker]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

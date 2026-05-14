@@ -2,6 +2,10 @@
 title: "Wakame salade - Japanse zeewier in pittige sesamdressing"
 source: "https://pisangsusu.com/wakame-salade/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 8. Snij de [[rode ui]] in dunne ringen.
 9. Meng de [[wakame]], [[rode ui]] en dressing goed door elkaar samen met de [[sesamzaadjes]].
 10. Laat de salade 20 minuten intrekken voor het serveren zodat de smaken goed kunnen mengen.
+
+## Notities
+
+<!-- verwerkt -->

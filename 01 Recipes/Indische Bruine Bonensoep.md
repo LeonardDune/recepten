@@ -2,6 +2,10 @@
 title: "Indische Bruine Bonensoep"
 source: "https://pisangsusu.com/indische-bruine-bonensoep/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -59,3 +63,7 @@ tags:
 14. Breng de soep opnieuw aan de kook tot de balletjes gaar zijn, zet dan het gas uit.
 15. Voeg als finishing touch twee eetlepels zoete [[ketjap]] toe.
 16. Serveer met de andere helft van de [[prei]] in de kommen, gebakken uitjes, [[ketjap]] en sambal. Rijst kan er ook bij worden geserveerd.
+
+## Notities
+
+<!-- verwerkt -->

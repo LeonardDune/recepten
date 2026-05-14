@@ -2,6 +2,10 @@
 title: "Menadonese kip (Ajam boemboe Menado)"
 source: "https://pisangsusu.com/menadonese-kip/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 5. Giet hierbij onder goed roeren de kokende bouillon, circa 2,5 dl. De saus moet enigszins binden.
 6. Doe de stukken [[kip]] op een schaal en overgiet met de saus.
 7. Garneer met [[basilicum]], [[peterselie]] en [[bieslook]].
+
+## Notities
+
+<!-- verwerkt -->

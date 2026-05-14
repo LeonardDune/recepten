@@ -2,6 +2,10 @@
 title: "Kue Mangkok (zoete stoomcakes)"
 source: "https://pisangsusu.com/kue-mangkok/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 5. Zet de bakjes in het vergietgedeelte van de rijststomer.
 6. Sla een schone theedoek om de deksel (tegen druppelen) en stoom de cakejes 40 minuten. Niet tussendoor kijken, want dan breken ze niet mooi open.
 7. Bestrooi de cakejes na het stomen eventueel met wat (geroosterde) kokos.
+
+## Notities
+
+<!-- verwerkt -->

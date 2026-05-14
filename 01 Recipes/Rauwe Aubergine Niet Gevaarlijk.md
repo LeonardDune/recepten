@@ -2,6 +2,10 @@
 title: "Rauwe Aubergine Niet Gevaarlijk"
 source: "https://pisangsusu.com/rauwe-aubergine-niet-gevaarlijk/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -30,3 +34,7 @@ tags:
 4. Om in de gevarenzone te komen zou iemand 36 rauwe [[aubergine]]s moeten eten.
 5. Solanine wordt niet afgebroken tijdens koken, bakken of frituren, dus verhitting maakt de [[aubergine]] niet veiliger.
 6. Bij gevoelige darmen is het eten van rauwe groenten, waaronder [[aubergine]], minder aan te raden omdat rauwe groenten moeilijker te verteren zijn.
+
+## Notities
+
+<!-- verwerkt -->

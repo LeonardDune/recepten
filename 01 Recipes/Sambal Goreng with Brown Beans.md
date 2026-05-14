@@ -2,6 +2,10 @@
 title: "Sambal Goreng with Brown Beans"
 source: "https://pisangsusu.com/sambal-goreng-brown-beans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 3. Voeg 4 scheppen water van het blikje bonen en het blok [[santen]] toe, samen met de [[sereh]], de bonen en het [[salamblad]].
 4. Laat sudderen totdat de [[olie]] van de [[santen]] naar de oppervlakte drijft.
 5. Verwijder de [[sereh]] en het [[salamblad]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Rempah (Indonesian meat balls)"
 source: "https://pisangsusu.com/181-rempah-indonesian-meat-balls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 2. Droog het [[citroengras]] en het [[salamblad]] en maal ze tot poeder. Zeef ze en meng ze door het vlees. (Alternatief: gebruik kant-en-klaar [[citroengras]]poeder.)
 3. Vorm kleine balletjes ter grootte van een walnoot.
 4. Bak de balletjes goudbruin in de [[olie]], ongeveer 15 minuten op laag vuur, totdat ze gaar zijn.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Spekuk Buns"
 source: "https://pisangsusu.com/spekuk-buns/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 9. Leg de buns op bakpapier, dek ze af met een theedoek en laat ze 45 minuten rijzen totdat ze twee keer zo groot zijn.
 10. Verwarm de oven voor op 225 graden Celsius. Bestrijk de buns vlak voor het bakken met een losgeklopt ei en bestrooi ze met [[donkere bruine basterdsuiker]].
 11. Bak de buns in het midden van de oven gedurende 15 minuten totdat ze diep goudbruin zijn. Houd ze goed in de gaten, want elke oven is anders.
+
+## Notities
+
+<!-- verwerkt -->

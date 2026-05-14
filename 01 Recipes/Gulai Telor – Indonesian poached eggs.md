@@ -2,6 +2,10 @@
 title: "Gulai Telor – Indonesian poached eggs"
 source: "https://pisangsusu.com/indonesian-poached-eggs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - vegetarisch
   - kurkuma
   - pittig
-  - kerst
----
+  - kerst---
 
 # Gulai Telor – Indonesian poached eggs
 
@@ -33,3 +36,7 @@ tags:
 1. Breng het [[water]] aan de kook met het [[zout]], de [[santen]] en de [[kurkuma]].
 2. Voeg wanneer de [[santen]] is opgelost de ui en [[chilipepers]] toe.
 3. Pocheer de [[eieren]] één voor één zachtjes in de saus en laat ze 10 minuten sudderen.
+
+## Notities
+
+<!-- verwerkt -->

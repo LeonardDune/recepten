@@ -2,6 +2,10 @@
 title: "Sambal Asem - Chili Salsa with Tamarind"
 source: "https://pisangsusu.com/sambal-asem-chili-salsa-with-tamarind/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 5. Voeg de asem-suiker saus toe aan de pittige sambal en blijf roeren op middelhoog vuur.
 6. Laat de sambal sudderen gedurende ongeveer 15 minuten totdat het mengsel donkerder en dikker wordt. Zorg dat het niet aanbrandt.
 7. Doe de sambal terwijl hij nog heet is in schone potten. De sambal kan wekenlang (zelfs maanden) buiten de koelkast bewaard worden.
+
+## Notities
+
+<!-- verwerkt -->

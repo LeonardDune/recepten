@@ -2,6 +2,10 @@
 title: "Javanese Pudding with Coconut Cream and Javanese Sugar"
 source: "https://pisangsusu.com/558-javanese-pudding/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 6. Giet de pudding in de vorm en tik de vorm zachtjes op het aanrecht zodat de lucht eruit komt.
 7. Laat de pudding volledig afkoelen in de koelkast.
 8. Stort de pudding op een bord en serveer met [[mango]] of [[ananas]] uit blik.
+
+## Notities
+
+<!-- verwerkt -->

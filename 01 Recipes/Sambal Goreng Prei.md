@@ -2,6 +2,10 @@
 title: "Sambal Goreng Prei"
 source: "https://pisangsusu.com/sambal-goreng-prei/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Doe er vervolgens het blokje [[santen]] bij, de [[sereh]] en het [[salamblaadje]] en, als de massa erg droog is, een scheutje water.
 7. Laat het gerecht stoven tot de [[olie]] uit de [[santen]] komt, ongeveer 5 à 6 minuten. Zorg ervoor dat de [[prei]] niet helemaal gaar wordt.
 8. Verwijder voor het opdienen de [[sereh]] en het [[salamblaadje]].
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Goreng Tempeh"
 source: "https://pisangsusu.com/sambal-goreng-tempeh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Voeg het blok [[santen]] en 8 eetlepels water toe.
 7. Laat alles ongeveer 10 minuten sudderen met het deksel op de pan zodat de [[santen]] smelt.
 8. Roer goed door en laat de saus indikken. Serveer met het [[salamblad]] en de [[sereh]] in het gerecht.
+
+## Notities
+
+<!-- verwerkt -->

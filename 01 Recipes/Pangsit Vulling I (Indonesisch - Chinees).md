@@ -2,6 +2,10 @@
 title: "Pangsit Vulling I (Indonesisch - Chinees)"
 source: "https://pisangsusu.com/pangsit-filling-i/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Meng alles goed door elkaar.
 5. Leg een volle theelepel vulling in het midden van een deegvelletje en vouw het dicht.
 6. Bak of kook de pangsit volgens recept #539.
+
+## Notities
+
+<!-- verwerkt -->

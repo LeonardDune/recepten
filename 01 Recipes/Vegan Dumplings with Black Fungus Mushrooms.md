@@ -2,6 +2,10 @@
 title: "Vegan Dumplings with Black Fungus Mushrooms"
 source: "https://pisangsusu.com/vegan-dumplings/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 12. Leg de dumplings op bakpapier in een bamboestoommandje (het papier iets kleiner dan de bodem zodat stoom kan passeren).
 13. Stoom de dumplings 15 minuten boven kokend water in een wok.
 14. Serveer warm in het mandje met chilisaus en [[zout]]e [[sojasaus]].
+
+## Notities
+
+<!-- verwerkt -->

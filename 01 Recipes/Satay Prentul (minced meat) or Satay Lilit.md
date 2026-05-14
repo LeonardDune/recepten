@@ -2,6 +2,10 @@
 title: "Satay Prentul (minced meat) or Satay Lilit"
 source: "https://pisangsusu.com/satay-prentul-minced-meat-or-satay-lilit/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 4. Shape the meat mixture around lemongrass stalks, or make balls with a diameter of approximately 2.5 cm and place them on wooden or bamboo skewers.
 5. Grill the satay on a BBQ or grill plate for about 15 to 20 minutes until the minced meat is cooked through.
 6. Serve with pandan rice and Indonesian chili sauce.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Perkedel with Sweet Potato and Mint - Indonesian Style Meatballs"
 source: "https://pisangsusu.com/perkedel-with-sweet-potato-and-mint/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 6. Vorm balletjes ter grootte van een pingpongbal.
 7. Bak de balletjes in [[boter]] op laag vuur tot ze gaar zijn (ongeveer 15 minuten).
 8. Bestrooi voor het serveren met [[sesamzaadjes]] en garneer met verse [[munt]].
+
+## Notities
+
+<!-- verwerkt -->

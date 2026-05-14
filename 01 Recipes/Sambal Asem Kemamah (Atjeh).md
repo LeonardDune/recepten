@@ -2,6 +2,10 @@
 title: "Sambal Asem Kemamah (Atjeh)"
 source: "https://pisangsusu.com/sambal-asem-kemamah-atjeh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Voeg het [[asem]]water aan de massa toe, evenals het blokje [[santen]].
 6. Roer dit alles goed door elkaar en laat het gerecht nog enige tijd stoven tot de [[stokvis]] gaar is.
 7. Zo nodig 1 à 2 eetlepels water toevoegen. De sambal behoort vrij droog te zijn.
+
+## Notities
+
+<!-- verwerkt -->

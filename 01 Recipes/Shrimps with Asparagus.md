@@ -2,6 +2,10 @@
 title: "Shrimps with Asparagus"
 source: "https://pisangsusu.com/503-shrimps-with-asparagus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 3. Add the asparagus pieces and stir them in well.
 4. Add 1 cup of the asparagus cooking liquid, [[sherry]] and soy sauce.
 5. Bind the sauce together with the diluted cornstarch.
+
+## Notities
+
+<!-- verwerkt -->

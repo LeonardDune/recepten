@@ -2,6 +2,10 @@
 title: "Omelette with tofu (Wonosobo)"
 source: "https://pisangsusu.com/omelette-with-tofu-wonosobo/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Mix the sweet soy sauce with the [[sambal ulek]] and add the lemon juice to make the sauce.
 8. Slide the omelette onto a serving plate and pour the sweet and sour sauce over it.
 9. Serve with white rice and cucumber salad.
+
+## Notities
+
+<!-- verwerkt -->

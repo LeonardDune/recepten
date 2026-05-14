@@ -2,6 +2,10 @@
 title: "Pastei | Indonesisch-Chinees versie"
 source: "https://pisangsusu.com/pastei-chinees-indonesisch-versie/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 8. Doe de massa over in een be[[boter]]de vuurvaste schotel. Strooi er de [[selderie]] overheen en bedek met de in partjes gesneden hardgekookte [[eieren]] en de gebakken [[uien]].
 9. Strijk over dit alles de aardappelpuree, bestrooi het oppervlak met [[paneermeel]] en leg er wat klontjes [[boter]] op.
 10. Zet de schotel 30 minuten in een oven van 250°C (gasovenstand 5-6) en laat er een bruin korstje op komen.
+
+## Notities
+
+<!-- verwerkt -->

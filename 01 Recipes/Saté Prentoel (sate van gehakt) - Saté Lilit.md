@@ -2,6 +2,10 @@
 title: "Saté Prentoel (sate van gehakt) / Saté Lilit"
 source: "https://pisangsusu.com/sate-prentoel/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 5. Maak ballen van het gehakt met een doorsnee van ongeveer 2,5 cm.
 6. Steek de ballen op sterke pennen of bamboestokjes (of citroengras stengels).
 7. Rooster de satés op de BBQ of grillplaat gedurende 15 tot 20 minuten tot het gehakt door en door gaar is.
+
+## Notities
+
+<!-- verwerkt -->

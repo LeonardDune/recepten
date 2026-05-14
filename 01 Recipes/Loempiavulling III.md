@@ -2,6 +2,10 @@
 title: "Loempiavulling III"
 source: "https://pisangsusu.com/537-loempia-iii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 7. Maak de [[olie]] zo heet mogelijk. Bak de loempia aan beide kanten goudbruin.
 8. Houd ze zo nodig korte tijd warm in een matig lauwe oven van ongeveer 100 graden Celsius (gasovenstand 1 of 2).
 9. Serveer met een zoet-zure saus.
+
+## Notities
+
+<!-- verwerkt -->

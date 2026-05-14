@@ -2,6 +2,10 @@
 title: "Indonesian Chili Salsa (Sambal) - 30+ Recepten"
 source: "https://pisangsusu.com/indonesian-chili-salsa-25-recipes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Voor verse sambals: direct serveren bij het gerecht.
 5. Voor in te maken sambals: bak de sambal en schep hem gloeiend heet in schone potten zodat er een vacuüm ontstaat. Bewaar in de koelkast.
 6. Alternatief: vries (basis)sambal in in ijsblokjesvormen voor kleine porties.
+
+## Notities
+
+<!-- verwerkt -->

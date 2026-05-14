@@ -2,6 +2,10 @@
 title: "Wingko Babat - Sticky Rice Snack"
 source: "https://pisangsusu.com/wingko-babat-rice-snack/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 8. Strooi zwarte [[sesamzaadjes]] over de bovenkant.
 9. Bak 1 uur en 5 minuten in een oven op 160 graden Celsius.
 10. Laat de wingko babat afkoelen op een rooster en snijd in reepjes of blokjes.
+
+## Notities
+
+<!-- verwerkt -->

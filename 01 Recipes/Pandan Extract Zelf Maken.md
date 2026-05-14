@@ -2,6 +2,10 @@
 title: "Pandan Extract Zelf Maken"
 source: "https://pisangsusu.com/pandan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -31,3 +35,7 @@ tags:
 4. Wil je pandanextract maken, laat het pandan[[water]] dan minstens 24 uur staan.
 5. Het bezinksel dat ontstaat is pandanextract. Schep het [[water]] dat bovenop staat voorzichtig weg.
 6. De vezels die overblijven in de zeef kunnen gebruikt worden in het [[water]] waarboven je rijst of groenten stoomt. Het lichtgroene [[water]] kan ook hergebruikt worden, bijvoorbeeld in kokossoep of sajoer lodeh.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Zure Makreel – Asem Ikan"
 source: "https://pisangsusu.com/zure-vis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Draai de vis voorzichtig om en laat nog 5 minuten stoven totdat de vis gaar is.
 8. Glij de vis voorzichtig in een schaal en giet de saus erover.
 9. Garneer eventueel met verse (Thaise) basilicum en serveer met witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Gulai Ajam - Indonesian Chicken Curry"
 source: "https://pisangsusu.com/gulai-ajam/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - santen
   - laos
   - turmeric
-  - herfst
----
+  - herfst---
 
 # Gulai Ajam - Indonesian Chicken Curry
 
@@ -47,3 +50,7 @@ tags:
 7. Haal eventueel de [[kip]] uit de saus en laat de saus verder inkoken.
 8. Voeg de [[kip]] weer toe en laat nog 5 minuten sudderen.
 9. Serveer met rijst en eventueel serundeng en partjes citroen.
+
+## Notities
+
+<!-- verwerkt -->

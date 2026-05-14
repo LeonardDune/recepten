@@ -2,6 +2,10 @@
 title: "Semur Babi"
 source: "https://pisangsusu.com/137-braise-pork-babi-semoer-ii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Laat alles zonder deksel op middelhoog vuur sudderen en roer regelmatig zodat het vocht goed blijft verdampen.
 5. Laat het geheel ongeveer 40 minuten sudderen totdat het grootste deel van het vocht verdampt is en een heerlijke zoete, kleverige saus overblijft.
 6. Serveer het gerecht wanneer het vlees zacht en donker van kleur is geworden.
+
+## Notities
+
+<!-- verwerkt -->

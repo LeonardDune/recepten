@@ -2,6 +2,10 @@
 title: "Sambal Goreng Green Beans with Shrimps"
 source: "https://pisangsusu.com/sambal-goreng-green-beans-with-shrimps/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 6. Roer goed door en zorg dat de santen goed smelt.
 7. Laat nog 5 minuten sudderen totdat de bonen al dente zijn.
 8. Zet het gas uit en voeg de [[garnalen]] toe. Meng goed en laat de [[garnalen]] opwarmen in het gerecht. Als je rauwe [[garnalen]] gebruikt, voeg ze eerder toe totdat ze gaar zijn.
+
+## Notities
+
+<!-- verwerkt -->

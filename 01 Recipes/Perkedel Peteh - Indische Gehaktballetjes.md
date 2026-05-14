@@ -2,6 +2,10 @@
 title: "Perkedel Peteh - Indische Gehaktballetjes"
 source: "https://pisangsusu.com/perkedel-peteh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Schep dit bij het gehakt, voeg een ei en [[paneermeel]] toe en meng (niet te lang).
 6. Vorm met een dessertlepel of sauslepel kleine balletjes van het mengsel.
 7. Bak de balletjes in [[boter]] of [[olie]] op laag vuur gedurende ongeveer 20 minuten tot ze gaar zijn.
+
+## Notities
+
+<!-- verwerkt -->

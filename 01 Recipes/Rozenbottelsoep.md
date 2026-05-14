@@ -2,6 +2,10 @@
 title: "Rozenbottelsoep"
 source: "https://pisangsusu.com/rozenbottelsoep/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 7. Leng een eetlepel [[maizena]] aan met water, roer tot papje en voeg toe.
 8. Breng opnieuw aan de kook.
 9. Eet warm of koud met een scheut [[room]], zure [[room]] of crème fraiche erdoor.
+
+## Notities
+
+<!-- verwerkt -->

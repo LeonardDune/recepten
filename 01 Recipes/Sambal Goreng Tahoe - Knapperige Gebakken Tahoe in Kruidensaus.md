@@ -2,6 +2,10 @@
 title: "Sambal Goreng Tahoe - Knapperige Gebakken Tahoe in Kruidensaus"
 source: "https://pisangsusu.com/sambal-goreng-tahoe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 6. Voeg de [[sereh]], [[santen]] en het [[salam]]blaadje toe aan de gebakken boemboe. Voeg eventueel een paar eetlepels water toe zodat het een sausje wordt.
 7. Warm de gefrituurde [[tahoe]]blokjes op in de saus.
 8. Voeg voor het opdoen de zoete [[ketjap]] toe.
+
+## Notities
+
+<!-- verwerkt -->

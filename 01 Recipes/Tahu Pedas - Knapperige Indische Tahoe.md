@@ -2,6 +2,10 @@
 title: "Tahu Pedas - Knapperige Indische Tahoe"
 source: "https://pisangsusu.com/tahu-pedas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 2. Wrijf de ui, [[knoflook]], sambal, [[laos]] en suiker samen tot een pasta (bumbu) in een vijzel. Voeg eventueel een halve theelepel [[zout]] toe zodat de ingrediënten snel zacht worden.
 3. Bak de bumbu in de resterende [[olie]] samen met het [[salamblad]] tot de uien donkerder worden, ongeveer 3 minuten.
 4. Voeg de [[ketjap manis]] toe en roer de stukjes [[tahoe]] erdoor zodat alles goed bedekt is.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sajoer Toemis van Kool"
 source: "https://pisangsusu.com/sajoer-toemis-kool/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Los het [[bouillonblokje]] op in 3 dl heet water en giet dit bij de [[kool]] in de pan.
 6. Breng aan de kook en laat zachtjes koken totdat de [[kool]] slap begint te worden, ongeveer 2 minuten.
 7. Zet het gas uit en serveer.
+
+## Notities
+
+<!-- verwerkt -->

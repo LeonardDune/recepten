@@ -2,6 +2,10 @@
 title: "Urapan with Endive and Watercress"
 source: "https://pisangsusu.com/448-oerapan-i-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Kook de [[andijvie]] kort: breng water aan de kook en leg de fijngehakte [[andijvie]] er een minuut in. Spoel daarna af met koud water en laat uitlekken.
 8. Meng de [[andijvie]] met de [[veldsla]] en [[taugé]].
 9. Voeg het [[kokos]]mengsel toe en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

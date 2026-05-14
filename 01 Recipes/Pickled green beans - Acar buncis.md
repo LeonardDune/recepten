@@ -2,6 +2,10 @@
 title: "Pickled green beans | Acar buncis"
 source: "https://pisangsusu.com/pickled-green-beans-acar-buncis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Add the broth and stew the dish in it until the beans are almost done.
 6. Stir in the vinegar.
 7. Serve as a side dish.
+
+## Notities
+
+<!-- verwerkt -->

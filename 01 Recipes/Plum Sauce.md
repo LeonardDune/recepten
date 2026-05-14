@@ -2,6 +2,10 @@
 title: "Plum Sauce"
 source: "https://pisangsusu.com/plum-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 3. Voeg de kruiden en het [[zout]] toe, gevolgd door alle [[pruimen]], het [[water]], de [[suiker]] en de azijn.
 4. Laat alles op laag vuur langzaam indikken.
 5. Serveer direct of bewaar in de koelkast. De smaak verbetert naarmate de saus langer bewaard wordt.
+
+## Notities
+
+<!-- verwerkt -->

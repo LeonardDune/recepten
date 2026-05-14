@@ -2,6 +2,10 @@
 title: "Semur Telor - Indonesian Braised Eggs"
 source: "https://pisangsusu.com/semur-telor-braised-eggs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 5. Breng op smaak met [[nootmuskaat]], [[zout]] en [[peper]].
 6. Leg de eieren terug in de pan en laat alles 3-4 minuten zachtjes sudderen totdat de saus is ingekookt.
 7. Serveer op een plat bord, eventueel met een scheutje limoensap.
+
+## Notities
+
+<!-- verwerkt -->

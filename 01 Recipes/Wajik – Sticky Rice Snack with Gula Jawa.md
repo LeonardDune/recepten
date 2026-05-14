@@ -2,6 +2,10 @@
 title: "Wajik – Sticky Rice Snack with Gula Jawa"
 source: "https://pisangsusu.com/wajik-stick-rice-snack-with-gula-jawa/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 11. Haal de wajik uit de vriezer, keer hem om op een nieuw vel bakpapier en verwijder voorzichtig het bakpapier van de onderkant.
 12. Leg de wajik terug in de vorm en laat de onderkant even drogen op het aanrecht. Zet daarna nog 10 minuten in de vriezer.
 13. Snijd de wajik in vierkanten en snijd deze diagonaal door tot driehoeken (of in ruitvorm). Bewaar met bakpapier tussen de stukken in de vriezer of in een afgesloten bakje in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Goreng Perentil (Pasarminggoe)"
 source: "https://pisangsusu.com/sambal-goreng-perentil-pasarminggoe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -50,3 +54,7 @@ tags:
 8. Voeg het [[asem]]water, de [[santen]] (of kokosmelk) en het [[salamblaadje]] toe.
 9. Laat alles nog even doorstoven totdat de balletjes gaar zijn (circa 5 minuten).
 10. Zet het vuur uit en laat de balletjes afgedekt nog even de saus opslurpen voordat je alles in een schaal doet.
+
+## Notities
+
+<!-- verwerkt -->

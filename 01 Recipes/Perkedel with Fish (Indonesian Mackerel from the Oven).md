@@ -2,6 +2,10 @@
 title: "Perkedel with Fish (Indonesian Mackerel from the Oven)"
 source: "https://pisangsusu.com/frikadel-with-fish/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 7. Verdeel een paar klontjes [[boter]] over de schaal.
 8. Bak in een voorverwarmde oven op 180 graden Celsius gedurende ongeveer 30 minuten.
 9. Serveer met witte rijst en een romige sayur.
+
+## Notities
+
+<!-- verwerkt -->

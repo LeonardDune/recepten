@@ -2,6 +2,10 @@
 title: "Perkedel Jagung (Corn Fritters)"
 source: "https://pisangsusu.com/perkedel-jagung-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 5. Verhit olie in een pan op middelhoog vuur (niet te heet, anders verbrandt de buitenkant terwijl de binnenkant nog rauw is).
 6. Bak de perkedel een paar minuten aan elke kant, halverwege omdraaien, tot ze goudbruin zijn.
 7. Serveer met [[chilisaus]] of zoete [[sojasaus]] en besprenkel vlak voor het serveren met [[limoen]]sap.
+
+## Notities
+
+<!-- verwerkt -->

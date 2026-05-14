@@ -2,6 +2,10 @@
 title: "Tofu Balls"
 source: "https://pisangsusu.com/tofu-balls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Bak de balletjes in de [[olie]] tot ze goudbruin en gaar zijn, ongeveer 15 minuten.
 7. Giet twee eetlepels zoete [[sojasaus]] (ketjap ABC) over de balletjes en laat de [[tofu]] de saus opnemen.
 8. Serveer warm.
+
+## Notities
+
+<!-- verwerkt -->

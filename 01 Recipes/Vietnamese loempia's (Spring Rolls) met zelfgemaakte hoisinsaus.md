@@ -2,6 +2,10 @@
 title: "Vietnamese loempia's (Spring Rolls) met zelfgemaakte hoisinsaus"
 source: "https://pisangsusu.com/vietnamese-loempias-spring-rolls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 8. Eindig met een blaadje [[munt]] en een blaadje [[koriander]].
 9. Rol één [[sla]]g, vouw dan de zijkanten dicht, druk aan en rol strak dicht.
 10. Serveer met hoisinsaus, zoete ketjap, pindасaus of chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

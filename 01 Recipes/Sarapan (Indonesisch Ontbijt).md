@@ -2,6 +2,10 @@
 title: "Sarapan (Indonesisch Ontbijt)"
 source: "https://pisangsusu.com/sarapan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: ontbijt
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -23,4 +27,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

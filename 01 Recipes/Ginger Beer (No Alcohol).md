@@ -2,6 +2,10 @@
 title: "Ginger Beer (No Alcohol)"
 source: "https://pisangsusu.com/ginger-beer/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - vegan
   - vegetarisch
   - cocktailbasis
-  - fermentatie
----
+  - fermentatie---
 
 # Ginger Beer (No Alcohol)
 
@@ -37,3 +40,7 @@ tags:
 6. Laat de fles 24 uur op een warme plek staan. Ontlucht de fles af en toe voorzichtig door de dop heel langzaam te openen.
 7. Giet na 24 uur de inhoud van de fles door een zeef in een schenkkan en bewaar in de koelkast.
 8. Serveer met veel ijs of gebruik als cocktailbasis, bijvoorbeeld met gin of wodka.
+
+## Notities
+
+<!-- verwerkt -->

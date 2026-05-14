@@ -2,6 +2,10 @@
 title: "Homemade spring roll wraps (lumpia wraps)"
 source: "https://pisangsusu.com/538-egg-rolls/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 12. Controleer of alle loempia's goed gesloten zijn voordat je ze bakt.
 13. Bak de loempia's goudbruin in een koekenpan met olie.
 14. Serveer met sojasaus of zoetzure saus.
+
+## Notities
+
+<!-- verwerkt -->

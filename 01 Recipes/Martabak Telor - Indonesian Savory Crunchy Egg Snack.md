@@ -2,6 +2,10 @@
 title: "Martabak Telor - Indonesian Savory Crunchy Egg Snack"
 source: "https://pisangsusu.com/martabak-telor-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 8. Verhit plantaardige olie tot ongeveer 160 graden Celsius. Frituur de martabak goudbruin. Ze drijven in de olie en moeten halverwege worden omgedraaid.
 9. Laat de martabak uitlekken in een zeef en serveer warm en knapperig.
 10. Serveer met een hete chili- of sambalsalsa, kecap manis of een eenvoudige acar van komkommer, [[rode ui]], rietsuikersiroop, [[zout]], peper en rijstazijn.
+
+## Notities
+
+<!-- verwerkt -->

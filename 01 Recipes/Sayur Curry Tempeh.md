@@ -2,6 +2,10 @@
 title: "Sayur Curry Tempeh"
 source: "https://pisangsusu.com/sayur-curry-tempeh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 8. Voeg het asemwater ([[tamarinde]]) pas toe als de [[sperziebonen]] half gaar zijn.
 9. Laat de sayur nog een paar minuten sudderen.
 10. Serveer met witte rijst en eventueel wat Thaise basilicum als garnering.
+
+## Notities
+
+<!-- verwerkt -->

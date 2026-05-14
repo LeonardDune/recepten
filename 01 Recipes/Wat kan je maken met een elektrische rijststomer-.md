@@ -2,6 +2,10 @@
 title: "Wat kan je maken met een elektrische rijststomer?"
 source: "https://pisangsusu.com/wat-kan-je-maken-met-een-elektrische-rijststomer/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -68,3 +72,7 @@ tags:
 7. Voor [[yoghurt]]: verwarm de [[melk]], laat afkoelen, voeg een lepel [[yoghurt]] met levende culturen toe en laat 8 uur op constante temperatuur staan in de [[rijst]]stomer met [[yoghurt]]instelling.
 8. Voor cake: maak een beslag van [[bloem]], [[suiker]], [[eieren]], [[boter]] of olie en [[bakpoeder]]. Vet de binnenpan in, giet het beslag erin en zet de [[rijst]]stomer aan. Herstart indien nodig de kookstand totdat de cake gaar is.
 9. Voor pandan cream cheese taart: meng [[kokosmelk]], [[kwark]], [[eieren]], [[bloem]] en [[pandanextract]] tot een dun beslag. Voeg geraspte [[kokos]] toe bovenop en bak in de [[rijst]]stomer.
+
+## Notities
+
+<!-- verwerkt -->

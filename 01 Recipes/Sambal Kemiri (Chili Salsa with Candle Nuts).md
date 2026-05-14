@@ -2,6 +2,10 @@
 title: "Sambal Kemiri (Chili Salsa with Candle Nuts)"
 source: "https://pisangsusu.com/sambal-with-kemiri-nuts-chili-salsa-with-candle-nuts/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -32,3 +36,7 @@ tags:
 3. While the candlenuts are still warm, rub them together with the [[chili peppers]], garlic, and salt until a smooth salsa forms.
 4. Alternatively, add 2.5 teaspoons of candlenut paste to the mortar and rub together with the garlic, 5 peppers, and some salt.
 5. Optionally deseed the peppers for a less spicy sambal.
+
+## Notities
+
+<!-- verwerkt -->

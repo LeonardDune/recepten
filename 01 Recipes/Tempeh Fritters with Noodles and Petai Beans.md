@@ -2,6 +2,10 @@
 title: "Tempeh Fritters with Noodles and Petai Beans"
 source: "https://pisangsusu.com/tempeh-fritters-with-noodles-and-petai-beans/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 14. Serveer door een laag [[noedels]] op een bedje van [[sla]] te leggen, dan wat [[sla]], dan weer [[noedels]].
 15. Garneer met een paar [[cherry tomaten]], een petai boon en leg de [[tempeh]] fritters er bovenop.
 16. Serveer met Kikkoman saus zodat gasten naar smaak kunnen toevoegen.
+
+## Notities
+
+<!-- verwerkt -->

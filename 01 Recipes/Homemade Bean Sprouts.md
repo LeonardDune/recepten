@@ -2,6 +2,10 @@
 title: "Homemade Bean Sprouts"
 source: "https://pisangsusu.com/homemade-bean-sprouts/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -33,3 +37,7 @@ tags:
 4. Dek het bakje af met een stuk [[keukenrol]] en zet het vast met een elastiekje.
 5. Laat het geheel ongeveer 4 dagen staan. Controleer dagelijks en voeg een beetje [[water]] toe indien nodig.
 6. Oogst de taugé wanneer gewenst. Voor groene taugé, bewaar ze op een lichte plek; voor witte taugé, bewaar ze op een donkere plek.
+
+## Notities
+
+<!-- verwerkt -->

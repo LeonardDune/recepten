@@ -2,6 +2,10 @@
 title: "Sayur Tumis of Chinese Cabbage"
 source: "https://pisangsusu.com/sayur-tumis-of-chinese-cabbage/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Verhit de [[olie]] in een pan en bak de kruidenmix. De [[ebi]] geeft direct veel smaak.
 5. Voeg de Chinese kool per handvol toe en roerbak alles samen met de kruiden.
 6. Voeg 1/2 liter [[bouillon]] toe (gemaakt van een [[bouillon]]blokje) en laat de sayur nog 5 tot 6 minuten zachtjes sudderen. Niet te lang, anders wordt de kool te zacht.
+
+## Notities
+
+<!-- verwerkt -->

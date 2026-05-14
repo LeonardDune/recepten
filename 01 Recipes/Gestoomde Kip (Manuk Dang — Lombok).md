@@ -2,6 +2,10 @@
 title: "Gestoomde Kip (Manuk Dang — Lombok)"
 source: "https://pisangsusu.com/4303-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: condiment
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - marinade
   - rijststomer
   - glutenvrij
-  - zuivelvrij
----
+  - zuivelvrij---
 
 # Gestoomde Kip (Manuk Dang — Lombok)
 
@@ -40,3 +43,7 @@ tags:
 5. Pak de [[kip]] in aluminiumfolie en laat de kruiden minstens een uur (gekoeld) intrekken.
 6. Stoom de [[kip]] 50 minuten in een rijststomer zonder de verpakking te openen, of bak haar een uur in de oven op 180°C (of 50 minuten op 300°C) in de folie.
 7. Maak de folie open en serveer de [[kip]] met witte rijst en eventueel een verse atjar van komkommer.
+
+## Notities
+
+<!-- verwerkt -->

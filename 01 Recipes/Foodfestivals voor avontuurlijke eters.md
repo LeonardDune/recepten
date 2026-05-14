@@ -2,6 +2,10 @@
 title: "Foodfestivals voor avontuurlijke eters"
 source: "https://pisangsusu.com/avontuurlijke-eters/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,8 +21,7 @@ tags:
   - schol
   - kippenvleugels
   - paté
-  - culinair evenement
----
+  - culinair evenement---
 
 # Foodfestivals voor avontuurlijke eters
 
@@ -45,3 +48,7 @@ tags:
 3. Bij De Smederij: proef de romige parelhoen- en [[fazantenpaté]] met koude [[béarnaisesaus]] op [[doperwten]]puree.
 4. Bij Ratatouille op Haarlem Culinair: bestel de [[schol]] met crème van [[bospeen]] met [[saffraan]], [[polenta]], vinaigrette van [[sjalot]], [[paddestoelen]] met [[bieslook]] en [[salad pea]].
 5. Bij Louisiana op Haarlem Culinair: bestel de Voodoo Wings – Creole spiced chicken wings met homemade blue cheese dip.
+
+## Notities
+
+<!-- verwerkt -->

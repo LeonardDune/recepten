@@ -2,6 +2,10 @@
 title: "Indonesian Omelet with Crab"
 source: "https://pisangsusu.com/indonesian-omelet-with-crab/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 5. Rol de omelet voorzichtig op in de pan met twee houten lepels en laat nog even doorgaren totdat de binnenkant gaar is.
 6. Laat de omelet op een bord glijden en snijd hem in brede reepjes van 2 tot 3 cm vlak voor het serveren.
 7. Serveer met een chilisaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Stuffed Tomato"
 source: "https://pisangsusu.com/191-stuffed-tomato/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 7. Giet de warme [[bouillon]] in een ovenschaal.
 8. Plaats de gevulde [[tomaten]] in de schaal.
 9. Bak de [[tomaten]] 25 minuten in een voorverwarmde oven op 200 graden Celsius.
+
+## Notities
+
+<!-- verwerkt -->

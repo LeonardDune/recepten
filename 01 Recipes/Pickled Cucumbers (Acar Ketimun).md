@@ -2,6 +2,10 @@
 title: "Pickled Cucumbers (Acar Ketimun)"
 source: "https://pisangsusu.com/413-pickled-cucumbers-atjar-ketimun/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Breng [[water]] aan de kook met de [[azijn]], voeg de kruidenpasta toe en laat vijftien minuten op laag vuur sudderen.
 6. Voeg dan de [[sjalotten]] en de stukken [[komkommer]] toe.
 7. Laat nog 2 minuten sudderen en serveer het gerecht.
+
+## Notities
+
+<!-- verwerkt -->

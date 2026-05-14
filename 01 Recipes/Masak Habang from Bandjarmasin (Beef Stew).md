@@ -2,6 +2,10 @@
 title: "Masak Habang from Bandjarmasin (Beef Stew)"
 source: "https://pisangsusu.com/masak-habang-from-bandjarmasin/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 10. Laat het de eerste 1,5 uur sudderen met het deksel op de pan.
 11. Verwijder het deksel in het laatste uur zodat de saus langzaam indikt en mooi aan het vlees blijft kleven.
 12. Serveer met witte rijst en een groentegerecht.
+
+## Notities
+
+<!-- verwerkt -->

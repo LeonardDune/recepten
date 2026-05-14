@@ -2,6 +2,10 @@
 title: "Egg or Spring Roll Filling"
 source: "https://pisangsusu.com/egg-spring-roll-filling/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -14,8 +18,7 @@ tags:
   - snack
   - kerst
   - taugé
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Egg or Spring Roll Filling
 
@@ -42,3 +45,7 @@ tags:
 7. Verhit de [[olie]] zo heet mogelijk. Bak de loempia's aan beide kanten goudbruin.
 8. Houd ze warm indien nodig in een matig warme oven van circa 100 graden Celsius (gasstand 1 of 2).
 9. Serveer met zoetzure sauzen.
+
+## Notities
+
+<!-- verwerkt -->

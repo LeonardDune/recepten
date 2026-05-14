@@ -2,6 +2,10 @@
 title: "Pangsit Vulling I (Indonesisch – Chinees)"
 source: "https://pisangsusu.com/pangsit-vulling-i-indonesisch-chinees/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 3. Voeg een eetlepel [[oestersaus]] toe en een mespuntje peper.
 4. Schep alles goed door tot een smeuïge massa.
 5. Schep een volle theelepel vulling in het midden van een deegvelletje en vouw het dicht.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Garlic bread hot dog with cheesy rosemary & truffle fries"
 source: "https://www.culy.nl/recepten/kunu-aya-tijgernotenmelk/"
 date_added: 2026-05-11
+cuisine: internationaal
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - hotdog
@@ -13,8 +17,7 @@ tags:
   - gekarameliseerde ui
   - gousto
   - makkelijk
-  - comfort food
----
+  - comfort food---
 
 # Garlic bread hot dog with cheesy rosemary & truffle fries
 
@@ -46,3 +49,7 @@ tags:
 6. Snijd een gleuf in de bovenkant van de hotdog broodjes en maak er vervolgens een paar diagonale sneden in. Schep de [[knoflook]]-[[peterselie]][[boter]] in de gleuven. Zodra de worsten klaar zijn, haal de bakplaat uit de oven en voeg de broodjes toe aan de bakplaat. Zet de bakplaat 2-3 minuten terug in de oven tot de broodjes warm zijn.
 7. Was de sla, dep droog met keukenpapier en scheur grof. Voeg de gescheurde sla en [[tomaat]] toe aan een grote kom met de resterende [[balsamicoazijn]] en schep om tot alles bedekt is.
 8. Besprenkel de [[rozemarijn]]frietjes met de [[truffelolie]] en bestrooi met de geraspte kaas. Vul elk [[knoflook]]broodje met een worst en top af met de gekarameliseerde balsamico-uien, serveer vervolgens de tomatensalade en de kaasachtige [[rozemarijn]]- en truffelfrietjes ernaast.
+
+## Notities
+
+<!-- verwerkt -->

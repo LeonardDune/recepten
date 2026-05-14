@@ -2,6 +2,10 @@
 title: "Sambal Teri (Tapanuli)"
 source: "https://pisangsusu.com/sambal-teri-tapanuli/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 5. Meng de gebakken [[ikan teri]] met de gesauteerde kruidenmix.
 6. Serveer de sambal. Voeg geen zout toe, want de teri is al zout genoeg.
 7. Bewaar eventuele restjes in een schone pot of vries ze in.
+
+## Notities
+
+<!-- verwerkt -->

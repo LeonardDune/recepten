@@ -2,6 +2,10 @@
 title: "Lotek – Indonesische Salade met Pindadressing"
 source: "https://pisangsusu.com/lotek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 6. Spoel ook de [[spinazie]] en [[taogé]] af met koud [[water]] en meng ze met de [[kool]] en [[boontjes]].
 7. Meng de uitgelekte groenten voorzichtig door de [[pindakaas]]dressing totdat alles goed bedekt is.
 8. Serveer eventueel met grote kokosvlokken erover als garnering.
+
+## Notities
+
+<!-- verwerkt -->

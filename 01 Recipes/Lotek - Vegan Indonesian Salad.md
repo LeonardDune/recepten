@@ -2,6 +2,10 @@
 title: "Lotek - Vegan Indonesian Salad"
 source: "https://pisangsusu.com/lotek-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 3. Voeg 1 à 2 eetlepels [[water]] toe aan het [[pindakaas]]mengsel en roer goed door tot een gladde dressing. Breng op smaak met [[zout]] en eventueel [[suiker]].
 4. Meng de uitgelekte groenten door de [[pindakaas]]dressing en roer voorzichtig maar goed door.
 5. Serveer eventueel met grote kokosschilfers als garnering.
+
+## Notities
+
+<!-- verwerkt -->

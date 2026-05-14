@@ -2,6 +2,10 @@
 title: "Nasi Gurih"
 source: "https://pisangsusu.com/nasi-gurih/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 4. Schaaf het blok [[santen]] erover.
 5. Doe de [[rijst]] in de stomer en stoom tot gaar.
 6. Bak de uien in de [[olie]] goudbruin en knapperig en strooi ze over de [[rijst]].
+
+## Notities
+
+<!-- verwerkt -->

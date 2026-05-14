@@ -2,6 +2,10 @@
 title: "Kue Pisang (Indische Bananencake)"
 source: "https://pisangsusu.com/video-hoe-maak-je-kue-pisang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -22,4 +26,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

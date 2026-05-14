@@ -2,6 +2,10 @@
 title: "Roasted Pork Strips - Chinese Pork Satay"
 source: "https://pisangsusu.com/roasted-pork-strips-chinese-pork-satay/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 6. Steek de reepjes op spiesen (gebruik satéstokjes of dikke ijzeren spiesen).
 7. Rooster de vleesreepjes op een grillplaat of boven een houtskoolbarbecue tot ze gaar en mooi van kleur zijn.
 8. Serveer met witte rijst, een salade en zoete [[sojasaus]].
+
+## Notities
+
+<!-- verwerkt -->

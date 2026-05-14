@@ -2,6 +2,10 @@
 title: "Lemper - klassieke kleefrijstsnack met kip"
 source: "https://pisangsusu.com/lemper/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -67,3 +71,7 @@ tags:
 15. Leg een strookje kipflos in het midden van de rijstrechthoek. Zorg dat er genoeg onbedekte rijst aan boven- en onderkant overblijft.
 16. Pak de onderkant van het plastic op en rol de lemper als sushi dicht. Vouw de rechterkant dicht en druk de lemper aan de linkerkant voorzichtig aan als een tube tandpasta. Vouw ook de linkerkant dicht en rol de lemper strak omhoog en dicht.
 17. Warm voor serveren op: uit de koelkast 30 seconden per lemper in de magnetron, of uit de vriezer 1 minuut in de magnetron.
+
+## Notities
+
+<!-- verwerkt -->

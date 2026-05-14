@@ -2,6 +2,10 @@
 title: "Hete Ketjapsaus II"
 source: "https://pisangsusu.com/hete-ketjapsaus-ii/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 3. Zet het gas laag en voeg twee eetlepels [[ketjap]] toe samen met een eetlepel [[citroensap]] of [[azijn]].
 4. Roer de saus kort en goed door en giet het dan meteen in een schaaltje zodat het niet aanbrandt.
 5. Proef de saus en voeg eventueel nog wat [[citroensap]] toe naar smaak.
+
+## Notities
+
+<!-- verwerkt -->

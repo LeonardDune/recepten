@@ -2,6 +2,10 @@
 title: "Martabak Telor - Deegpakketjes gevuld met Ei en Gehakt"
 source: "https://pisangsusu.com/martabak-telor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 7. Maak de bovenste punt nat met een paar vingers [[melk]] en vouw de punt naar beneden zodat het pakketje vierkant wordt. Keer de martabak om en plak van boven dicht. Zet ook het linkerpuntje vast met wat [[melk]].
 8. Verhit [[olie]] tot ongeveer 160 graden. Bak de martabaks in een paar minuten goudbruin. Keer ze halverwege.
 9. Laat de gebakken martabaks uitlekken in een vergiet en dien ze warm op.
+
+## Notities
+
+<!-- verwerkt -->

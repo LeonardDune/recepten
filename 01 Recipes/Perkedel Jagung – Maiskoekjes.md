@@ -2,6 +2,10 @@
 title: "Perkedel Jagung – Maiskoekjes"
 source: "https://pisangsusu.com/perkedel-jagung/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 5. Verhit [[olie]] in een pan op matig vuur (niet te heet, anders wordt de binnenkant niet gaar).
 6. Frituur de koekjes een paar minuten tot ze goudbruin zijn, keer ze halverwege.
 7. Serveer met [[chilisaus]] of zoete [[ketjap]] en sprenkel vlak voor het opdienen wat [[limoen]]sap over de perkedel.
+
+## Notities
+
+<!-- verwerkt -->

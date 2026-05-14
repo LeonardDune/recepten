@@ -2,6 +2,10 @@
 title: "Feijoada from East-Timor"
 source: "https://pisangsusu.com/feijoada-from-east-timor-bean-recipe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - veganistisch mogelijk
   - chorizo
   - zoete aardappel
-  - fusionkeuken
----
+  - fusionkeuken---
 
 # Feijoada from East-Timor
 
@@ -57,3 +60,7 @@ tags:
 11. Add the beans and warm them in the feijoada.
 12. Finish the feijoada with the kecaps (soy sauces) and the lime juice.
 13. Add two hands of chopped flat-leaf parsley and serve the dish with a few slices of orange and rice.
+
+## Notities
+
+<!-- verwerkt -->

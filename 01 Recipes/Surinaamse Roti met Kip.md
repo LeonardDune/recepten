@@ -2,6 +2,10 @@
 title: "Surinaamse Roti met Kip"
 source: "https://pisangsusu.com/surinaamse-roti/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 9. Optioneel: bak de gekookte [[eieren]] even op in een pan met wat olie.
 10. Bak de rotivellen kort op in een pan.
 11. Serveer de roti met de kip-aardappelmix, gekookte [[eieren]], rotivellen en optioneel [[chutney]] en/of Surinaamse [[sambal]].
+
+## Notities
+
+<!-- verwerkt -->

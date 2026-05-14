@@ -2,6 +2,10 @@
 title: "Groene Kip (Ajam Boemboe Hidjau)"
 source: "https://pisangsusu.com/groene-kip/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - Beb Vuyk
   - ajam
   - boemboe
-  - glutenvrij
----
+  - glutenvrij---
 
 # Groene Kip (Ajam Boemboe Hidjau)
 
@@ -42,3 +45,7 @@ tags:
 6. Voeg het (voorgekookte) [[water]] toe samen met de [[sereh]] en de stukken [[kip]].
 7. Kook alles zonder deksel op de pan voor zeker 50 minuten, tot de [[kip]] gaar en mals is en de bouillon tot ongeveer de helft is ingedampt.
 8. Serveer met nasi goerih (rijst gekookt met kokoscrème).
+
+## Notities
+
+<!-- verwerkt -->

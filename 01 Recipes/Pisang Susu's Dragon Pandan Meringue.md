@@ -2,6 +2,10 @@
 title: "Pisang Susu's Dragon Pandan Meringue"
 source: "https://pisangsusu.com/pandan-meringue/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 7. Spuit of schep de meringues in verschillende maten en vormen op het bakpapier.
 8. Droog de meringues in de oven op 100 graden Celsius gedurende 1 uur en 45 minuten. Zet de dikste meringues bovenin de oven.
 9. Laat de meringues na het bakken kort rusten en serveer ze halfwarm. Bewaar de rest direct in een luchtdichte doos (tot 2 weken houdbaar). Ze kunnen ook worden ingevroren.
+
+## Notities
+
+<!-- verwerkt -->

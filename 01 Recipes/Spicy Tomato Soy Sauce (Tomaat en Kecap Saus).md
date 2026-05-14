@@ -2,6 +2,10 @@
 title: "Spicy Tomato Soy Sauce (Tomaat en Kecap Saus)"
 source: "https://pisangsusu.com/spicy-tomato-soy-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 3. Voeg tijdens het bakken de [[sereh]] (citroengras) toe.
 4. Wanneer het mengsel droger wordt, haal het van het vuur en roer de [[azijn]], sojasaus en een paar eetlepels water erdoor.
 5. De saus is klaar om te serveren bij gegrilde of gebakken vis.
+
+## Notities
+
+<!-- verwerkt -->

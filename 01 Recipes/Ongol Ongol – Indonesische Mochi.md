@@ -2,6 +2,10 @@
 title: "Ongol Ongol – Indonesische Mochi"
 source: "https://pisangsusu.com/ongol-ongol/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 7. Stoom het geheel 30 minuten.
 8. Laat afkoelen (bij voorkeur een nacht in de koelkast).
 9. Snij in blokjes en rol door de [[geraspte kokos]].
+
+## Notities
+
+<!-- verwerkt -->

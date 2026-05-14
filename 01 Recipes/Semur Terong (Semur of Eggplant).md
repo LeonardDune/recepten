@@ -2,6 +2,10 @@
 title: "Semur Terong (Semur of Eggplant)"
 source: "https://pisangsusu.com/457-smoor-with-aubergines-or-egg-plant/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 3. Bak de [[aubergine]]plakken mee totdat ze donkerder van kleur beginnen te worden. Ze hoeven nog niet volledig gaar te zijn.
 4. Voeg de [[bouillon]], [[sojasaus]] en het [[citroensap]] toe.
 5. Laat het gerecht 3 tot 4 minuten sudderen totdat de [[aubergine]]plakken gaar zijn. Wacht niet tot ze te gaar en slijmerig worden.
+
+## Notities
+
+<!-- verwerkt -->

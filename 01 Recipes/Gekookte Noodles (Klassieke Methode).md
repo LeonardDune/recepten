@@ -2,6 +2,10 @@
 title: "Gekookte Noodles (Klassieke Methode)"
 source: "https://pisangsusu.com/488-boil-noodles/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -11,8 +15,7 @@ tags:
   - vegan
   - basisrecept
   - beb vuyk
-  - klassiek
----
+  - klassiek---
 
 # Gekookte Noodles (Klassieke Methode)
 
@@ -31,3 +34,7 @@ tags:
 4. Wanneer de [[noodles]] gaar zijn, spoel ze dan direct af in een zeef of vergiet met koud [[water]]. Dit stopt het kookproces en voorkomt kleven.
 5. Optioneel: schud een paar eetlepels [[olie]] door de [[noodles]] om kleven te voorkomen (volgens Beb Vuyk, maar niet noodzakelijk als je goed afspoelt).
 6. De [[noodles]] zijn 2 tot 3 dagen houdbaar in de koelkast. Giet heet [[water]] over de [[noodles]] om ze opnieuw op te warmen.
+
+## Notities
+
+<!-- verwerkt -->

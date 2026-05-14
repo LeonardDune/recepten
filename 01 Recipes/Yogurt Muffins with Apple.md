@@ -2,6 +2,10 @@
 title: "Yogurt Muffins with Apple"
 source: "https://pisangsusu.com/yogurt-muffins-with-apple/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 10. Leg de [[appel]]stukjes bovenop (ongeveer een eetlepel per muffin).
 11. Bak in een voorverwarmde oven op 175 graden gedurende 25-30 minuten.
 12. Laat na het bakken 15 minuten afkoelen in de bakvorm en verwijder ze daarna.
+
+## Notities
+
+<!-- verwerkt -->

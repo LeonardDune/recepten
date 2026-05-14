@@ -2,6 +2,10 @@
 title: "Pisang Susu's Roti Kukus"
 source: "https://pisangsusu.com/pisang-susu-straatjournaal/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: brood
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -20,4 +24,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Pandan Meringue Lemon Curd Tarts"
 source: "https://pisangsusu.com/pandan-meringue-lemon-curd-tarts/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 7. Bak (of droog) de meringues 1 uur. Zet daarna de oven uit en laat ze 2-3 uur afkoelen in de oven. Je kunt ze ook 's avonds laat maken en tot de volgende ochtend in de oven laten staan.
 8. Vul de meringue kommetjes vlak voor het serveren met 1 à 2 eetlepels [[lemon curd]].
 9. Garneer met [[slagroom]] en [[poedersuiker]]. Decoreer eventueel met een stukje [[pandanblad]].
+
+## Notities
+
+<!-- verwerkt -->

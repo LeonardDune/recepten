@@ -2,6 +2,10 @@
 title: "Sayur Curry – Vegan Cabbage Curry"
 source: "https://pisangsusu.com/sayur-curry-vegan-cabbage-curry/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 8. Laat de sayur nog 6 tot 8 minuten zachtjes sudderen totdat de groenten al dente zijn.
 9. Proef en voeg indien nodig extra [[zout]] toe.
 10. Zet het vuur uit. De groenten garen nog iets na in de [[bouillon]].
+
+## Notities
+
+<!-- verwerkt -->

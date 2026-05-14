@@ -2,6 +2,10 @@
 title: "Simple Sweet and Sour Sauce with Tomatoes"
 source: "https://pisangsusu.com/simple-sweet-and-sour-sauce-with-tomatoes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 3. Rub the [[chili pepper]]s and tomato with a little salt (and sugar if using pure tamarind) into a paste.
 4. Add the tamarind and stir everything together until blended into a sauce.
 5. Taste and adjust balance with a few drops of lemon or lime juice, extra salt or sugar as needed.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Masak Kambing (gekookt geite- of schapevlees)"
 source: "https://pisangsusu.com/147-masak-kambing-gekookt-geite-schapevlees/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Voeg heet [[water]] toe en laat het vlees stoven op een rustig vuur, ongeveer 15 minuten, tot het gaar is.
 6. Zet het vuur uit en laat het vlees 5 minuten rusten.
 7. Roer vlak voor het opdienen de rest van de gesnipperde uien erdoorheen.
+
+## Notities
+
+<!-- verwerkt -->

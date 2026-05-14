@@ -2,6 +2,10 @@
 title: "Gyoza dumplings with beef and samphire"
 source: "https://pisangsusu.com/gyoza-dumplings-with/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -17,8 +21,7 @@ tags:
   - japans
   - chinees
   - aziatisch
-  - snack
----
+  - snack---
 
 # Gyoza dumplings with beef and samphire
 
@@ -54,3 +57,7 @@ tags:
 12. Controleer of de gyoza's gaar zijn door de bovenkant licht samen te knijpen. Als het deeg iets meegaat, stoom dan nog 1-2 minuten extra.
 13. Maak een eenvoudige dipsaus door 1 theelepel [[sesamolie]] te mengen met 2 eetlepels Kikkoman [[sojasaus]].
 14. Serveer de gyoza's direct met de dipsaus.
+
+## Notities
+
+<!-- verwerkt -->

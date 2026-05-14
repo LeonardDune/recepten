@@ -2,6 +2,10 @@
 title: "Pandan Quark Pie with Coconut"
 source: "https://pisangsusu.com/pandan-quark-pie-with-coconut/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 7. Giet het beslag in de vorm en bestrooi met de [[geraspte kokos]].
 8. Bak in een voorverwarmde oven op 175 graden gedurende 35 minuten.
 9. Controleer met een satéprikker of de cake gaar is. Als er nog beslag aan kleeft, bak dan nog 5 minuten extra.
+
+## Notities
+
+<!-- verwerkt -->

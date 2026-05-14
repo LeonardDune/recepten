@@ -2,6 +2,10 @@
 title: "Rempeyek (Peyek) - Hartige Javaanse Cracker"
 source: "https://pisangsusu.com/rempeyek-peyek-hartige-javaanse-cracker/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -58,3 +62,7 @@ tags:
 11. Keer de rempeyek om en laat de andere kant nog 15 seconden frituren.
 12. Laat uitlekken op keukenpapier en afkoelen. Serveer direct of bewaar in een luchtdichte trommel.
 13. Tip: slappe rempeyek kan je opnieuw knapperig maken door ze 15 minuten op 150 graden in de oven op het rooster te leggen.
+
+## Notities
+
+<!-- verwerkt -->

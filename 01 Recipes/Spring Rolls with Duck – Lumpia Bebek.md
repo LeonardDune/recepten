@@ -2,6 +2,10 @@
 title: "Spring Rolls with Duck – Lumpia Bebek"
 source: "https://pisangsusu.com/spring-rolls-with-duck-lumpia-bebek/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -43,3 +47,7 @@ tags:
 8. Verhit de [[frituurolie]] (niet te heet, anders gaan de vellen bubbelen).
 9. Frituur de loempia's tot ze rondom goudbruin zijn; draai ze halverwege om.
 10. Serveer de loempia's warm met zelfgemaakte [[hoisinsaus]].
+
+## Notities
+
+<!-- verwerkt -->

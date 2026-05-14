@@ -2,6 +2,10 @@
 title: "Soep van Katjang Hidjau (Indische Mungbonensoep)"
 source: "https://pisangsusu.com/soep-van-katjang-hidjau/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 6. Voeg de [[bouillon]] toe naar gewenste dikte en breng op smaak met zout.
 7. Laat de soep nog enkele minuten doorkoken. Optioneel: voeg [[rundergehaktballetjes]] toe en laat 5 minuten meekoken.
 8. Serveer de soep gegarneerd met [[gebakken uitjes]], eventueel wat verse rode ui en [[sambal]] naar smaak.
+
+## Notities
+
+<!-- verwerkt -->

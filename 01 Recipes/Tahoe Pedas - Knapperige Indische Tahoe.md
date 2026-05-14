@@ -2,6 +2,10 @@
 title: "Tahoe Pedas - Knapperige Indische Tahoe"
 source: "https://pisangsusu.com/tahoe-pedas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 4. Bak de boemboe samen met het [[salamblaadje]] in de resterende olie uit de pan tot alles goed losgebakken is.
 5. Voeg de [[ketjap manis]] toe en roer goed door.
 6. Roer de knapperige [[tahoe]] blokjes door de saus en serveer.
+
+## Notities
+
+<!-- verwerkt -->

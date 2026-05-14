@@ -2,6 +2,10 @@
 title: "Koreaanse spareribs"
 source: "https://pisangsusu.com/koreaanse-spareribs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 7. Verwarm de pakketjes op de BBQ (of boven een houtkachel) voor ongeveer 40 minuten zodat de ribs gaar worden en sappig blijven.
 8. Haal de [[spareribs]] uit het zilverpapier en rooster ze nog 15 minuten op de BBQ voor een krokant laagje.
 9. Snij het vlees van de botjes en rol het in slablaadjes met een theelepel [[hoisinsaus]]. Garneer eventueel met vers gesneden [[lente-uitjes]], [[koriander]] en [[kimchi]].
+
+## Notities
+
+<!-- verwerkt -->

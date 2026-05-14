@@ -2,6 +2,10 @@
 title: "Zoet-Zure Gembersaus I"
 source: "https://pisangsusu.com/zoet-zure-gembersaus-i/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -35,3 +39,7 @@ tags:
 2. Voeg de [[gemberpoeder]] toe, de [[tomatenpuree]], de [[bouillon]] en de [[azijn]].
 3. Bind het sausje met de [[maizena]] en roer er de [[bakgember]] doorheen.
 4. Laat de saus een minuutje pruttelen zodat het verder indikt.
+
+## Notities
+
+<!-- verwerkt -->

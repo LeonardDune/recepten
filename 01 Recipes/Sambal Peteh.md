@@ -2,6 +2,10 @@
 title: "Sambal Peteh"
 source: "https://pisangsusu.com/sambal-peteh/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -49,3 +53,7 @@ tags:
 10. Voeg de petehboontjes toe en laat de sambal nog ongeveer 5 minuten pruttelen.
 11. Controleer de dikte van de sambal naar wens.
 12. Doe de sambal direct uit de pan in een goed schoongemaakte, hete jampot (ook de deksel omgespoeld met kokend [[water]]). Laat de stukken [[citroengras]] in de pot zitten. Als de sambal afkoelt trekt de pot vacuum en is hij weken houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

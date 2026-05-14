@@ -2,6 +2,10 @@
 title: "Rosehip Soup (Nypesuppe / Nyponsoppa)"
 source: "https://pisangsusu.com/rosehip-soup/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 7. Meng een eetlepel [[maizena]] met water, roer tot een pasta en voeg toe aan de [[rozenbottels]].
 8. Breng opnieuw aan de kook.
 9. Serveer warm of koud met een klodder [[room]] of crème fraîche. [[rozenbottels]]oep wordt ook gegeten met amandelschaafsel of macarons.
+
+## Notities
+
+<!-- verwerkt -->

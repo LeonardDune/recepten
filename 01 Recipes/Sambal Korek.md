@@ -2,6 +2,10 @@
 title: "Sambal Korek"
 source: "https://pisangsusu.com/sambal-korek-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 2. Voeg suiker, [[zout]] en [[trassi]] toe en maal alles fijn totdat de sambal goed gemengd is (een grof stukje tomaat of [[knoflook]] is prima).
 3. Verhit twee eetlepels [[olie]] en giet deze over de sambal.
 4. Serveer de sambal korek in een kom, overgoten met de hete [[olie]].
+
+## Notities
+
+<!-- verwerkt -->

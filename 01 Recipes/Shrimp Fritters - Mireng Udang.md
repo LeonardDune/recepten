@@ -2,6 +2,10 @@
 title: "Shrimp Fritters | Mireng Udang"
 source: "https://pisangsusu.com/402-mireng-udang-shrimp-fritters/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 6. Schep per fritter 1 eetlepel beslag in de hete [[olie]].
 7. Bak de fritters goudbruin en knapperig, druk ze halverwege licht aan voor een gelijkmatig resultaat.
 8. Laat de mireng udang uitlekken op keukenpapier en serveer direct warm en knapperig.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Goreng Cabbage with Liver"
 source: "https://pisangsusu.com/sambal-goreng-cabbage-with-liver/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -45,3 +49,7 @@ tags:
 7. Add the block of [[santen]], the lemongrass, salam leaf and 3 to 4 spoons of [[asem]] water made from the piece of [[asem]].
 8. Add the liver back to the pan.
 9. Let the dish stew until the oil comes out of the [[santen]], after 5 to 6 minutes. The cabbage should not be completely cooked.
+
+## Notities
+
+<!-- verwerkt -->

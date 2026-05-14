@@ -2,6 +2,10 @@
 title: "Meat with bumbu rudjak"
 source: "https://pisangsusu.com/meat-with-bumbu-rudjak/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 7. Voeg na 15 minuten een eetlepel [[tamarinde]] [[water]] toe.
 8. Verwijder het deksel van de pan voor de laatste fase zodat het vocht kan inkoken tot ongeveer de helft.
 9. Serveer met acar of een komkommersalade.
+
+## Notities
+
+<!-- verwerkt -->

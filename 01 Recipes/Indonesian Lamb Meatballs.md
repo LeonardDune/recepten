@@ -2,6 +2,10 @@
 title: "Indonesian Lamb Meatballs"
 source: "https://pisangsusu.com/lamb-meatballs/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -48,3 +52,7 @@ tags:
 7. Bak de balletjes in een pan met wat [[olie]] of boter tot ze goudbruin zijn.
 8. Optioneel: roer 2 eetlepels [[melk]] of bouillon door het rauwe gehakt en bak het in een ovenschaal op 180 graden Celsius gedurende ongeveer 25 minuten.
 9. Serveer met een scheutje ketjap (sojasaus) erover.
+
+## Notities
+
+<!-- verwerkt -->

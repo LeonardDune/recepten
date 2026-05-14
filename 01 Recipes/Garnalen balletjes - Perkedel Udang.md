@@ -2,6 +2,10 @@
 title: "Garnalen balletjes | Perkedel Udang"
 source: "https://pisangsusu.com/garnalen-balletjes-perkedel-udang/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -11,8 +15,7 @@ tags:
   - balletjes
   - gebakken
   - perkedel
-  - snack
----
+  - snack---
 
 # Garnalen balletjes | Perkedel Udang
 
@@ -34,3 +37,7 @@ tags:
 3. Vorm er balletjes van ter grootte van flinke soepballetjes.
 4. Rol de balletjes door het [[paneermeel]].
 5. Bak de balletjes in ruim [[olie]] (of boter) tot ze gaar en mooi van kleur zijn.
+
+## Notities
+
+<!-- verwerkt -->

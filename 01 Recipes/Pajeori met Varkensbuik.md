@@ -2,6 +2,10 @@
 title: "Pajeori met Varkensbuik"
 source: "https://pisangsusu.com/koreaans-eten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -37,3 +41,7 @@ tags:
 4. Snijd het vlees eventueel klein met een schaar zodat het makkelijker te pakken is met eetstokjes.
 5. Schep wat [[rijst]], salade, [[tahoe]], gefermenteerde [[sojasaus]], [[knoflook]] en de pajeori met het varkensspek op [[perilla]] of slablaadjes.
 6. Rol de blaadjes dicht en stop het in één keer in je mond.
+
+## Notities
+
+<!-- verwerkt -->

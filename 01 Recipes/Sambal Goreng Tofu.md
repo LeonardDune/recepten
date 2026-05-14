@@ -2,6 +2,10 @@
 title: "Sambal Goreng Tofu"
 source: "https://pisangsusu.com/sambal-goreng-tofu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -46,3 +50,7 @@ tags:
 7. Voeg het [[citroengras]], de [[santen]] en het [[salamblad]] toe en voeg wat water toe zodat de [[santen]] smelt.
 8. Voeg de gebakken [[tofu]] toe aan de saus en meng goed.
 9. Voeg vlak voor het serveren de [[ketjap manis]] toe.
+
+## Notities
+
+<!-- verwerkt -->

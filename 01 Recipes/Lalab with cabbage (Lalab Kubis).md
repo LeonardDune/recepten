@@ -2,6 +2,10 @@
 title: "Lalab with cabbage (Lalab Kubis)"
 source: "https://pisangsusu.com/lalab-with-cabbage-lalab/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -30,3 +34,7 @@ tags:
 3. Giet het water af.
 4. Smeer [[sambal]] op elk blad.
 5. Rol de bladeren op en serveer ze zo.
+
+## Notities
+
+<!-- verwerkt -->

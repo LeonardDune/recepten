@@ -2,6 +2,10 @@
 title: "Tofu Peanut Sauce"
 source: "https://pisangsusu.com/tofu-peanut-sauce/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Maal [[knoflook]], sambal, [[javaanse suiker]] en [[pindakaas]] samen tot een pasta en bak dit op laag vuur in de resterende [[olie]].
 5. Maak de saus af met de [[sojasaus]] en roer dan de [[tofu]]blokjes erdoor.
 6. Maak het gerecht af met het [[citroen]]sap en bestrooi met de gebakken uien en gehakte [[selderij]].
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sweet and Sour Sambal Goreng"
 source: "https://pisangsusu.com/sweet-and-sour-sambal-goreng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Voeg het vlees of de [[kip]] toe en bak kort mee.
 5. Voeg het [[asemwater]] toe en laat alles een paar minuten sudderen (5 tot 6 minuten).
 6. Voeg de suiker en [[azijn]] toe en kook alles totdat de suiker is opgelost.
+
+## Notities
+
+<!-- verwerkt -->

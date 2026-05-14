@@ -2,6 +2,10 @@
 title: "Sambal Goreng Taoco (Bogor)"
 source: "https://pisangsusu.com/sambal-goreng-taoco-bogor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Once the [[santen]] is dissolved, add the [[taoco]] and the salam leaf.
 7. Add the Javanese sugar.
 8. Let the sambal goreng simmer until the meat is cooked and the sauce thickens, keeping the beans slightly crunchy.
+
+## Notities
+
+<!-- verwerkt -->

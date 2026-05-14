@@ -2,6 +2,10 @@
 title: "Sajoer Toemis Taugé"
 source: "https://pisangsusu.com/sajoer-toemis-tauge/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 3. Voeg met een handvol tegelijk de [[taugé]] toe en bak die 1 minuut mee.
 4. Doe er daarna het in warm water opgeloste [[bouillonblokje]] bij en laat dit alles aan de kook komen.
 5. Draai daarna onmiddellijk het vuur uit en roer er de [[selderie]], [[citroen]]sap en [[ketjap]] doorheen.
+
+## Notities
+
+<!-- verwerkt -->

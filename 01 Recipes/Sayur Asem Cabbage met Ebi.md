@@ -2,6 +2,10 @@
 title: "Sayur Asem Cabbage met Ebi"
 source: "https://pisangsusu.com/sayur-asem-cabbage/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 4. Breng het [[water]], [[bouillonblokje]], [[asemwater]], [[salamblad]], de gemalen kruiden en [[ebi]] aan de kook en laat dit ongeveer 10 minuten trekken.
 5. Voeg de [[kool]] toe en laat de sayur sudderen totdat de [[kool]] zacht begint te worden maar nog knapperig is.
 6. Serveer de sayur [[asem]] [[kool]] warm.
+
+## Notities
+
+<!-- verwerkt -->

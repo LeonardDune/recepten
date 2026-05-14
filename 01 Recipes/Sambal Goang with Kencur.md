@@ -2,6 +2,10 @@
 title: "Sambal Goang with Kencur"
 source: "https://pisangsusu.com/sambal-goang-with-kencur/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 3. Chop the garlic and add everything, also the salt and [[kencur]], to the mortar and grind into a paste.
 4. Add to a bowl.
 5. Heat up two tablespoons of oil and pour over the sambal.
+
+## Notities
+
+<!-- verwerkt -->

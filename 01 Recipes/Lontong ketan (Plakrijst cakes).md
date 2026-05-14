@@ -2,6 +2,10 @@
 title: "Lontong ketan (Plakrijst cakes)"
 source: "https://pisangsusu.com/lontong-ketan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 6. Schep de hete [[rijst]] in de schaal en druk goed aan, ook in de hoeken.
 7. Laat de lontong eerst afkoelen op het aanrecht en zet daarna een nacht in de koelkast.
 8. Laat de lontong voor het serveren op kamertemperatuur komen en snijd in rechthoekige repen of ruiten.
+
+## Notities
+
+<!-- verwerkt -->

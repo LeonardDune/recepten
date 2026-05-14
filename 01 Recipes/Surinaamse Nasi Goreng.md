@@ -2,6 +2,10 @@
 title: "Surinaamse Nasi Goreng"
 source: "https://pisangsusu.com/surinaamse-nasi-goreng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -54,3 +58,7 @@ tags:
 7. Breng op smaak met een theelepel [[peper]] en halve theelepel [[zout]] (even proeven of dat voldoende is).
 8. Schep vlak voor het serveren de fijngehakte [[peterselie]], de [[doperwten]] en de [[garnalen]] erdoor. Laat de [[garnalen]] en de erwten opwarmen.
 9. Schep op borden en serveer met [[augurk]] en dun gesneden [[omelet]].
+
+## Notities
+
+<!-- verwerkt -->

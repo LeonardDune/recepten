@@ -2,6 +2,10 @@
 title: "Hachee (Dutch-Indonesian Meat Stew)"
 source: "https://pisangsusu.com/149-hachee-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Snijd de [[aardappelen]] in plakjes of blokjes en laat ze meesudderen met het [[vlees]].
 5. Wanneer de [[aardappelen]] bijna gaar zijn, voeg de [[sojasaus]] en [[azijn]] toe.
 6. Voeg de uitgelekte en uitgeknepen noodles toe en laat de stoofpot nog even sudderen.
+
+## Notities
+
+<!-- verwerkt -->

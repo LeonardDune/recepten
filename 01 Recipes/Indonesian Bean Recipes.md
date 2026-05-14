@@ -2,6 +2,10 @@
 title: "Indonesian Bean Recipes"
 source: "https://pisangsusu.com/indonesian-bean-recipes-from-your-pantry/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -24,4 +28,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

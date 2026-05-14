@@ -2,6 +2,10 @@
 title: "Sambal Ui"
 source: "https://pisangsusu.com/sambal-ui/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 2. Wrijf de [[lombok]]s, [[knoflook]], [[terasi]] en fijngesneden ui samen in een cobek (vijzel) met een mespuntje [[zout]].
 3. Wrijf net zolang tot alle pepers en uitjes slap zijn en de sappen eruit lopen. De [[terasi]] lost daarin goed op.
 4. Serveer direct. Deze sambal is ook in de koelkast niet lang houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

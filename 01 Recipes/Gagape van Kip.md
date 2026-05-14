@@ -2,6 +2,10 @@
 title: "Gagape van Kip"
 source: "https://pisangsusu.com/gagape-van-kip/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - gagape
   - santen
   - kokosmelk
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Gagape van Kip
 
@@ -43,3 +46,7 @@ tags:
 6. Zodra de [[kip]] gaar is en de saus voldoende is ingekookt, voeg het geroosterde [[kokosmeel]] toe aan de pan.
 7. Schep alles voorzichtig goed door zodat de saus dik wordt en de stukken [[kip]] volledig omhult.
 8. Serveer met pandanrijst, groenten en eventueel een sambal naar keuze.
+
+## Notities
+
+<!-- verwerkt -->

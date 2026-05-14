@@ -2,6 +2,10 @@
 title: "Sajur Asem with Tomato, Tofu and Prawns"
 source: "https://pisangsusu.com/106-sajur-asem-with-tomato-tahu-and-shrimps/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 3. Voeg de [[tomaten]] toe en breng kort aan de kook.
 4. Voeg de gekookte [[garnalen]] toe en roer goed door.
 5. Zet het vuur uit en laat de sajur ongeveer 15 minuten staan voor het serveren zodat de smaken goed intrekken.
+
+## Notities
+
+<!-- verwerkt -->

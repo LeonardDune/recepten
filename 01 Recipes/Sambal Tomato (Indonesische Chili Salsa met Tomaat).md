@@ -2,6 +2,10 @@
 title: "Sambal Tomato (Indonesische Chili Salsa met Tomaat)"
 source: "https://pisangsusu.com/sambal-tomato-chili-salsa/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -31,3 +35,7 @@ tags:
 1. Wrijf de [[lombok]]s samen met [[trassi]] en [[zout]] fijn in een vijzel tot een sambal ulek of sambal [[trassi]].
 2. Voeg een theelepel [[tomatenpuree]] toe en roer dit er goed doorheen.
 3. Serveer direct. Deze sambal is niet lang houdbaar, ook niet in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

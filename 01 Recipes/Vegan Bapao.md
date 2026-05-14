@@ -2,6 +2,10 @@
 title: "Vegan Bapao"
 source: "https://pisangsusu.com/pasar-istimewa/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -21,4 +25,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

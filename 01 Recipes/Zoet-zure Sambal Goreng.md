@@ -2,6 +2,10 @@
 title: "Zoet-zure Sambal Goreng"
 source: "https://pisangsusu.com/zoet-zure-sambal-goreng/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -38,3 +42,7 @@ tags:
 4. Voeg het [[vlees]] of de [[kip]] er aan toe en bak dit even mee.
 5. Doe er daarna het [[asemwater]] bij en laat dit alles enkele minuten (5 à 6 minuten) stoven.
 6. Voeg er dan de suiker en de [[azijn]] bij en kook alles door tot de suiker opgelost is.
+
+## Notities
+
+<!-- verwerkt -->

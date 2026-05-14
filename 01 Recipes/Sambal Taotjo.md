@@ -2,6 +2,10 @@
 title: "Sambal Taotjo"
 source: "https://pisangsusu.com/sambal-taotjo/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Afmaken met het [[asem]]water. De sambal moet enigszins vochtig blijven.
 7. Laat de sambal nog een paar minuten indikken.
 8. Vul een goed uitgekookt, heet potje met de hete sambal zodat er vacuüm ontstaat.
+
+## Notities
+
+<!-- verwerkt -->

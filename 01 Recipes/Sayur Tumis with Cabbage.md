@@ -2,6 +2,10 @@
 title: "Sayur Tumis with Cabbage"
 source: "https://pisangsusu.com/sayur-tumis-with-cabbage/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Los het [[bouillonblokje]] op in 3 deciliter (ongeveer 1,5 kopje) heet [[water]] en giet de bouillon in de pan met de [[kool]].
 5. Breng het geheel opnieuw aan de kook en laat het ongeveer 2 minuten sudderen totdat de [[kool]] zacht wordt.
 6. Serveer met witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

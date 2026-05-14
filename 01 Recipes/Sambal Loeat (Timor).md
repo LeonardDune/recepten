@@ -2,6 +2,10 @@
 title: "Sambal Loeat (Timor)"
 source: "https://pisangsusu.com/sambal-loeat/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -40,3 +44,7 @@ tags:
 4. Voeg het [[citroen]]sap toe en blijf roeren totdat het vocht zoveel mogelijk is verdampt.
 5. Zet het gas uit en meng de fijngehakte [[bieslook]] erdoor.
 6. Doe de sambal super warm in een uitgekookt jampotje voor langere bewaring, of bewaar een deel voor direct gebruik.
+
+## Notities
+
+<!-- verwerkt -->

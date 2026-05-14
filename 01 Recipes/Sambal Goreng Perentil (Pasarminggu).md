@@ -2,6 +2,10 @@
 title: "Sambal Goreng Perentil (Pasarminggu)"
 source: "https://pisangsusu.com/sambal-goreng-perentil-pasarminggu/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 9. Laat alles sudderen totdat het vlees gaar is (ongeveer 5 minuten).
 10. Zet het vuur uit en laat de balletjes nog ongeveer 10 minuten afgedekt in de saus rusten voor het serveren.
 11. Serveer met roergebakken broccoli en rode of witte rijst.
+
+## Notities
+
+<!-- verwerkt -->

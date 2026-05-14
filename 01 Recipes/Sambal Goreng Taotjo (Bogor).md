@@ -2,6 +2,10 @@
 title: "Sambal Goreng Taotjo (Bogor)"
 source: "https://pisangsusu.com/sambal-goreng-taotjo-bogor/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 6. Als de [[santen]] is opgelost, voeg dan de [[taotjo]] en het salamblaadje toe.
 7. Voeg de [[javaanse suiker]] toe.
 8. Laat de sambal goreng verder stoven tot het [[vlees]] gaar is.
+
+## Notities
+
+<!-- verwerkt -->

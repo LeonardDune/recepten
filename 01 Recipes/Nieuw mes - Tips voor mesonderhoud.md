@@ -2,6 +2,10 @@
 title: "Nieuw mes - Tips voor mesonderhoud"
 source: "https://pisangsusu.com/nieuw-mes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -25,3 +29,7 @@ tags:
 2. Was het mes nooit in de afwasmachine, maar met de hand.
 3. Gebruik ongeveer wekelijks een aanzetstaal om eventuele butsen uit het mes te halen en soepeler snijden te bevorderen.
 4. Laat het mes ongeveer 1x per jaar slijpen bij een gespecialiseerde kookwinkel.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Tjarantjam Salade met Radijsjes"
 source: "https://pisangsusu.com/tjarantjam-salade/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -53,3 +57,7 @@ tags:
 9. Proef op [[zout]] en zuur. Voeg eventueel enkele druppels [[citroensap]] toe.
 10. Voeg de verse Thaise [[basilicum]] toe en schep alles goed door zodat alle groenten bedekt zijn met de saus.
 11. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

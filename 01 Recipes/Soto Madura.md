@@ -2,6 +2,10 @@
 title: "Soto Madura"
 source: "https://pisangsusu.com/soto-madoera/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -60,3 +64,7 @@ tags:
 14. Giet de bouillon erover. Besprenkel met wat [[citroen]]sap.
 15. Leg er een paar stukjes ei op en strooi de gebakken uien erover.
 16. Serveer met witte rijst, sambal ulek en [[zout]]e sojasaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Indonesian Barbecue Recipes (Pepesan & Saté Lilit)"
 source: "https://pisangsusu.com/indonesian-barbecue-recipes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -52,3 +56,7 @@ tags:
 8. Prik 3 à 4 stukjes vlees per spies.
 9. Zorg dat de kolen wit zijn van de hitte voordat je de saté op de barbecue legt.
 10. Grill varkensvlees en geitenvlees ongeveer 10 minuten; kip (filet) iets korter.
+
+## Notities
+
+<!-- verwerkt -->

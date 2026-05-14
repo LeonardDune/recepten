@@ -2,6 +2,10 @@
 title: "Steamed Lava Cake Pedis"
 source: "https://pisangsusu.com/steamed-lava-cake-pedis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 5. Vet 5 vormpjes in met [[boter]] en vul ze met het beslag. Leg eventueel een stukje gearomatiseerde [[pure chocolade]] in het midden van elk vormpje.
 6. Breng het water in de stoomkoker of rijstkoker aan de kook. Plaats de vormpjes in de vergiet van de stoompan en stoom op hoog vuur gedurende 5-8 minuten, afhankelijk van de grootte en vorm van de vormpjes.
 7. Laat de cakes een paar minuten afkoelen voordat je ze omkeert op een bord. Serveer en geniet!
+
+## Notities
+
+<!-- verwerkt -->

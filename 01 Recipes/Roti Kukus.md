@@ -2,6 +2,10 @@
 title: "Roti Kukus"
 source: "https://pisangsusu.com/tested-proven-roti-kukus-recipe/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -39,3 +43,7 @@ tags:
 8. Stoom de roti kukus 25 minuten. Open het deksel niet tijdens het stomen, anders zakt de cake in.
 9. Haal de vergiet van de pan. Til de kukus voorzichtig met de doek uit de pan.
 10. Laat een minuutje afkoelen en verwijder de theedoek. Serveer warm, eventueel met een beetje boter.
+
+## Notities
+
+<!-- verwerkt -->

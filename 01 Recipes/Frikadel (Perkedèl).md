@@ -2,6 +2,10 @@
 title: "Frikadel (Perkedèl)"
 source: "https://pisangsusu.com/frikadel-perkedel-2/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -12,8 +16,7 @@ tags:
   - gebakken
   - gehaktballetjes
   - perkedel
-  - frikadel
----
+  - frikadel---
 
 # Frikadel (Perkedèl)
 
@@ -38,3 +41,7 @@ tags:
 4. Rol de balletjes door het [[paneermeel]].
 5. Bak de balletjes in [[olie]] gedurende ongeveer 15-20 minuten tot ze gaar zijn. Bak ze eerst kort aan beide kanten op hoog vuur, zet dan het gas laag en keer ze een of twee keer. De perkedèl zijn gaar als het vlees terugveert wanneer je erop drukt.
 6. Alternatief (ovenversie): Verdeel het gekruide gehaktmengsel in een laag in een ovenschaal en bak het ongeveer 45 minuten op 180 graden Celsius. Snijd het vlees voor het serveren in vierkantjes.
+
+## Notities
+
+<!-- verwerkt -->

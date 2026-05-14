@@ -2,6 +2,10 @@
 title: "Vegan Bapao with Tofu Filling"
 source: "https://pisangsusu.com/vegan-bapao/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 9. Leg de bapao op stukjes bakpapier in een bamboestomer. Laat ze 15 minuten rijzen.
 10. Stoom de bapao 15 minuten. Zorg dat ze elkaar niet raken in de stomer.
 11. Serveer met [[kecap manis]] of pittige chilisaus als dipsaus.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Sambal Ananas"
 source: "https://pisangsusu.com/sambal-ananas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -36,3 +40,7 @@ tags:
 3. Bak deze mix op in twee eetlepels [[olie]].
 4. Voeg de [[ananas]]stukjes toe en de 3 eetlepels [[ananassap]] en laat dit ongeveer 5 minuten goed doorkoken.
 5. Schep in een schone jampot of serveer meteen.
+
+## Notities
+
+<!-- verwerkt -->

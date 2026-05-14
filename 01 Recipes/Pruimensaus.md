@@ -2,6 +2,10 @@
 title: "Pruimensaus"
 source: "https://pisangsusu.com/pruimensaus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -44,3 +48,7 @@ tags:
 4. Wacht tot de uien geel zijn en voeg dan de kruiden, [[zout]], [[suiker]], azijn en de [[pruimen]] toe.
 5. Laat alles rustig indikken op zacht vuur gedurende minimaal 10 minuten.
 6. Serveer de [[pruimen]]saus direct (eventueel nog warm) of bewaar in de koelkast of vriezer.
+
+## Notities
+
+<!-- verwerkt -->

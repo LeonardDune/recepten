@@ -2,6 +2,10 @@
 title: "Wingko Babat with Pandan - Indonesian Coconut Cake"
 source: "https://pisangsusu.com/wingko-babat-with-pandan/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -47,3 +51,7 @@ tags:
 12. Bak nog eens 25 minuten op 150 graden totdat de cake gaar is.
 13. Haal de cake met het bakpapier uit de bakvorm en laat afkoelen op een rooster.
 14. Snijd de cake in hapklare stukken, bijvoorbeeld in ruitvorm.
+
+## Notities
+
+<!-- verwerkt -->

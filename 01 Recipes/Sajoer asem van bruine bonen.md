@@ -2,6 +2,10 @@
 title: "Sajoer asem van bruine bonen"
 source: "https://pisangsusu.com/sajoer-asem-bruine-bonen/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: soep
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -41,3 +45,7 @@ tags:
 4. Voeg vervolgens de [[bruine bonen]] toe.
 5. Laat alles nog even doorstoven totdat de [[uien]] gaar zijn (ongeveer 5 minuten).
 6. Breng op smaak met [[zout]] en serveer met witte rijst en atjar ketimoen.
+
+## Notities
+
+<!-- verwerkt -->

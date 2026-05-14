@@ -2,6 +2,10 @@
 title: "Mango Sticky Rice Springroll"
 source: "https://pisangsusu.com/mango-sticky-rice-springroll/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -56,3 +60,7 @@ tags:
 16. Vouw de zijkanten van het rijstpapier onder de rijst
 17. Maak de saus door 100 ml [[kokosmelk]] te mengen met 2-3 theelepels gula Jawa
 18. Serveer de loempia's met de [[kokosmelk]]saus
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Gestoomde Lava Cake Pedis"
 source: "https://pisangsusu.com/gestoomde-lava-cake-pedis/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -13,8 +17,7 @@ tags:
   - camping recept
   - zoet
   - aziatisch
-  - snel
----
+  - snel---
 
 # Gestoomde Lava Cake Pedis
 
@@ -41,3 +44,7 @@ tags:
 6. Plaats de vormpjes in het vergiet van de stoompan. Zorg dat het water goed kookt voordat je de vormpjes erin zet.
 7. Stoom de cakes 5-8 minuten op hoog vuur, afhankelijk van de grootte en vorm van de vormpjes.
 8. Laat de cakes een paar minuten afkoelen en draai ze daarna om op een bord. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

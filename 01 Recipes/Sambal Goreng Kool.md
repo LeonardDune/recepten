@@ -2,6 +2,10 @@
 title: "Sambal Goreng Kool"
 source: "https://pisangsusu.com/sambal-goreng-kool/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Doe er vervolgens het blokje [[santen]] (of kokosmelk) bij, de [[sereh]] en het [[salam]]blad en, als de massa erg droog is, een scheutje water.
 6. Laat het gerecht stoven met de deksel op de pan tot de [[olie]] uit de [[santen]] komt, ongeveer 5 à 6 minuten. De [[kool]] mag niet helemaal gaar worden.
 7. Verwijder voor het opdienen de [[sereh]] en het [[salam]]blaadje.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,6 +2,10 @@
 title: "Eenvoudige zoet-zure saus van verse tomaten"
 source: "https://pisangsusu.com/eenvoudige-zoet-zure-saus/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -15,8 +19,7 @@ tags:
   - chili pepers
   - vegetarisch
   - vegan
-  - Beb Vuyk
----
+  - Beb Vuyk---
 
 # Eenvoudige zoet-zure saus van verse tomaten
 
@@ -37,3 +40,7 @@ tags:
 4. Voeg de [[tomaat]]stukken en de [[tamarinde]] toe en wrijf en roer alles tot een papje.
 5. Proef de saus en voeg naar smaak extra [[suiker]], [[zout]] en/of [[limoensap]] toe.
 6. Roer goed door en serveer als dipsaus bij snacks zoals loempia, pangsit, omelet van tahoe of tahoeballetjes.
+
+## Notities
+
+<!-- verwerkt -->

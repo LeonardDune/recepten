@@ -2,6 +2,10 @@
 title: "Soja-Azijnsaus (Chinees)"
 source: "https://pisangsusu.com/soja-azijnsaus-chinees/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -32,3 +36,7 @@ tags:
 2. Voeg daarna de soya ([[ketjap asin]]) en de [[olie]] toe en roer goed door.
 3. Proef de saus en pas eventueel de hoeveelheid [[suiker]] aan naar smaak.
 4. Giet de saus over in plakken gesneden tomaat, komkommer of met kokend water overgoten taugé.
+
+## Notities
+
+<!-- verwerkt -->

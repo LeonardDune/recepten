@@ -2,6 +2,10 @@
 title: "Wakame Salad"
 source: "https://pisangsusu.com/wakame-salad/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: bijgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Hak de gedroogde [[rawit]] fijn en snijd de [[rode ui]] in dunne ringen.
 6. Meng alles samen met de [[sesamzaadjes]] en laat het ongeveer 20 minuten rusten zodat de [[wakame]] alle smaken kan opnemen.
 7. Serveer zoals het is of met Japanse rijst.
+
+## Notities
+
+<!-- verwerkt -->

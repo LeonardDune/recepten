@@ -2,6 +2,10 @@
 title: "Koreaanse Bibimbap met Zalm en Ei"
 source: "https://pisangsusu.com/koreaanse-bibimbap/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: hoofdgerecht
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -63,3 +67,7 @@ tags:
 12. Voeg de [[sesamolie]], [[suiker]], [[taotjo]], [[chilipoeder]] en [[rijst]]azijn toe en maal fijn.
 13. Voeg [[water]] en [[zout]]e [[ketjap]] toe zodat het een dikke saus wordt.
 14. Serveer de saus naast de bibimbap of doe een eetlepel eroverheen.
+
+## Notities
+
+<!-- verwerkt -->

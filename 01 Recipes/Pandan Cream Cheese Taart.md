@@ -2,6 +2,10 @@
 title: "Pandan Cream Cheese Taart"
 source: "https://pisangsusu.com/pandan-cream-cheese-taart/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: dessert
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -51,3 +55,7 @@ tags:
 13. Laat de cake een half uur afkoelen in de kom op het aanrecht.
 14. Serveer meteen of zet 24 uur in de koelkast voor een stevigere taart.
 15. Serveer met de rest van de [[geraspte kokos]] en de grote [[kokosschaafsel]] erover.
+
+## Notities
+
+<!-- verwerkt -->

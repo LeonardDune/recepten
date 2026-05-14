@@ -2,6 +2,10 @@
 title: "Sambal Onion (Sambal Ui)"
 source: "https://pisangsusu.com/sambal-onion/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -34,3 +38,7 @@ tags:
 2. Hak de ui (of lente-ui) en de [[knoflook]] fijn.
 3. Wrijf de gehakte ui en gesneden [[knoflook]] samen met de sambal [[terasi]] in een vijzel (cobek) tot het mengsel sappig wordt en de [[terasi]] goed is opgenomen.
 4. Serveer direct, want deze sambal is niet lang houdbaar, ook niet in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

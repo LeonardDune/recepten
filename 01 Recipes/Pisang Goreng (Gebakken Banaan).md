@@ -2,6 +2,10 @@
 title: "Pisang Goreng (Gebakken Banaan)"
 source: "https://pisangsusu.com/video-how-to-make-a-pisang-goreng-or-fried-bananas/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: snack
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -24,4 +28,8 @@ tags:
 - 
 
 ## Bereiding
-1. 
+1.
+
+## Notities
+
+<!-- verwerkt -->

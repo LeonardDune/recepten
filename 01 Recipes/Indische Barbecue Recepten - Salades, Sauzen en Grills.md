@@ -2,6 +2,10 @@
 title: "Indische Barbecue Recepten - Salades, Sauzen en Grills"
 source: "https://pisangsusu.com/indische-barbecue-recepten/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -60,3 +64,7 @@ tags:
 9. Zorg dat de kooltjes wit zijn van de hitte voordat je de saté op de BBQ legt.
 10. Grill [[varkensvlees]] en [[geitenvlees]] circa 10 minuten. Kipfilet is sneller gaar.
 11. Serveer met zoet-zure ketjapsaus of pindasaus.
+
+## Notities
+
+<!-- verwerkt -->

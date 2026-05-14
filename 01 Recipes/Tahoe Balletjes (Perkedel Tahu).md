@@ -2,6 +2,10 @@
 title: "Tahoe Balletjes (Perkedel Tahu)"
 source: "https://pisangsusu.com/tahoe-balletjes/"
 date_added: 2026-04-27
+cuisine: indonesisch
+course: saus
+rating:
+tried: false
 tags:
   - recipe
   - indonesisch
@@ -42,3 +46,7 @@ tags:
 5. Goed mengen met de hand en balletjes vormen ter grootte van een pingpongbal.
 6. Bak de balletjes in [[olie]] met wat [[boter]] gedurende zeker 15 minuten op rustig vuur, tot ze bruin en knapperig zijn.
 7. Serveer met zoete ketjap erover.
+
+## Notities
+
+<!-- verwerkt -->
