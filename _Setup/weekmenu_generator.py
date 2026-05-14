@@ -616,6 +616,12 @@ def main():
 
     PLANS_DIR.mkdir(exist_ok=True)
 
+    plan_file = PLANS_DIR / f"Week {week_str}.md"
+    if plan_file.exists():
+        print(f"Weekmenu voor {week_str} bestaat al ({plan_file.name}). Overgeslagen.")
+        print("Gebruik --week <andere-week> om een ander weekmenu te genereren.")
+        sys.exit(0)
+
     print("Recepten laden...")
     recipes, title_to_file = load_recipes()
     print(f"  {len(recipes)} recepten gevonden")
@@ -661,7 +667,6 @@ def main():
     shopping_content = build_shopping_list(week_plan, recipe_ingredients)
 
     # Schrijf bestanden
-    plan_file = PLANS_DIR / f"Week {week_str}.md"
     shopping_file = PLANS_DIR / f"Week {week_str} Boodschappen.md"
 
     plan_file.write_text(render_week_plan(week_plan, week_specific_prefs), encoding="utf-8")
