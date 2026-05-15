@@ -84,6 +84,45 @@ Zo haalt Obsidian bij elke start automatisch nieuwe recepten van GitHub binnen, 
 
 `_Setup/start-obsidian.bat` — voer eerst een `git pull` uit en start daarna Obsidian. Kopieer naar de Windows opstartmap (`Win+R` → `shell:startup`) voor volledig automatische sync bij pc-start.
 
+## Foto-input via Claude Code (iPhone)
+
+Als een foto van een recept wordt gedeeld (zonder andere context, of met alleen een korte instructie zoals "zet dit in de vault"), verwerk die dan automatisch naar een nieuwe note in `01 Recipes/`.
+
+### Werkwijze
+
+1. **Lees de foto** — extraheer titel, ingrediënten, bereidingsstappen, porties en tijden.
+
+2. **Vertaal alles naar Nederlands**: titel, ingrediënten, bereiding én notities. Geen enkel veld in een andere taal laten staan.
+
+3. **Zet maten om naar het metrische stelsel**:
+   - cups → ml (1 cup = 240 ml)
+   - fluid ounces → ml (1 fl oz = 30 ml)
+   - ounces gewicht → gram (1 oz = 28 g)
+   - pounds → gram of kg (1 lb = 450 g)
+   - inches → cm
+   - °F → °C
+   - Rond af naar praktische kookmaten (bijv. 236 ml → 240 ml, 113 g → 115 g)
+
+4. **Maak de note aan** conform `04 Templates/Recept Template.md`:
+   - `title`: vertaalde Nederlandse titel
+   - `source`: naam van boek of tijdschrift als zichtbaar in de foto, anders leeg
+   - `date_added`: vandaag
+   - `cuisine` / `course`: bepaal zelf op basis van het gerecht (lowercase)
+   - `rating`: altijd leeg laten
+   - `tried`: altijd false
+   - `tags`: `recipe`, `cuisine/<cuisine>`, `course/<course>`
+   - Ingrediënten als `[[wikilinks]]` (enkelvoud, lowercase), hoeveelheden in metrisch
+
+5. **Bestandsnaam**: de vertaalde titel gevolgd door `.md`. Ongeldige tekens (`: / \ * ? " < > |`) vervangen door een spatie.
+
+6. **Stub-notes**: maak voor elk nieuw ingrediënt een lege note aan in `02 Ingredients/` als die nog niet bestaat, conform `04 Templates/Ingrediënt Template.md`.
+
+7. **Bevestig** na het schrijven: bestandsnaam van het recept + lijst van nieuw aangemaakte ingrediënt-notes.
+
+### Voorbeeld-trigger
+
+> *[foto bijgevoegd]* — geen verdere tekst, of: "Zet dit recept in de vault."
+
 ## Weekmenu Generator
 
 Wekelijks weekschema (5 diners) + boodschappenlijst, gegenereerd via de Claude API.
