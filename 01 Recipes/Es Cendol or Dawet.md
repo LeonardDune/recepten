@@ -6,6 +6,11 @@ cuisine: indonesisch
 course: dessert
 rating:
 tried: false
+servings: 4
+time_prep: 20
+time_cook: 15
+time_total: 35
+status: processed
 tags:
   - recipe
   - indonesisch
@@ -20,7 +25,10 @@ tags:
   - dawet
   - aziatisch
   - vegetarisch
-  - vegan---
+  - vegan
+  - cuisine/indonesisch
+  - course/dessert
+---
 
 # Es Cendol or Dawet
 

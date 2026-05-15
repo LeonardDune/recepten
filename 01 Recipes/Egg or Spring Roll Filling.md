@@ -6,6 +6,11 @@ cuisine: indonesisch
 course: snack
 rating:
 tried: false
+servings: 4
+time_prep: 15
+time_cook: 15
+time_total: 30
+status: processed
 tags:
   - recipe
   - indonesisch
@@ -18,7 +23,10 @@ tags:
   - snack
   - kerst
   - taugé
-  - Beb Vuyk---
+  - Beb Vuyk
+  - cuisine/indonesisch
+  - course/snack
+---
 
 # Egg or Spring Roll Filling
 

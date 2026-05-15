@@ -6,6 +6,11 @@ cuisine: indonesisch
 course: saus
 rating:
 tried: false
+servings: 4
+time_prep: 10
+time_cook: 0
+time_total: 10
+status: processed
 tags:
   - recipe
   - indonesisch
@@ -19,7 +24,10 @@ tags:
   - chili pepers
   - vegetarisch
   - vegan
-  - Beb Vuyk---
+  - Beb Vuyk
+  - cuisine/indonesisch
+  - course/saus
+---
 
 # Eenvoudige zoet-zure saus van verse tomaten
 

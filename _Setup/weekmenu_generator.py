@@ -32,8 +32,10 @@ except ImportError:
 # ---------------------------------------------------------------------------
 VAULT_ROOT = Path(__file__).parent.parent
 RECIPES_DIR = VAULT_ROOT / "01 Recipes"
+INGREDIENTS_DIR = VAULT_ROOT / "02 Ingredients"
 PLANS_DIR = VAULT_ROOT / "03 Weekly Plans"
 PREFS_FILE = PLANS_DIR / "_Voorkeuren.md"
+API_KEY_FILE = VAULT_ROOT / "_Setup" / "anthropic-api-key.txt"
 
 # ---------------------------------------------------------------------------
 # Constanten
@@ -237,6 +239,13 @@ def load_week_specific_prefs(week_str: str) -> str:
     return m.group(1).strip() if m else ""
 
 
+def load_known_ingredients() -> list[str]:
+    """Geeft alle paginanamen terug uit 02 Ingredients/ (bestandsnaam zonder .md)."""
+    if not INGREDIENTS_DIR.exists():
+        return []
+    return sorted(f.stem for f in INGREDIENTS_DIR.glob("*.md"))
+
+
 # ---------------------------------------------------------------------------
 # Ingrediënten lezen
 # ---------------------------------------------------------------------------
@@ -249,9 +258,9 @@ def read_ingredients_section(title: str, title_to_file: dict[str, Path]) -> str:
 
     content = file.read_text(encoding="utf-8", errors="ignore")
     m = re.search(
-        r'##\s*[Ii]ngredI?[eë]nten[^\n]*\n(.*?)(?=\n##|\Z)',
+        r'##\s*Ingredi[eë]nten[^\n]*\n(.*?)(?=\n##|\Z)',
         content,
-        re.DOTALL
+        re.DOTALL | re.IGNORECASE
     )
     if m:
         return m.group(1).strip() or "(Lege ingrediëntenlijst)"
@@ -419,6 +428,7 @@ Zorg dat elke titel EXACT overeenkomt met een titel uit de lijsten hierboven."""
 def build_shopping_list(
     week_plan: dict,
     ingredients_per_recipe: dict[str, str],
+    known_ingredients: list[str],
 ) -> str:
     """Vraagt Claude om een gecategoriseerde boodschappenlijst te genereren."""
     client = anthropic.Anthropic()
@@ -431,18 +441,53 @@ def build_shopping_list(
         for title in all_recipes:
             ingredient_block += f"\n### {title}\n{ingredients_per_recipe.get(title, '(niet gevonden)')}\n"
 
-    prompt = f"""Maak een overzichtelijke boodschappenlijst in Markdown op basis van onderstaande ingrediënten.
+    known_list = "\n".join(f"- {name}" for name in known_ingredients)
+
+    prompt = f"""Maak een boodschappenlijst op basis van onderstaande ingrediënten.
 
 {ingredient_block}
 
-Vereisten:
-- Groepeer in categorieën: **Groenten & Fruit**, **Vlees, Vis & Vleeswaren**, **Zuivel & Eieren**,
-  **Droog & Conserven**, **Kruiden & Specerijen**, **Sauzen & Overig**
-- Tel hoeveelheden op als hetzelfde ingrediënt in meerdere recepten voorkomt
-- Voeg achter elk item tussen haakjes toe welk(e) recept(en) het gebruiken
-- Sorteer alfabetisch binnen elke categorie
-- Gebruik checkboxes: `- [ ] ingrediënt (hoeveelheid) — Recept A, Recept B`
-- Geef ALLEEN de Markdown-inhoud terug, geen inleiding of uitleg"""
+REGELS — lees ze goed:
+
+1. **Één ingredient per regel.** Combineer nooit twee verschillende ingrediënten op één regel.
+   Komkommer en aubergine zijn twee aparte regels.
+
+2. **Gebruik winkellogica voor hoeveelheden.**
+   - Groenten/fruit: stuks, bossen, zakjes (bijv. "3 uien", "1 bosje koriander", "400 g spitskool")
+   - Vlees/vis: gram of stuks (bijv. "500 g kipfilet", "4 zalmfilets")
+   - Gember: "een stuk gember" — nooit centimeters
+   - Knoflook: "1 bol knoflook" als je meer dan ~6 teentjes nodig hebt, anders "X teentjes knoflook"
+   - Sauzen/droog: fles, blik, zakje, theelepels (bijv. "1 blik kokosmelk", "ketoembar")
+   - Wanneer een hoeveelheid onbekend of heel klein is, schrijf dan alleen de naam
+
+3. **Tel hoeveelheden op** als hetzelfde ingrediënt in meerdere recepten voorkomt.
+   Rond af naar een praktische winkelhoeveelheid.
+
+4. **Geen receptnamen achter de ingrediënten.** De shopper hoeft niet te weten waar iets voor is.
+
+5. **Categorieën** (gebruik vette koppen):
+   **Groenten & Fruit** | **Vlees & Vis** | **Zuivel & Eieren** | **Droog & Conserven** | **Kruiden & Specerijen** | **Overig**
+
+6. Sorteer alfabetisch binnen elke categorie.
+
+7. **Wikilinks:** Hieronder staat de lijst van bekende ingrediëntpagina's in de vault.
+   Als de naam van een ingrediënt overeenkomt met (of zeer dicht bij) een naam in deze lijst,
+   gebruik dan die exacte paginanaam als wikilink: `[[paginanaam]]`.
+   Gebruik alleen een wikilink als er een goede match is; verzin geen links.
+
+   Bekende ingrediëntpagina's:
+{known_list}
+
+8. Formaat per regel: `- [ ] [[paginanaam]] (hoeveelheid)` als er een wikilink is,
+   anders: `- [ ] ingrediëntnaam (hoeveelheid)`
+   Voorbeelden:
+   - [ ] [[komkommer]] (1 stuk)
+   - [ ] [[knoflook]] (1 bol)
+   - [ ] [[gember]] (een stuk)
+   - [ ] [[ketoembar]]
+   - [ ] spitskool (400 g)  ← geen wikilink want geen match gevonden
+
+9. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
 
     response = client.messages.create(
         model=CLAUDE_MODEL,
@@ -580,14 +625,22 @@ def main():
 
     # Controleer API key
     if not os.environ.get("ANTHROPIC_API_KEY"):
-        print(
-            "Fout: de omgevingsvariabele ANTHROPIC_API_KEY is niet ingesteld.\n"
-            "Stel hem in via: setx ANTHROPIC_API_KEY sk-ant-...",
-            file=sys.stderr
-        )
-        sys.exit(1)
+        if not API_KEY_FILE.exists():
+            print(
+                f"Fout: API key niet gevonden.\n"
+                f"Verwacht op: {API_KEY_FILE}",
+                file=sys.stderr
+            )
+            sys.exit(1)
+        os.environ["ANTHROPIC_API_KEY"] = API_KEY_FILE.read_text(encoding="utf-8").strip()
 
     PLANS_DIR.mkdir(exist_ok=True)
+
+    plan_file = PLANS_DIR / f"Week {week_str}.md"
+    if plan_file.exists():
+        print(f"Weekmenu voor {week_str} bestaat al ({plan_file.name}). Overgeslagen.")
+        print("Gebruik --week <andere-week> om een ander weekmenu te genereren.")
+        sys.exit(0)
 
     print("Recepten laden...")
     recipes, title_to_file = load_recipes()
@@ -630,11 +683,14 @@ def main():
             if title not in recipe_ingredients:
                 recipe_ingredients[title] = read_ingredients_section(title, title_to_file)
 
+    print("Bekende ingrediënten laden...")
+    known_ingredients = load_known_ingredients()
+    print(f"  {len(known_ingredients)} ingrediëntpagina's gevonden")
+
     print("Boodschappenlijst genereren via Claude...")
-    shopping_content = build_shopping_list(week_plan, recipe_ingredients)
+    shopping_content = build_shopping_list(week_plan, recipe_ingredients, known_ingredients)
 
     # Schrijf bestanden
-    plan_file = PLANS_DIR / f"Week {week_str}.md"
     shopping_file = PLANS_DIR / f"Week {week_str} Boodschappen.md"
 
     plan_file.write_text(render_week_plan(week_plan, week_specific_prefs), encoding="utf-8")

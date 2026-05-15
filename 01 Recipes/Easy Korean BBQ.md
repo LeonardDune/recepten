@@ -6,6 +6,11 @@ cuisine: indonesisch
 course: condiment
 rating:
 tried: false
+servings: 4
+time_prep: 30
+time_cook: 20
+time_total: 50
+status: processed
 tags:
   - recipe
   - indonesisch
@@ -23,7 +28,10 @@ tags:
   - sushi rijst
   - botersla
   - zomer
-  - wrap---
+  - wrap
+  - cuisine/indonesisch
+  - course/condiment
+---
 
 # Easy Korean BBQ
 

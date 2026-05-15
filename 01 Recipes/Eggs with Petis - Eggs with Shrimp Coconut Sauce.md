@@ -6,6 +6,11 @@ cuisine: indonesisch
 course: hoofdgerecht
 rating:
 tried: false
+servings: 2
+time_prep: 10
+time_cook: 15
+time_total: 25
+status: processed
 tags:
   - recipe
   - indonesisch
@@ -17,7 +22,10 @@ tags:
   - garnalen
   - sereh
   - glutenvrij
-  - rijst---
+  - rijst
+  - cuisine/indonesisch
+  - course/hoofdgerecht
+---
 
 # Eggs with Petis - Eggs with Shrimp Coconut Sauce
 
