@@ -84,6 +84,60 @@ Zo haalt Obsidian bij elke start automatisch nieuwe recepten van GitHub binnen, 
 
 `_Setup/start-obsidian.bat` — voer eerst een `git pull` uit en start daarna Obsidian. Kopieer naar de Windows opstartmap (`Win+R` → `shell:startup`) voor volledig automatische sync bij pc-start.
 
+## Weekmenu Generator
+
+Wekelijks weekschema (5 diners) + boodschappenlijst, gegenereerd via de Claude API.
+
+### Bestanden
+
+| Bestand | Doel |
+|---|---|
+| `_Setup/weekmenu_generator.py` | Hoofdscript — leest vault, roept Claude aan, schrijft notes |
+| `_Setup/weekmenu.bat` | Wrapper voor Windows Taakplanner |
+| `_Setup/weekmenu_taak_registreren.ps1` | Éénmalig registreren als geplande taak (als Administrator) |
+| `_Setup/anthropic-api-key.txt` | Anthropic API key (valt terug op `ANTHROPIC_API_KEY` env-variabele) |
+| `03 Weekly Plans/` | Output-map: weekschema's en boodschappenlijsten |
+| `03 Weekly Plans/_Voorkeuren.md` | Algemene én week-specifieke voorkeuren |
+
+### Gebruik
+
+```bash
+# Komende week (standaard)
+python _Setup/weekmenu_generator.py
+
+# Specifieke week
+python _Setup/weekmenu_generator.py --week 2026-W22
+
+# Met week-specifieke voorkeur (overschrijft _Voorkeuren.md)
+python _Setup/weekmenu_generator.py --week-voorkeur "graag Aziatisch deze week"
+```
+
+Vereist: `pip install anthropic`
+
+### Automatisch draaien (Windows Taakplanner)
+
+De taak draait elke vrijdag om 08:00 en genereert het menu voor de komende week.
+
+1. Voer `weekmenu_taak_registreren.ps1` éénmalig uit als Administrator.
+2. Controleer via `taskschd.msc` → zoek op "Obsidian Weekmenu Generator".
+3. Log staat in `_Setup/weekmenu_log.txt`.
+
+### Output-structuur
+
+Per week worden twee notes aangemaakt in `03 Weekly Plans/`:
+
+- **`Week YYYY-Www.md`** — weekoverzicht per dag (hoofdgerecht, bijgerechten, dessert, beoordelingsvelden)
+- **`Week YYYY-Www Boodschappen.md`** — gecategoriseerde boodschappenlijst met checkboxes en wikilinks naar `02 Ingredients/`
+
+### Logica
+
+- **3 simpele** diners (≤ 35 min, alleen hoofdgerecht) op ma/di/do
+- **2 uitgebreide** diners (hoofdgerecht + bijgerecht, optioneel dessert) op wo/vr
+- Recepten uit de afgelopen 8 weken worden overgeslagen
+- Beoordelingen uit eerdere weekplannen wegen mee bij de selectie
+- Niet meer dan 2× dezelfde keuken per week
+- Week-specifieke voorkeuren staan als `## YYYY-Www`-sectie in `_Voorkeuren.md`
+
 ## Vereiste Community Plugins
 
 | Plugin | Doel |
