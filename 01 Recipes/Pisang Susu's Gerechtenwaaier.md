@@ -17,6 +17,7 @@ tags:
   - gerechtenwaaier
   - cadeau
   - sinterklaas
+status: processed
 ---
 
 # Pisang Susu's Gerechtenwaaier

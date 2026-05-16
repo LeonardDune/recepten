@@ -20,6 +20,7 @@ tags:
   - sjalotten
   - azijn
   - bumbu
+status: processed
 ---
 
 # Pickled Onions from Timor (Atjar Bawang Timor)

@@ -19,6 +19,7 @@ tags:
   - ketanmeel
   - chewy
   - zoet
+status: processed
 ---
 
 # Wingko Babat - Sticky Rice Snack

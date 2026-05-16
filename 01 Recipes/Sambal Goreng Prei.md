@@ -19,6 +19,7 @@ tags:
   - boemboe
   - santen
   - makkelijk
+status: processed
 ---
 
 # Sambal Goreng Prei

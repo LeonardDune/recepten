@@ -19,7 +19,9 @@ tags:
   - bumbu
   - lombok
   - kemirie
-  - glutenvrij---
+  - glutenvrij
+status: processed
+---
 
 # Green Chicken (Ajam Bumbu Hidjau)
 

@@ -19,6 +19,7 @@ tags:
   - tapanuli
   - glutenvrij
   - umami
+status: processed
 ---
 
 # Sambal Teri (Tapanuli)

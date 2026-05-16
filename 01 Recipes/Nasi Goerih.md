@@ -19,6 +19,7 @@ tags:
   - Beb Vuyk
   - stoompan
   - kokos
+status: processed
 ---
 
 # Nasi Goerih

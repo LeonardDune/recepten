@@ -19,6 +19,7 @@ tags:
   - Beb Vuyk
   - Bogor
   - rijsttafel
+status: processed
 ---
 
 # Sajoer asem van bruine bonen

@@ -18,6 +18,7 @@ tags:
   - smaakmaker
   - traditioneel
   - fermentatie
+status: processed
 ---
 
 # Zoute Eitjes (Telor Asin)

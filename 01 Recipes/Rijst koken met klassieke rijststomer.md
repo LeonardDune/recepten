@@ -17,6 +17,7 @@ tags:
   - jasmijnrijst
   - bijgerecht
   - nasi
+status: processed
 ---
 
 # Rijst koken met klassieke rijststomer

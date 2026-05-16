@@ -17,6 +17,7 @@ tags:
   - condiment
   - fermentatie
   - traditioneel
+status: processed
 ---
 
 # Salty Eggs (Telor Asin)

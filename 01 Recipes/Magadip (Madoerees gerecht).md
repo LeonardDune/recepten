@@ -18,6 +18,7 @@ tags:
   - boemboe
   - winters
   - indisch
+status: processed
 ---
 
 # Magadip (Madoerees gerecht)

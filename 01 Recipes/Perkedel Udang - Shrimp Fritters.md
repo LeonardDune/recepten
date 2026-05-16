@@ -16,6 +16,7 @@ tags:
   - krokant
   - eenvoudig
   - zeevruchten
+status: processed
 ---
 
 # Perkedel Udang | Shrimp Fritters

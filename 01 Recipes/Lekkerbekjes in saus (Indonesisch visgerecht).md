@@ -19,6 +19,7 @@ tags:
   - gestoofd
   - wijting
   - kabeljauw
+status: processed
 ---
 
 # Lekkerbekjes in saus (Indonesisch visgerecht)

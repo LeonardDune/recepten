@@ -18,6 +18,7 @@ tags:
   - kokos
   - pittig
   - glutenvrij
+status: processed
 ---
 
 # Sambal Goreng Tempeh

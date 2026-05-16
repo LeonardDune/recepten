@@ -19,6 +19,7 @@ tags:
   - glutenvrij
   - rijst
   - asem ikan
+status: processed
 ---
 
 # Sour Mackerel – Asem Ikan

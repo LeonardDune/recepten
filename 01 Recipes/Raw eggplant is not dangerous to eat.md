@@ -18,6 +18,7 @@ tags:
   - solanine
   - vegetarian
   - vegan
+status: processed
 ---
 
 # Raw eggplant is not dangerous to eat

@@ -19,6 +19,7 @@ tags:
   - roerbak
   - santen
   - tamarinde
+status: processed
 ---
 
 # Sambal Goreng Green Beans with Shrimps

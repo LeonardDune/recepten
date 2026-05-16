@@ -20,6 +20,7 @@ tags:
   - Japans
   - gezond
   - vleesvervanger
+status: processed
 ---
 
 # Tempeh Fritters with Noodles and Petai Beans

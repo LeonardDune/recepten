@@ -15,7 +15,9 @@ tags:
   - snel recept
   - zeevruchten
   - bijgerecht
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Gestoofde Garnalen (Toemis Oedang)
 

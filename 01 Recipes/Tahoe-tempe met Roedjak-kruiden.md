@@ -19,6 +19,7 @@ tags:
   - bumbu
   - tahu bumbu rujak
   - Wonosobo
+status: processed
 ---
 
 # Tahoe-tempe met Roedjak-kruiden

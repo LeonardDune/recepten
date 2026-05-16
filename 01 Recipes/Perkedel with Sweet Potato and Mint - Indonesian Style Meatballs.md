@@ -19,6 +19,7 @@ tags:
   - gehakt rund
   - gehakt varken
   - gebakken
+status: processed
 ---
 
 # Perkedel with Sweet Potato and Mint - Indonesian Style Meatballs

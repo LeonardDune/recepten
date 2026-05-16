@@ -18,6 +18,7 @@ tags:
   - vegetarisch
   - vegan
   - klassiek
+status: processed
 ---
 
 # Pisang Goreng (Gebakken Banaan)

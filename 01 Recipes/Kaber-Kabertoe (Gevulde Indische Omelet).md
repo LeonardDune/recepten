@@ -20,6 +20,7 @@ tags:
   - kip
   - gehakt
   - santen
+status: processed
 ---
 
 # Kaber-Kabertoe (Gevulde Indische Omelet)

@@ -20,6 +20,7 @@ tags:
   - piment
   - basmatirijst
   - 30 minuten
+status: processed
 ---
 
 # Surinaamse Nasi Goreng

@@ -18,6 +18,7 @@ tags:
   - chili pepers
   - trassi
   - pinda's
+status: processed
 ---
 
 # Sambal Ketjap Manis

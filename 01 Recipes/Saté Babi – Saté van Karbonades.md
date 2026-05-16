@@ -19,6 +19,7 @@ tags:
   - zomer
   - stokjesgerecht
   - Beb Vuyk
+status: processed
 ---
 
 # Saté Babi – Saté van Karbonades

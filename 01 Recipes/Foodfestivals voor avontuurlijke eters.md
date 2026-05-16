@@ -21,7 +21,9 @@ tags:
   - schol
   - kippenvleugels
   - paté
-  - culinair evenement---
+  - culinair evenement
+status: processed
+---
 
 # Foodfestivals voor avontuurlijke eters
 

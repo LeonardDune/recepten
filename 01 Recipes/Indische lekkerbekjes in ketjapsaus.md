@@ -19,6 +19,7 @@ tags:
   - saus
   - gember
   - knoflook
+status: processed
 ---
 
 # Indische lekkerbekjes in ketjapsaus

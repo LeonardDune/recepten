@@ -18,6 +18,7 @@ tags:
   - santen
   - sereh
   - tramontana
+status: processed
 ---
 
 # Sambal Goreng with Brown Beans

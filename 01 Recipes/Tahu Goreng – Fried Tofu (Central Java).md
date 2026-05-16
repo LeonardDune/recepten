@@ -19,6 +19,7 @@ tags:
   - glutenvrij
   - bumbu
   - tahu goreng
+status: processed
 ---
 
 # Tahu Goreng – Fried Tofu (Central Java)

@@ -21,6 +21,7 @@ tags:
   - bumbu
   - kruidig
   - beb vuyk
+status: processed
 ---
 
 # Kaber Kebertu (Filled Indonesian Omelet)

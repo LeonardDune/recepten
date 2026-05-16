@@ -16,7 +16,9 @@ tags:
   - gebakken
   - gehaktballetjes
   - perkedel
-  - frikadel---
+  - frikadel
+status: processed
+---
 
 # Frikadel (Perkedèl)
 

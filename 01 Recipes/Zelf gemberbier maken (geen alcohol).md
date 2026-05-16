@@ -17,6 +17,7 @@ tags:
   - frisdrank
   - fermenteren
   - cocktailbasis
+status: processed
 ---
 
 # Zelf gemberbier maken (geen alcohol)

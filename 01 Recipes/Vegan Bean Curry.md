@@ -18,6 +18,7 @@ tags:
   - santen
   - makkelijk
   - weekdiner
+status: processed
 ---
 
 # Vegan Bean Curry

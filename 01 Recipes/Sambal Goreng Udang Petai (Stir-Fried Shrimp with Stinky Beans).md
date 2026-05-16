@@ -18,6 +18,7 @@ tags:
   - pittig
   - glutenvrij
   - seafood
+status: processed
 ---
 
 # Sambal Goreng Udang Petai (Stir-Fried Shrimp with Stinky Beans)

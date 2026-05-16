@@ -19,6 +19,7 @@ tags:
   - klassiek
   - Beb Vuyk
   - bananenkoek
+status: processed
 ---
 
 # Kue Pisang (Bananenkoek)

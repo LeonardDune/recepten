@@ -21,6 +21,7 @@ tags:
   - selderij
   - prei
   - glutenvrij mogelijk
+status: processed
 ---
 
 # Perkedel Jagung III (Corn Fritters)

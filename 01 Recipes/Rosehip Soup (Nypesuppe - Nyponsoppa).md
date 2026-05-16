@@ -22,6 +22,7 @@ tags:
   - koud
   - zomer
   - winter
+status: processed
 ---
 
 # Rosehip Soup (Nypesuppe / Nyponsoppa)

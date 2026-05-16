@@ -20,6 +20,7 @@ tags:
   - Chinees
   - glutenvrij aanpasbaar
   - invriezen mogelijk
+status: processed
 ---
 
 # Vegan Dumplings with Black Fungus Mushrooms

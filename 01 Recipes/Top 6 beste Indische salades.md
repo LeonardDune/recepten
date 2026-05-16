@@ -23,6 +23,7 @@ tags:
   - kokos
   - pindasaus
   - sambal
+status: processed
 ---
 
 # Top 6 beste Indische salades

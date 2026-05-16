@@ -16,6 +16,7 @@ tags:
   - snack
   - vulling
   - kecap manis
+status: processed
 ---
 
 # Pork Filling for Bapao

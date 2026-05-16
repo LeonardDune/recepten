@@ -18,6 +18,7 @@ tags:
   - omega-3
   - snel
   - eenvoudig
+status: processed
 ---
 
 # How to Cook Salmon

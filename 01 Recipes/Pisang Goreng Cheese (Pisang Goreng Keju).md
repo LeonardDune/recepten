@@ -19,6 +19,7 @@ tags:
   - pisang goreng
   - keju
   - smeerproppen
+status: processed
 ---
 
 # Pisang Goreng Cheese (Pisang Goreng Keju)

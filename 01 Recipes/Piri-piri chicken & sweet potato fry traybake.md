@@ -18,6 +18,7 @@ tags:
   - hoog proteïne
   - makkelijk
   - one-pan
+status: processed
 ---
 
 # Piri-piri chicken & sweet potato fry traybake

@@ -17,6 +17,7 @@ tags:
   - inspiratie
   - rijsttafel
   - sambal
+status: processed
 ---
 
 # Kookboeken Top 10 - Pinda Magazine

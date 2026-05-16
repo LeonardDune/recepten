@@ -19,6 +19,7 @@ tags:
   - Beb Vuyk
   - indisch
   - koud gerecht
+status: processed
 ---
 
 # Ketoprak - Veganistische Indische Salade

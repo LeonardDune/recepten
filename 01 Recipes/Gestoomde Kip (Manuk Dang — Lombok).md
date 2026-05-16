@@ -18,7 +18,9 @@ tags:
   - marinade
   - rijststomer
   - glutenvrij
-  - zuivelvrij---
+  - zuivelvrij
+status: processed
+---
 
 # Gestoomde Kip (Manuk Dang — Lombok)
 

@@ -19,6 +19,7 @@ tags:
   - marineren
   - kruiden
   - manuk dang
+status: processed
 ---
 
 # Steamed Chicken (Manuk Dang – Lombok)

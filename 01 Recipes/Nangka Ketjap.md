@@ -18,6 +18,7 @@ tags:
   - java
   - traditioneel
   - tomaat
+status: processed
 ---
 
 # Nangka Ketjap

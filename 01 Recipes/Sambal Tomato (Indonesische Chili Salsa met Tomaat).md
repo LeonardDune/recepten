@@ -19,6 +19,7 @@ tags:
   - eenvoudig
   - bijgerecht
   - glutenvrij
+status: processed
 ---
 
 # Sambal Tomato (Indonesische Chili Salsa met Tomaat)

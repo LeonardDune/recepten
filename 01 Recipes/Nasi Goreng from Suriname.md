@@ -21,6 +21,7 @@ tags:
   - suriname
   - javaans
   - leftovers
+status: processed
 ---
 
 # Nasi Goreng from Suriname

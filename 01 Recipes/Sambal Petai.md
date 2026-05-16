@@ -19,6 +19,7 @@ tags:
   - pittig
   - zelfgemaakt
   - bewaarbaar
+status: processed
 ---
 
 # Sambal Petai

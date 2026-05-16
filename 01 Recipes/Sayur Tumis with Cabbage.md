@@ -21,6 +21,7 @@ tags:
   - bijgerecht
   - sambal
   - galangal
+status: processed
 ---
 
 # Sayur Tumis with Cabbage

@@ -19,6 +19,7 @@ tags:
   - pindang
   - glutenvrij
   - gezond
+status: processed
 ---
 
 # Pindang Kuning with fish

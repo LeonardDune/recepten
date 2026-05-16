@@ -20,6 +20,7 @@ tags:
   - plakrijst
   - sticky rice
   - bananenblad
+status: processed
 ---
 
 # Lontong ketan (Plakrijst cakes)

@@ -17,6 +17,7 @@ tags:
   - vegetarisch
   - bewaarbaar
   - snel
+status: processed
 ---
 
 # Sambal Ananas

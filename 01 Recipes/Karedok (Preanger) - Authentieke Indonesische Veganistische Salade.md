@@ -24,6 +24,7 @@ tags:
   - aubergine
   - kool
   - sperziebonen
+status: processed
 ---
 
 # Karedok (Preanger) - Authentieke Indonesische Veganistische Salade

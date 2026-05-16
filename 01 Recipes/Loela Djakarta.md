@@ -18,6 +18,7 @@ tags:
   - snel klaar
   - Beb Vuyk
   - klassiek
+status: processed
 ---
 
 # Loela Djakarta

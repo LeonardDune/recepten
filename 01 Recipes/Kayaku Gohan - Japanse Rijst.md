@@ -19,6 +19,7 @@ tags:
   - umami
   - one-pot
   - kayaku gohan
+status: processed
 ---
 
 # Kayaku Gohan - Japanse Rijst

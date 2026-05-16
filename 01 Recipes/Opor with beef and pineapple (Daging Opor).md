@@ -18,6 +18,7 @@ tags:
   - terasi
   - comfort food
   - authentiek
+status: processed
 ---
 
 # Opor with beef and pineapple (Daging Opor)

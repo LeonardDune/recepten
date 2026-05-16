@@ -20,6 +20,7 @@ tags:
   - gember
   - Beb Vuyk
   - rijst
+status: processed
 ---
 
 # Masak Kambing (gekookt geite- of schapevlees)

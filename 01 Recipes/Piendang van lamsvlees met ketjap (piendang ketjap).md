@@ -19,6 +19,7 @@ tags:
   - indisch
   - klassiek
   - winter
+status: processed
 ---
 
 # Piendang van lamsvlees met ketjap (piendang ketjap)

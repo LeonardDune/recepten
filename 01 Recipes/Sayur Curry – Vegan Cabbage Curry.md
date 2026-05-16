@@ -19,6 +19,7 @@ tags:
   - sayur
   - kokos
   - glutenvrij
+status: processed
 ---
 
 # Sayur Curry – Vegan Cabbage Curry

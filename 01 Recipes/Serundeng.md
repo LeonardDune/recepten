@@ -15,6 +15,7 @@ tags:
   - droog gebakken
   - serundeng
   - vegetarisch
+status: processed
 ---
 
 # Serundeng

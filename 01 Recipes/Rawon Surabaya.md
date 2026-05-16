@@ -18,6 +18,7 @@ tags:
   - pittig
   - traditioneel
   - bumbu
+status: processed
 ---
 
 # Rawon Surabaya

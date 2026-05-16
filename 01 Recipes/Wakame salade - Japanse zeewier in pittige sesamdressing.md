@@ -20,6 +20,7 @@ tags:
   - weekzondervlees
   - glutenvrij
   - bijgerecht
+status: processed
 ---
 
 # Wakame salade - Japanse zeewier in pittige sesamdressing

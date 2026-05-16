@@ -18,6 +18,7 @@ tags:
   - restjesgerecht
   - Beb Vuyk
   - comfort food
+status: processed
 ---
 
 # Indonesische pastei (pastel)

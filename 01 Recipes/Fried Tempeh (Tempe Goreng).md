@@ -18,7 +18,9 @@ tags:
   - snack
   - tamarinde
   - makkelijk
-  - tempe goreng---
+  - tempe goreng
+status: processed
+---
 
 # Fried Tempeh (Tempe Goreng)
 

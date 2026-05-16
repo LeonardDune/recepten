@@ -19,6 +19,7 @@ tags:
   - eenvoudig
   - Beb Vuyk
   - roerbak
+status: processed
 ---
 
 # Semur Terong (Semur of Eggplant)

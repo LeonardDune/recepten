@@ -19,6 +19,7 @@ tags:
   - glutenvrij
   - solo
   - ento-ento
+status: processed
 ---
 
 # Tempeh Balls (Ento-ento from Solo / Perkedel Tempe)

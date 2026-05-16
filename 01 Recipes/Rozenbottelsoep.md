@@ -21,6 +21,7 @@ tags:
   - seizoensgebonden
   - zomer
   - winter
+status: processed
 ---
 
 # Rozenbottelsoep

@@ -18,6 +18,7 @@ tags:
   - Beb Vuyk
   - rijstgerecht
   - pittig
+status: processed
 ---
 
 # Smoor Jawa - Klassieke Javaanse Rundvleesstoof

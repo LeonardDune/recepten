@@ -20,6 +20,7 @@ tags:
   - indisch
   - beb vuyk
   - snel klaar
+status: processed
 ---
 
 # Sambal Goreng van Vlees

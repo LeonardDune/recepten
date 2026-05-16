@@ -12,6 +12,7 @@ tags:
   - eiwitrijk
   - snel
   - fusion
+status: processed
 ---
 
 # Red Thai curry crispy chicken tacos
@@ -38,3 +39,7 @@ tags:
 5. Put half the curry mayo in a large bowl with the carrot and cabbage slaw, and mix well. Add ½ tbsp cold water to the remaining red Thai curry mayo and stir to loosen.
 6. Put the [[tortillas]] on a plate and microwave for 20 seconds on high, or until warm.
 7. Divide the creamy slaw, crispy chicken strips and remaining curry mayo evenly between the warmed [[tortillas]]. Drizzle over the [[sriracha]] and top with the chopped coriander. Serve any leftover curry mayo on the side for dipping.
+
+## Notities
+
+<!-- verwerkt -->

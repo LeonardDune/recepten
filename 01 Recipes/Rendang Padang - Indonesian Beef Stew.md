@@ -19,6 +19,7 @@ tags:
   - Sumatra
   - klassiek
   - meal prep
+status: processed
 ---
 
 # Rendang Padang | Indonesian Beef Stew

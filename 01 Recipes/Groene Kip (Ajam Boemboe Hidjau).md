@@ -17,7 +17,9 @@ tags:
   - Beb Vuyk
   - ajam
   - boemboe
-  - glutenvrij---
+  - glutenvrij
+status: processed
+---
 
 # Groene Kip (Ajam Boemboe Hidjau)
 

@@ -20,6 +20,7 @@ tags:
   - rijst
   - streetfood
   - glutenvrij
+status: processed
 ---
 
 # Lemper – Sticky Rice Snack

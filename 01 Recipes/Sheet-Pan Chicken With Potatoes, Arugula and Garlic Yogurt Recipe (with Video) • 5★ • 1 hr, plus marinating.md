@@ -13,6 +13,7 @@ tried: false
 image: "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-threeByTwoMediumAt2X-v2.jpg"
 tags:
   - "recipe"
+status: processed
 ---
 ![](https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-threeByTwoMediumAt2X-v2.jpg)
 

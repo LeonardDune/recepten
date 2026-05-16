@@ -14,6 +14,7 @@ tags:
   - kue
   - traditioneel
   - video
+status: processed
 ---
 
 # Kue Mangkok

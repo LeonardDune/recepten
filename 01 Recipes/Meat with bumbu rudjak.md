@@ -20,6 +20,7 @@ tags:
   - galangal
   - kerst
   - stoofgerecht
+status: processed
 ---
 
 # Meat with bumbu rudjak

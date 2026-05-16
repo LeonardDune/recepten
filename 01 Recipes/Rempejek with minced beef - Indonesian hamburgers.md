@@ -18,6 +18,7 @@ tags:
   - hamburger
   - ketumbar
   - koriander
+status: processed
 ---
 
 # Rempejek with minced beef - Indonesian hamburgers

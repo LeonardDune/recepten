@@ -19,6 +19,7 @@ tags:
   - zoetzuur
   - sambal
   - sojasaus
+status: processed
 ---
 
 # Tahu Pong - Tofu uit Oost-Java

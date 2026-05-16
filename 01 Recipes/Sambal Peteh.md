@@ -20,6 +20,7 @@ tags:
   - bewaarrecept
   - vegetarisch
   - bijgerecht
+status: processed
 ---
 
 # Sambal Peteh

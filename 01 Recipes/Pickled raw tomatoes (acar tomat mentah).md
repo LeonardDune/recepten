@@ -20,6 +20,7 @@ tags:
   - fris
   - gezond
   - snel
+status: processed
 ---
 
 # Pickled raw tomatoes (acar tomat mentah)

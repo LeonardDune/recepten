@@ -22,6 +22,7 @@ tags:
   - kool
   - sjalot
   - zuur
+status: processed
 ---
 
 # Pickled Vegetables (Acar Bening)

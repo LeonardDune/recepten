@@ -18,6 +18,7 @@ tags:
   - Beb Vuyk
   - Indisch
   - pittig
+status: processed
 ---
 
 # Sambal Asem

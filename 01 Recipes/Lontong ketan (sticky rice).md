@@ -19,6 +19,7 @@ tags:
   - glutenvrij
   - bijgerecht
   - bananenblad
+status: processed
 ---
 
 # Lontong ketan (sticky rice)

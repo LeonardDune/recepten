@@ -21,6 +21,7 @@ tags:
   - bijgerecht
   - sambal
   - laos
+status: processed
 ---
 
 # Sajoer Toemis van Kool

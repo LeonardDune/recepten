@@ -22,6 +22,7 @@ tags:
   - roedjak
   - fruit
   - saus
+status: processed
 ---
 
 # Roedjak Manis

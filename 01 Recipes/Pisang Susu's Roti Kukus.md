@@ -14,6 +14,7 @@ tags:
   - straatjournaal
   - roti
   - gestoomd
+status: processed
 ---
 
 # Pisang Susu's Roti Kukus

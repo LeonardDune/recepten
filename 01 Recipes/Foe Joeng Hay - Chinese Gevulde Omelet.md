@@ -18,7 +18,9 @@ tags:
   - omelet
   - gembersaus
   - kantonees
-  - snel---
+  - snel
+status: processed
+---
 
 # Foe Joeng Hay - Chinese Gevulde Omelet
 

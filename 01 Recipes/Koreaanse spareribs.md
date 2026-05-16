@@ -19,6 +19,7 @@ tags:
   - ketjap
   - kimchi
   - zomer
+status: processed
 ---
 
 # Koreaanse spareribs

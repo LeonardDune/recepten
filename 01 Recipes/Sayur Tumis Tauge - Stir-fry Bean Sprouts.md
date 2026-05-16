@@ -17,6 +17,7 @@ tags:
   - sayur
   - beansprouts
   - bumbu
+status: processed
 ---
 
 # Sayur Tumis Tauge | Stir-fry Bean Sprouts

@@ -18,6 +18,7 @@ tags:
   - rendang
   - pittig
   - pasen
+status: processed
 ---
 
 # Rendang with Eggs (Padang) – Rendang Telor

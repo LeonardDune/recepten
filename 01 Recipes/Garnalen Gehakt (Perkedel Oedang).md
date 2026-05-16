@@ -16,7 +16,9 @@ tags:
   - balletjes
   - gebakken
   - zeevruchten
-  - boemboe---
+  - boemboe
+status: processed
+---
 
 # Garnalen Gehakt (Perkedel Oedang)
 

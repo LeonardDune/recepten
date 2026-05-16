@@ -18,6 +18,7 @@ tags:
   - rijsttafel
   - pittig
   - ketjap
+status: processed
 ---
 
 # Tahoe Pedas - Knapperige Indische Tahoe

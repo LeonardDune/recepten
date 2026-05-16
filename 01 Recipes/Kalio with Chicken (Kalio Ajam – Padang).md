@@ -17,6 +17,7 @@ tags:
   - kalio
   - pittig
   - glutenvrij
+status: processed
 ---
 
 # Kalio with Chicken (Kalio Ajam – Padang)

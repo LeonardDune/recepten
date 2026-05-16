@@ -20,6 +20,7 @@ tags:
   - tamarinde
   - pittig
   - umami
+status: processed
 ---
 
 # Sambal Asem Kemamah (Aceh) - Sambal Stockfish

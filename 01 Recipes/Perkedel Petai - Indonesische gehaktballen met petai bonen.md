@@ -19,6 +19,7 @@ tags:
   - ubi
   - nootmuskaat
   - vlees
+status: processed
 ---
 
 # Perkedel Petai - Indonesische gehaktballen met petai bonen

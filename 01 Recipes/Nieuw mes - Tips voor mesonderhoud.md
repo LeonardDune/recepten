@@ -15,6 +15,7 @@ tags:
   - aanzetstaal
   - kooktips
   - slijpen
+status: processed
 ---
 
 # Nieuw mes - Tips voor mesonderhoud

@@ -18,6 +18,7 @@ tags:
   - kencur
   - zelfgemaakt
   - salsa
+status: processed
 ---
 
 # Sambal Goang with Kencur

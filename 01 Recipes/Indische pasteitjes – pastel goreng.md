@@ -22,6 +22,7 @@ tags:
   - invriezen
   - feesthapje
   - hartig
+status: processed
 ---
 
 # Indische pasteitjes – pastel goreng

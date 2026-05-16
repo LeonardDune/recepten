@@ -22,6 +22,7 @@ tags:
   - lente-ui
   - varkensvlees
   - rundvlees
+status: processed
 ---
 
 # Martabak Telor - Indonesian Savory Crunchy Egg Snack

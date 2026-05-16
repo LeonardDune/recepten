@@ -19,6 +19,7 @@ tags:
   - zomer
   - vlees
   - wrap
+status: processed
 ---
 
 # Makkelijke Koreaanse BBQ

@@ -19,6 +19,7 @@ tags:
   - ketanrijst
   - traditioneel
   - glutenvrij
+status: processed
 ---
 
 # Wajik – Kleefrijstsnack met Javaanse Suiker

@@ -19,6 +19,7 @@ tags:
   - zoete aardappel
   - vlees
   - gebakken
+status: processed
 ---
 
 # Perkedel Peteh - Indische Gehaktballetjes

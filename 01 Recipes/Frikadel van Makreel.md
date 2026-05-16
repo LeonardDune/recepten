@@ -15,7 +15,9 @@ tags:
   - oven
   - frikadel
   - viskoekje
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Frikadel van Makreel
 

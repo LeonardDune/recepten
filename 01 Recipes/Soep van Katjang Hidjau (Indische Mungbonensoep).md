@@ -19,6 +19,7 @@ tags:
   - vullend
   - simpel
   - sajoer
+status: processed
 ---
 
 # Soep van Katjang Hidjau (Indische Mungbonensoep)

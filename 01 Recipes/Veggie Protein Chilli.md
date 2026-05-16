@@ -14,6 +14,7 @@ tags:
   - batch cook
   - healthy
   - easy
+status: processed
 ---
 
 # Veggie Protein Chilli

@@ -16,6 +16,7 @@ tags:
   - ketjap
   - vegan
   - kookdemo
+status: processed
 ---
 
 # Sambal Ketjap

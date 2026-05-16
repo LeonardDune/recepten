@@ -19,6 +19,7 @@ tags:
   - vlees
   - rijst
   - Beb Vuyk
+status: processed
 ---
 
 # Sambal Goreng Taoco (Bogor)

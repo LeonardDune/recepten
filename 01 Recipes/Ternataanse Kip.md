@@ -19,6 +19,7 @@ tags:
   - boemboe
   - Beb Vuyk
   - Spaanse pepers
+status: processed
 ---
 
 # Ternataanse Kip

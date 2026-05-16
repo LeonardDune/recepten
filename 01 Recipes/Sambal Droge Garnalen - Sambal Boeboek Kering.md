@@ -20,6 +20,7 @@ tags:
   - pittig
   - snel recept
   - authentiek
+status: processed
 ---
 
 # Sambal Droge Garnalen - Sambal Boeboek Kering

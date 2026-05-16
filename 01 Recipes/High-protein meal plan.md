@@ -19,6 +19,7 @@ tags:
   - freezable
   - weekmenu
   - eiwitrijk
+status: processed
 ---
 
 # High-Protein Meal Plan

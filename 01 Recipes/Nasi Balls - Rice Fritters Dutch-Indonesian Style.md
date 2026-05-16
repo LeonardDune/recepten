@@ -18,6 +18,7 @@ tags:
   - bitterbal
   - snackbar
   - street food
+status: processed
 ---
 
 # Nasi Balls - Rice Fritters Dutch-Indonesian Style

@@ -19,6 +19,7 @@ tags:
   - gefrituurde snack
   - straatvoedsel
   - indisch
+status: processed
 ---
 
 # Martabak Telor - Deegpakketjes gevuld met Ei en Gehakt

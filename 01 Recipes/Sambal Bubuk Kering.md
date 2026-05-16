@@ -21,6 +21,7 @@ tags:
   - glutenvrij
   - pittig
   - authentiek
+status: processed
 ---
 
 # Sambal Bubuk Kering

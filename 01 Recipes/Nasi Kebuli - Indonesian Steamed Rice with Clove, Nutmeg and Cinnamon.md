@@ -19,6 +19,7 @@ tags:
   - kaneel
   - rijstkoker
   - arabisch
+status: processed
 ---
 
 # Nasi Kebuli - Indonesian Steamed Rice with Clove, Nutmeg and Cinnamon

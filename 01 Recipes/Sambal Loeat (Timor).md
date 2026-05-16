@@ -19,6 +19,7 @@ tags:
   - bieslook
   - lombok
   - terasi
+status: processed
 ---
 
 # Sambal Loeat (Timor)

@@ -22,6 +22,7 @@ tags:
   - visgerecht
   - bijgerecht
   - zelfgemaakte sambal
+status: processed
 ---
 
 # Sambal Teri (Tapanoeli) - Sambal Ansjovis

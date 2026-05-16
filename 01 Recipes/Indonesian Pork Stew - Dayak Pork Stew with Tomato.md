@@ -20,6 +20,7 @@ tags:
   - rijst
   - sambal
   - marineren
+status: processed
 ---
 
 # Indonesian Pork Stew - Dayak Pork Stew with Tomato

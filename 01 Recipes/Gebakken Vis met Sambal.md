@@ -17,7 +17,9 @@ tags:
   - ketjap
   - snel
   - gezond
-  - indisch---
+  - indisch
+status: processed
+---
 
 # Gebakken Vis met Sambal
 

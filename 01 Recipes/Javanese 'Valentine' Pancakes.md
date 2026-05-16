@@ -18,6 +18,7 @@ tags:
   - zoet
   - valentijn
   - vegetarisch
+status: processed
 ---
 
 # Javanese 'Valentine' Pancakes

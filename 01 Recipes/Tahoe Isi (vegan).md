@@ -19,6 +19,7 @@ tags:
   - indisch
   - bijgerecht
   - snack
+status: processed
 ---
 
 # Tahoe Isi (vegan)

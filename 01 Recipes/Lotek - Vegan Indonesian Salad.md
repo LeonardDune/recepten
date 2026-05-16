@@ -19,6 +19,7 @@ tags:
   - kencur
   - tamarinde
   - groenten
+status: processed
 ---
 
 # Lotek - Vegan Indonesian Salad

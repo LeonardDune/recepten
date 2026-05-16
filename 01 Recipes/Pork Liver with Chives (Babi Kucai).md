@@ -19,6 +19,7 @@ tags:
   - ketjap
   - babi kucai
   - hartig
+status: processed
 ---
 
 # Pork Liver with Chives (Babi Kucai)

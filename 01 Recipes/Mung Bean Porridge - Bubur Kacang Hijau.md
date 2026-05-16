@@ -20,6 +20,7 @@ tags:
   - gula jawa
   - comfort food
   - glutenvrij
+status: processed
 ---
 
 # Mung Bean Porridge - Bubur Kacang Hijau

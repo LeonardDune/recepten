@@ -18,6 +18,7 @@ tags:
   - asem ikan
   - indische keuken
   - stoofgerecht
+status: processed
 ---
 
 # Zure Makreel – Asem Ikan

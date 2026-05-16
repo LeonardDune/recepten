@@ -19,6 +19,7 @@ tags:
   - kokos
   - kecap manis
   - fingerfood
+status: processed
 ---
 
 # Indonesian Stuffed Cucumber

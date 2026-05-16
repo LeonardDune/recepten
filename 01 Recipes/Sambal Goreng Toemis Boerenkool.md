@@ -19,6 +19,7 @@ tags:
   - pittig
   - snel
   - vegetarisch alternatief
+status: processed
 ---
 
 # Sambal Goreng Toemis Boerenkool

@@ -23,6 +23,7 @@ tags:
   - tamarinde
   - kecap manis
   - sambal
+status: processed
 ---
 
 # Rujak - Indonesian Sweet and Sour Fruit and Veggie Salad

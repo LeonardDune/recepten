@@ -19,6 +19,7 @@ tags:
   - droog gebakken
   - pittig
   - serundeng
+status: processed
 ---
 
 # Sambal Kelapa - Indonesian Chili Salsa with Coconut

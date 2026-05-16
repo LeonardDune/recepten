@@ -18,6 +18,7 @@ tags:
   - santen
   - tamarinde
   - snel recept
+status: processed
 ---
 
 # Sambal Goreng Tempé

@@ -20,6 +20,7 @@ tags:
   - bijgerecht
   - zelfgemaakt
   - authentiek
+status: processed
 ---
 
 # Sambal Onion (Sambal Ui)

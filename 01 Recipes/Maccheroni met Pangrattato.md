@@ -2,6 +2,7 @@
 title: Maccheroni met Pangrattato
 source: 
 date_added: 2026-05-15
+status: processed
 cuisine: italiaans
 course: hoofdgerecht
 servings: 4
@@ -42,3 +43,4 @@ tags:
 
 ## Notities
 
+<!-- verwerkt -->

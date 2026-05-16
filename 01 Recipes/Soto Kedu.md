@@ -18,6 +18,7 @@ tags:
   - Javaans
   - glutenvrij
   - soto
+status: processed
 ---
 
 # Soto Kedu

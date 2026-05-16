@@ -19,6 +19,7 @@ tags:
   - groot gezelschap
   - glutenvrij optie
   - kokos
+status: processed
 ---
 
 # Veganistische Rijsttafel

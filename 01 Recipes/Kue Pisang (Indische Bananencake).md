@@ -16,6 +16,7 @@ tags:
   - toetje
   - indisch
   - kue pisang
+status: processed
 ---
 
 # Kue Pisang (Indische Bananencake)

@@ -21,6 +21,7 @@ tags:
   - kerst
   - pasen
   - vegetarisch
+status: processed
 ---
 
 # Nasi Koening (Gele Rijst)

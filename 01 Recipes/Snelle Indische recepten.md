@@ -16,6 +16,7 @@ tags:
   - overzicht
   - rijsttafel
   - padang
+status: processed
 ---
 
 # Snelle Indische recepten

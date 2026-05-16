@@ -19,6 +19,7 @@ tags:
   - vegetarisch
   - bewaarsambal
   - Beb Vuyk
+status: processed
 ---
 
 # Sambal Brandal

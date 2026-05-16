@@ -19,6 +19,7 @@ tags:
   - foelie
   - rijst
   - Beb Vuyk
+status: processed
 ---
 
 # Semur Babi Ternate - Indonesian Style Pork Chops

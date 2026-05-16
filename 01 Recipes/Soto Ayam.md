@@ -15,6 +15,7 @@ tags:
   - klassiek
   - Beb Vuyk
   - soto
+status: processed
 ---
 
 # Soto Ayam

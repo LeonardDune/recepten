@@ -17,6 +17,7 @@ tags:
   - gefrituurde snack
   - beb vuyk
   - lumpia
+status: processed
 ---
 
 # Homemade spring roll wraps (lumpia wraps)

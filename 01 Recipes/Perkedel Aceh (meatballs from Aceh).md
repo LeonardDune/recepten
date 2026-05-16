@@ -17,6 +17,7 @@ tags:
   - aceh
   - kokos
   - tamarinde
+status: processed
 ---
 
 # Perkedel Aceh (meatballs from Aceh)

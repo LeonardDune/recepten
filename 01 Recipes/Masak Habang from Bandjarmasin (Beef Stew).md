@@ -20,6 +20,7 @@ tags:
   - kemiri
   - palmsuiker
   - beef
+status: processed
 ---
 
 # Masak Habang from Bandjarmasin (Beef Stew)

@@ -16,7 +16,9 @@ tags:
   - gember
   - krokant
   - gebakken vis
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Gourami dish with sea bass and sweet and sour sauce
 

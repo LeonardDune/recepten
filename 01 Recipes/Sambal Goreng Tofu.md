@@ -19,6 +19,7 @@ tags:
   - ketjap manis
   - kokos
   - tamarinde
+status: processed
 ---
 
 # Sambal Goreng Tofu

@@ -16,7 +16,9 @@ tags:
   - tamarinde
   - gulai
   - aziatisch
-  - snel klaar---
+  - snel klaar
+status: processed
+---
 
 # Gulai Telor II (Aceh)
 

@@ -21,6 +21,7 @@ tags:
   - taoge
   - gezond
   - snel
+status: processed
 ---
 
 # Petjel - Indonesische Salade met Pindasaus

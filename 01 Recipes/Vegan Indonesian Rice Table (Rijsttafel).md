@@ -21,6 +21,7 @@ tags:
   - voor grote groepen
   - traditioneel
   - aziatisch
+status: processed
 ---
 
 # Vegan Indonesian Rice Table (Rijsttafel)

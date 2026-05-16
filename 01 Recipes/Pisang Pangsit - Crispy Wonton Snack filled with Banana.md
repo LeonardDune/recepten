@@ -18,6 +18,7 @@ tags:
   - dessert
   - zomer
   - palmsuiker
+status: processed
 ---
 
 # Pisang Pangsit - Crispy Wonton Snack filled with Banana

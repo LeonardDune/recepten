@@ -19,6 +19,7 @@ tags:
   - soto
   - kokos
   - kentjoer
+status: processed
 ---
 
 # Soto Madoera

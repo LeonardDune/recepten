@@ -18,6 +18,7 @@ tags:
   - kokos
   - zomer
   - snack
+status: processed
 ---
 
 # Satay Prentul (minced meat) or Satay Lilit

@@ -23,6 +23,7 @@ tags:
   - asem
   - zuur
   - pittig
+status: processed
 ---
 
 # Sayur Asem Cabbage met Ebi

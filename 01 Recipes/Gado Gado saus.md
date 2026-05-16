@@ -17,7 +17,9 @@ tags:
   - vegetarisch
   - veganistisch
   - klassiek
-  - indisch---
+  - indisch
+status: processed
+---
 
 # Gado Gado saus
 

@@ -25,7 +25,9 @@ tags:
   - zomer
   - ijskoud
   - vegetarisch
-  - vegan---
+  - vegan
+status: processed
+---
 
 # Es Tjendol of Dawet
 

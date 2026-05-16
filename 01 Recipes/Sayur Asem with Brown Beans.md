@@ -19,6 +19,7 @@ tags:
   - rijst
   - bogor
   - beb vuyk
+status: processed
 ---
 
 # Sayur Asem with Brown Beans

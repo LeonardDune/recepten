@@ -22,6 +22,7 @@ tags:
   - kawaii
   - gestoomd
   - ketjap
+status: processed
 ---
 
 # Varkentje Rund Bapao - Zelfgemaakte Stoombroodjes met Gehaktvulling

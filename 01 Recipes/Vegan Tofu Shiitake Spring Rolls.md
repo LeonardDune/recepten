@@ -20,6 +20,7 @@ tags:
   - glutenvrij optie
   - voorgerecht
   - snack
+status: processed
 ---
 
 # Vegan Tofu Shiitake Spring Rolls

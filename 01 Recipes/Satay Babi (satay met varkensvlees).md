@@ -18,6 +18,7 @@ tags:
   - marinade
   - sate babi
   - houtskool
+status: processed
 ---
 
 # Satay Babi (satay met varkensvlees)

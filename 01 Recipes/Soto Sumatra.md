@@ -19,6 +19,7 @@ tags:
   - pittig
   - soto
   - rijst
+status: processed
 ---
 
 # Soto Sumatra

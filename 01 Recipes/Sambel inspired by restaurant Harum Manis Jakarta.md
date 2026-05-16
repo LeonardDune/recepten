@@ -19,6 +19,7 @@ tags:
   - rawit
   - tamarinde
   - citroengras
+status: processed
 ---
 
 # Sambel inspired by restaurant Harum Manis Jakarta

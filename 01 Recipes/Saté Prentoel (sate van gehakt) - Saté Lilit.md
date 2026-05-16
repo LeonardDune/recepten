@@ -21,6 +21,7 @@ tags:
   - saté prentoel
   - zomer
   - kruidig
+status: processed
 ---
 
 # Saté Prentoel (sate van gehakt) / Saté Lilit

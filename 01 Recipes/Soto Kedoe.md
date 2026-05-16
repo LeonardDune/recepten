@@ -19,6 +19,7 @@ tags:
   - java
   - indisch
   - boemboe
+status: processed
 ---
 
 # Soto Kedoe

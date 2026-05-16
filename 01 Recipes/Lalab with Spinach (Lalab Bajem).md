@@ -18,6 +18,7 @@ tags:
   - sambal
   - snel
   - eenvoudig
+status: processed
 ---
 
 # Lalab with Spinach (Lalab Bajem)

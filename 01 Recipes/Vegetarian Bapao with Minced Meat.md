@@ -18,6 +18,7 @@ tags:
   - streetfood
   - meal prep
   - invriezen
+status: processed
 ---
 
 # Vegetarian Bapao with Minced Meat

@@ -17,6 +17,7 @@ tags:
   - vegetarisch mogelijk
   - snel klaar
   - indonesische keuken
+status: processed
 ---
 
 # Sambal Goreng Omelet (Dadar)

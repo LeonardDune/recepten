@@ -21,6 +21,7 @@ tags:
   - traditioneel
   - umami
   - pittig
+status: processed
 ---
 
 # Sambal Asem Kemamah (Atjeh)

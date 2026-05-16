@@ -19,7 +19,9 @@ tags:
   - krupuk
   - emping
   - klassiek
-  - gado-gado---
+  - gado-gado
+status: processed
+---
 
 # Gado-Gado
 

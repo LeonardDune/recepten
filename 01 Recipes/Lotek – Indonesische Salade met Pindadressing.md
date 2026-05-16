@@ -25,6 +25,7 @@ tags:
   - spinazie
   - spitskool
   - taoge
+status: processed
 ---
 
 # Lotek – Indonesische Salade met Pindadressing

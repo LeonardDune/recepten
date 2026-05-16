@@ -17,6 +17,7 @@ tags:
   - warm
   - komijn
   - gember
+status: processed
 ---
 
 # Masak Kambing (goat or mutton dish)

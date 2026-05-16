@@ -19,6 +19,7 @@ tags:
   - knapperig
   - ketjap
   - snel klaar
+status: processed
 ---
 
 # Tahu Pedas - Knapperige Indische Tahoe

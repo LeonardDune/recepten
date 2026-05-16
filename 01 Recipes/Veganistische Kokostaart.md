@@ -19,6 +19,7 @@ tags:
   - zonder eieren
   - zonder boter
   - zoet
+status: processed
 ---
 
 # Veganistische Kokostaart

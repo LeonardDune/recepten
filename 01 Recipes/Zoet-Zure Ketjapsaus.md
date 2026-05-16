@@ -18,6 +18,7 @@ tags:
   - tamarinde
   - zoet-zuur
   - indisch
+status: processed
 ---
 
 # Zoet-Zure Ketjapsaus

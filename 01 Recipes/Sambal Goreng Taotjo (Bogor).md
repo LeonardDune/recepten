@@ -19,6 +19,7 @@ tags:
   - Beb Vuyk
   - Indisch
   - umami
+status: processed
 ---
 
 # Sambal Goreng Taotjo (Bogor)

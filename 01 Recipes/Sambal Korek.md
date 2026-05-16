@@ -20,6 +20,7 @@ tags:
   - vegetarisch
   - saus
   - bijgerecht
+status: processed
 ---
 
 # Sambal Korek

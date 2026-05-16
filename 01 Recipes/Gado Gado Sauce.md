@@ -15,7 +15,9 @@ tags:
   - vegetarisch
   - vegan
   - klassiek
-  - gado gado---
+  - gado gado
+status: processed
+---
 
 # Gado Gado Sauce
 

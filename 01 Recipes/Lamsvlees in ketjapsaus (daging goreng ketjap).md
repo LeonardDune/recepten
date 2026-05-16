@@ -16,6 +16,7 @@ tags:
   - stoofgerecht
   - klassiek
   - Beb Vuyk
+status: processed
 ---
 
 # Lamsvlees in ketjapsaus (daging goreng ketjap)

@@ -17,6 +17,7 @@ tags:
   - bayam
   - tumis
   - indo
+status: processed
 ---
 
 # Sayur Tumis Bayam (spinach)

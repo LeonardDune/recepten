@@ -17,6 +17,7 @@ tags:
   - olijven
   - giardiniera
   - zomer
+status: processed
 ---
 
 # Muffuletta sandwich

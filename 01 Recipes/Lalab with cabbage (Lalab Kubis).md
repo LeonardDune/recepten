@@ -18,6 +18,7 @@ tags:
   - snel
   - makkelijk
   - lalab
+status: processed
 ---
 
 # Lalab with cabbage (Lalab Kubis)

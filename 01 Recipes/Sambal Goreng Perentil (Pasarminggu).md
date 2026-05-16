@@ -17,6 +17,7 @@ tags:
   - tamarinde
   - winterkost
   - glutenvrij
+status: processed
 ---
 
 # Sambal Goreng Perentil (Pasarminggu)

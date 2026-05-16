@@ -21,6 +21,7 @@ tags:
   - kimchi
   - hoisin
   - slawraps
+status: processed
 ---
 
 # Korean Spare Ribs

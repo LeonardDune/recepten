@@ -19,6 +19,7 @@ tags:
   - kokos
   - kentjoer
   - sambal
+status: processed
 ---
 
 # Javaanse Omelet met Santen en Kentjoer

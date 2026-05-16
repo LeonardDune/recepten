@@ -21,6 +21,7 @@ tags:
   - spinazie
   - urapan
   - glutenvrij
+status: processed
 ---
 
 # Urapan with green beans, spinach and cabbage

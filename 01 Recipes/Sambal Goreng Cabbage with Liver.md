@@ -18,6 +18,7 @@ tags:
   - pittig
   - hati
   - traditioneel
+status: processed
 ---
 
 # Sambal Goreng Cabbage with Liver

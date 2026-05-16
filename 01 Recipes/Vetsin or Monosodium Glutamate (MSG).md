@@ -19,6 +19,7 @@ tags:
   - aziatisch
   - informatief
   - voedingsmythe
+status: processed
 ---
 
 # Vetsin or Monosodium Glutamate (MSG)

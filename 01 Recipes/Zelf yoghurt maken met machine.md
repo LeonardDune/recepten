@@ -18,6 +18,7 @@ tags:
   - Grieks
   - wei
   - probiotica
+status: processed
 ---
 
 # Zelf yoghurt maken met machine

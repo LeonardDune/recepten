@@ -22,6 +22,7 @@ tags:
   - chinese kool
   - amandelen
   - sambal
+status: processed
 ---
 
 # Oelang-Oelang (Ambon)

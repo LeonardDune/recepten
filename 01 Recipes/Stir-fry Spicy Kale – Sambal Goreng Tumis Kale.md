@@ -18,6 +18,7 @@ tags:
   - ansjovis
   - glutenvrij
   - snel klaar
+status: processed
 ---
 
 # Stir-fry Spicy Kale – Sambal Goreng Tumis Kale

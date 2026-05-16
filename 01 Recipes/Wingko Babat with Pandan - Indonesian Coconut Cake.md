@@ -19,6 +19,7 @@ tags:
   - traditioneel
   - snack
   - koek
+status: processed
 ---
 
 # Wingko Babat with Pandan - Indonesian Coconut Cake

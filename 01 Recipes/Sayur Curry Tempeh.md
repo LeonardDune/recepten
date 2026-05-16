@@ -21,6 +21,7 @@ tags:
   - Beb Vuyk
   - kokos
   - tamarinde
+status: processed
 ---
 
 # Sayur Curry Tempeh

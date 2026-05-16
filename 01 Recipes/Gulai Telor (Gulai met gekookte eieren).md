@@ -18,7 +18,9 @@ tags:
   - tamarinde
   - snel
   - authentiek
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Gulai Telor (Gulai met gekookte eieren)
 

@@ -18,7 +18,9 @@ tags:
   - boemboe
   - oven
   - gezond
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Gekruide Vis in Pakjes (Bebotok Ikan)
 

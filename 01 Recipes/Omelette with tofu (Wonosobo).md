@@ -20,6 +20,7 @@ tags:
   - sambal
   - snel klaar
   - Beb Vuyk
+status: processed
 ---
 
 # Omelette with tofu (Wonosobo)

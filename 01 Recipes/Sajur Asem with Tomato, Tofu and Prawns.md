@@ -19,6 +19,7 @@ tags:
   - zomers
   - tamarinde
   - glutenvrij
+status: processed
 ---
 
 # Sajur Asem with Tomato, Tofu and Prawns

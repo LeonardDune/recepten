@@ -19,6 +19,7 @@ tags:
   - zonder eieren
   - zonder boter
   - kue
+status: processed
 ---
 
 # Kue Mangkok – Sweet Steamed Coconut Cakes

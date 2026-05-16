@@ -19,6 +19,7 @@ tags:
   - rijst
   - indisch
   - pasen
+status: processed
 ---
 
 # Lembaran of Chicken - Spicy Indonesian Chicken Dish

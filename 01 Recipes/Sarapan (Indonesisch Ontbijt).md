@@ -17,6 +17,7 @@ tags:
   - bubur
   - rijstepap
   - traditioneel
+status: processed
 ---
 
 # Sarapan (Indonesisch Ontbijt)

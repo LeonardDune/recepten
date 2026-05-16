@@ -15,7 +15,9 @@ tags:
   - romig
   - groen
   - spaghetti
-  - snelle maaltijd---
+  - snelle maaltijd
+status: processed
+---
 
 # Espagueti verde (green spaghetti)
 

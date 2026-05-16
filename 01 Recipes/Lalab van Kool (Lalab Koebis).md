@@ -19,6 +19,7 @@ tags:
   - snel
   - makkelijk
   - bijgerecht
+status: processed
 ---
 
 # Lalab van Kool (Lalab Koebis)

@@ -19,6 +19,7 @@ tags:
   - noedels
   - fusion
   - beb vuyk
+status: processed
 ---
 
 # Stew of chicken hearts and liver (hachee)

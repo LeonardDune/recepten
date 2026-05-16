@@ -20,6 +20,7 @@ tags:
   - prei
   - bieslook
   - aziatisch
+status: processed
 ---
 
 # Tollo Pamarasan (Toraja)

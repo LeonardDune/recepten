@@ -19,6 +19,7 @@ tags:
   - indisch
   - stoofgerecht
   - Beb Vuyk
+status: processed
 ---
 
 # Tollo Pamarasan (Toradja)

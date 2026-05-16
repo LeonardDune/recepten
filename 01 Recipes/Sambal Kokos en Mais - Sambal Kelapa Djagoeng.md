@@ -18,6 +18,7 @@ tags:
   - bijgerecht
   - kelapa
   - djagoeng
+status: processed
 ---
 
 # Sambal Kokos en Mais - Sambal Kelapa Djagoeng

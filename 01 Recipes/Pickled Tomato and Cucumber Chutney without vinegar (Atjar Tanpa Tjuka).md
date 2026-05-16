@@ -20,6 +20,7 @@ tags:
   - zonder azijn
   - Purwokerto
   - Java
+status: processed
 ---
 
 # Pickled Tomato and Cucumber Chutney without vinegar (Atjar Tanpa Tjuka)

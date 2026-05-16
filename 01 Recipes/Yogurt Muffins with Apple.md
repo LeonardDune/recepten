@@ -18,6 +18,7 @@ tags:
   - kerst
   - eenvoudig
   - snack
+status: processed
 ---
 
 # Yogurt Muffins with Apple

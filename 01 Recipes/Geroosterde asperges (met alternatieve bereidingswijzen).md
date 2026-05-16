@@ -19,7 +19,9 @@ tags:
   - seizoensgebonden
   - lente
   - bijgerecht
-  - oven---
+  - oven
+status: processed
+---
 
 # Geroosterde asperges (met alternatieve bereidingswijzen)
 

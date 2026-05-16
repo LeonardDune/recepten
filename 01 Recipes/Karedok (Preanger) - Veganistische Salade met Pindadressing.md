@@ -24,6 +24,7 @@ tags:
   - tauge
   - glutenvrij
   - snel
+status: processed
 ---
 
 # Karedok (Preanger) - Veganistische Salade met Pindadressing

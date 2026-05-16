@@ -22,6 +22,7 @@ tags:
   - pandan
   - kokosmelk
   - kruiden
+status: processed
 ---
 
 # Wat kan je maken met een elektrische rijststomer?

@@ -21,6 +21,7 @@ tags:
   - beb vuyk
   - traditioneel
   - invriezen
+status: processed
 ---
 
 # Spekkoek

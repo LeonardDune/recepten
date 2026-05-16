@@ -20,6 +20,7 @@ tags:
   - Indisch
   - pittig
   - winter
+status: processed
 ---
 
 # Sambal Goreng Perentil (Pasarminggoe)

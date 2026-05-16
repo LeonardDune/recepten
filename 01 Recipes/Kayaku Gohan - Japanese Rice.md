@@ -20,6 +20,7 @@ tags:
   - rijststomer
   - kayaku gohan
   - umami
+status: processed
 ---
 
 # Kayaku Gohan - Japanese Rice

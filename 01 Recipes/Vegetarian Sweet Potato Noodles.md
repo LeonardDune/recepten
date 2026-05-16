@@ -19,6 +19,7 @@ tags:
   - snel
   - sesamolie
   - gochujang
+status: processed
 ---
 
 # Vegetarian Sweet Potato Noodles

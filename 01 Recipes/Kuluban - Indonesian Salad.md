@@ -22,6 +22,7 @@ tags:
   - taugé
   - kencur
   - glutenvrij
+status: processed
 ---
 
 # Kuluban - Indonesian Salad

@@ -17,7 +17,9 @@ tags:
   - schapevlees
   - santen
   - kokos
-  - Beb Vuyk---
+  - Beb Vuyk
+status: processed
+---
 
 # Gevulde Koolrolletjes
 

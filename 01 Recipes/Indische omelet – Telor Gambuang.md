@@ -18,6 +18,7 @@ tags:
   - omelet
   - Beb Vuyk
   - indisch
+status: processed
 ---
 
 # Indische omelet – Telor Gambuang

@@ -24,6 +24,7 @@ tags:
   - zoete aardappel
   - zero waste
   - keukentuintje
+status: processed
 ---
 
 # Upcycle Food Scraps

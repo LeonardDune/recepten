@@ -17,6 +17,7 @@ tags:
   - zoet
   - vegetarisch
   - video
+status: processed
 ---
 
 # Kue Pisang (Indonesische Bananencake)

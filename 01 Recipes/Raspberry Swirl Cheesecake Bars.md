@@ -18,6 +18,7 @@ tags:
   - dessert
   - no-fuss
   - baked
+status: processed
 ---
 
 # Raspberry Swirl Cheesecake Bars

@@ -19,6 +19,7 @@ tags:
   - pasen
   - makkelijk
   - bakken
+status: processed
 ---
 
 # Rice Cooker Spongecake

@@ -19,6 +19,7 @@ tags:
   - vegetarisch
   - zelfgemaakt
   - toko
+status: processed
 ---
 
 # Sambal Taotjo

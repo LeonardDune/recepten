@@ -19,6 +19,7 @@ tags:
   - gezond
   - glutenvrij
   - snel
+status: processed
 ---
 
 # Wakame Salad

@@ -22,6 +22,7 @@ tags:
   - paprika
   - varkensvlees
   - glutenvrij
+status: processed
 ---
 
 # Sayur Asem

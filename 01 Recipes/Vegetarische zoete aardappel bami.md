@@ -18,6 +18,7 @@ tags:
   - koreaans
   - mie
   - snel recept
+status: processed
 ---
 
 # Vegetarische zoete aardappel bami

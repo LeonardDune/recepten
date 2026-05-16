@@ -19,6 +19,7 @@ tags:
   - pandan
   - nasi kuning
   - tumpeng
+status: processed
 ---
 
 # Nasi Kuning – Indonesian Yellow Party Rice

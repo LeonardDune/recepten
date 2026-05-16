@@ -19,6 +19,7 @@ tags:
   - Beb Vuyk
   - klassiek
   - nasi
+status: processed
 ---
 
 # Rijst in stoompan (Indonesische stijl)

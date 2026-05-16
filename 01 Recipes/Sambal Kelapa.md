@@ -22,6 +22,7 @@ tags:
   - nasi goreng
   - vegetarisch
   - vegan
+status: processed
 ---
 
 # Sambal Kelapa

@@ -18,7 +18,9 @@ tags:
   - makkelijk
   - snel
   - ketjap
-  - trassi---
+  - trassi
+status: processed
+---
 
 # Fried rice with bacon and soybeans (Nasi Goreng)
 

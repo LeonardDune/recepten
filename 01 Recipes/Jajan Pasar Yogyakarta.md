@@ -16,6 +16,7 @@ tags:
   - yogyakarta
   - netflix
   - traditioneel
+status: processed
 ---
 
 # Jajan Pasar Yogyakarta

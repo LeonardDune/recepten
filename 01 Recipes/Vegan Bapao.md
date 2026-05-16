@@ -15,6 +15,7 @@ tags:
   - gestoomd
   - pasar
   - plantaardig
+status: processed
 ---
 
 # Vegan Bapao

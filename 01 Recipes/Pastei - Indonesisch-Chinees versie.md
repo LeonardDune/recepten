@@ -20,6 +20,7 @@ tags:
   - ovenschotel
   - pastei
   - beb vuyk
+status: processed
 ---
 
 # Pastei | Indonesisch-Chinees versie

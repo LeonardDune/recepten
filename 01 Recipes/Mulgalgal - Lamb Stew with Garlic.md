@@ -16,6 +16,7 @@ tags:
   - stoofgerecht
   - eenvoudig
   - puur
+status: processed
 ---
 
 # Mulgalgal - Lamb Stew with Garlic

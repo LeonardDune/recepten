@@ -19,6 +19,7 @@ tags:
   - gember
   - sherry
   - sojasaus
+status: processed
 ---
 
 # Roasted Pork Strips - Chinese Pork Satay

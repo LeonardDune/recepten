@@ -20,6 +20,7 @@ tags:
   - kencur
   - soto
   - klassiek
+status: processed
 ---
 
 # Soto Madura

@@ -17,6 +17,7 @@ tags:
   - nootmuskaat
   - snel klaar
   - koloniaal erfgoed
+status: processed
 ---
 
 # Semur Telor - Indonesian Braised Eggs

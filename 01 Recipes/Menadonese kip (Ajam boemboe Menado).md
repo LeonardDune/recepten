@@ -19,6 +19,7 @@ tags:
   - gember
   - bieslook
   - basilicum
+status: processed
 ---
 
 # Menadonese kip (Ajam boemboe Menado)

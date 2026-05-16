@@ -20,6 +20,7 @@ tags:
   - taugé
   - eieren
   - glutenvrij mogelijk
+status: processed
 ---
 
 # Korean Bibimbap

@@ -19,6 +19,7 @@ tags:
   - makkelijk
   - telor gambuang
   - sambal
+status: processed
 ---
 
 # Indonesian Omelet - Telor Gambuang

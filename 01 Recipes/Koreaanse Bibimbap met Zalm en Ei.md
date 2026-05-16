@@ -20,6 +20,7 @@ tags:
   - gezond
   - snel
   - aziatisch
+status: processed
 ---
 
 # Koreaanse Bibimbap met Zalm en Ei

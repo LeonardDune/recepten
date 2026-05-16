@@ -18,6 +18,7 @@ tags:
   - snel
   - saus
   - trassi
+status: processed
 ---
 
 # Sambal Kecap Manis

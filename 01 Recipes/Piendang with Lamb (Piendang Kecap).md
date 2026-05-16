@@ -17,6 +17,7 @@ tags:
   - tamarinde
   - pittig
   - glutenvrij
+status: processed
 ---
 
 # Piendang with Lamb (Piendang Kecap)

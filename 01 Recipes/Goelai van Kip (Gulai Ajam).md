@@ -15,7 +15,9 @@ tags:
   - stoofgerecht
   - gulai
   - Beb Vuyk
-  - klassiek---
+  - klassiek
+status: processed
+---
 
 # Goelai van Kip (Gulai Ajam)
 

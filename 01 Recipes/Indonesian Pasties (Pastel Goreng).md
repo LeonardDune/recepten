@@ -20,6 +20,7 @@ tags:
   - vegetarisch mogelijk
   - vegan mogelijk
   - invriezen mogelijk
+status: processed
 ---
 
 # Indonesian Pasties (Pastel Goreng)

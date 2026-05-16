@@ -19,6 +19,7 @@ tags:
   - simpel
   - snel
   - kerst
+status: processed
 ---
 
 # Sambal Tomaat

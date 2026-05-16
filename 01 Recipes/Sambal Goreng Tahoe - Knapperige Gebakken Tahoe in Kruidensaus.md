@@ -17,6 +17,7 @@ tags:
   - gebakken
   - indisch
   - minder vlees
+status: processed
 ---
 
 # Sambal Goreng Tahoe - Knapperige Gebakken Tahoe in Kruidensaus

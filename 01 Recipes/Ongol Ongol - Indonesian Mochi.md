@@ -19,6 +19,7 @@ tags:
   - gestoomd
   - zoet
   - traditioneel
+status: processed
 ---
 
 # Ongol Ongol - Indonesian Mochi

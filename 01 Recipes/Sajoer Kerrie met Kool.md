@@ -22,6 +22,7 @@ tags:
   - kokos
   - glutenvrij
   - snelle maaltijd
+status: processed
 ---
 
 # Sajoer Kerrie met Kool

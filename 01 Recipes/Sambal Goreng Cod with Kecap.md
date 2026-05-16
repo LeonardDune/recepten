@@ -17,6 +17,7 @@ tags:
   - kecap manis
   - snel klaar
   - gezond
+status: processed
 ---
 
 # Sambal Goreng Cod with Kecap

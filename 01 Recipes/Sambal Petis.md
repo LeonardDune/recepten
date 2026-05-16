@@ -17,6 +17,7 @@ tags:
   - snel
   - indisch
   - authentiek
+status: processed
 ---
 
 # Sambal Petis

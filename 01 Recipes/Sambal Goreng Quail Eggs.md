@@ -18,6 +18,7 @@ tags:
   - sambal bubuk kering
   - ebi
   - jeruk purut
+status: processed
 ---
 
 # Sambal Goreng Quail Eggs

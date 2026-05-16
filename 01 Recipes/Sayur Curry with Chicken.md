@@ -22,6 +22,7 @@ tags:
   - glutenvrij mogelijk
   - soep
   - stoofgerecht
+status: processed
 ---
 
 # Sayur Curry with Chicken

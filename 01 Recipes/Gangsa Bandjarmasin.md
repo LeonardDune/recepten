@@ -21,7 +21,9 @@ tags:
   - kurkuma
   - traditioneel
   - beb vuyk
-  - indo---
+  - indo
+status: processed
+---
 
 # Gangsa Bandjarmasin
 

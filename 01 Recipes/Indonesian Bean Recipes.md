@@ -18,6 +18,7 @@ tags:
   - kokosmelk
   - vegetarisch
   - makkelijk
+status: processed
 ---
 
 # Indonesian Bean Recipes

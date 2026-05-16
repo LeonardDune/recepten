@@ -23,6 +23,7 @@ tags:
   - ketjap
   - rundvlees
   - wintergerecht
+status: processed
 ---
 
 # Indische Bruine Bonensoep

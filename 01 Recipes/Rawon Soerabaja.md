@@ -16,6 +16,7 @@ tags:
   - klassiek
   - rawon
   - Soerabaja
+status: processed
 ---
 
 # Rawon Soerabaja

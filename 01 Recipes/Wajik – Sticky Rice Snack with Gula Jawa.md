@@ -19,6 +19,7 @@ tags:
   - glutenvrij
   - veganistisch
   - feestelijk
+status: processed
 ---
 
 # Wajik – Sticky Rice Snack with Gula Jawa

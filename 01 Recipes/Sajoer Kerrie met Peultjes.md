@@ -19,6 +19,7 @@ tags:
   - veganistisch mogelijk
   - rijstgerecht
   - indisch
+status: processed
 ---
 
 # Sajoer Kerrie met Peultjes

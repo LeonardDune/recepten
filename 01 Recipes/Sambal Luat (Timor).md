@@ -18,6 +18,7 @@ tags:
   - zelfgemaakt
   - bewaarbaar
   - glutenvrij
+status: processed
 ---
 
 # Sambal Luat (Timor)

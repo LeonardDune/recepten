@@ -17,6 +17,7 @@ tags:
   - asem
   - klassiek
   - marineren
+status: processed
 ---
 
 # Semur Chicken I (Indonesian Smoor Chicken)

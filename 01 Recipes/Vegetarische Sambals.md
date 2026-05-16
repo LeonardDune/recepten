@@ -18,6 +18,7 @@ tags:
   - Spaanse pepers
   - taotjo
   - gefermenteerd
+status: processed
 ---
 
 # Vegetarische Sambals

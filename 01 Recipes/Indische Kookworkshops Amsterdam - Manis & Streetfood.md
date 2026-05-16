@@ -24,6 +24,7 @@ tags:
   - martabak
   - pangsiet
   - rijsttafel
+status: processed
 ---
 
 # Indische Kookworkshops Amsterdam - Manis & Streetfood

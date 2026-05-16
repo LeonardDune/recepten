@@ -18,6 +18,7 @@ tags:
   - knapperig
   - beb vuyk
   - rijst
+status: processed
 ---
 
 # Perkedel with Fish (Indonesian Mackerel from the Oven)

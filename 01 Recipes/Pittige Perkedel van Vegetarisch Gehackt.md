@@ -19,6 +19,7 @@ tags:
   - vleesvrij
   - hapje
   - bijgerecht
+status: processed
 ---
 
 # Pittige Perkedel van Vegetarisch Gehackt

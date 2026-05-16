@@ -20,6 +20,7 @@ tags:
   - brood
   - kaneel
   - cardemon
+status: processed
 ---
 
 # Krentenbrood met specerijen

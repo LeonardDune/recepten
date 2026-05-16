@@ -18,6 +18,7 @@ tags:
   - nasi
   - makkelijk
   - glutenvrij
+status: processed
 ---
 
 # Nasi Gurih

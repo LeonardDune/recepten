@@ -19,6 +19,7 @@ tags:
   - rijst
   - authentiek
   - Beb Vuyk
+status: processed
 ---
 
 # Sambal Goreng with Field Peas

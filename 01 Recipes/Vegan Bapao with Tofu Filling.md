@@ -19,6 +19,7 @@ tags:
   - kecap manis
   - hoisin
   - mini
+status: processed
 ---
 
 # Vegan Bapao with Tofu Filling

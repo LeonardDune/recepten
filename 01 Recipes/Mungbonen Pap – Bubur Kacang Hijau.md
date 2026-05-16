@@ -21,6 +21,7 @@ tags:
   - bubur kacang hijau
   - traditioneel
   - comfort food
+status: processed
 ---
 
 # Mungbonen Pap – Bubur Kacang Hijau

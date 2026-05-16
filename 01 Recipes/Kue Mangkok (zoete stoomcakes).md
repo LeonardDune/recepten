@@ -19,6 +19,7 @@ tags:
   - toko
   - traditioneel
   - veganistisch
+status: processed
 ---
 
 # Kue Mangkok (zoete stoomcakes)

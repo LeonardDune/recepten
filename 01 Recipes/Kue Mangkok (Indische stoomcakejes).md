@@ -15,6 +15,7 @@ tags:
   - indisch
   - kue
   - traditioneel
+status: processed
 ---
 
 # Kue Mangkok (Indische stoomcakejes)

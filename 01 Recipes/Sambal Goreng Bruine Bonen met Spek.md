@@ -18,6 +18,7 @@ tags:
   - beb vuyk
   - wintergerecht
   - rijstgerecht
+status: processed
 ---
 
 # Sambal Goreng Bruine Bonen met Spek
