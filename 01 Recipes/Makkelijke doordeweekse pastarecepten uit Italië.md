@@ -15,6 +15,17 @@ tags:
   - 30 minuten
   - gezin
   - bewaarrecepten
+  - cuisine/italiaans
+  - course/hoofdgerecht
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: 10 min
+time_cook: 30 min
+time_total: 40 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Makkelijke doordeweekse pastarecepten uit Italië
@@ -87,6 +98,10 @@ tags:
 16. 16. [[tortellini]] alla panna: Kook kant-en-klare [[tortellini]] in [[vleesbrouillon]], voeg [[slagroom]] toe en serveer direct. Klaar in 20-30 minuten.
 17. 17. [[spaghetti]] frittata: Meng (overgebleven) [[spaghetti]] met [[eieren]], [[parmezaan]] en [[pancetta]] en bak als een omelet in de pan. Klaar in minder dan 30 minuten.
 18. 18. [[rigatoni]] alla Zozzona met [[worst]]: Bak [[worst]], voeg passata, [[eieren]] en [[parmezaan]] toe en meng met gekookte [[rigatoni]].
-19. 19. Fusilli bucati met [[gorgonzola]], [[pancetta]] en [[c[[ham]]pignons]]: Bak [[pancetta]] en [[c[[ham]]pignons]], maak een saus met [[gorgonzola]] en meng met gekookte fusilli bucati.
+19. 19. Fusilli bucati met [[gorgonzola]], [[pancetta]] en [[champignons]]: Bak [[pancetta]] en [[champignons]], maak een saus met [[gorgonzola]] en meng met gekookte fusilli bucati.
 20. 20. [[penne]] alle Sette P: Bak [[pancetta]] met [[prei]], voeg [[doperwten]], [[tomaten]] en room toe en meng met gekookte [[penne]]. Klaar in 30 minuten.
 21. 21. [[penne]] al Baffo met [[ham]] en tomaat: Maak een romige [[tomaten]]saus met [[ham]] en meng met gekookte [[penne]]. Klaar in de tijd dat de pasta kookt.
+
+## Notities
+
+<!-- verwerkt -->

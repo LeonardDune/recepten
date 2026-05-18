@@ -16,6 +16,17 @@ tags:
   - vegetarisch
   - maïs
   - make-ahead
+  - cuisine/mexicaans
+  - course/bijgerecht
+cuisine: mexicaans
+course: bijgerecht
+servings: 8
+time_prep: 10 min
+time_cook: 20 min
+time_total: 30 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Mexicaanse Straatmais Pastasalade
@@ -42,3 +53,7 @@ tags:
 3. Maak de dressing: Klop in een kleine kom het [[limoensap]], de [[mayonaise]], de [[mexicaanse crema]], het [[knoflookpoeder]], het [[zout]] en de [[cayennepeper]] door elkaar.
 4. Meng alles: Voeg de dressing, de gebakken [[maïs]], de [[koriander]] en de [[cotija kaas]] toe aan de kom met pasta en schep alles goed door elkaar.
 5. Serveer: Garneer met extra [[koriander]], [[cotija kaas]] en [[chili-limoen kruidenmix]] naar wens. Serveer direct of bewaar in de koelkast tot gebruik.
+
+## Notities
+
+<!-- verwerkt -->

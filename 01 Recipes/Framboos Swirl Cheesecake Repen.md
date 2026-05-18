@@ -15,6 +15,17 @@ tags:
   - potluck
   - picknick
   - make-ahead
+  - cuisine/amerikaans
+  - course/dessert
+cuisine: amerikaans
+course: dessert
+servings: 16
+time_prep: 30 min
+time_cook: 50 min
+time_total: 80 min (plus koeling)
+rating: 
+tried: false
+status: processed
 ---
 
 # Framboos Swirl Cheesecake Repen
@@ -45,3 +56,7 @@ tags:
 9. Bak de repen 40 tot 50 minuten, of totdat het cheesecakebeslag nog licht wiebelt als je de vorm voorzichtig heen en weer beweegt.
 10. Laat 15 minuten afkoelen op een rooster en zet daarna in de koelkast om volledig op te stijven.
 11. Til de afgekoelde repen met het bakpapier voorzichtig uit de vorm op een snijplank. Snijd in 16 vierkantjes. Veeg het mes na elke snede schoon. Het mes in water dopen helpt ook.
+
+## Notities
+
+<!-- verwerkt -->

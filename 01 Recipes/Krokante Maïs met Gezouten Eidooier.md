@@ -14,6 +14,17 @@ tags:
   - gouden zandkorrels
   - populair bij kinderen
   - vakantie
+  - cuisine/chinees
+  - course/snack
+cuisine: chinees
+course: snack
+servings: 2
+time_prep: 10 min
+time_cook: 20 min
+time_total: 30 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Krokante Maïs met Gezouten Eidooier
@@ -33,6 +44,10 @@ tags:
 3. Verhit een pot [[olie]] tot ongeveer 180°C. Als je een eetstokje in de [[olie]] steekt, verschijnen er fijne belletjes.
 4. Frituur de [[maïskorrels]] in porties gedurende ongeveer 1 minuut tot ze goudbruin zijn.
 5. Haal alle korrels uit de [[olie]]. Verhoog de [[olie]]temperatuur tot ongeveer 200°C en frituur alle korrels nogmaals gedurende 10 seconden. Dit tweede frituren maakt de korrels nog knapperiger en verwijdert de overtollige [[olie]].
-6. Stoom de [[ge[[zout]]en eidooiers]] ongeveer 10 minuten en hak ze daarna fijn.
-7. Voeg ongeveer 1 eetlepel [[olie]] toe aan een wok en bak de gehakte [[ge[[zout]]en eidooiers]] op middelhoog vuur tot er fijne belletjes verschijnen. Voeg een snufje [[zout]] toe.
+6. Stoom de [[gezouten eidooiers]] ongeveer 10 minuten en hak ze daarna fijn.
+7. Voeg ongeveer 1 eetlepel [[olie]] toe aan een wok en bak de gehakte [[gezouten eidooiers]] op middelhoog vuur tot er fijne belletjes verschijnen. Voeg een snufje [[zout]] toe.
 8. Voeg de gefrituurde [[maïskorrels]] toe aan de wok en schep snel om totdat elke korrel goed bedekt is met de ge[[zout]]en eidooier. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

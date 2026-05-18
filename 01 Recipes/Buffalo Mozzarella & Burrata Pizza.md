@@ -14,6 +14,17 @@ tags:
   - umbria
   - kaas
   - tomaat
+  - cuisine/italiaans
+  - course/hoofdgerecht
+cuisine: italiaans
+course: hoofdgerecht
+servings: 2
+time_prep: 20 min
+time_cook: 10 min
+time_total: 30 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Buffalo Mozzarella & Burrata Pizza
@@ -45,3 +56,7 @@ tags:
 7. Verdeel de [[mozzarella]] over elke pizza en leg er wat [[basilicum]]blaadjes op.
 8. Bestrooi met een beetje grof [[zeezout]] en bak elke pizza ca. 10 minuten, of totdat de pizza goudbruin en bubbelig is. Draai de pizza halverwege indien nodig voor een gelijkmatige garing.
 9. Zodra de pizza uit de oven komt, snijd je de [[burrata]] open en schep je de romige wrongel over de bovenkant van elke pizza. Direct serveren en genieten!
+
+## Notities
+
+<!-- verwerkt -->

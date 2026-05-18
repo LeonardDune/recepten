@@ -46,17 +46,17 @@ date_created: 2026-05-14
 **Droog & Conserven**
 
 - [ ] [[azijn]] (1 fles)
-- [ ] [[bouillonblokje]] (1 stuk)
+- [x] [[bouillonblokje]] (1 stuk)
 - [ ] [[gember op siroop]] (1 pot)
 - [ ] [[geraspte kokos]] (200 g)
 - [ ] [[hoisinsaus]] (1 fles)
 - [ ] [[kemirie]] (8 stuks)
 - [ ] [[ketjap]] (1 fles)
-- [ ] [[ketjap manis]] (1 fles)
+- [x] [[ketjap manis]] (1 fles)
 - [ ] [[kleefrijstmeel]] (75 g)
 - [ ] [[kokosmelk]] (2 blikjes)
 - [ ] [[mirin]] (1 fles)
-- [ ] [[palmsuiker]] (250 g)
+- [x] [[palmsuiker]] (250 g)
 - [ ] [[peterselie]] (1 bosje)
 - [ ] [[rijstmeel]] (100 g)
 - [ ] [[salamblad]] (2 stuks)
@@ -65,28 +65,31 @@ date_created: 2026-05-14
 - [ ] [[tomatenpuree]] (1 klein blikje)
 - [ ] [[tofu]] (1/2 blok)
 - [ ] [[vissaus]] (1 flesje)
+- [ ] toban djan chili saus
+- [ ] douchi zwarte bonen pasta
+- [ ] Surinaamse masala
 
 **Kruiden & Specerijen**
 
 - [ ] [[djeroek poeroet]] blad (een handvol)
-- [ ] [[djinten]]
-- [ ] [[gemberpoeder]] (1 zakje)
-- [ ] [[ketoembar]]
-- [ ] [[koenjit]]
-- [ ] [[laos]]
+- [x] [[djinten]]
+- [x] [[gemberpoeder]] (1 zakje)
+- [x] [[ketoembar]]
+- [x] [[koenjit]]
+- [x] [[laos]]
 - [ ] [[pandan extract]]
 - [ ] [[pandanbladeren]] (een handvol)
 - [ ] [[peper]]
 - [ ] [[rozensiroop]] (1 flesje)
 - [ ] [[sambal terasi]] (1 potje)
 - [ ] [[sesamolie]] (1 flesje)
-- [ ] [[sesamzaad]] (1 zakje)
+- [x] [[sesamzaad]] (1 zakje)
 - [ ] [[sojasaus]] (1 fles)
-- [ ] [[suiker]] (500 g)
+- [x] [[suiker]] (500 g)
 - [ ] [[tamarinde]] (een stukje)
-- [ ] [[terasi]] (1 blokje)
-- [ ] [[trassi]]
-- [ ] [[vanillesuiker]] (1 zakje)
+- [x] [[terasi]] (1 blokje)
+- [x] [[trassi]]
+- [x] [[vanillesuiker]] (1 zakje)
 - [ ] [[voedselkleurstof]] (1 flesje)
 - [ ] [[zout]]
 

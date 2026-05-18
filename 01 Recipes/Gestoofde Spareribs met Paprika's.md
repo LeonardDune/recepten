@@ -13,6 +13,17 @@ tags:
   - pittig
   - eenvoudig
   - rijst
+  - cuisine/chinees
+  - course/hoofdgerecht
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: 10 min
+time_cook: 25 min
+time_total: 65 min (incl. weken)
+rating: 
+tried: false
+status: processed
 ---
 
 # Gestoofde Spareribs met Paprika's
@@ -37,3 +48,7 @@ tags:
 4. Verwijder de chilipepers en gooi ze weg.
 5. Voeg de resterende verse chilipepers en de [[knoflook]] toe. Breng op smaak met [[zout]], lichte [[sojasaus]] en [[witte peper]], en kook nog ongeveer 5 minuten op hoog vuur zodat de soep iets indikt.
 6. Serveer met gestoomde rijst of gebruik als basis voor een noedelsoep.
+
+## Notities
+
+<!-- verwerkt -->

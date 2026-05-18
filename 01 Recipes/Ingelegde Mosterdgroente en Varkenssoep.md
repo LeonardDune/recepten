@@ -13,6 +13,17 @@ tags:
   - pittig
   - glutenvrij mogelijk
   - comfort food
+  - cuisine/chinees
+  - course/soep
+cuisine: chinees
+course: soep
+servings: 3
+time_prep: 15 min
+time_cook: 20 min
+time_total: 35 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Ingelegde Mosterdgroente en Varkenssoep
@@ -48,3 +59,7 @@ tags:
 8. Breng ondertussen een aparte pot [[water]] aan de kook. Zet het vuur op de laagste stand en voeg de varkensplakjes één voor één toe. Laat ze gaar worden.
 9. Schep alle gegaarde varkensplakjes over in de soepbasis. Laat nog ongeveer 2 minuten sudderen.
 10. Garneer met fijngehakte [[lente-ui]]. Serveer zo, of giet voor extra smaak 3 eetlepels gloeiend [[hete olie]] over de soep voor een pittigere versie.
+
+## Notities
+
+<!-- verwerkt -->

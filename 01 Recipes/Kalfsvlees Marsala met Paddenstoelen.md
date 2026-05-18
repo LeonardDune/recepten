@@ -13,6 +13,17 @@ tags:
   - entertaining
   - roomsaus
   - scaloppini
+  - cuisine/italiaans
+  - course/hoofdgerecht
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: 10 min
+time_cook: 25 min
+time_total: 35 min
+rating: 
+tried: false
+status: processed
 ---
 
 # Kalfsvlees Marsala met Paddenstoelen
@@ -38,3 +49,7 @@ tags:
 4. Voeg de [[marsala wijn]] toe en blus de pan af, waarbij je de aangebakken stukjes van de bodem schraapt.
 5. Voeg de [[kippenbouillon]], [[slagroom]] en verse [[tijm]] toe. Kook op hoog vuur totdat de saus tot de helft is ingekookt en ingedikt. Proef en voeg [[zout]] en [[peper]] toe naar smaak.
 6. Doe de [[paddenstoelen]] en het [[kalfsvlees]] terug in de pan om op te warmen. Serveer het [[kalfsvlees]] met een flinke lepel [[paddenstoelen]]-marsalasaus.
+
+## Notities
+
+<!-- verwerkt -->
