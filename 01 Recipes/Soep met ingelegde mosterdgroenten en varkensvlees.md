@@ -2,9 +2,19 @@
 title: "Soep met ingelegde mosterdgroenten en varkensvlees"
 source: "https://www.bbcgoodfood.com/recipes/red-thai-curry-crispy-chicken-tacos"
 date_added: 2026-05-18
+status: processed
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: 15 min
+time_cook: 20 min
+time_total: 35 min
+rating:
+tried: false
 tags:
   - recipe
-  - chinees
+  - cuisine/chinees
+  - course/hoofdgerecht
   - sichuan
   - soep
   - varkensvlees
@@ -25,28 +35,32 @@ tags:
 - 100 g [[taugé]]
 - 8 teentjes [[knoflook]]
 - 3 [[gedroogde chilipepers]]
-- 3 el [[bakolie]]
-- 1 el [[lichte sojasaus]]
+- 3 eetlepels [[bakolie]]
+- 1 eetlepel [[lichte sojasaus]]
 - 1500 ml heet [[water]]
-- 3 el gloeiend [[hete olie]]
+- 3 eetlepels [[hete olie]]
 - 2 [[lente-ui]]tjes, fijngehakt
 - 150 g [[varkensschouder]] of varkenshaas
-- ½ tl [[zout]]
-- 1 el [[oestersaus]]
-- 1 el lichte sojasaus
-- 2 snufjes witte peper
-- 3 el zoete aardappelzetmeel of [[maïzena]]
-- 3 el water
+- ½ theelepel [[zout]]
+- 1 eetlepel [[oestersaus]]
+- 1 eetlepel [[lichte sojasaus]]
+- 2 snufjes [[witte peper]]
+- 3 eetlepels [[maïzena]] of zoet aardappelzetmeel
+- 3 eetlepels [[water]]
 
 ## Bereiding
-1. Snijd het varkensvlees in plakjes van ongeveer 1-2 mm dik. [[varkensschouder]] is het meest aanbevolen, maar je kunt het ook vervangen door rundvlees.
-2. Marineer de plakjes met Shaoxing-rijstwijn, [[zout]], [[witte peper]] en [[lichte sojasaus]]. Meng alles goed door elkaar.
-3. Meng 3 eetlepels [[water]] met 3 eetlepels zetmeel tot een vloeibaar, zetmeelachtig mengsel.
-4. Giet het zetmeel[[water]] bij het gemarineerde varkensvlees. Meng goed zodat elk plakje goed bedekt is.
-5. Verhit olie in een wok en bak de [[knoflook]] en [[gedroogde chilipepers]] tot ze geurig zijn. Gebruik dierlijk vet zoals reuzel of kippenvet als je dat hebt.
-6. Knijp de [[ingelegde mosterdgroenten]] licht uit en voeg ze toe aan de wok. Bak tot het vocht verdampt is en je de geur van de ingelegde groenten ruikt. Dit is een belangrijke stap voor de smaak.
-7. Voeg het hete [[water]] toe, breng aan de kook, voeg de [[lichte sojasaus]] toe en laat ongeveer 10 minuten sudderen zodat de smaken zich kunnen mengen. Voeg eventueel wat ingelegde vloeistof toe als je zelfgemaakte mosterdgroenten gebruikt.
-8. Voeg naar wens groenten toe als basis, zoals tofu, [[taugé]] of gouden naaldpaddenstoelen.
-9. Breng ondertussen een aparte pan [[water]] aan de kook. Zet het vuur op de laagste stand en voeg de varkensplakjes één voor één toe. Pocheer ze gaar.
-10. Breng de gegaarde varkensplakjes over naar de soepbasis. Laat nog ongeveer 2 minuten sudderen.
-11. Garneer met fijngehakte [[lente-ui]]. Serveer zo, of giet voor extra smaak 3 eetlepels gloeiend [[hete olie]] over de soep.
+1. Snijd het [[varkensschouder|varkensvlees]] in plakjes van ongeveer 1-2 mm dik.
+2. Marineer de plakjes met een scheutje Shaoxing-rijstwijn, [[zout]], [[witte peper]] en [[lichte sojasaus]]. Meng alles goed door elkaar.
+3. Meng 3 eetlepels [[water]] met 3 eetlepels [[maïzena]] tot een vloeibaar zetmeelmengsel.
+4. Giet het zetmeelmengsel bij het gemarineerde varkensvlees en meng goed zodat elk plakje bedekt is.
+5. Verhit [[bakolie]] in een wok en bak de [[knoflook]] en [[gedroogde chilipepers]] tot ze geurig zijn.
+6. Knijp de [[ingelegde mosterdgroenten]] licht uit en voeg ze toe. Bak tot het vocht verdampt is en de geur van de ingelegde groenten goed vrijkomt. Dit is een belangrijke stap voor de smaak.
+7. Voeg het hete [[water]] toe, breng aan de kook, voeg de [[lichte sojasaus]] en [[oestersaus]] toe en laat circa 10 minuten sudderen.
+8. Voeg de [[taugé]] toe (en eventueel andere groenten zoals tofu of gouden naaldpaddenstoelen).
+9. Breng ondertussen een aparte pan water aan de kook. Zet het vuur laag en pocheer de varkensplakjes één voor één gaar.
+10. Breng de gepocheerde varkensplakjes over naar de soepbasis en laat nog 2 minuten sudderen.
+11. Garneer met fijngehakte [[lente-ui]]. Giet voor extra smaak 3 eetlepels [[hete olie]] over de soep vlak voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->
