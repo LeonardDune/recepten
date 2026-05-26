@@ -1,0 +1,43 @@
+
+=== Weekmenu Generator � 2026-W23 ===
+
+Recepten laden...
+  687 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 708, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 651, in main
+    print(f"  {len(excluded)} recepten recent gebruikt \u2192 worden overgeslagen")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 30: character maps to <undefined>
+[26/05/2026  8:20:05,26] FOUT: weekmenu_generator.py is mislukt. Zie weekmenu_log.txt. 
+
+=== Weekmenu Generator - 2026-W23 ===
+
+Recepten laden...
+  687 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  12 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+
+Geselecteerde diners:
+  Maandag    [simpel    ] Ajam Kari (Kip Curry)
+  Dinsdag    [simpel    ] Atjar Ikan
+  Woensdag   [uitgebreid] Chicken Bumbu Bali + Acar Cabbage (Acar Ramping), Sambal Badjak + Dadar Gulung (Dadar Urap)
+  Donderdag  [simpel    ] Bonencurry (veganistisch)
+  Vrijdag    [uitgebreid] Kalfsvlees Marsala met Paddenstoelen + Gegrilde Maïs & Courgette Orzo Salade + Coconut Cookie Pie with Stem Ginger
+
+Ingredienten lezen voor geselecteerde recepten...
+Bekende ingrediënten laden...
+  854 ingredientpagina's gevonden
+Boodschappenlijst genereren via Claude...
+
+Weekschema geschreven:      C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Plans\Week 2026-W23.md
+Boodschappenlijst geschreven: C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Plans\Week 2026-W23 Boodschappen.md
+
+Klaar!

@@ -621,7 +621,7 @@ def main():
     args = parser.parse_args()
 
     week_str = args.week or week_str_for_next_week()
-    print(f"\n=== Weekmenu Generator — {week_str} ===\n")
+    print(f"\n=== Weekmenu Generator - {week_str} ===\n")
 
     # Controleer API key
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -648,7 +648,7 @@ def main():
 
     print("Weekplanhistorie lezen (laatste 8 weken)...")
     excluded, history_ratings = load_history(weeks=8)
-    print(f"  {len(excluded)} recepten recent gebruikt → worden overgeslagen")
+    print(f"  {len(excluded)} recepten recent gebruikt -> worden overgeslagen")
 
     preferences = load_preferences()
     week_specific_prefs = args.week_voorkeur or load_week_specific_prefs(week_str)
@@ -673,7 +673,7 @@ def main():
             extra += f" + {diner['dessert']}"
         print(f"  {diner['dag']:10s} [{diner['type']:10s}] {diner['hoofdgerecht']}{extra}")
 
-    print("\nIngredïenten lezen voor geselecteerde recepten...")
+    print("\nIngredienten lezen voor geselecteerde recepten...")
     recipe_ingredients: dict[str, str] = {}
     for diner in week_plan["diners"]:
         all_r = [diner["hoofdgerecht"]] + (diner.get("bijgerechten") or [])
@@ -685,7 +685,7 @@ def main():
 
     print("Bekende ingrediënten laden...")
     known_ingredients = load_known_ingredients()
-    print(f"  {len(known_ingredients)} ingrediëntpagina's gevonden")
+    print(f"  {len(known_ingredients)} ingredientpagina's gevonden")
 
     print("Boodschappenlijst genereren via Claude...")
     shopping_content = build_shopping_list(week_plan, recipe_ingredients, known_ingredients)

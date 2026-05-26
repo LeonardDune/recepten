@@ -9,6 +9,7 @@ if exist "%~dp0venv\Scripts\activate.bat" (
     call "%~dp0venv\Scripts\activate.bat"
 )
 
+set PYTHONIOENCODING=utf-8
 python "%~dp0weekmenu_generator.py" >> "%~dp0weekmenu_log.txt" 2>&1
 
 if %ERRORLEVEL% NEQ 0 (
