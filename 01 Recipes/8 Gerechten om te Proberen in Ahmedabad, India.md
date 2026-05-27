@@ -14,6 +14,15 @@ tags:
   - frituur
   - linzen
   - kikkererwtenmeel
+status: processed
+cuisine: indiaas
+course: snack
+servings: 
+time_prep: 
+time_cook: 
+time_total: 
+rating: 
+tried: false
 ---
 
 # 8 Gerechten om te Proberen in Ahmedabad, India
@@ -39,3 +48,7 @@ tags:
 6. Kitchari: Kook [[rijst]] en [[linzen]] samen. Voeg naar wens [[groenten]] en specerijen toe voor een voedzame maaltijd.
 7. Mohanthal: Rooster [[kikkererwtenmeel]] in [[ghee]]. Voeg [[suiker]] en [[kardemom]] toe en meng tot een fudge-achtige massa. Bestrooi met gehakte [[noten]] en laat opstijven.
 8. Thali: Serveer een assortiment van kleine schaaltjes met dals, salades, curry's, augurken, zoetigheden en brood voor een complete Gujarati maaltijd.
+
+## Notities
+
+<!-- verwerkt -->

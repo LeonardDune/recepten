@@ -14,6 +14,15 @@ tags:
   - kaas
   - bonen
   - pittig
+status: processed
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: 20
+time_cook: 40
+time_total: 60
+rating: 
+tried: false
 ---
 
 # Enchilada Ovenschotel
@@ -48,3 +57,7 @@ tags:
 2. Verwarm de oven voor op 175°C. Maak de vulling: verhit de olie in een grote koekenpan op middelhoog vuur en bak de ui en [[jalapeños]] 5 minuten tot ze zacht zijn. Voeg het gehakt toe en zet het vuur hoog. Breng op smaak met 1 tl zout en bak het mengsel gaar. Als het gehakt mager is, hoeft het niet te worden afgegoten; gebruik je gehakt met een hoger vetgehalte, giet dan het overtollige vet af. Voeg de [[zwarte bonen]] en 240 ml van de enchiladasaus toe.
 3. Gebruik een ovenschaal van 33 x 23 cm. Giet 240 ml saus op de bodem van de schaal. Doop 6 [[maïstortilla's]] in de enchiladasaus en leg ze over de laag saus in de schaal zodat de bodem bedekt is. Schep de helft van de vlesvulling erover en verdeel dit gelijkmatig. Strooi de helft van de kaas erover. Doop de resterende tortilla's in de enchiladasaus en leg ze over de kaas. Bedek met de resterende vlesvulling, de overgebleven saus en de rest van de kaas.
 4. Bak 25 minuten in de oven tot de ovenschotel borrelt en goudbruin is. Serveer met [[pico de gallo]], [[zure room]], [[koriander]] en gesneden [[jalapeños]].
+
+## Notities
+
+<!-- verwerkt -->

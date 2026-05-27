@@ -12,6 +12,15 @@ tags:
   - makkelijk
   - voorbereidbaar
   - doordeweeks
+status: processed
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: 15
+time_cook: 30
+time_total: 45
+rating: 
+tried: false
 ---
 
 # Rundergehakt Taco Ovenschotel
@@ -41,3 +50,7 @@ tags:
 3. Roer de [[tacokruiden]] en salsa erdoor, zet het vuur terug naar middelhoog en kook 5 minuten. Roer de bonen en [[maïs]] erdoor.
 4. Giet het mengsel in een ovenschaal van 33 x 23 cm of een ronde ovenschaal. Bedek met de helft van de geraspte kaas. Strooi de [[tortillachips]] erover en dek af met de resterende kaas.
 5. Bak 20 minuten, of tot de kaas gesmolten is en de ovenschotel borrelt. Serveer met crema of [[zure room]], [[guacamole]], [[jalapeños]], [[koriander]] en [[pico de gallo]].
+
+## Notities
+
+<!-- verwerkt -->

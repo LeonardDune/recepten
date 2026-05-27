@@ -12,6 +12,15 @@ tags:
   - barbecue
   - vegetarisch
   - snel
+status: processed
+cuisine: mexicaans
+course: bijgerecht
+servings: 4
+time_prep: 10
+time_cook: 10
+time_total: 20
+rating: 
+tried: false
 ---
 
 # Mexicaanse Straatmais Salade
@@ -33,3 +42,7 @@ tags:
 2. Grill de mais totdat deze geel is en op sommige plekken zwart geblakerd is, ongeveer 5-8 minuten. Haal van het vuur en laat iets afkoelen.
 3. Snijd de maïskorrels van de kolven en doe ze in een kom.
 4. Voeg de overige ingrediënten en 1 tl zout toe en meng goed. Proef en voeg indien nodig extra zout of [[limoen]]sap toe.
+
+## Notities
+
+<!-- verwerkt -->

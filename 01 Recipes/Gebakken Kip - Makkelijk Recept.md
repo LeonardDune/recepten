@@ -14,6 +14,15 @@ tags:
   - Chinees
   - droogbakken
   - sesamolie
+status: processed
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: 5
+time_cook: 20
+time_total: 25
+rating: 
+tried: false
 ---
 
 # Gebakken Kip - Makkelijk Recept
@@ -44,3 +53,7 @@ tags:
 7. Zet het vuur laag en voeg de kruiden toe: [[gedroogde chilipepers]], [[sichuan peperkorrels]], [[knoflook]]plakjes, [[zout]], lichte [[sojasaus]] en [[suiker]].
 8. Blijf bakken totdat de [[kip]]penhuid lichtgoudbruin en knapperig is.
 9. Bestrooi optioneel met geroosterde witte sesamzaadjes en besprenkel met [[geroosterde sesamolie]] voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

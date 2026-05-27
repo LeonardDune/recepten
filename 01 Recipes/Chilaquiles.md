@@ -13,6 +13,15 @@ tags:
   - avocado
   - pittig
   - makkelijk
+status: processed
+cuisine: mexicaans
+course: ontbijt
+servings: 4
+time_prep: 15
+time_cook: 25
+time_total: 40
+rating: 
+tried: false
 ---
 
 # Chilaquiles
@@ -45,3 +54,7 @@ tags:
 4. Verhit ondertussen de [[plantaardige olie]] in een koekenpan op hoog vuur tot zeer heet. Breek voorzichtig de [[eieren]] erin en bak ze met de dooier naar boven (spiegel[[eieren]]) totdat het eiwit gestold is. Breng op smaak. Haal van het vuur en zet apart.
 5. Verwarm de pan met salsa op laag vuur en voeg de [[tortillachips]] toe. Schep voorzichtig om totdat de chips volledig bedekt zijn met de salsa. Houd warm op laag vuur.
 6. Verdeel de chilaquiles over vier borden. Leg op elk bord een spiegelei en garneer met [[queso fresco]], [[koriander]], [[avocado]] en [[rode ui]].
+
+## Notities
+
+<!-- verwerkt -->

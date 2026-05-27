@@ -11,6 +11,15 @@ tags:
   - kaneelsuiker
   - feestelijk
   - vegetarisch
+status: processed
+cuisine: mexicaans
+course: dessert
+servings: 18
+time_prep: 25
+time_cook: 20
+time_total: 45
+rating: 
+tried: false
 ---
 
 # Buñuelos
@@ -37,3 +46,7 @@ tags:
 5. Verhit de olie in een zware, diepe koekenpan op middelhoog vuur totdat een klein stukje deeg sist en naar boven drijft wanneer je het erin laat vallen.
 6. Leg voorzichtig één deegschijfje in de hete olie en duw het met een metalen tang onder het oppervlak. Bak 2-3 minuten tot goudbruin en leg daarna op een afkoelrek boven een bakplaat om uit te lekken.
 7. Bestrooi beide kanten met het [[kaneel]]suikermengsel. Herhaal met de overige deegschijfjes en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

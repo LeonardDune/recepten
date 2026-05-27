@@ -13,6 +13,15 @@ tags:
   - guanciale
   - ei
   - snel klaar
+status: processed
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: 10
+time_cook: 20
+time_total: 30
+rating: 
+tried: false
 ---
 
 # Pasta Carbonara met Asperges en Pecorino Kaas
@@ -39,3 +48,7 @@ tags:
 7. Voeg het eimengsel toe aan de koekenpan, voeg dan 120 ml van het [[pasta]]water toe en klop continu zodat de [[eieren]] niet stollen.
 8. Voeg het eimengsel toe aan de [[pasta]]pan en roer continu totdat de saus de [[pasta]] volledig bedekt.
 9. Serveer in individuele kommen en bied extra geraspte Pecorino kaas aan tafel aan.
+
+## Notities
+
+<!-- verwerkt -->

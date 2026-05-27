@@ -12,6 +12,15 @@ tags:
   - make-ahead
   - feest
   - glutenvrij
+status: processed
+cuisine: mexicaans
+course: soep
+servings: 6
+time_prep: 20
+time_cook: 120
+time_total: 140
+rating: 
+tried: false
 ---
 
 # Varkensvlees Pozole
@@ -43,3 +52,7 @@ tags:
 2. Verhit ondertussen een koekenpan op hoog vuur tot hij zeer heet is en bak de gedroogde pepers ongeveer 30 seconden, keer ze om zodra ze opbollen. Dit verdiept de smaak. Voeg de pepers toe aan de pan met de uien, voeg dan het varkensvlees, [[komijnzaad]], [[oregano]] en [[kippenbouillon]] toe. Breng aan de kook, zet het vuur laag en dek af. Kook 1,5 tot 2 uur, of totdat het varkensvlees gaar en mals is.
 3. Haal het varkensvlees uit het vocht, leg het op een bord en laat afkoelen. Giet het vocht uit de pan in een blender en blend tot een gladde saus. Voeg 1 tl zout en de azijn toe, giet het mengsel terug in de pan en voeg de [[hominy]] toe. Kook 10 minuten. Pluk het varkensvlees met twee vorken in grove stukken en voeg het toe aan de pan. Laat nog 5 minuten sudderen.
 4. Serveer de pozole met gesneden [[radijsjes]], [[koriander]], gefrituurde [[tortillachips]], gehakte ui, fijngesneden [[kool]], verkruimelde [[queso fresco]] en partjes [[limoen]] om over te knijpen.
+
+## Notities
+
+<!-- verwerkt -->

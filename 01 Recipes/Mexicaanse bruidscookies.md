@@ -10,6 +10,15 @@ tags:
   - mexicaans
   - pecannoten
   - bakken
+status: processed
+cuisine: mexicaans
+course: dessert
+servings: 40
+time_prep: 20
+time_cook: 15
+time_total: 35
+rating: 
+tried: false
 ---
 
 # Mexicaanse bruidscookies
@@ -32,3 +41,7 @@ tags:
 5. Verdeel het deeg in 40 stukjes en rol elk stukje tot een balletje. Verdeel 20 deegballetjes over elke bakplaat en bak 15 minuten tot de onderkanten van de koekjes goudbruin zijn.
 6. Haal de koekjes uit de oven en laat ze 5 minuten afkoelen op de bakplaat. Doop de koekjes daarna in de resterende [[poedersuiker]].
 7. Leg de koekjes op een afkoelrek en laat volledig afkoelen.
+
+## Notities
+
+<!-- verwerkt -->

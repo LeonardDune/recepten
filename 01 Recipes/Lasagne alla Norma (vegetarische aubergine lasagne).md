@@ -14,6 +14,15 @@ tags:
   - gebakken pasta
   - vleesloos
   - mediterraan
+status: processed
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: 30
+time_cook: 40
+time_total: 70
+rating: 
+tried: false
 ---
 
 # Lasagne alla Norma (vegetarische aubergine lasagne)
@@ -56,3 +65,7 @@ tags:
 15. Sluit af met een laag tomatensaus, hele [[aubergine]]plakken en geraspte [[ricotta salata]]. Optioneel: bestrooi met geraspte Parmigiano.
 16. Dek de ovenschaal af met aluminiumfolie en bak 10-15 minuten in de voorverwarmde oven. Verwijder daarna de folie en bak nog 10-15 minuten, totaal ongeveer 20-25 minuten, totdat de lasagne gaar is.
 17. Laat de lasagne 5-10 minuten rusten voor het serveren. Serveer eventueel met extra geraspte [[ricotta salata]].
+
+## Notities
+
+<!-- verwerkt -->

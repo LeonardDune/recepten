@@ -12,6 +12,15 @@ tags:
   - pittig
   - saus
   - veganistisch
+status: processed
+cuisine: mexicaans
+course: saus
+servings: 6
+time_prep: 5
+time_cook: 10
+time_total: 15
+rating: 
+tried: false
 ---
 
 # Rokerige Salsa Verde
@@ -32,3 +41,7 @@ tags:
 2. Haal de bakplaat uit de oven, pel de [[knoflook]]teentjes en knijp ze in een keukenmachine of blender.
 3. Voeg de rest van de gegrilde groenten van de bakplaat toe, samen met 1 theelepel zout, de [[chipotle pepers]], [[koriander]]bladen en [[limoen]]sap.
 4. Blend alles glad, proef en voeg indien nodig meer zout toe.
+
+## Notities
+
+<!-- verwerkt -->

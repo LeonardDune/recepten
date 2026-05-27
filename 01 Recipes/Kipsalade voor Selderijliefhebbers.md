@@ -12,6 +12,15 @@ tags:
   - meal prep
   - sandwich
   - amerikaans
+status: processed
+cuisine: amerikaans
+course: lunch
+servings: 4
+time_prep: 15
+time_cook: 45
+time_total: 60
+rating: 
+tried: false
 ---
 
 # Kipsalade voor Selderijliefhebbers
@@ -37,3 +46,7 @@ tags:
 6. Voeg de [[dijonmosterd]] toe aan de kom en roer zodat het goed verdeeld is over de kip en groenten.
 7. Voeg de [[mayonaise]] toe en roer alles goed door. Breng indien nodig op smaak met extra [[zout]], [[zwarte peper]], [[dijonmosterd]] of [[mayonaise]].
 8. Optioneel: voor knapperige velletjes, leg het kippenvel zo plat mogelijk op een bakplaat, bestrooi met een paar snufjes [[zout]] en bak in een oven van 205°C gedurende 5 tot 10 minuten, totdat het donkerder van kleur en grotendeels knapperig is. Snijd in reepjes en gebruik als topping.
+
+## Notities
+
+<!-- verwerkt -->

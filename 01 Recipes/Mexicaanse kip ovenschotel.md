@@ -14,6 +14,15 @@ tags:
   - bonen
   - maïs
   - tex-mex
+status: processed
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: 15
+time_cook: 35
+time_total: 50
+rating: 
+tried: false
 ---
 
 # Mexicaanse kip ovenschotel
@@ -45,3 +54,7 @@ tags:
 2. Voeg de [[tacokruiden]], [[champignonroomsoep]], tomaten en bouillon toe en breng aan de kook. Voeg de gesnipperde kip, [[maïs]] en bonen toe, zet het vuur lager en laat 5 minuten sudderen.
 3. Giet het mengsel in een ovenschaal van 33 x 23 cm. Strooi de helft van de kaas erover. Verkruimel de [[tortillachips]] lichtjes en strooi ze erbovenop, dek dan af met de resterende kaas.
 4. Bak 25 minuten, of totdat de schotel borrelt en goudbruin is. Serveer in kommen met [[crema]], [[avocado]], [[rode ui]], [[koriander]], [[hete saus]] en [[tajín-kruiden]].
+
+## Notities
+
+<!-- verwerkt -->
