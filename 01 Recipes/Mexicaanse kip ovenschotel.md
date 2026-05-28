@@ -1,59 +1,64 @@
 ---
-title: "Mexicaanse kip ovenschotel"
+title: "Mexicaanse Kip Ovenschotel"
 source: "https://www.bbcgoodfood.com/recipes/smoky-salsa-verde"
 date_added: 2026-05-26
+status: processed
+cuisine: Mexicaans
+course: hoofdgerecht
+servings: 4
+time_prep: 15 minuten
+time_cook: 35 minuten
+time_total: 50 minuten
+rating:
+tried: false
 tags:
   - recipe
-  - mexicaans
+  - cuisine/mexicaans
+  - course/hoofdgerecht
   - ovenschotel
   - kip
-  - makkelijk
-  - doordeweeks
   - kaas
   - tortilla
-  - bonen
-  - maïs
+  - makkelijk
+  - doordeweeks
   - tex-mex
-status: processed
-cuisine: mexicaans
-course: hoofdgerecht
-servings: 6
-time_prep: 15
-time_cook: 35
-time_total: 50
-rating: 
-tried: false
 ---
 
-# Mexicaanse kip ovenschotel
+# Mexicaanse Kip Ovenschotel
 
-> Een eenvoudige Mexicaanse ovenschotel geïnspireerd op nachos. Rotisserie kip maakt het gerecht snel klaar en zorgt voor een sappig resultaat. Afgemaakt met knapperige tortillachips en gesmolten kaas.
+> Een eenvoudige Mexicaanse ovenschotel geïnspireerd op nachos. Rotisserie kip maakt het gerecht snel klaar en zorgt voor een sappig resultaat. Ideaal voor een doordeweekse maaltijd.
 
 ## Ingrediënten
-- 2 el [[plantaardige olie]]
-- 1 middelgrote ui, gesnipperd
+
+- 2 eetlepels [[plantaardige olie]]
+- 1 middelgrote [[ui]], gesnipperd
 - 2 teentjes [[knoflook]], gehakt
-- 2 el [[tacokruiden]] (zoals Old El Paso)
-- 280 g blik roomsoep van champignons
-- 425 g blik geroosterde [[tomatenblokjes met chilipepers]]
+- 2 eetlepels [[tacokruiden]] (zoals Old El Paso)
+- 1 blik (280 g) [[champignonroomsoep]]
+- 1 blik (425 g) geroosterde [[tomatenblokjes met chilipepers]]
 - 120 ml [[kippenbouillon]]
-- 480 ml (ca. 300 g) gesnipperde [[rotisserie kip]]
-- 240 ml bevroren [[maïs]]
-- 425 g blik [[zwarte bonen]], uitgelekt en gespoeld
-- 720 ml (ca. 340 g) geraspte Monterey Jack of oude cheddar kaas
+- 480 ml geraspte [[rotisserie kip]]
+- 240 ml diepvries-[[maïs]]
+- 1 blik (425 g) [[zwarte bonen]], uitgelekt en gespoeld
+- 720 ml geraspte [[Monterey Jack]] of oude [[cheddar]]
 - 480 ml [[tortillachips]]
-- Voor erbij: [[crema]] (Mexicaanse zure room)
-- Voor erbij: gehakte [[avocado]]
-- Voor erbij: gehakte [[rode ui]]
-- Voor erbij: gehakte [[koriander]]
-- Voor erbij: [[hete saus]]
-- Voor erbij: [[tajín-kruiden]]
+- [[crème fraîche]], ter garnering
+- gehakte [[avocado]], ter garnering
+- gehakte [[rode ui]], ter garnering
+- gehakte [[koriander]], ter garnering
+- [[hete saus]], ter garnering
+- [[tajín kruiden]], ter garnering
 
 ## Bereiding
-1. Verwarm de oven voor op 175°C. Verhit de olie in een grote koekenpan op middelhoog vuur en bak de ui en [[knoflook]] met een halve theelepel zout gedurende 4 minuten.
-2. Voeg de [[tacokruiden]], [[champignonroomsoep]], tomaten en bouillon toe en breng aan de kook. Voeg de gesnipperde kip, [[maïs]] en bonen toe, zet het vuur lager en laat 5 minuten sudderen.
-3. Giet het mengsel in een ovenschaal van 33 x 23 cm. Strooi de helft van de kaas erover. Verkruimel de [[tortillachips]] lichtjes en strooi ze erbovenop, dek dan af met de resterende kaas.
-4. Bak 25 minuten, of totdat de schotel borrelt en goudbruin is. Serveer in kommen met [[crema]], [[avocado]], [[rode ui]], [[koriander]], [[hete saus]] en [[tajín-kruiden]].
+
+1. Verwarm de oven voor op 175 °C.
+2. Verhit de [[plantaardige olie]] in een grote koekenpan op middelhoog vuur en bak de [[ui]] en [[knoflook]] met een halve theelepel zout gedurende 4 minuten.
+3. Voeg de [[tacokruiden]], [[champignonroomsoep]], [[tomatenblokjes met chilipepers]] en [[kippenbouillon]] toe en breng aan de kook.
+4. Voeg de geraspte kip, [[maïs]] en [[zwarte bonen]] toe, zet het vuur lager en laat 5 minuten sudderen.
+5. Giet het mengsel in een ovenschaal van 33 × 23 cm. Strooi de helft van de kaas erover.
+6. Verkruimel de [[tortillachips]] lichtjes en strooi ze erbovenop, dek dan af met de resterende kaas.
+7. Bak 25 minuten, of totdat de schotel borrelt en goudbruin is.
+8. Serveer in kommen met [[crème fraîche]], [[avocado]], [[rode ui]], [[koriander]], [[hete saus]] en [[tajín kruiden]].
 
 ## Notities
 
