@@ -1,17 +1,25 @@
 ---
 title: "Gebakken Kip in de Pan - Eenvoudig Recept"
-source: "https://italianfoodforever.com/2026/05/asparagus-salad-with-tomatoes-gorgonzola/"
+source: "https://www.chinasichuanfood.com/chinese-pan-fried-chicken/"
 date_added: 2026-05-27
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: "10 min"
+time_cook: "25 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/chinees
+  - course/hoofdgerecht
   - kip
   - droogbakken
-  - Sichuan
+  - sichuan
   - pittig
   - knapperig
   - snel
-  - eenvoudig
-  - Chinees
   - glutenvrij
 ---
 
@@ -20,26 +28,32 @@ tags:
 > Een eenvoudig en verslavend recept voor kip gebakken in de pan, zonder marineren of sudderen. De kip wordt langzaam drooggebakken tot hij knapperig en goudbruin is, met een rijke smaak van Sichuan peperkorrels, knoflook, gember en gedroogde chilipepers.
 
 ## Ingrediënten
-- 400 g [[kip]] (jonge [[kip]], in stukken gesneden)
-- 1 eetlepel [[sesamolie]]
+
+- 400 g [[kip]] (jonge kip, in stukken gesneden)
+- 1 el [[sesamolie]]
 - 1 duim [[gember]], in plakjes
-- 1 eetlepel [[shaoxing rijstwijn]]
+- 1 el [[shaoxing rijstwijn]]
 - 5 teentjes [[knoflook]], in plakjes
-- 3 [[gedroogde chilipepers]], in kleine stukjes gesneden
-- 1 eetlepel [[sichuan peperkorrels]]
-- 1 theelepel [[zout]]
-- 0,5 theelepel [[suiker]]
-- 1,2 theelepel [[gemalen peper]]
-- 1 eetlepel lichte [[sojasaus]]
-- 1 eetlepel [[geroosterde sesamolie]] (optioneel)
+- 3 [[gedroogde chilipepers]], in stukjes gesneden
+- 1 el [[sichuan peperkorrels]]
+- 1 tl zout
+- ½ tl [[suiker]]
+- ½ tl [[gemalen peper]]
+- 1 el lichte [[sojasaus]]
+- 1 el [[geroosterde sesamolie]] (optioneel)
 
 ## Bereiding
-1. Snijd de [[kip]] in kleine stukken, was ze goed en laat ze volledig uitlekken. Gebruik bij voorkeur jonge [[kip]].
-2. Voeg een kleine hoeveelheid [[sesamolie]] toe aan de pan en verdeel de [[kip]]stukken erin.
-3. In het begin zal er veel vocht vrijkomen in de pan. Blijf bakken totdat het vocht verdampt is en voeg dan de [[shaoxing rijstwijn]] toe.
-4. Voeg de [[gember]]plakjes toe om de eventuele onaangename smaak te neutraliseren.
-5. Bak verder gedurende ongeveer 10 minuten op middelhoog vuur.
-6. Als er veel olie in de pan zit, giet deze dan volledig af. Deze olie kun je bewaren voor noodles of salades.
-7. Zet het vuur laag en voeg de kruiden toe: [[gedroogde chilipepers]], [[sichuan peperkorrels]], [[knoflook]]plakjes, [[zout]], lichte [[sojasaus]] en [[suiker]].
-8. Blijf bakken en draai de stukken regelmatig om totdat de [[kip]] een lichtgouden bruine kleur krijgt.
-9. Bestrooi optioneel met geroosterde witte sesamzaadjes en serveer.
+
+1. Snijd de [[kip]] in kleine stukken, was ze goed en laat ze volledig uitlekken.
+2. Voeg een kleine hoeveelheid [[sesamolie]] toe aan een droge pan en verdeel de kip erin.
+3. Bak op middelhoog vuur. In het begin komt er veel vocht vrij — blijf bakken tot het vocht verdampt is.
+4. Voeg de [[shaoxing rijstwijn]] toe en laat verdampen.
+5. Voeg de [[gember]]plakjes toe en bak nog 10 minuten op middelhoog vuur.
+6. Als er veel olie in de pan zit, giet die dan af. Bewaar de olie voor noodles of salades.
+7. Zet het vuur laag en voeg [[gedroogde chilipepers]], [[sichuan peperkorrels]], [[knoflook]]plakjes, zout, [[sojasaus]] en [[suiker]] toe.
+8. Blijf bakken en draai de kip regelmatig om tot hij lichtgoudbruin en knapperig is, nog circa 5 minuten.
+9. Voeg optioneel de [[geroosterde sesamolie]] toe en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->
