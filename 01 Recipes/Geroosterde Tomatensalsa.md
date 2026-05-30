@@ -2,10 +2,19 @@
 title: "Geroosterde Tomatensalsa"
 source: "https://www.the-pasta-project.com/lasagna-alla-norma/"
 date_added: 2026-05-28
+cuisine: mexicaans
+course: bijgerecht
+servings: 6
+time_prep: "5 min"
+time_cook: "15 min"
+time_total: "20 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/bijgerecht
   - salsa
-  - mexicaans
   - gegrild
   - vegetarisch
   - vegan
@@ -39,3 +48,7 @@ tags:
 6. Doe alles in een keukenmachine of blender. Voeg de [[koriander]]takjes, het [[limoensap]] en het [[zout]] toe.
 7. Pulseer een paar keer voor een grove salsa, of blend een minuut lang voor een gladde salsa.
 8. Proef en voeg indien nodig extra [[zout]] toe.
+
+## Notities
+
+<!-- verwerkt -->

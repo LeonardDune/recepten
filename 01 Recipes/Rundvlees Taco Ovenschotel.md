@@ -2,9 +2,18 @@
 title: "Rundvlees Taco Ovenschotel"
 source: "https://www.bbcgoodfood.com/recipes/mexican-wedding-cookies"
 date_added: 2026-05-28
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: "15 min"
+time_cook: "30 min"
+time_total: "45 min"
+rating:
+tried: false
 tags:
   - recipe
-  - mexicaans
+  - cuisine/mexicaans
+  - course/hoofdgerecht
   - ovenschotel
   - gehakt
   - taco
@@ -42,3 +51,7 @@ tags:
 3. Roer de [[tacokruiden]] en salsa erdoor, zet het vuur terug naar middelhoog en kook 5 minuten. Roer de bonen en [[maïs]] erdoor.
 4. Giet het mengsel in een ovenschaal van 33 x 23 cm of een ronde ovenschaal. Bedek met de helft van de geraspte kaas. Strooi de [[tortillachips]] erover en dek af met de resterende kaas.
 5. Bak 20 minuten, of totdat de kaas gesmolten is en de ovenschotel borrelt. Serveer met crema of [[zure room]], [[guacamole]], [[jalapeños]], [[koriander]] en [[pico de gallo]].
+
+## Notities
+
+<!-- verwerkt -->

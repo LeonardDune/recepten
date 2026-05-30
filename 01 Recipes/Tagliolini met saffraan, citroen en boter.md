@@ -2,15 +2,23 @@
 title: "Tagliolini met saffraan, citroen en boter"
 source: "https://www.bbcgoodfood.com/recipes/mexican-chicken-casserole"
 date_added: 2026-05-28
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: "10 min"
+time_cook: "15 min"
+time_total: "25 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/hoofdgerecht
   - saffraan
   - citroen
   - boter
   - tagliolini
   - verse pasta
-  - Umbrië
-  - Italiaans
   - romig
   - vegetarisch
   - snel
@@ -38,3 +46,7 @@ tags:
 3. Kook de [[tagliolini]] al dente (voor verse pasta meestal 2-3 minuten). Bewaar een kopje kookwater en giet de pasta af. Voeg de pasta toe aan de [[saffraan]]saus en schep alles snel door elkaar zodat de [[saffraan]] alle pasta linten kleurt.
 4. Voeg de [[room]] toe en meng alles goed door elkaar. Voeg vervolgens de geraspte kaas en de resterende [[boter]] toe. Breng op smaak met [[zout]] en versgemalen [[zwarte peper]]. Blijf de pasta zachtjes omscheppen op zeer laag vuur totdat de [[boter]] en kaas gesmolten zijn. Als de saus te droog lijkt, voeg dan wat pasta kookwater of extra [[room]] toe.
 5. Serveer direct met verse [[basilicum]] of peterselie (optioneel), extra [[citroen]]rasp en extra geraspte kaas naar wens.
+
+## Notities
+
+<!-- verwerkt -->

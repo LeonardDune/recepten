@@ -2,13 +2,22 @@
 title: "Aspergesalade met Tomaten en Gorgonzola"
 source: "https://www.bbcgoodfood.com/recipes/bunuelos"
 date_added: 2026-05-28
+cuisine: italiaans
+course: bijgerecht
+servings: 4
+time_prep: "10 min"
+time_cook: "5 min"
+time_total: "15 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/bijgerecht
   - salade
   - lente
   - asperges
   - gorgonzola
-  - italiaans
   - vegetarisch
   - snel
   - fris
@@ -40,3 +49,7 @@ tags:
 6. Giet de dressing over de [[asperges]] en schep alles goed door.
 7. Schik de salade op een schaal of in een serveerschaal en bestrooi met de verkruimelde [[gorgonzola]] en het geroosterde [[amandelschaafsel]].
 8. Serveer gekoeld of op kamertemperatuur.
+
+## Notities
+
+<!-- verwerkt -->

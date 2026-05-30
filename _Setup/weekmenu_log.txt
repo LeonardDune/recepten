@@ -41,3 +41,8 @@ Weekschema geschreven:      C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Pl
 Boodschappenlijst geschreven: C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Plans\Week 2026-W23 Boodschappen.md
 
 Klaar!
+
+=== Weekmenu Generator - 2026-W23 ===
+
+Weekmenu voor 2026-W23 bestaat al (Week 2026-W23.md). Overgeslagen.
+Gebruik --week <andere-week> om een ander weekmenu te genereren.
