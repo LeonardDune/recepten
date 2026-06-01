@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "valor-app",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "C:\\Users\\Renzo\\Claude\\Projects\\VALOR ecosystem\\valor-app"],
+      "port": 3000
+    }
+  ]
+}
