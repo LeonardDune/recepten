@@ -2,15 +2,23 @@
 title: "Carciofi Fritti ~ Toscaanse Gebakken Artisjokken"
 source: "https://www.culy.nl/recepten/hoe-maak-je-pindasaus/"
 date_added: 2026-06-01
+cuisine: [italiaans]
+course: [voorgerecht, bijgerecht]
+servings: 4
+time_prep: "15 min"
+time_cook: "15 min"
+time_total: "30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/voorgerecht
+  - course/bijgerecht
   - artisjokken
   - frituren
   - toscaans
-  - italiaans
   - vegetarisch
-  - voorgerecht
-  - bijgerecht
   - lente
 ---
 
@@ -34,3 +42,7 @@ tags:
 5. Verhit de olie tot 190°C en frituur de [[artisjokken]] tot ze goudbruin zijn.
 6. Schep de [[artisjokken]] met een schuimspaan uit de olie en leg ze op een bord bekleed met keukenpapier om uit te lekken.
 7. Serveer direct, bestrooid met extra zout.
+
+## Notities
+
+<!-- verwerkt -->

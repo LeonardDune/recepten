@@ -21,3 +21,9 @@ tags:
 
 ## Bereiding
 1. 
+
+## Notities
+
+Onvolledig geclipte stub — ingrediënten en bereiding ontbreken.
+
+<!-- verwerkt -->

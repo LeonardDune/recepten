@@ -47,3 +47,9 @@ tags:
 23. 22. Geroosterde bloemkool in ansjovisboter met orzo - 1 uur 15 min - Makkelijk
 24. 23. Gemarmerde koffie- en vanille bundtcake met roomkaasglazuur - 1 uur 10 min - Makkelijk
 25. 24. Kamille-, citroen- en yoghurtcake - 1 uur 5 min - Makkelijk
+
+## Notities
+
+Collectie-overzichtspagina, geen individueel recept.
+
+<!-- verwerkt -->

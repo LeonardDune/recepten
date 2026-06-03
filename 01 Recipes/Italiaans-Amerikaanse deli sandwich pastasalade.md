@@ -2,10 +2,19 @@
 title: "Italiaans-Amerikaanse deli sandwich pastasalade"
 source: "https://www.culy.nl/recepten/bloemkoolsalade/"
 date_added: 2026-05-30
+cuisine: [italiaans-amerikaans]
+course: [bijgerecht, hoofdgerecht]
+servings: 4
+time_prep: "15 min"
+time_cook: "10 min"
+time_total: "25 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans-amerikaans
+  - course/bijgerecht
   - pastasalade
-  - italiaans-amerikaans
   - antipasti
   - koud gerecht
   - zomer
@@ -35,3 +44,7 @@ tags:
 1. Kook de pasta in een pan met kokend gezouten water volgens de verpakkingsinstructies. Giet af en spoel onder koud water om af te koelen.
 2. Klop de [[olijfolie]], de olie van de antipasti, het vocht van de peperdrupjes, de mosterd, de yoghurt en de [[oregano]] samen in een grote kom. Breng op smaak met zout en peper.
 3. Schep de gekookte pasta, [[antipasti groenten]], [[artisjokkharten]], peperdrupjes, salami, olijven, [[bocconcini]] en [[basilicum]] door de dressing totdat alles goed bedekt is. Schep op een serveerschaal of in een kom en garneer met extra [[basilicum]]blaadjes.
+
+## Notities
+
+<!-- verwerkt -->

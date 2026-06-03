@@ -2,11 +2,20 @@
 title: "Pastasalade alla norma"
 source: "https://www.culy.nl/recepten/taquitos-met-kip-krokante-tacos/"
 date_added: 2026-06-01
+cuisine: [italiaans]
+course: [hoofdgerecht, bijgerecht]
+servings: 4
+time_prep: "15 min"
+time_cook: "40 min"
+time_total: "55 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/hoofdgerecht
   - vegetarisch
-  - pasta
-  - salade
+  - pastasalade
   - siciliaans
   - zomer
   - aubergine
@@ -37,3 +46,7 @@ tags:
 3. Meng ondertussen de [[zongedroogde tomaten]] met de olie uit het potje, de [[kappertjes]] en [[chilivlokken]] in een grote kom. Klop de resterende [[olijfolie]], de [[rode wijnazijn]] en wat zout en peper erdoor. Zet apart.
 4. Klop de [[ricotta]] los in een middelgrote kom en klop de [[citroen]]rasp en het [[citroen]]sap erdoor. Het mengsel kan iets schiften, maar blijf kloppen – het zal indikken. Breng op smaak en zet apart.
 5. Roer de gekookte [[pasta]], [[aubergine]], knapperig [[zuurdesembrood]] en gehakt [[basilicum]] door de dressing. Schep over op een serveerschaal, verdeel er dan klodders van het [[ricotta]]mengsel over. Bestrooi met wat [[chilivlokken]] en een paar [[basilicum]]blaadjes om te serveren. Maximaal drie dagen gekoeld houdbaar, maar het brood wordt na verloop van tijd iets zachter.
+
+## Notities
+
+<!-- verwerkt -->

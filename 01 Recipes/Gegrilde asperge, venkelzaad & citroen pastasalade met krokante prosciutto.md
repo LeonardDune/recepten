@@ -2,8 +2,18 @@
 title: "Gegrilde asperge, venkelzaad & citroen pastasalade met krokante prosciutto"
 source: "https://www.culy.nl/recepten/taquitos-met-kip-krokante-tacos/"
 date_added: 2026-06-01
+cuisine: [italiaans]
+course: [bijgerecht, hoofdgerecht]
+servings: 4
+time_prep: "15 min"
+time_cook: "25 min"
+time_total: "40 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/bijgerecht
   - pastasalade
   - asperges
   - prosciutto
@@ -12,7 +22,6 @@ tags:
   - koud gerecht
   - zomer
   - lunchbox
-  - italiaans
 ---
 
 # Gegrilde asperge, venkelzaad & citroen pastasalade met krokante prosciutto
@@ -37,3 +46,7 @@ tags:
 4. Veeg de pan schoon, verhit nog 1 tl [[olijfolie]] en bak de [[citroen]]plakjes 2-3 minuten per kant tot ze goudbruin zijn, borrelen en beginnen uit elkaar te vallen. Leg op een snijplank, hak in kleine stukjes en doe in een kom samen met de [[venkelzaad]]jes.
 5. Giet de resterende [[olijfolie]] in de kom met de [[citroen]] en [[venkelzaad]], klop er dan het [[citroen]]sap, de mosterd en de [[honing]] door. Breng op smaak en klop tot een gladde dressing. Schep de dressing door de pasta samen met de [[asperges]], het [[bieslook]] en het grootste deel van de krokante [[prosciutto]], verkruimeld erbij.
 6. Schep over op een serveerschaal of in een kom en verkruimel de resterende [[prosciutto]] er vlak voor het serveren over. Als je dit als lunch meeneemt, bewaar dan in luchtdichte bakjes met de extra gebakken [[prosciutto]] in een apart klein bakje om vlak voor het eten toe te voegen. Maximaal drie dagen gekoeld houdbaar.
+
+## Notities
+
+<!-- verwerkt -->

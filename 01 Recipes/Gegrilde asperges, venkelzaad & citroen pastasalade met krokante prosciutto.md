@@ -38,3 +38,9 @@ tags:
 4. Veeg de pan schoon, verhit nog 1 tl [[olijfolie]] en bak de [[citroen]]plakjes 2-3 minuten aan elke kant tot ze goudbruin en bubbelig zijn en beginnen uit elkaar te vallen. Leg op een snijplank, hak in kleine stukjes en doe in een kom samen met het [[venkelzaad]].
 5. Giet de resterende [[olijfolie]] in de kom met de [[citroen]]plakjes en het [[venkelzaad]]. Klop het [[citroen]]sap, de mosterd en de [[honing]] erdoor. Breng op smaak en klop tot een gladde dressing. Schep de dressing door de pasta samen met de [[asperges]], het [[bieslook]] en het grootste deel van de krokante [[prosciutto]], verkruimeld.
 6. Schep de salade op een serveerschaal of in een kom en verkruimel de resterende [[prosciutto]] er vlak voor het serveren over. Als je de salade meeneemt als lunch, bewaar dan in luchtdichte bakjes met de extra krokante [[prosciutto]] apart in een kleiner bakje, toe te voegen vlak voor het eten. De salade is gekoeld tot drie dagen houdbaar.
+
+## Notities
+
+Duplicaat van [[Gegrilde asperge, venkelzaad & citroen pastasalade met krokante prosciutto]].
+
+<!-- verwerkt -->
