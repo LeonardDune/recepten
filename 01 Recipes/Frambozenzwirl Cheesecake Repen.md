@@ -1,10 +1,20 @@
 ---
-status: processed
 title: "Frambozenzwirl Cheesecake Repen"
 source: "https://www.culy.nl/recepten/wentelteefjes-met-pandan-en-kokos/"
 date_added: 2026-05-17
+status: processed
+cuisine: amerikaans
+course: nagerecht
+servings: 16
+time_prep: "20 min"
+time_cook: "50 min"
+time_total: "1 uur 30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/amerikaans
+  - course/nagerecht
   - cheesecake
   - frambozen
   - repen
@@ -13,8 +23,6 @@ tags:
   - zomers
   - eenvoudig
   - citroensmaak
-  - dessert
-  - amerikaans
 ---
 
 # Frambozenzwirl Cheesecake Repen
@@ -44,4 +52,8 @@ tags:
 8. Gebruik een tandenstoker of satéprikker om de [[frambozen]]saus decoratief te zwirlen.
 9. Bak de repen 40 tot 50 minuten, of totdat het cheesecakebeslag nog licht wiebelt als je de vorm voorzichtig heen en weer beweegt.
 10. Laat 15 minuten afkoelen op een rooster en zet daarna in de koelkast om volledig op te stijven.
-11. Til de afgekoelde repen met het bakpapier voorzichtig uit de vorm op een snijplank. Snijd in 16 vierkantjes. Veeg het mes na elke snede schoon. Het mes in water dopen helpt ook.
+11. Til de afgekoelde repe
+
+## Notities
+
+<!-- verwerkt -->

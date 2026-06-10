@@ -2,14 +2,23 @@
 title: "Geroosterde Bietensalade met Burrata"
 source: "https://www.culy.nl/recepten/american-pancakes-recept-met-koffie/"
 date_added: 2026-06-07
+status: processed
+cuisine: italiaans
+course: voorgerecht
+servings: 4
+time_prep: "15 min"
+time_cook: "1 uur 30 min"
+time_total: "1 uur 45 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/voorgerecht
   - salade
   - bieten
   - burrata
   - vegetarisch
-  - italiaans
-  - starter
   - zomer
   - glutenvrij
   - granaatappel
@@ -44,6 +53,8 @@ tags:
 6. Doe de [[bieten]]blokjes in een kom samen met de [[granaatappelzaadjes]], [[oregano]], [[munt]]blaadjes en [[pistachenoten]] en schep alles door elkaar.
 7. Meng de dressingingrediënten in een aparte kom tot een gladde dressing.
 8. Giet de dressing over de [[bieten]] en schep goed door.
-9. Verdeel de [[bieten]] over een ondiepe schaal en leg de [[burrata]] in het midden.
-10. Besprenkel de [[burrata]] met de [[extra vergine olijfolie]] en breng op smaak met gebarsten [[zwarte peper]].
-11. Serveer op kamertemperatuur.
+9. Verdeel de [[bieten]] over een ondiepe scha
+
+## Notities
+
+<!-- verwerkt -->

@@ -1,13 +1,21 @@
 ---
-status: processed
 title: "15 Mexicaanse Moederdagbrunch Recepten"
 source: "https://italianfoodforever.com/2026/05/buffalo-mozzarella-burrata-pizza/"
 date_added: 2026-05-16
+status: processed
+cuisine: mexicaans
+course: brunch
+servings:
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/brunch
   - moederdag
-  - brunch
-  - mexicaans
   - make-ahead
   - hartig
   - zoet
@@ -15,6 +23,7 @@ tags:
   - feestelijk
   - gezin
   - buffet
+  - verzameling
 ---
 
 # 15 Mexicaanse Moederdagbrunch Recepten
@@ -38,5 +47,8 @@ tags:
 11. 11. Conchas: Zachte, luchtige broodjes met een kruimelig suikerkorstje. Vers uit de oven het lekkerst.
 12. 12. Fruitssalsa met Kaneelchips: Vijf soorten fruit, verse munt, citroensap en zelfgemaakte gebakken kaneelchips. Licht en kleurrijk.
 13. 13. Aardbeihorchata: Romige horchata met verse aardbeien. Geschikt voor iedereen aan tafel, ook kinderen.
-14. 14. Michelada: Bier, limoensap, hete saus en een Tajín-rand op het glas. Koud, hartig en licht pittig.
-15. 15. Watermeloen Agua Fresca: Drie ingrediënten, 10 minuten. Blenden, proeven en over ijs schenken.
+14. 14. Michelada: Bier, limoensap, hete saus en een Tajín-rand op het glas. Koud
+
+## Notities
+
+<!-- verwerkt -->

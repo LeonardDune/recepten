@@ -1,12 +1,21 @@
 ---
-status: processed
 title: "Buffelmelk Mozzarella & Burrata Pizza"
 source: "https://www.culy.nl/recepten/zobo-hibiscusthee/"
 date_added: 2026-05-17
+status: processed
+cuisine: italiaans
+course: hoofdgerecht
+servings: 2
+time_prep: "15 min"
+time_cook: "10 min"
+time_total: "25 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/hoofdgerecht
   - pizza
-  - italiaans
   - burrata
   - mozzarella
   - vegetarisch
@@ -43,5 +52,8 @@ tags:
 5. Bestrijk de buitenste 5 cm van het deeg met de [[olijfolie]].
 6. Schep een flinke lepel saus op elke pizza en verdeel deze gelijkmatig over het deeg, waarbij u een rand van ca. 2,5 cm vrijlaat.
 7. Verdeel de [[mozzarella]] over elke pizza en leg er wat [[basilicum]]blaadjes op.
-8. Bestrooi met een beetje grof [[zeezout]] en bak elke pizza ca. 10 minuten, of totdat de pizza bruin en bubbelig is. Draai de pizza halverwege indien nodig voor een gelijkmatige garing.
-9. Zodra de pizza uit de oven komt, snijdt u de [[burrata]] open en lepelt u wat van de romige wrongel over elke pizza. Geniet ervan!
+8. Bestrooi met een beetje grof [[zeezout]] en bak elke pizza ca. 10 minuten, of totdat de pizza bruin en bubbelig is. Draai de pizza halverwege indien nodi
+
+## Notities
+
+<!-- verwerkt -->

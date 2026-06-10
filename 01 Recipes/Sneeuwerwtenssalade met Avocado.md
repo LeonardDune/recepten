@@ -2,9 +2,19 @@
 title: "Sneeuwerwtenssalade met Avocado"
 source: "https://www.culy.nl/recepten/quiche-recept-artisjok-truffel/"
 date_added: 2026-06-07
+status: processed
+cuisine: internationaal
+course: salade
+servings: 2
+time_prep: "25 min"
+time_cook: "10 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
-  - salade
+  - cuisine/internationaal
+  - course/salade
   - sneeuwerwten
   - avocado
   - vegetarisch
@@ -36,6 +46,8 @@ tags:
 3. Stapel de erwten in kleine stapeltjes en snijd ze in de lengte in dunne reepjes.
 4. Hak de [[walnoten]] grof en doe ze in een grote kom.
 5. Voeg de [[olijfolie]], het [[citroen]]sap, ½ tot 1 theelepel koosjer [[zout]] (naar smaak), veel gemalen [[zwarte peper]] en pepervlokken naar smaak toe (gebruik ½ theelepel als richtlijn). Klop alles door elkaar.
-6. Voeg de [[sneeuwerwten]] toe en schep goed door zodat de groenten bedekt zijn met de dressing.
-7. Voeg de [[avocado]] toe en schep voorzichtig door tot alles gemengd is.
-8. Direct serveren.
+6
+
+## Notities
+
+<!-- verwerkt -->

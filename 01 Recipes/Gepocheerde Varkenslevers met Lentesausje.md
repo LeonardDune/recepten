@@ -2,10 +2,20 @@
 title: "Gepocheerde Varkenslevers met Lentesausje"
 source: "https://www.culy.nl/recepten/hot-honey-maken/"
 date_added: 2026-06-07
+status: processed
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: "15 min"
+time_cook: "10 min"
+time_total: "25 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/chinees
+  - course/hoofdgerecht
   - varkenslever
-  - chinees
   - sichuan
   - kantonees
   - lente-ui
@@ -37,5 +47,8 @@ tags:
 2. Voeg 120 ml [[bier]] toe en laat de lever een tijdje weken. Was daarna opnieuw en laat volledig uitlekken.
 3. Voeg een klein snufje [[zout]] en [[witte peper]] toe aan de lever. Meng goed en voeg vervolgens 2 eetlepels [[maizena]] toe om de lever gelijkmatig te bedekken.
 4. Verhit de olie in een kleine pan tot hij heet is. Haal de pan van het vuur. Voeg de gehakte [[lente-ui]] toe, gevolgd door de [[oestersaus]] en lichte [[sojasaus]]. Meng goed. Dit is de saus.
-5. Breng een grote pot water aan de kook in een wok of pan. Voeg de plakjes [[varkenslever]] toe. Zet het vuur op de laagste stand en doe het deksel op de pan. Laat 2 minuten sudderen.
-6. Leg de lever op een serveerschaal. Giet de saus erover en serveer direct warm.
+5. Breng een grote pot water aan de kook in een wok of pan. Voeg de plakjes [
+
+## Notities
+
+<!-- verwerkt -->
