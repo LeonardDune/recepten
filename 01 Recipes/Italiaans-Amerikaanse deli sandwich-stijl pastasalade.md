@@ -20,6 +20,7 @@ tags:
   - koud gerecht
   - makkelijk
   - snel
+status: processed
 ---
 
 # Italiaans-Amerikaanse deli sandwich-stijl pastasalade

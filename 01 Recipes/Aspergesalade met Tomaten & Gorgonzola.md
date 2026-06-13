@@ -23,6 +23,7 @@ tags:
   - fris
   - kaas
   - tomaten
+status: processed
 ---
 
 # Aspergesalade met Tomaten & Gorgonzola

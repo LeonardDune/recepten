@@ -22,6 +22,7 @@ tags:
   - snel
   - fris
   - kaas
+status: processed
 ---
 
 # Aspergesalade met Tomaten en Gorgonzola

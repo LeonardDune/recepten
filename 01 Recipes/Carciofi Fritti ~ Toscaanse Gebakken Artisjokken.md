@@ -20,6 +20,7 @@ tags:
   - toscaans
   - vegetarisch
   - lente
+status: processed
 ---
 
 # Carciofi Fritti ~ Toscaanse Gebakken Artisjokken

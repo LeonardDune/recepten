@@ -21,6 +21,7 @@ tags:
   - knapperig
   - snel
   - glutenvrij
+status: processed
 ---
 
 # Gebakken Kip in de Pan - Eenvoudig Recept

@@ -46,3 +46,28 @@ Klaar!
 
 Weekmenu voor 2026-W23 bestaat al (Week 2026-W23.md). Overgeslagen.
 Gebruik --week <andere-week> om een ander weekmenu te genereren.
+
+=== Weekmenu Generator - 2026-W25 ===
+
+Recepten laden...
+  723 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  34 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+
+Geselecteerde diners:
+  Maandag    [simpel    ] Balinees Varkensvlees I (Lelawar Bali)
+  Dinsdag    [simpel    ] Tagliolini met saffraan, citroen en boter
+  Woensdag   [uitgebreid] Chicken from Menado (Ayam bumbu Menado) + Acar Tofu, Sambal Goreng Snow Peas + Ananas prol - Indische wentelteefjes met ananas
+  Donderdag  [simpel    ] Pasta Carbonara met Asperges en Pecorino Kaas
+  Vrijdag    [uitgebreid] Acar Ikan - Indonesian Sour Fish with Vegetables + Sambal Trassi, Sayur Tumis with Cabbage + Es Cendol or Dawet
+
+Ingredienten lezen voor geselecteerde recepten...
+Bekende ingrediënten laden...
+  921 ingredientpagina's gevonden
+Boodschappenlijst genereren via Claude...
+
+Weekschema geschreven:      C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Plans\Week 2026-W25.md
+Boodschappenlijst geschreven: C:\Users\Renzo\Documents\Renzo\recepten\03 Weekly Plans\Week 2026-W25 Boodschappen.md
+
+Klaar!

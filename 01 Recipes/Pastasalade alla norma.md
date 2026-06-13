@@ -21,6 +21,7 @@ tags:
   - aubergine
   - ricotta
   - meal prep
+status: processed
 ---
 
 # Pastasalade alla norma
