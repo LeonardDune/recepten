@@ -2,8 +2,18 @@
 title: "Umbrische linzen en worst pasta (met zelfgemaakte strangozzi)"
 source: "https://www.culy.nl/recepten/quiche-recept-artisjok-truffel/"
 date_added: 2026-06-12
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: "30 min"
+time_cook: "30 min"
+time_total: "1 uur"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/hoofdgerecht
   - italiaans
   - umbrisch
   - pasta
@@ -46,3 +56,7 @@ tags:
 8. Breng een grote pan ge[[zout]]en [[water]] aan de kook en kook de strangozzi al dente. Bewaar wat van het pasta[[water]]. Giet de pasta af en voeg toe aan de pan met de saus.
 9. Meng alles op laag vuur gedurende 5 minuten. Als de saus te droog lijkt, voeg dan wat pasta[[water]] toe.
 10. Voeg wat geraspte [[parmigiano reggiano]] toe en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

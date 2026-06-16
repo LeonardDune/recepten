@@ -2,8 +2,18 @@
 title: "Sneeuwerwtjessalade met Avocado"
 source: "https://www.culy.nl/recepten/ube-drankje-ube-frappe-met-kokos/"
 date_added: 2026-06-13
+cuisine: amerikaans
+course: salade
+servings: 4
+time_prep: "20 min"
+time_cook: "10 min"
+time_total: "30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/amerikaans
+  - course/salade
   - salade
   - sneeuwerwtjes
   - avocado
@@ -37,3 +47,7 @@ tags:
 5. Voeg de [[olijfolie]], het [[citroen]]sap, een halve tot één theelepel koosjer [[zout]] (naar smaak), veel gemalen [[zwarte peper]] en pepervlokken naar smaak toe (aanbevolen: een halve theelepel). Klop alles door elkaar.
 6. Voeg de [[sneeuwerwtjes]] toe en schep om totdat de groenten goed bedekt zijn met de dressing.
 7. Voeg de [[avocado]] toe en schep voorzichtig om. Direct serveren.
+
+## Notities
+
+<!-- verwerkt -->

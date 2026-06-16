@@ -2,8 +2,18 @@
 title: "Morisqueta (Varkensribbetjes in Geroosterde Salsa)"
 source: "https://www.the-pasta-project.com/umbrian-lentil-and-sausage-pasta-recipe/"
 date_added: 2026-06-12
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: "20 min"
+time_cook: "1 uur 15 min"
+time_total: "1 uur 35 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/hoofdgerecht
   - mexicaans
   - michoacán
   - varkensribbetjes
@@ -51,3 +61,7 @@ tags:
 5. Verwijder en gooi het [[laurierblad]] en de aromaten weg uit de pan met ribben. Het vlees zal nu zijn eigen vet beginnen af te geven en gaat bakken. Bak de ribben verder totdat ze aan alle kanten bruin en gebakken zijn, ongeveer 10-15 minuten, af en toe roerend.
 6. Voeg de geblende salsa toe aan de ribben en laat ongeveer 10 minuten onafgedekt sudderen, af en toe roerend. Op dit punt kun je de botten verwijderen voor gemakkelijker serveren, of ze erin laten.
 7. Schep de morisqueta op door eerst een laag gekookte rijst in een kom te leggen, gevolgd door een laag gekookte [[pintobonen]] en tot slot de gestoofde [[varkensribbetjes]] met extra salsa erbovenop. Garneer met [[queso fresco]] en gehakte [[koriander]].
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,8 +2,18 @@
 title: "Zelfgemaakte Strangozzi Pasta uit Umbrië"
 source: "https://www.culy.nl/recepten/mango-sago/"
 date_added: 2026-06-12
+cuisine: italiaans
+course: bijgerecht
+servings: 4
+time_prep: "20 min"
+time_cook: "0 min"
+time_total: "50 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/bijgerecht
   - zelfgemaakte pasta
   - bloem en water pasta
   - Umbrisch
@@ -32,3 +42,7 @@ tags:
 5. Bestrooi de bovenkant van het deegvel licht met bloem (of fijn griesmeel) om plakken te voorkomen en snijd het in een rechthoek van ongeveer 30 cm lang.
 6. Rol het deeg op zichzelf op. Snijd de rol vervolgens met een scherp mes in dikke linten van ongeveer 4 tot 5 mm breed.
 7. Rol de linten voorzichtig los met je vingers zodat ze losser worden tot lange 'platte' spaghetti. Leg de klaarliggende strangozzi op een met bloem bestoven bakplaat totdat je ze gaat koken. Herhaal dit met de rest van het deeg.
+
+## Notities
+
+<!-- verwerkt -->

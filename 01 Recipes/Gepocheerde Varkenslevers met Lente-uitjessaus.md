@@ -2,8 +2,18 @@
 title: "Gepocheerde Varkenslevers met Lente-uitjessaus"
 source: "https://smittenkitchen.com/2026/06/snow-pea-salad-with-avocado/"
 date_added: 2026-06-12
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: "20 min"
+time_cook: "2 min"
+time_total: "30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/chinees
+  - course/hoofdgerecht
   - varkenslever
   - chinees
   - snel
@@ -39,3 +49,7 @@ tags:
 4. Verhit de olie in een kleine pan tot hij heet is. Haal de pan van het vuur. Voeg de [[lente-ui]] toe, gevolgd door de [[oestersaus]] en lichte [[sojasaus]]. Meng goed. Dit is de saus.
 5. Breng een grote pot water aan de kook in een wok of pan. Voeg de plakjes [[varkenslever]] toe. Zet het vuur op de laagste stand en doe het deksel op de pan. Laat 2 minuten sudderen.
 6. Leg de lever op een serveerschaal. Schenk de saus erover en serveer direct warm.
+
+## Notities
+
+<!-- verwerkt -->

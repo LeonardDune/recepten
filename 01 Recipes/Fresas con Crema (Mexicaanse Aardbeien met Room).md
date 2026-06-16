@@ -2,8 +2,18 @@
 title: "Fresas con Crema (Mexicaanse Aardbeien met Room)"
 source: "https://www.culy.nl/recepten/american-pancakes-recept-met-koffie/"
 date_added: 2026-06-14
+cuisine: mexicaans
+course: nagerecht
+servings: 6
+time_prep: "10 min"
+time_cook: "0 min"
+time_total: "10 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/nagerecht
   - mexicaans dessert
   - aardbeien
   - no-bake
@@ -34,3 +44,7 @@ tags:
 5. Schep 120 ml gesneden [[aardbeien]] in elk van de 6 kommetjes of bekers.
 6. Giet over elk kommetje 120 ml van de zoete roomsaus.
 7. Serveer direct met een lepel, of bewaar in de koelkast tot maximaal 24 uur na het samenstellen.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,8 +2,18 @@
 title: "Kleurrijke Linzensalade met Verse Kruiden"
 source: "https://www.culy.nl/recepten/zee-egel-creme-brulee-asperge/"
 date_added: 2026-06-12
+cuisine: italiaans
+course: salade
+servings: 8
+time_prep: "20 min"
+time_cook: "25 min"
+time_total: "45 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/salade
   - linzen
   - salade
   - verse kruiden
@@ -46,3 +56,7 @@ tags:
 3. Doe de [[lente-uitjes]], [[paprika]], [[granaatappel]]zaadjes, verse kruiden en [[walnoten]] in een grote slakom. Voeg de afgekoelde [[linzen]] toe en meng alles goed door elkaar.
 4. Klop in een kleine kom alle dressing-ingrediënten goed door elkaar totdat ze gemengd zijn.
 5. Giet de dressing over de salade en schep alles goed om. Serveer en geniet ervan!
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,8 +2,18 @@
 title: "Focaccia Gevuld met Prosciutto Cotto, Provolone Kaas & Zongedroogde Tomaten Pesto"
 source: "https://www.culy.nl/recepten/american-pancakes-recept-met-koffie/"
 date_added: 2026-06-12
+cuisine: italiaans
+course: lunch
+servings: 8
+time_prep: "30 min"
+time_cook: "25 min"
+time_total: "2 uur 30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/italiaans
+  - course/lunch
   - focaccia
   - gevuld brood
   - italiaans brood
@@ -56,3 +66,7 @@ tags:
 15. Druk met je vingers kuiltjes in het bovenste deeg. Besprenkel de bovenkant met een beetje [[olijfolie]] en bestrooi met grof [[zeezout]] en [[oregano]].
 16. Bak de focaccia in de voorverwarmde oven gedurende ongeveer 25 minuten, totdat hij opgezwollen en goudbruin is.
 17. Laat 10 minuten afkoelen, snijd dan in vierkanten van ongeveer 10 cm en serveer.
+
+## Notities
+
+<!-- verwerkt -->
