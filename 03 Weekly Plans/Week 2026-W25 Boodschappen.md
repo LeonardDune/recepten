@@ -12,30 +12,30 @@ date_created: 2026-06-12
 
 **Groenten & Fruit**
 
-- [ ] [[ananas]] (8 plakken)
-- [ ] [[asperges]] (225 g)
+- [x] [[ananas]] (8 plakken)
+- [x] [[asperges]] (225 g)
 - [ ] [[bieslook]] (een bosje)
-- [ ] [[chilipepers]] (4 stuks)
+- [x] [[chilipepers]] (4 stuks)
 - [ ] [[citroengras]] (3 stengels)
 - [ ] [[citroen]] (1 stuk)
-- [ ] [[gember]] (een stuk)
+- [x] [[gember]] (een stuk)
 - [ ] [[groene lombok]] (5 stuks)
 - [ ] [[jeruk purut]] (10 blaadjes)
 - [ ] [[kencur]] (een stuk verse, plus kencurpoeder)
-- [ ] [[komkommer]] (1 stuk)
+- [x] [[komkommer]] (1 stuk)
 - [ ] [[kool]] (250 g)
 - [ ] [[prei]] (een stuk)
 - [ ] [[rode lombok]] (2 stuks)
-- [ ] [[rode uien]] (400 g)
+- [x] [[rode uien]] (400 g)
 - [ ] [[snow peas]] (250 g)
-- [ ] [[tomaten]] (4 stuks)
-- [ ] [[uien]] (6 stuks)
+- [x] [[tomaten]] (4 stuks)
+- [x] [[uien]] (6 stuks)
 
 **Vlees & Vis**
 
-- [ ] [[gehakt]] (500 g half-om-half, of varkenslappen)
+- [x] [[gehakt]] (500 g half-om-half, of varkenslappen)
 - [ ] [[guanciale]] (170 g)
-- [ ] [[kip]] (1 stuk, 1000–1200 g)
+- [x] [[kip]] (1 stuk, 1000–1200 g)
 - [ ] [[visfilet]] (500 g zeebaars)
 
 **Zuivel & Eieren**
