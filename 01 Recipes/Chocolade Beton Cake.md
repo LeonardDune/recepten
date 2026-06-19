@@ -2,8 +2,18 @@
 title: "Chocolade Beton Cake"
 source: "https://www.culy.nl/recepten/caponata-recept-aubergine-toscanini/"
 date_added: 2026-06-17
+cuisine: internationaal
+course: nagerecht
+servings: 16
+time_prep: "15 min"
+time_cook: "35 min"
+time_total: "50 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/internationaal
+  - course/nagerecht
   - chocolade
   - cake
   - bakken
@@ -30,5 +40,9 @@ tags:
 ## Bereiding
 1. Verwarm de oven voor op 180°C (160°C hetelucht / gasstand 4). Vet een vierkante bakvorm van 20 cm in met [[boter]] en bekleed met bakpapier. Roer de gesmolten [[boter]] en het [[vanille-extract]] samen in een kom.
 2. Meng de [[fijne kristalsuiker]], het bakmeel en het [[cacaopoeder]] in een andere kom.
-3. Giet de natte ingrediënten bij de droge ingrediënten en meng goed door elkaar. Voeg het ei toe en klop opnieuw tot alles goed gemengd is. Druk het mengsel in de voorbereide bakvorm. Bestrijk de bovenkant met water en strooi de [[kristalsuiker]] erover.
-4. Bak 30-35 minuten. Laat 5 minuten iets afkoelen in de vorm, snijd dan in vierkantjes en leg ze op een rooster om volledig af te koelen.
+3. Giet de natte ingrediënten bij de droge ingrediënten en meng goed door elkaar. Voeg het ei toe en klop opnieuw tot alles goed gemengd is. Druk het mengsel in de voorbereide bakvorm.
+4. Strooi de 2 el [[kristalsuiker]] gelijkmatig over de bovenkant voor de kenmerkende knapperige korst. Bak 30-35 minuten in het midden van de oven tot de cake gaar is. Laat volledig afkoelen in de vorm en snijd in vierkantjes.
+
+## Notities
+
+<!-- verwerkt -->

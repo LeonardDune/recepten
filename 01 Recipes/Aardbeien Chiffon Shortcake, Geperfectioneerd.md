@@ -2,8 +2,18 @@
 title: "Aardbeien Chiffon Shortcake, Geperfectioneerd"
 source: "https://www.culy.nl/recepten/chocolade-dadels-gevuld/"
 date_added: 2026-06-17
+cuisine: amerikaans
+course: nagerecht
+servings: 12
+time_prep: "40 min"
+time_cook: "25 min"
+time_total: "1 uur 5 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/amerikaans
+  - course/nagerecht
   - zomer
   - aardbeien
   - chiffon cake
@@ -50,5 +60,8 @@ tags:
 11. Klop voor de vulling de [[slagroom]], [[poedersuiker]] en [[vanille-extract]] met een elektrische mixer tot zachte pieken. Voeg de [[zure room]] of crème fraîche toe en klop tot het mengsel dik genoeg is om zijn vorm te houden, maar nog romig en niet korrelig.
 12. Zodra de cakelagen volledig zijn afgekoeld, draai je de vormen voorzichtig om. Snijd met een mes langs de randen van elke laag en stort ze op een rooster. Snijd elke cakelaag met een lang kartelmes horizontaal doormidden, zodat je 4 dunne lagen hebt.
 13. Leg de eerste cakelaag op een serveerschaal of cakestandaard. Verdeel er een ruime kop [[slagroom]] over en leg er ongeveer een kwart van de gesneden [[aardbeien]] op. Herhaal dit drie keer met de overige lagen.
-14. Doe de resterende [[slagroom]] in een spuitzak met een stervormig spuitmondje en decoreer de bovenkant van de taart.
-15. Serveer de taart in punten. De taart is wankel en wil niet rechtop blijven staan, maar dat is de helft van het plezier.
+14. Doe de resterende [[slagroom]] in een spuitzak met een grote stervormige spuitmond en spuit decoratieve toefjes over de bovenste laag. Garneer met de overgebleven gesneden [[aardbeien]] en bewaar de taart in de koelkast tot het serveren.
+
+## Notities
+
+<!-- verwerkt -->
