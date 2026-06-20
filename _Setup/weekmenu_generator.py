@@ -15,6 +15,7 @@ import os
 import re
 import sys
 import json
+import time
 import argparse
 import calendar
 from pathlib import Path
@@ -27,11 +28,35 @@ except ImportError:
     print("Voer uit: pip install anthropic")
     sys.exit(1)
 
+# Retry-instellingen voor de Claude API (vangt tijdelijke netwerkproblemen op,
+# bijv. als de laptop net uit slaapstand komt en wifi nog niet verbonden is)
+API_RETRY_ATTEMPTS = 5
+API_RETRY_DELAY_SECONDS = 30
+
+
+def call_claude_with_retry(client: "anthropic.Anthropic", **kwargs):
+    """Roept client.messages.create() aan met retries bij netwerkfouten."""
+    last_error = None
+    for attempt in range(1, API_RETRY_ATTEMPTS + 1):
+        try:
+            return client.messages.create(**kwargs)
+        except anthropic.APIConnectionError as e:
+            last_error = e
+            if attempt < API_RETRY_ATTEMPTS:
+                print(
+                    f"  Netwerkfout bij Claude API (poging {attempt}/{API_RETRY_ATTEMPTS}). "
+                    f"Nieuwe poging in {API_RETRY_DELAY_SECONDS}s...",
+                    file=sys.stderr,
+                )
+                time.sleep(API_RETRY_DELAY_SECONDS)
+    raise last_error
+
 # ---------------------------------------------------------------------------
 # Paden
 # ---------------------------------------------------------------------------
 VAULT_ROOT = Path(__file__).parent.parent
 RECIPES_DIR = VAULT_ROOT / "01 Recipes"
+INGREDIENTS_DIR = VAULT_ROOT / "02 Ingredients"
 PLANS_DIR = VAULT_ROOT / "03 Weekly Plans"
 PREFS_FILE = PLANS_DIR / "_Voorkeuren.md"
 API_KEY_FILE = VAULT_ROOT / "_Setup" / "anthropic-api-key.txt"
@@ -238,6 +263,13 @@ def load_week_specific_prefs(week_str: str) -> str:
     return m.group(1).strip() if m else ""
 
 
+def load_known_ingredients() -> list[str]:
+    """Geeft alle paginanamen terug uit 02 Ingredients/ (bestandsnaam zonder .md)."""
+    if not INGREDIENTS_DIR.exists():
+        return []
+    return sorted(f.stem for f in INGREDIENTS_DIR.glob("*.md"))
+
+
 # ---------------------------------------------------------------------------
 # Ingrediënten lezen
 # ---------------------------------------------------------------------------
@@ -398,7 +430,8 @@ Geef ALLEEN geldig JSON terug, geen tekst eromheen:
 
 Zorg dat elke titel EXACT overeenkomt met een titel uit de lijsten hierboven."""
 
-    response = client.messages.create(
+    response = call_claude_with_retry(
+        client,
         model=CLAUDE_MODEL,
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
@@ -420,6 +453,7 @@ Zorg dat elke titel EXACT overeenkomt met een titel uit de lijsten hierboven."""
 def build_shopping_list(
     week_plan: dict,
     ingredients_per_recipe: dict[str, str],
+    known_ingredients: list[str],
 ) -> str:
     """Vraagt Claude om een gecategoriseerde boodschappenlijst te genereren."""
     client = anthropic.Anthropic()
@@ -431,6 +465,8 @@ def build_shopping_list(
             all_recipes.append(diner["dessert"])
         for title in all_recipes:
             ingredient_block += f"\n### {title}\n{ingredients_per_recipe.get(title, '(niet gevonden)')}\n"
+
+    known_list = "\n".join(f"- {name}" for name in known_ingredients)
 
     prompt = f"""Maak een boodschappenlijst op basis van onderstaande ingrediënten.
 
@@ -459,17 +495,27 @@ REGELS — lees ze goed:
 
 6. Sorteer alfabetisch binnen elke categorie.
 
-7. Formaat per regel: `- [ ] ingrediëntnaam (hoeveelheid)`
+7. **Wikilinks:** Hieronder staat de lijst van bekende ingrediëntpagina's in de vault.
+   Als de naam van een ingrediënt overeenkomt met (of zeer dicht bij) een naam in deze lijst,
+   gebruik dan die exacte paginanaam als wikilink: `[[paginanaam]]`.
+   Gebruik alleen een wikilink als er een goede match is; verzin geen links.
+
+   Bekende ingrediëntpagina's:
+{known_list}
+
+8. Formaat per regel: `- [ ] [[paginanaam]] (hoeveelheid)` als er een wikilink is,
+   anders: `- [ ] ingrediëntnaam (hoeveelheid)`
    Voorbeelden:
-   - [ ] komkommer (1 stuk)
-   - [ ] knoflook (1 bol)
-   - [ ] kipfilet (500 g)
-   - [ ] ketoembar
-   - [ ] kokosmelk (2 blikken)
+   - [ ] [[komkommer]] (1 stuk)
+   - [ ] [[knoflook]] (1 bol)
+   - [ ] [[gember]] (een stuk)
+   - [ ] [[ketoembar]]
+   - [ ] spitskool (400 g)  ← geen wikilink want geen match gevonden
 
-8. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
+9. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
 
-    response = client.messages.create(
+    response = call_claude_with_retry(
+        client,
         model=CLAUDE_MODEL,
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
@@ -601,7 +647,7 @@ def main():
     args = parser.parse_args()
 
     week_str = args.week or week_str_for_next_week()
-    print(f"\n=== Weekmenu Generator — {week_str} ===\n")
+    print(f"\n=== Weekmenu Generator - {week_str} ===\n")
 
     # Laad API key uit bestand; omgevingsvariabele heeft voorrang
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -628,7 +674,7 @@ def main():
 
     print("Weekplanhistorie lezen (laatste 8 weken)...")
     excluded, history_ratings = load_history(weeks=8)
-    print(f"  {len(excluded)} recepten recent gebruikt → worden overgeslagen")
+    print(f"  {len(excluded)} recepten recent gebruikt -> worden overgeslagen")
 
     preferences = load_preferences()
     week_specific_prefs = args.week_voorkeur or load_week_specific_prefs(week_str)
@@ -653,7 +699,7 @@ def main():
             extra += f" + {diner['dessert']}"
         print(f"  {diner['dag']:10s} [{diner['type']:10s}] {diner['hoofdgerecht']}{extra}")
 
-    print("\nIngredïenten lezen voor geselecteerde recepten...")
+    print("\nIngredienten lezen voor geselecteerde recepten...")
     recipe_ingredients: dict[str, str] = {}
     for diner in week_plan["diners"]:
         all_r = [diner["hoofdgerecht"]] + (diner.get("bijgerechten") or [])
@@ -663,8 +709,12 @@ def main():
             if title not in recipe_ingredients:
                 recipe_ingredients[title] = read_ingredients_section(title, title_to_file)
 
+    print("Bekende ingrediënten laden...")
+    known_ingredients = load_known_ingredients()
+    print(f"  {len(known_ingredients)} ingredientpagina's gevonden")
+
     print("Boodschappenlijst genereren via Claude...")
-    shopping_content = build_shopping_list(week_plan, recipe_ingredients)
+    shopping_content = build_shopping_list(week_plan, recipe_ingredients, known_ingredients)
 
     # Schrijf bestanden
     shopping_file = PLANS_DIR / f"Week {week_str} Boodschappen.md"
