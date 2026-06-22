@@ -2,10 +2,19 @@
 title: "Namaak Chipotle Kip Recept"
 source: "https://www.bbcgoodfood.com/recipes/rock-cakes"
 date_added: 2026-06-19
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6-8
+time_prep: "15 min"
+time_cook: "10-12 min"
+time_total: "2 uur 25 min (incl. marineren)"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/hoofdgerecht
   - kip
-  - mexicaans
   - namaak restaurant
   - gegrild
   - marinade
@@ -46,3 +55,7 @@ tags:
 6. Op het fornuis: Verhit een scheutje olie in een grote koekenpan op middelhoog vuur. Bak 5-6 minuten per kant.
 7. In de airfryer: Bak op 190°C gedurende 15-18 minuten, halverwege omdraaien.
 8. Laat de [[kippenbouten]] 5 minuten rusten voor het serveren. Snijd in hapklare stukjes en knijp er eventueel wat vers [[limoensap]] over.
+
+## Notities
+
+<!-- verwerkt -->

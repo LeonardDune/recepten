@@ -2,15 +2,24 @@
 title: "Hunan Sesam Kip met Groene Pepers"
 source: "https://www.bbcgoodfood.com/recipes/rock-cakes"
 date_added: 2026-06-20
+cuisine: chinees
+course: hoofdgerecht
+servings: 2-3
+time_prep: "10 min"
+time_cook: "25 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/chinees
+  - course/hoofdgerecht
   - hunan
   - kip
   - chilipeper
   - sesamolie
   - gesuderd
   - zomer
-  - chinees
   - niet pittig
   - eenvoudig
 ---
@@ -34,3 +43,7 @@ tags:
 3. Voeg kokend heet water en de twee hele pepers toe. Doe het deksel op de wok en kook 20 minuten, afhankelijk van de leeftijd van de [[kip]], totdat de [[kip]] gaar is. Verwijder daarna de hele pepers en gooi ze weg.
 4. Neem een andere wok, voeg de fijngehakte [[chilipeper]]s, knoflook en een klein snufje [[zout]] toe. Bak ongeveer een halve minuut. Je kunt de kleinere stukjes ook direct aan de sudderpot toevoegen.
 5. Voeg de gebakken [[chilipeper]]s toe aan de soep. Zet het vuur hoger en laat de saus een beetje indikken.
+
+## Notities
+
+<!-- verwerkt -->

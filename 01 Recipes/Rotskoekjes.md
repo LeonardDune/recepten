@@ -2,8 +2,18 @@
 title: "Rotskoekjes"
 source: "https://www.culy.nl/recepten/caponata-recept-aubergine-toscanini/"
 date_added: 2026-06-18
+cuisine: brits
+course: snack
+servings: 10 koekjes
+time_prep: "15 min"
+time_cook: "20-25 min"
+time_total: "ca. 40 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/brits
+  - course/snack
   - traditioneel
   - brits
   - bakken
@@ -33,3 +43,7 @@ tags:
 ## Bereiding
 1. Verwarm de oven voor op 180°C (160°C hetelucht). Bekleed een bakplaat met bakpapier. Doe het bakmeel, [[bakpoeder]] en 1 tl [[gemengde spezerijen]] in een kom. Voeg de [[boter]] toe, in kleine stukjes gesneden. Wrijf de [[boter]] door het meel totdat het mengsel fijne kruimels vormt (of doe dit in een keukenmachine).
 2. Roer de [[muscovadosuiker]] en het gedroogde fruit erdoor, voeg dan het ei en de [[melk]] toe. Meng tot een vrij stevig deeg. Schep 10 ruwe hoopjes van het mengsel op de bakplaat, met voldoende ruimte ertussen voor enige uitloop. Meng de suiker met de resterende [[gemengde spezerijen]] en strooi dit over de koekjes. Bak 20-25 minuten tot ze goudbruin zijn.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,10 +2,19 @@
 title: "Chipotle Kip (Copycat Recept)"
 source: "https://www.bbcgoodfood.com/recipes/chocolate-crunch"
 date_added: 2026-06-20
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6-8
+time_prep: "15 min"
+time_cook: "10-12 min"
+time_total: "2 uur 25 min (incl. marineren)"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/hoofdgerecht
   - kip
-  - mexicaans
   - gegrild
   - marinade
   - copycat
@@ -46,3 +55,7 @@ tags:
 6. Op het fornuis: Verhit een scheutje olie in een grote koekenpan op middelhoog vuur. Bak 5-6 minuten per kant.
 7. In de airfryer: Bak op 190°C gedurende 15-18 minuten, halverwege omdraaien.
 8. Laat de [[kippendijtjes]] 5 minuten rusten voor het serveren. Hak de kip in hapklare stukken en knijp er wat vers [[limoensap]] over.
+
+## Notities
+
+<!-- verwerkt -->

@@ -2,8 +2,18 @@
 title: "Aardbei Chiffon Shortcake, Geperfectioneerd"
 source: "https://www.culy.nl/recepten/caponata-recept-aubergine-toscanini/"
 date_added: 2026-06-19
+cuisine: amerikaans
+course: nagerecht
+servings: 10-12
+time_prep: "45 min"
+time_cook: "20-25 min"
+time_total: "ca. 2 uur (incl. afkoelen)"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/amerikaans
+  - course/nagerecht
   - zomer
   - aardbeien
   - chiffon cake
@@ -53,3 +63,7 @@ tags:
 13. Leg de eerste cakelaag op een serveerschaal of cakestandaard. Smeer er een ruime kop [[slagroom]] over en verdeel ongeveer een kwart van de gesneden [[aardbeien]] erover. Herhaal dit drie keer met de overige lagen.
 14. Doe de resterende [[slagroom]] in een spuitzak met een stervormig spuitmondje en decoreer de bovenkant van de taart naar wens.
 15. Serveer de taart in punten. De taart is wankel en wil niet rechtop blijven staan, maar dat hoort erbij.
+
+## Notities
+
+<!-- verwerkt -->

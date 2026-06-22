@@ -2,8 +2,18 @@
 title: "Knapperige Jicama Frietjes (Oven of Airfryer)"
 source: "https://www.bbcgoodfood.com/recipes/rock-cakes"
 date_added: 2026-06-20
+cuisine: mexicaans
+course: bijgerecht
+servings: 4
+time_prep: "15 min"
+time_cook: "35-40 min"
+time_total: "ca. 55 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/mexicaans
+  - course/bijgerecht
   - koolhydraatarm
   - keto
   - paleo
@@ -12,7 +22,6 @@ tags:
   - gezond
   - jicama
   - frietjes
-  - mexicaans
   - bijgerecht
   - snack
   - airfryer
@@ -43,3 +52,7 @@ tags:
 6. Verdeel de frietjes in een enkele laag over de voorbereide bakplaten.
 7. Bak 35 tot 40 minuten, draai de frietjes halverwege om, totdat ze aan beide kanten bruin en knapperig zijn.
 8. Garneer eventueel met grof zee[[zout]] en gehakte [[peterselie]] en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

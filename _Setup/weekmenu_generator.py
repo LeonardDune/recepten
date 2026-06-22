@@ -15,6 +15,7 @@ import os
 import re
 import sys
 import json
+import time
 import argparse
 import calendar
 from pathlib import Path
@@ -26,6 +27,29 @@ except ImportError:
     print("Fout: de 'anthropic' package is niet geïnstalleerd.")
     print("Voer uit: pip install anthropic")
     sys.exit(1)
+
+# Retry-instellingen voor de Claude API (vangt tijdelijke netwerkproblemen op,
+# bijv. als de laptop net uit slaapstand komt en wifi nog niet verbonden is)
+API_RETRY_ATTEMPTS = 5
+API_RETRY_DELAY_SECONDS = 30
+
+
+def call_claude_with_retry(client: "anthropic.Anthropic", **kwargs):
+    """Roept client.messages.create() aan met retries bij netwerkfouten."""
+    last_error = None
+    for attempt in range(1, API_RETRY_ATTEMPTS + 1):
+        try:
+            return client.messages.create(**kwargs)
+        except anthropic.APIConnectionError as e:
+            last_error = e
+            if attempt < API_RETRY_ATTEMPTS:
+                print(
+                    f"  Netwerkfout bij Claude API (poging {attempt}/{API_RETRY_ATTEMPTS}). "
+                    f"Nieuwe poging in {API_RETRY_DELAY_SECONDS}s...",
+                    file=sys.stderr,
+                )
+                time.sleep(API_RETRY_DELAY_SECONDS)
+    raise last_error
 
 # ---------------------------------------------------------------------------
 # Paden
@@ -406,7 +430,8 @@ Geef ALLEEN geldig JSON terug, geen tekst eromheen:
 
 Zorg dat elke titel EXACT overeenkomt met een titel uit de lijsten hierboven."""
 
-    response = client.messages.create(
+    response = call_claude_with_retry(
+        client,
         model=CLAUDE_MODEL,
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
@@ -489,7 +514,8 @@ REGELS — lees ze goed:
 
 9. Geef ALLEEN de Markdown-inhoud terug, geen inleiding, uitleg of samenvatting."""
 
-    response = client.messages.create(
+    response = call_claude_with_retry(
+        client,
         model=CLAUDE_MODEL,
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}]
