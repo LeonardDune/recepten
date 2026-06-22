@@ -2,9 +2,19 @@
 title: "Pasta Recepten uit Umbrië"
 source: "https://www.culy.nl/recepten/chocolade-dadels-gevuld/"
 date_added: 2026-06-19
+cuisine: italiaans
+course: hoofdgerecht
+servings:
+time_prep:
+time_cook:
+time_total:
+rating:
+tried: false
 tags:
   - recipe
-  - italiaans
+  - cuisine/italiaans
+  - course/hoofdgerecht
+  - collectie
   - umbrië
   - pasta
   - gnocchi
@@ -78,3 +88,10 @@ tags:
 10. 10. [[brood]]gnocchi met worstragù: Maak gnocchi van oud [[brood]] of gebruik kant-en-klare [[aardappelgnocchi]]. Bereid een ragù van worst en bonen. Serveer de saus over de gnocchi.
 11. 11. Gnocchi met [[saffraan]][[room]]saus: Meng [[saffraan]] met [[ricotta]] en [[melk]] tot een romige saus. Kook de gnocchi en schep door de [[saffraan]]saus.
 12. 12. [[chocolade]] en [[walnoten]] zoete pastataart: Maak een pastabodem en vul met een mengsel van [[chocolade]] en [[walnoten]]. Bak af in de oven tot een unieke dessertpastataart.
+
+## Notities
+
+Verzamelnotitie met 12 traditionele Umbrische pastarecepten — geen enkel recept, maar een collectie (`collectie`-tag, `course/hoofdgerecht` als hoofdcategorie). Porties en tijden variëren per gerecht en zijn daarom leeg gelaten. ⚠️ De `source`-URL is een clip-artefact (verwijst naar een ongerelateerd dadelrecept op culy.nl) en klopt niet met de inhoud.
+
+<!-- verwerkt -->
+
