@@ -2,6 +2,14 @@
 title: "Copycat Chipotle Kip Recept"
 source: "https://smittenkitchen.com/2026/06/strawberry-chiffon-shortcake-perfected/"
 date_added: 2026-06-22
+cuisine: mexicaans
+course: hoofdgerecht
+servings: 6
+time_prep: "15 min"
+time_cook: "15 min"
+time_total: "30 min (excl. marineertijd 2–10 uur)"
+rating:
+tried: false
 tags:
   - recipe
   - kip
@@ -46,3 +54,9 @@ tags:
 6. Op het fornuis: Verhit een scheutje olie in een grote koekenpan op middelhoog vuur. Bak 5-6 minuten per kant.
 7. In de airfryer: Bak op 190°C gedurende 15-18 minuten, halverwege omdraaien.
 8. Laat de [[kippendijtjes]] 5 minuten rusten voor het serveren. Snijd in hapklare stukjes en knijp er wat vers [[limoensap]] over.
+
+## Notities
+
+Bron-URL lijkt afkomstig uit een verkeerd geclipte pagina (smittenkitchen strawberry shortcake) en komt niet overeen met dit recept; gemarkeerd voor handmatige controle.
+
+<!-- verwerkt -->
