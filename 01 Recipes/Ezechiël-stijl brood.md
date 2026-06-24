@@ -2,6 +2,14 @@
 title: "Ezechiël-stijl brood"
 source: "https://www.culy.nl/recepten/italiaanse-gehaktballetjes-in-tomatensaus-toscanini/"
 date_added: 2026-06-23
+cuisine: internationaal
+course: ontbijt
+servings: 1
+time_prep: "30 min (excl. 2-3 dagen ontkiemen)"
+time_cook: "50 min"
+time_total: "ca. 3 uur + ontkiemen"
+rating:
+tried: false
 tags:
   - recipe
   - brood
@@ -14,6 +22,8 @@ tags:
   - gezond
   - zelfgebakken brood
   - traditioneel
+  - cuisine/internationaal
+  - course/ontbijt
 ---
 
 # Ezechiël-stijl brood
@@ -39,3 +49,7 @@ tags:
 5. Vorm het deeg tot een ovaal dat ongeveer even lang is als je broodvorm. Als je zaden wilt gebruiken, strooi ze dan op een bakplaat, bevochtig de bovenkant van het deeg licht met [[water]] en rol het door de zaden. Leg het deeg met de zadenkant naar boven in de vorm en laat het ongeveer een uur rijzen totdat het met een derde is toegenomen.
 6. Verwarm de oven voor op 200 °C (180 °C hetelucht / gasstand 6). Bak het brood 50 minuten totdat het goudbruin is en een hol geluid maakt als je op de onderkant klopt.
 7. Haal het brood uit de vorm en laat het op een rooster volledig afkoelen. Het brood is drie dagen houdbaar in een broodtrommel of -zak, of kan tot zes maanden worden ingevroren.
+
+## Notities
+
+<!-- verwerkt -->

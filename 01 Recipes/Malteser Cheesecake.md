@@ -2,6 +2,14 @@
 title: "Malteser Cheesecake"
 source: "https://www.culy.nl/recepten/cupcakes-basisrecept-voor-beginners-zo-maak-je-zachte-cakejes-met-romige-frosting/"
 date_added: 2026-06-23
+cuisine: brits
+course: nagerecht
+servings: 12
+time_prep: "30 min"
+time_cook: "0 min"
+time_total: "30 min + 3 uur koelen"
+rating:
+tried: false
 tags:
   - recipe
   - no-bake
@@ -11,6 +19,8 @@ tags:
   - vegetarisch
   - make-ahead
   - feestelijk
+  - cuisine/brits
+  - course/nagerecht
 ---
 
 # Malteser Cheesecake
@@ -34,3 +44,7 @@ tags:
 1. Bekleed een springvorm van 20 cm met bakpapier. Maal de koekjes in een keukenmachine tot fijne kruimels. Voeg de [[boter]] toe en pulseer tot het mengsel op vochtig zand lijkt. Schep in de beklede vorm en druk glad en vlak met een lepel. Zet in de koelkast terwijl je de cheesecake bereidt.
 2. Klop voor de cheesecake de [[roomkaas]], het [[malted milk poeder]], de chocolade, de suiker en de [[slagroom]] samen tot stijve pieken. Schraap op de bodem en strijk glad en vlak met een spatel. Zet minimaal drie uur (of maximaal vier dagen) in de koelkast tot de cheesecake stevig is. De cheesecake kan tot dit punt van tevoren worden gemaakt; haal hem daarna uit de koelkast en decoreer zoals beschreven in stap 3.
 3. Klop voor de decoratie de [[slagroom]] en het [[malted milk poeder]] tot zachte pieken. Haal de cheesecake uit de vorm en laat hem ongeveer 10 minuten op kamertemperatuur komen. Schep de [[slagroom]] erop. Strooi de gehakte [[maltesers]] erover en serveer in punten. Na het opmaken de cheesecake bij voorkeur dezelfde dag opeten.
+
+## Notities
+
+<!-- verwerkt -->

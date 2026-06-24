@@ -2,6 +2,14 @@
 title: "Biscoff Rocky Road"
 source: "https://www.culy.nl/recepten/sardines-op-toast/"
 date_added: 2026-06-23
+cuisine: brits
+course: nagerecht
+servings: 16
+time_prep: "20 min"
+time_cook: "0 min"
+time_total: "20 min + 3 uur koelen"
+rating:
+tried: false
 tags:
   - recipe
   - vegetarisch
@@ -12,6 +20,8 @@ tags:
   - traktatie
   - makkelijk
   - middagthee
+  - cuisine/brits
+  - course/nagerecht
 ---
 
 # Biscoff Rocky Road
@@ -30,3 +40,7 @@ tags:
 1. Smelt de [[biscoff spread]], [[gezouten boter]] en 200g van de [[witte chocolade]] in een grote hittebestendige kom boven een pan met zacht kokend water (zorg ervoor dat het water de kom niet raakt), en roer tot het mengsel glanzend en glad is. Haal van het vuur en laat iets afkoelen. Verkruimel ondertussen de [[biscoff koekjes]] lichtjes zodat je stukjes van verschillende groottes hebt.
 2. Roer de verkruimelde koekjes, [[mini marshmallows]] en [[pecannoten]] door het gesmolten Biscoff-mengsel. Schraap het mengsel in een met bakpapier beklede vierkante bakvorm van 18 cm, maak het oppervlak glad en zet minimaal 3 uur in de koelkast, of totdat het geheel volledig stevig is.
 3. Smelt ondertussen de resterende 50g [[witte chocolade]] in een hittebestendige kom boven een pan met zacht kokend water, of in korte intervallen in de magnetron. Haal de rocky road uit de vorm en snijd in 16 vierkantjes, druppel vervolgens de gesmolten [[witte chocolade]] erover. Laat iets opstijven voor het serveren.
+
+## Notities
+
+<!-- verwerkt -->

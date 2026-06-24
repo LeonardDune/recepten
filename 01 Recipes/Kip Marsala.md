@@ -2,6 +2,14 @@
 title: "Kip Marsala"
 source: "https://www.culy.nl/recepten/calimocho-tinto-de-verano/"
 date_added: 2026-06-23
+cuisine: italiaans-amerikaans
+course: hoofdgerecht
+servings: 4
+time_prep: "15 min"
+time_cook: "30 min"
+time_total: "45 min"
+rating:
+tried: false
 tags:
   - recipe
   - kip
@@ -13,6 +21,8 @@ tags:
   - weinig suiker
   - comfort food
   - doordeweeks diner
+  - cuisine/italiaans-amerikaans
+  - course/hoofdgerecht
 ---
 
 # Kip Marsala
@@ -40,3 +50,7 @@ tags:
 4. Voeg de resterende eetlepel [[olie]] toe en bak de [[sjalot]]ten 6 tot 8 minuten op middelhoog vuur tot ze zacht zijn maar niet goudbruin. Roer de [[knoflook]] erdoor en bak nog 2 minuten. Schenk dan de [[marsalawijn]] erbij en zet het vuur iets hoger. Kook tot de wijn tot de helft is ingekookt.
 5. Voeg de [[kippenbouillon]] toe en doe de [[champignons]] en kip terug in de pan. Laat 10 tot 15 minuten sudderen op laag vuur, dek de pan af als de saus te snel inkokt, totdat de kip gaar is en de saus lekker dik is.
 6. Roer de [[slagroom]] erdoor voor een dikke, romige saus en strooi de [[peterselie]] erover. Serveer met partjes [[citroen]] naar smaak, en rijst, aardappelpuree of pasta erbij.
+
+## Notities
+
+<!-- verwerkt -->

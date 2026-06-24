@@ -2,6 +2,14 @@
 title: "Spaghetti alla Checca uit Rome"
 source: "https://www.culy.nl/recepten/chocolade-dadels-gevuld/"
 date_added: 2026-06-23
+cuisine: italiaans
+course: hoofdgerecht
+servings: 4
+time_prep: "15 min"
+time_cook: "20 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
   - vegetarisch
@@ -16,6 +24,8 @@ tags:
   - tomaten
   - olijven
   - weekdiner
+  - cuisine/italiaans
+  - course/hoofdgerecht
 ---
 
 # Spaghetti alla Checca uit Rome
@@ -46,3 +56,7 @@ tags:
 9. Schep voor het afgieten een kopje (240 ml) kookwater op. Giet de pasta af en voeg de hete [[spaghetti]] direct bij de saus.
 10. Als de saus te droog lijkt, voeg dan wat pasta-kookwater of een paar extra eetlepels [[olijfolie]] toe.
 11. Schep de pasta alla checca in een serveerschaal, leg de [[burrata]] erop en snijd deze open. Bestrooi met extra verse [[peterselie]] en [[basilicum]] en besprenkel met een scheutje [[olijfolie]]. Serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

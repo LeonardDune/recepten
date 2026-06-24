@@ -2,6 +2,14 @@
 title: "Boursin Pasta"
 source: "https://www.culy.nl/recepten/italiaanse-gehaktballetjes-in-tomatensaus-toscanini/"
 date_added: 2026-06-23
+cuisine: internationaal
+course: hoofdgerecht
+servings: 4
+time_prep: "10 min"
+time_cook: "25 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
   - pasta
@@ -12,6 +20,8 @@ tags:
   - ovenschotel
   - laag suikergehalte
   - gezin
+  - cuisine/internationaal
+  - course/hoofdgerecht
 ---
 
 # Boursin Pasta
@@ -29,5 +39,9 @@ tags:
 
 ## Bereiding
 1. Verwarm de oven voor op 180°C (160°C hetelucht/gasstand 4). Leg de Boursin in een ovenschaal en voeg de [[kerstomaatjes]], [[rode ui]] en [[tijm]] toe. Bak 10 minuten en voeg dan de diepvries[[spinazie]] toe. Bak nog 15 minuten, of totdat de Boursin zacht is en de [[spinazie]] ontdooid is.
-2. Kook ondertussen de [[pasta]] volgens de verpakkingsinstructies (ongeveer 10-12 minuten). Schep een mok [[pasta]]water op voordat je de [[pasta]] afgiет, giet de [[pasta]] af en zet apart.
+2. Kook ondertussen de [[pasta]] volgens de verpakkingsinstructies (ongeveer 10-12 minuten). Schep een mok [[pasta]]water op voordat je de [[pasta]] afgiet, giet de [[pasta]] af en zet apart.
 3. Giet een paar eetlepels [[pasta]]water in de ovenschaal en meng alles goed door elkaar. De tomaatjes zullen beginnen uit elkaar te vallen en het water helpt een romige kaassaus te vormen. Meng de saus en [[pasta]] in de ovenschaal of in de [[pasta]]pan samen met de [[parmezaanse kaas]]. Verdeel over 4 [[pasta]]borden of -schalen en serveer direct.
+
+## Notities
+
+<!-- verwerkt -->

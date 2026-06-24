@@ -2,6 +2,14 @@
 title: "Zelfgemaakte Chocoladevla"
 source: "https://www.culy.nl/recepten/chocolade-dadels-gevuld/"
 date_added: 2026-06-23
+cuisine: nl
+course: nagerecht
+servings: 6
+time_prep: "5 min"
+time_cook: "10 min"
+time_total: "15 min"
+rating:
+tried: false
 tags:
   - recipe
   - chocolade
@@ -11,6 +19,8 @@ tags:
   - troosteten
   - makkelijk
   - snel
+  - cuisine/nl
+  - course/nagerecht
 ---
 
 # Zelfgemaakte Chocoladevla
@@ -30,3 +40,7 @@ tags:
 2. Laat het mengsel 1-2 minuten zachtjes sudderen op laag vuur, en haal dan de pan van het vuur.
 3. Doe de [[melkchocolade]] en [[pure chocolade]] in een grote kom en giet de hete vla erover. Laat 2 minuten staan en roer daarna goed door tot alles volledig gemengd is.
 4. Bewaar afgedekt in een luchtdichte container tot twee dagen in de koelkast.
+
+## Notities
+
+<!-- verwerkt -->

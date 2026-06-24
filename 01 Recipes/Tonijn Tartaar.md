@@ -2,6 +2,14 @@
 title: "Tonijn Tartaar"
 source: "https://www.bbcgoodfood.com/recipes/ezekiel-style-bread"
 date_added: 2026-06-23
+cuisine: aziatisch
+course: voorgerecht
+servings: 4
+time_prep: "20 min"
+time_cook: "0 min"
+time_total: "20 min"
+rating:
+tried: false
 tags:
   - recipe
   - tonijn
@@ -17,6 +25,8 @@ tags:
   - voorgerecht
   - lunch
   - snel
+  - cuisine/aziatisch
+  - course/voorgerecht
 ---
 
 # Tonijn Tartaar
@@ -40,3 +50,7 @@ tags:
 1. Snijd de [[tonijn]] in stukjes van 1 cm en leg ze in de koelkast om koel te houden terwijl je de saus maakt.
 2. Meng de [[gember]], [[knoflook]], chilipeper, het grootste deel van de [[koriander]]bladen en alle steeltjes, het [[limoen]]sap, de [[sojasaus]], [[honing]], [[sesamolie]] en [[sesamzaadjes]] in een grote kom. Voeg naar smaak extra [[limoen]]sap toe. Doe de [[tonijn]]stukjes erbij en meng goed zodat alles bedekt is.
 3. Schep het [[tonijn]]mengsel in ondiepe kommen of druk het met een kookring tot een nette ronde vorm. Strooi de resterende [[koriander]]bladen erover en serveer met brood of geroosterde [[ciabatta]]sneetjes erbij.
+
+## Notities
+
+<!-- verwerkt -->
