@@ -1,6 +1,6 @@
 ---
-title: "Simple Peanut Sauce (Beb Vuyk)"
-source: "https://pisangsusu.com/469-simple-peanut-sauce-ii/"
+title: Simple Peanut Sauce (Beb Vuyk)
+source: https://pisangsusu.com/469-simple-peanut-sauce-ii/
 date_added: 2026-04-27
 cuisine: indonesisch
 course: saus
@@ -18,8 +18,6 @@ tags:
   - sateh
   - tamarinde
   - ketjap
-  - beb vuyk
-  - snel recept
 status: processed
 ---
 
