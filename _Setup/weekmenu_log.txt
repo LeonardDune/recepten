@@ -235,3 +235,168 @@ Traceback (most recent call last):
   File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1036, in _request
     raise APIConnectionError(request=request) from err
 anthropic.APIConnectionError: Connection error.
+  Netwerkfout bij Claude API (poging 1/5). Nieuwe poging in 30s...
+  Netwerkfout bij Claude API (poging 2/5). Nieuwe poging in 30s...
+  Netwerkfout bij Claude API (poging 3/5). Nieuwe poging in 30s...
+  Netwerkfout bij Claude API (poging 4/5). Nieuwe poging in 30s...
+
+=== Weekmenu Generator - 2026-W27 ===
+
+Recepten laden...
+  776 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  57 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_sync\connection.py", line 101, in handle_request
+    raise exc
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_sync\connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_sync\connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_backends\sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1002, in _request
+    response = self._client.send(
+        request,
+        stream=stream or self._should_stream_response_body(request=request),
+        **kwargs,
+    )
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 734, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 683, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 433, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 52, in call_claude_with_retry
+    raise last_error
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 42, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1026, in _request
+    return self._retry_request(
+           ~~~~~~~~~~~~~~~~~~~^
+        input_options,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        response_headers=None,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1104, in _retry_request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        options=options,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stream_cls=stream_cls,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1026, in _request
+    return self._retry_request(
+           ~~~~~~~~~~~~~~~~~~~^
+        input_options,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        response_headers=None,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1104, in _retry_request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        options=options,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stream_cls=stream_cls,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1036, in _request
+    raise APIConnectionError(request=request) from err
+anthropic.APIConnectionError: Connection error.
