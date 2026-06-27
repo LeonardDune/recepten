@@ -29,26 +29,39 @@ except ImportError:
     sys.exit(1)
 
 # Retry-instellingen voor de Claude API (vangt tijdelijke netwerkproblemen op,
-# bijv. als de laptop net uit slaapstand komt en wifi nog niet verbonden is)
-API_RETRY_ATTEMPTS = 5
-API_RETRY_DELAY_SECONDS = 30
+# bijv. als de laptop net uit slaapstand komt en wifi/VPN nog niet verbonden is).
+# 10 pogingen met oplopende pauze (30s, 60s, 60s, ... max 90s) geeft in totaal
+# ruim 10 minuten respijt - genoeg om wifi/VPN na het wakker worden te laten herstellen.
+API_RETRY_ATTEMPTS = 10
+API_RETRY_BASE_DELAY_SECONDS = 30
+API_RETRY_MAX_DELAY_SECONDS = 90
+
+# Foutmeldingen die wijzen op een tijdelijk netwerkprobleem (niet op een echte
+# API-fout zoals een ongeldige key of een content-fout)
+RETRYABLE_EXCEPTIONS = (
+    anthropic.APIConnectionError,
+    anthropic.APITimeoutError,
+    anthropic.InternalServerError,
+    anthropic.RateLimitError,
+)
 
 
 def call_claude_with_retry(client: "anthropic.Anthropic", **kwargs):
-    """Roept client.messages.create() aan met retries bij netwerkfouten."""
+    """Roept client.messages.create() aan met retries bij (tijdelijke) netwerkproblemen."""
     last_error = None
     for attempt in range(1, API_RETRY_ATTEMPTS + 1):
         try:
             return client.messages.create(**kwargs)
-        except anthropic.APIConnectionError as e:
+        except RETRYABLE_EXCEPTIONS as e:
             last_error = e
             if attempt < API_RETRY_ATTEMPTS:
+                delay = min(API_RETRY_BASE_DELAY_SECONDS * attempt, API_RETRY_MAX_DELAY_SECONDS)
                 print(
-                    f"  Netwerkfout bij Claude API (poging {attempt}/{API_RETRY_ATTEMPTS}). "
-                    f"Nieuwe poging in {API_RETRY_DELAY_SECONDS}s...",
+                    f"  Netwerkfout bij Claude API (poging {attempt}/{API_RETRY_ATTEMPTS}): {e}. "
+                    f"Nieuwe poging in {delay}s...",
                     file=sys.stderr,
                 )
-                time.sleep(API_RETRY_DELAY_SECONDS)
+                time.sleep(delay)
     raise last_error
 
 # ---------------------------------------------------------------------------
