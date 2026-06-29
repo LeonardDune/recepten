@@ -1,17 +1,24 @@
 ---
 title: "Eendenborst bereiden (gebakken in de pan)"
-source: "https://www.culy.nl/recepten/signature-jollof-rice-the-jollof-club/"
-date_added: 2026-06-25
+source: ""
+date_added: 2026-06-27
+cuisine: internationaal
+course: hoofdgerecht
+servings: 2
+time_prep: "10 min"
+time_cook: "20 min"
+time_total: "30 min"
+rating:
+tried: false
 tags:
   - recipe
+  - cuisine/internationaal
+  - course/hoofdgerecht
   - eend
   - glutenvrij
   - eivrij
   - eiwitrijk
-  - weinig suiker
   - notenvrij
-  - pan bakken
-  - knapperige huid
 ---
 
 # Eendenborst bereiden (gebakken in de pan)
@@ -29,3 +36,9 @@ tags:
 4. Giet het overtollige vet in een keramische of glazen schaal (bewaar het voor het roosteren van aardappelen).
 5. Op dit punt heb je twee opties om het vlees te garen: draai de borsten om, voeg de [[boter]] toe en beweeg de pan, bak dan nog 5 minuten totdat het vlees rondom bruin is (het vlees moet zacht aanvoelen maar licht terugveren als je erop drukt); of verwarm de oven tot 180°C (160°C hetelucht/gasstand 4) en bak 5 tot 6 minuten voor rosé vlees of 10 tot 12 minuten als je het goed doorbakken wilt. Met een vleesthermometer: 54°C voor rood, 61°C voor medium en 65°C voor medium/goed doorbakken.
 6. Laat de [[eendenborst]] 10 minuten rusten voor het aansnijden.
+
+## Notities
+
+> Bron-URL was foutief gekoppeld door de clipper en verwijderd.
+
+<!-- verwerkt -->

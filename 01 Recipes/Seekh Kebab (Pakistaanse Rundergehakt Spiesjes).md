@@ -1,17 +1,24 @@
 ---
 title: "Seekh Kebab (Pakistaanse Rundergehakt Spiesjes)"
-source: "https://www.culy.nl/recepten/calimocho-tinto-de-verano/"
+source: ""
 date_added: 2026-06-27
+cuisine: pakistaans
+course: hoofdgerecht
+servings: 4
+time_prep: "20 min"
+time_cook: "10 min"
+time_total: "30 min + 3 u rust"
+rating:
+tried: false
 tags:
   - recipe
-  - zuivelvrij
-  - glutenvrij
-  - eiwitrijk
-  - weinig suiker
-  - pakistaans
+  - cuisine/pakistaans
+  - course/hoofdgerecht
+  - gehakt
   - barbecue
   - spiesjes
-  - gehakt
+  - glutenvrij
+  - zuivelvrij
   - pittig
 ---
 
@@ -44,3 +51,11 @@ tags:
 3. Als je bamboespiesjes gebruikt, week ze dan 30 minuten in koud water. Pak voor het samenstellen met natte handen een flinke handvol van het mengsel (ongeveer 80 g) en vorm het stevig rondom de spies in een worstje van 12-15 cm lang. Druk stevig en gelijkmatig aan, zorg dat er geen gaten zijn, en leg opzij op een bord. Herhaal totdat je al het mengsel hebt gebruikt.
 4. Verhit een grote grillpan op hoog vuur (of gaar de spiesjes boven hete kolen op een barbecue). Bestrijk de kebabs met een beetje [[olie]] en bak ze 4-5 minuten per kant (mogelijk in meerdere porties), bestrijk ze met wat extra [[olie]] nadat je ze hebt omgedraaid. De buitenkant moet licht geblakerd zijn en de binnenkant net gaar. Druk niet op de kebabs en laat ze op natuurlijke wijze kleuren.
 5. Leg de kebabs op een serveerschaal en strooi de [[chaat masala]] erover. Schuif het vlees van de spiesjes en voeg de [[chutney]], rauwe uienringen en partjes [[citroen]] toe om over te knijpen, en een snufje [[chilipoeier]]. Serveer met [[yoghurt]] en [[flatbread]]s aan de zijkant, als je wilt.
+
+## Notities
+
+Variant van "Seekh Kebab (Pakistaanse Runderspiesjes)"; behouden als variant, niet verwijderd.
+
+> Bron-URL was foutief gekoppeld door de clipper en verwijderd.
+
+<!-- verwerkt -->

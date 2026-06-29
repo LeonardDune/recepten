@@ -1,18 +1,22 @@
 ---
 title: "Hunan Sesamscharrel met Groene Pepers"
-source: "https://smittenkitchen.com/2026/06/strawberry-chiffon-shortcake-perfected/"
+source: ""
 date_added: 2026-06-27
+cuisine: chinees
+course: hoofdgerecht
+servings: 2
+time_prep: "10 min"
+time_cook: "25 min"
+time_total: "35 min"
+rating:
+tried: false
 tags:
   - recipe
-  - hunan
+  - cuisine/chinees
+  - course/hoofdgerecht
   - kip
-  - chilipeper
-  - sesamolie
-  - chinees
-  - gestoofde kip
-  - zomers
-  - eenvoudig
   - pittig
+  - chinees
 ---
 
 # Hunan Sesamscharrel met Groene Pepers
@@ -34,3 +38,11 @@ tags:
 3. Voeg kokend heet water toe zodat de [[kip]] onderstaat, en leg de twee hele [[chilipeper]]s erbij. Doe het deksel op de wok en kook 20 minuten, afhankelijk van de leeftijd van de [[kip]], totdat de [[kip]] gaar is. Verwijder daarna de hele pepers en gooi ze weg.
 4. Neem een andere wok, voeg de fijngehakte [[chilipeper]]s, knoflook en een klein snufje [[zout]] toe. Bak ongeveer een halve minuut. Je kunt de fijngehakte stukjes ook direct aan de sudderpot toevoegen.
 5. Voeg de gebakken [[chilipeper]]s toe aan de soep. Zet het vuur hoger en laat de saus iets indikken.
+
+## Notities
+
+Variant van "Hunan Sesamkip met Groene Pepers" ("sesamscharrel" = scharrelkip-vertaling van *sesame chicken*); inhoudelijk vrijwel identiek recept, behouden als variant.
+
+> Bron-URL was foutief gekoppeld door de clipper en verwijderd.
+
+<!-- verwerkt -->
