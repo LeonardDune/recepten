@@ -12,6 +12,8 @@ rating:
 tried: false
 tags:
   - recipe
+  - cuisine/brits
+  - course/dessert
   - dessert
   - crumble
   - appel

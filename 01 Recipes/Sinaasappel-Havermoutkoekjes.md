@@ -12,6 +12,8 @@ rating:
 tried: false
 tags:
   - recipe
+  - cuisine/internationaal
+  - course/koekjes
   - koekjes
   - bakken
   - havermout

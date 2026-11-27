@@ -12,6 +12,8 @@ rating:
 tried: false
 tags:
   - recipe
+  - cuisine/nederlands
+  - course/hoofdgerecht
   - nederlands
   - hoofdgerecht
   - kool
