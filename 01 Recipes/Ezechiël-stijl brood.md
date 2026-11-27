@@ -28,7 +28,7 @@ tags:
 
 # Ezechiël-stijl brood
 
-> Probeer dit traditionele brood met deeg dat ontkiemde granen bevat. Door de granen eerst te laten ontkiemen, ontsluit je hun natuurlijke zoetheid en voedingsprofiel. Het brood is zuivelvrij, eivrij, laag in suiker en vegetarisch.
+> Probeer dit **traditionele brood** met deeg dat ontkiemde granen bevat. Door de granen eerst te laten ontkiemen, ontsluit je hun natuurlijke zoetheid en voedingsprofiel. Het brood is zuivelvrij, eivrij, laag in suiker en vegetarisch.
 
 ## Ingrediënten
 - 100 g droog [[ontkiemmengsel]] of 220 g vooraf ontkiemde granen

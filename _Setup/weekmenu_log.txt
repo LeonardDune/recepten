@@ -400,3 +400,1070 @@ Traceback (most recent call last):
   File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1036, in _request
     raise APIConnectionError(request=request) from err
 anthropic.APIConnectionError: Connection error.
+
+=== Weekmenu Generator - 2026-W28 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  68 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CceeBn3bntEjsfDhSbcdv'}
+
+=== Weekmenu Generator - 2026-W29 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  68 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CcssCcLnddcuANevju2vq'}
+
+=== Weekmenu Generator - 2026-W30 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cd7S1ezNWiCfprRrCfKFE'}
+
+=== Weekmenu Generator - 2026-W31 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdLwpQwkyL5nQTEbEu8Qo'}
+
+=== Weekmenu Generator - 2026-W33 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CdoRxdinbuGBQadTyB5JM'}
+
+=== Weekmenu Generator - 2026-W34 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ce37FvqVjrzeikbDeCpxP'}
+
+=== Weekmenu Generator - 2026-W35 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeFQ1V17kPN8wQVAUNWs6'}
+
+=== Weekmenu Generator - 2026-W38 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeyxQVRSsSBsb1gz7kKRg'}
+
+=== Weekmenu Generator - 2026-W39 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfAjsKZtmf4pgPQeBLCCV'}
+
+=== Weekmenu Generator - 2026-W40 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfQc6FsdVcR1N7urDuZ7o'}
+
+=== Weekmenu Generator - 2026-W41 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CfdoykogFFftA3orQuT1N'}
+  Netwerkfout bij Claude API (poging 1/10): Connection error.. Nieuwe poging in 30s...
+  Netwerkfout bij Claude API (poging 2/10): Connection error.. Nieuwe poging in 60s...
+
+=== Weekmenu Generator - 2026-W42 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1026, in _request
+    return self._retry_request(
+           ~~~~~~~~~~~~~~~~~~~^
+        input_options,
+        ^^^^^^^^^^^^^^
+    ...<4 lines>...
+        response_headers=None,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1104, in _retry_request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        options=options,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stream_cls=stream_cls,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cfs846X6HHYPWtC6pahEk'}
+
+=== Weekmenu Generator - 2026-W43 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg6LmmbSAJ42rxipBvzvP'}
+
+=== Weekmenu Generator - 2026-W44 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgKbP1WkHj4osgtrpaDTb'}
+
+=== Weekmenu Generator - 2026-W45 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgYA4C8ZgEf695HVJ1ho6'}
+
+=== Weekmenu Generator - 2026-W46 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgmWg48VFU7HTVQUMMcjA'}
+
+=== Weekmenu Generator - 2026-W47 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cgzo9LzfonGujTsWv9mws'}
+
+=== Weekmenu Generator - 2026-W48 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011ChEEMgaS27869hMpauGMs'}
+
+=== Weekmenu Generator - 2026-W49 ===
+
+Recepten laden...
+  779 recepten gevonden
+Weekplanhistorie lezen (laatste 8 weken)...
+  72 recepten recent gebruikt -> worden overgeslagen
+Weekschema samenstellen via Claude...
+Traceback (most recent call last):
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 747, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 696, in main
+    week_plan = select_recipes(
+        recipes=recipes,
+    ...<4 lines>...
+        week_specific_prefs=week_specific_prefs,
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 446, in select_recipes
+    response = call_claude_with_retry(
+        client,
+    ...<2 lines>...
+        messages=[{"role": "user", "content": prompt}]
+    )
+  File "C:\Users\Renzo\Documents\Renzo\recepten\_Setup\weekmenu_generator.py", line 54, in call_claude_with_retry
+    return client.messages.create(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\resources\messages\messages.py", line 904, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<22 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1289, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 966, in request
+    return self._request(
+           ~~~~~~~~~~~~~^
+        cast_to=cast_to,
+        ^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        retries_taken=retries_taken,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Renzo\AppData\Roaming\Python\Python313\site-packages\anthropic\_base_client.py", line 1070, in _request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011ChTC7vQKEgXZMmofuoH7X'}

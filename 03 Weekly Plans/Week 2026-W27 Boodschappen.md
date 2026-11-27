@@ -12,29 +12,31 @@ date_created: 2026-06-27
 
 **Groenten & Fruit**
 
-- [ ] [[bananen]] (400 g)
-- [ ] [[cherrytomaatjes]] (±20 stuks)
-- [ ] groene bonen (100 g)
-- [ ] [[knoflook]] (1 bol)
-- [ ] [[lente-uitjes]] (2 stuks)
-- [ ] [[limoen]] (1 stuk)
+- [x] [[bananen]] (400 g)
+- [x] [[cherrytomaatjes]] (±20 stuks)
+- [x] groene bonen (100 g)
+- [x] [[knoflook]] (1 bol)
+- [x] [[lente-uitjes]] (2 stuks)
+- [x] [[limoen]] (1 stuk)
 - [ ] [[lombok]]s (12 stuks)
-- [ ] [[peterselie]] (1 bosje)
-- [ ] [[rucola]] (2 bossen)
-- [ ] [[sla]] (1 krop)
-- [ ] [[spinazie]] (200 g)
-- [ ] taugé (100 g)
-- [ ] [[uien]] (±6 stuks)
-- [ ] witte kool (100 g)
-- [ ] andijvie (100 g)
+- [x] [[peterselie]] (1 bosje)
+- [x] [[rucola]] (2 bossen)
+- [x] [[sla]] (1 krop)
+- [x] [[spinazie]] (200 g)
+- [x] taugé (100 g)
+- [x] [[uien]] (±6 stuks)
+- [x] witte kool (100 g)
+- [x] andijvie (100 g)
+- [x] wortel
+- [x] tomatenblokjes
 
 ---
 
 **Vlees & Vis**
 
 - [ ] [[kabeljauw]]filets (500 g)
-- [ ] [[kip]] (1 stuk, ±1800 g)
-- [ ] [[rundergehakt]] (500 g)
+- [x] [[kip]] (1 stuk, ±1800 g)
+- [x] [[rundergehakt]] (500 g)
 - [ ] [[garnalen]] (100 g, gekookt)
 
 ---
@@ -42,63 +44,68 @@ date_created: 2026-06-27
 **Zuivel & Eieren**
 
 - [ ] [[eieren]] (4 stuks)
-- [ ] [[melk]] (¼ liter)
-- [ ] [[parmezaanse kaas]] (125 ml geraspt + extra naar wens)
+- [x] [[melk]] (¼ liter)
+- [x] [[parmezaanse kaas]] (125 ml geraspt + extra naar wens)
 
 ---
 
 **Droog & Conserven**
 
-- [ ] [[aluminiumfolie]]
-- [ ] [[asem]] (kleine hoeveelheid)
-- [ ] [[bloem]] (250 g)
-- [ ] [[farfalle]] (450 g)
-- [ ] [[gula jawa]] (100 g)
-- [ ] [[hoisinsaus]] (1 flesje)
-- [ ] [[ketan rijst]] (100-125 g)
-- [ ] [[ketjap manis]] (1 fles)
-- [ ] [[kokosmelk]] (400 ml)
-- [ ] [[kokosrasp]] (±200 g)
-- [ ] koffir limoenblad (2 stuks)
-- [ ] [[mirin]] (1 flesje)
-- [ ] [[olijfolie]] (60 ml)
-- [ ] [[pandanblad]] (1 stuk)
-- [ ] [[pijnboompitten]] (60 ml)
-- [ ] [[santen]] (1 blok)
-- [ ] [[sesamolie]] (1 flesje)
-- [ ] [[soba noedels]] (½ pak)
-- [ ] [[sojasaus]] (1 fles)
-- [ ] [[suiker]] (80 g)
-- [ ] [[tamarinde]] (kleine hoeveelheid)
-- [ ] [[tomatenpuree]] (1 klein blikje)
-- [ ] [[vissaus]] (1 flesje)
-- [ ] [[zonnebloemolie]] (1 fles)
+- [x] [[aluminiumfolie]]
+- [x] [[asem]] (kleine hoeveelheid)
+- [x] [[bloem]] (250 g)
+- [x] [[farfalle]] (450 g)
+- [x] [[gula jawa]] (100 g)
+- [x] [[hoisinsaus]] (1 flesje)
+- [x] [[ketan rijst]] (100-125 g)
+- [x] [[ketjap manis]] (1 fles)
+- [x] [[kokosmelk]] (400 ml)
+- [x] [[kokosrasp]] (±200 g)
+- [x] koffir limoenblad (2 stuks)
+- [x] [[mirin]] (1 flesje)
+- [x] [[olijfolie]] (60 ml)
+- [x] [[pandanblad]] (1 stuk)
+- [x] [[pijnboompitten]] (60 ml)
+- [x] [[santen]] (1 blok)
+- [x] [[sesamolie]] (1 flesje)
+- [x] [[soba noedels]] (½ pak)
+- [x] [[sojasaus]] (1 fles)
+- [x] [[suiker]] (80 g)
+- [x] [[tamarinde]] (kleine hoeveelheid)
+- [x] [[tomatenpuree]] (1 klein blikje)
+- [x] [[vissaus]] (1 flesje)
+- [x] [[zonnebloemolie]] (1 fles)
+- [x] koekjes
+- [x] brood
+- [x] witte basterdsuiker
+- [x] vanillestokjes
 
 ---
 
 **Kruiden & Specerijen**
 
-- [ ] [[bakpoeder]] (1 zakje)
-- [ ] [[baking soda]]
-- [ ] [[cardemonextract]]
-- [ ] [[djinten]]
-- [ ] [[ketoembar]]
-- [ ] [[kemiri]]noten (±10 stuks)
-- [ ] [[kencur]]
-- [ ] [[laos]]
-- [ ] [[olie]] (1 fles)
-- [ ] [[rode pepervlokken]]
-- [ ] [[rijstolie]] (100 ml)
-- [ ] [[sambal oelek]]
-- [ ] [[sambal terasi]]
-- [ ] [[sesamzaad]]
-- [ ] [[stemgember]]
-- [ ] [[trassi]]
-- [ ] [[verse gember]] (een stuk)
-- [ ] [[zout]]
+- [x] [[bakpoeder]] (1 zakje)
+- [x] [[baking soda]]
+- [x] [[cardemonextract]]
+- [x] [[djinten]]
+- [x] [[ketoembar]]
+- [x] [[kemiri]]noten (±10 stuks)
+- [x] [[kencur]]
+- [x] [[laos]]
+- [x] [[olie]] (1 fles)
+- [x] [[rode pepervlokken]]
+- [x] [[rijstolie]] (100 ml)
+- [x] [[sambal oelek]]
+- [x] [[sambal terasi]]
+- [x] [[sesamzaad]]
+- [x] [[stemgember]]
+- [x] [[trassi]]
+- [x] [[verse gember]] (een stuk)
+- [x] [[zout]]
 
 ---
 
 **Overig**
 
 - [ ] kippenbouillon (60 ml)
+- [ ] 
